@@ -86,3 +86,19 @@ All of the links on this page are worth reading, but there's obviously a LOT of 
 | Lessons Backbone Developers Can Learn From React | [http://benmccormick.org/2015/09/09/<br>what-can-backbone-developers-learn-from-react/](http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/) | Discusses 3 lessons from React: "UIs are trees of reusable components", "modern JS is cleaner code", and "don't use DOM for state" |
 | State is an Anti-Pattern | [https://www.reddit.com/r/reactjs/comments/<br>3bjdoe/state_is_an_antipattern/](https://www.reddit.com/r/reactjs/comments/3bjdoe/state_is_an_antipattern/) | Some long-winded but useful thoughts on what makes a good component: "intuitive", "same input -> same output", "pure", and "only side effects are Flux actions" |
 | Why Local Component State is a Trap | [https://www.safaribooksonline.com/blog/2015/<br>10/29/react-local-component-state/](https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/) | Thoughts on a "single state tree" vs local component state |
+
+
+
+
+### Flux Tutorials and Concepts
+
+| Title | URL | Description |
+|---|---|---|
+| The Flux Quick Start Guide | [http://www.jackcallister.com/2015/02/26/<br>the-flux-quick-start-guide.html](http://www.jackcallister.com/2015/02/26/the-flux-quick-start-guide.html) | A quick overview of the key concepts of Flux |
+| Getting to Know Flux | [https://scotch.io/tutorials/<br>getting-to-know-flux-the-react-js-architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture) | A good look at what Flux is, what the pieces are, and how they fit together |
+| Flux in Depth - Overview and Components | [http://blog.mgechev.com/2015/05/15/<br>flux-in-depth-overview-components/](http://blog.mgechev.com/2015/05/15/flux-in-depth-overview-components/) | Another in-depth article on Flux concepts and structure |
+| Architecting React Apps with Flux | [http://tylermcginnis.com/<br>reactjs-tutorial-pt-3-architecting-<br>react-js-apps-with-flux/](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/) | Describes how Flux organizes data flow, and how pieces fit together |
+| For Flux' Sake | [https://github.com/MIJOTHY/FOR_FLUX_SAKE](https://github.com/MIJOTHY/FOR_FLUX_SAKE) | A Flux tutorial and description, with a sample project |
+| Thinking in Flux | [http://www.actioniq.co/blog/thinking-in-flux/](http://www.actioniq.co/blog/thinking-in-flux/) | An example of writing a component that works in a Flux data flow |
+| A Cartoon Guide to Flux | [https://code-cartoons.com/a-cartoon-<br>guide-to-flux-6157355ab207#.wqzgzhsbv](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.wqzgzhsbv) | A high-level description of Flux concepts, with cartoons |
+| React/Flux Tutorial Part 2: Flux | [http://spapas.github.io/2015/07/02/<br>comprehensive-react-flux-tutorial-2/](http://spapas.github.io/2015/07/02/comprehensive-react-flux-tutorial-2/) | Reworks the app from part 1 to use Flux |
