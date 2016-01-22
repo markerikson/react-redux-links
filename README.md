@@ -134,3 +134,15 @@ All of the links on this page are worth reading, but there's obviously a LOT of 
 | Why Should I Care About Immutable Data In React? | [http://www.bennadel.com/blog/2903-why-should-<br>i-care-about-immutable-data-in-reactjs.htm](http://www.bennadel.com/blog/2903-why-should-i-care-about-immutable-data-in-reactjs.htm) | Describes the major benefits of using immutable data in React, with a demo |
 | Pros and Cons of Using Immutability With React | [http://reactkungfu.com/2015/08/pros-and-<br>cons-of-using-immutability-with-react-js/](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/) | Excellent description of what immutability is, how to use it with React, and pros and cons of using it |
 | Short-Circuiting Component Updates in React | [http://www.bennadel.com/blog/2904-<br>shouldcomponentupdate-will-short-circuit-an-<br>entire-subtree-of-components-in-reactjs.htm](http://www.bennadel.com/blog/2904-shouldcomponentupdate-will-short-circuit-an-entire-subtree-of-components-in-reactjs.htm) | Walks through how to optimize React performance by skipping updates for subtrees |
+
+
+
+### Tips, Guidelines, and Best Practices
+
+| Title | URL | Description |
+|---|---|---|
+| React Best Practices and Tips | [http://www.toptal.com/react/tips-and-practices](http://www.toptal.com/react/tips-and-practices) | Several excellent guidelines for component structure and behavior |
+| Smart and Dumb Components | [https://medium.com/@dan_abramov/smart-and-<br>dumb-components-7ca2f9a7c7d0#.uow114hby](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.uow114hby) | Describes how to split components into two categories for separation of concerns and reusability |
+| Redux Best Practices | [https://medium.com/lexical-labs-engineering/<br>redux-best-practices-64d59775802e#.ij385pwu6](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.ij385pwu6) | Guidelines for tools, component structure, file layout, and async data handling |
+| "Redux Best Practices?" | [https://www.reddit.com/r/javascript/comments/<br>3p9o0j/redux_best_practices/](https://www.reddit.com/r/javascript/comments/3p9o0j/redux_best_practices/) | Short but good discussion on approaches. |
+| Best Practices for Building Large React Applications | [http://blog.siftscience.com/blog/2015/best-<br>practices-for-building-large-react-applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications) | Excellent advice for structuring components and improving reuse |
