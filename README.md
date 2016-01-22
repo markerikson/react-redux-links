@@ -170,3 +170,15 @@ All of the links on this page are worth reading, but there's obviously a LOT of 
 | Productive Javascript Development | [http://benmccormick.org/2015/11/25/<br>productive-javascript-development/](http://benmccormick.org/2015/11/25/productive-javascript-development/) | Looks at 6 ways different frameworks make things "easy": concepts, reading/writing code, architecting / maintaining / debugging apps.  |
 | "Has anybody actually built a decent sized React app?" | [https://www.reddit.com/r/reactjs/comments/<br>3wi0cx/has_anybody_actually_built_a_<br>decent_sized_react/](https://www.reddit.com/r/reactjs/comments/3wi0cx/has_anybody_actually_built_a_decent_sized_react/) | More good discussion on practical experiences |
 | Using React is a Business Decision, Not a Technology Choice | [https://blog.formidable.com/using-react-is-a-<br>business-decision-not-a-technology-<br>choice-63c4641c5f7#.jsqybujyx](https://blog.formidable.com/using-react-is-a-business-decision-not-a-technology-choice-63c4641c5f7#.jsqybujyx) | A higher-level, more business-case look at the pros of React |
+
+
+
+
+### React and Flux vs Backbone
+
+| Title | URL | Description |
+|---|---|---|
+| Relieving Backbone Pain with Flux & React | [http://product.hubspot.com/blog/<br>moving-backbone-to-flux-react](http://product.hubspot.com/blog/moving-backbone-to-flux-react) | A fantastic video that walks through common problems with using Backbone, and how React can help solve those |
+| Avoiding Event Chains in Single-Page Applications | [http://www.code-experience.com/avoiding-<br>event-chains-in-single-page-applications/](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/) | Describes potential problems with Backbone-style events triggering further events, etc |
+| From Backbone to React: Experience Scaling an App | [http://www.techsonian.net/2014/09/from-<br>backbone-to-react-our-experience-scaling-<br>a-web-application/](http://www.techsonian.net/2014/09/from-backbone-to-react-our-experience-scaling-a-web-application/) | Thoughts on potential complexity issues in a Backbone app |
+| From Backbone to React (comments) | [https://news.ycombinator.com/item?id=8329837](https://news.ycombinator.com/item?id=8329837) | Discussion on the previous article |
