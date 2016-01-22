@@ -35,3 +35,16 @@ All of the links on this page are worth reading, but there's obviously a LOT of 
 | ES6 In Depth | [https://ponyfoo.com/articles/<br>tagged/es6-in-depth](https://ponyfoo.com/articles/tagged/es6-in-depth) | Many articles covering each feature in greater detail |
 | Javascript Features | [http://jsfeatures.in/#ES6](http://jsfeatures.in/#ES6) | More samples of features in ES5, ES6, and ES7 |
 | ES6 - The Bits You'll Actually Use | [http://jamesknelson.com/<br>es6-the-bits-youll-actually-use/](http://jamesknelson.com/es6-the-bits-youll-actually-use/) | A quick tour through some of the more useful features in ES6 |
+
+
+
+### Webpack Tutorials
+
+| Title | URL | Description |
+|---|---|---|
+| The Hitchiker's Guide to Modern JS Tooling | [http://reactkungfu.com/2015/07/the-hitchhikers-<br>guide-to-modern-javascript-tooling/](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/) | A great overview of many of the most common build tools, package managers, test frameworks, and code quality tools currently in use |
+| SurviveJS | [http://survivejs.com/](http://survivejs.com/) | A full book online book that covers setting up Webpack, developing using React and Flux, and using ESLint for code quality |
+| Beginner's Guide to Webpack | [https://medium.com/@dabit3/beginner-s-<br>guide-to-webpack-b1f1a3638460#.g3xg8v2q3](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.g3xg8v2q3) | A walkthrough for getting started with a Webpack dev setup |
+| Webpack - The Module Bundler | [http://alp82.github.io/<br>webpack-experiment-slides/#/](http://alp82.github.io/webpack-experiment-slides/#/) | HTML slideshow that describes Webpack's features and links to demos |
+| Webpack Your Bags | [http://blog.madewithlove.be/post/<br>webpack-your-bags/](http://blog.madewithlove.be/post/webpack-your-bags/) | In-depth article describing what Webpack is, why you would want to use it, and how to set it up |
+| Webpack + React is Awesome | [http://www.christianalfoni.com/articles/2014_12_13_<br>Webpack-and-react-is-awesome](http://www.christianalfoni.com/articles/2014_12_13_Webpack-and-react-is-awesome) | Another tutorial explaining how to use and set up Webpack |
