@@ -1,5 +1,5 @@
 # React/Redux Links
-Curated links I've collected on React, Redux, ES6, and more
+Curated links I've collected on React, Redux, ES6, and more.  Not quite "awesome", but hopefully useful as a starting point I can give to others.
 
 
 ## Best of the Best / Suggested Reading List
@@ -66,3 +66,23 @@ All of the links on this page are worth reading, but there's obviously a LOT of 
 | React/Flux Tutorial Part 1: React | [http://spapas.github.io/2015/06/05/<br>comprehensive-react-flux-tutorial/](http://spapas.github.io/2015/06/05/comprehensive-react-flux-tutorial/) | Demonstrates building up a CRUD app UI using React |
 | Intro to the React Framework | [http://code.tutsplus.com/tutorials/<br>intro-to-the-react-framework--net-35660](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660) | Discusses components, JSX, component lifecycle, state/props, and mixins |
 | React.js Introduction For People Who Know Just Enough jQuery To Get By | [http://reactfordesigners.com/labs/<br>reactjs-introduction-for-people-who-<br>know-just-enough-jquery-to-get-by/](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) | A step-by-step tutorial that builds a simple component with jQuery and with React |
+
+
+
+
+### Thinking in React and Flux
+
+| Title | URL | Description |
+|---|---|---|
+| Thinking in React | [https://facebook.github.io/react/<br>docs/thinking-in-react.html](https://facebook.github.io/react/docs/thinking-in-react.html) | The original guide to breaking a UI into components and setting up data flow |
+| Removing User Interface Complexity, or Why React is Awesome | [http://jlongster.com/Removing-<br>User-Interface-Complexity,-or-<br>Why-React-is-Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome) | A long walkthrough that builds up a pseudo-React-like library, demonstrating what React does and why you would want to use it.  Has lots of embedded demos. |
+| Describing UI State with Data | [http://nicolashery.com/<br>describing-ui-state-with-data/](http://nicolashery.com/describing-ui-state-with-data/) | Demonstrates modeling the state and actions of an application, and updating the UI based on that.  (CSS/images may be blocked on the NGGN, but a useful read anyway) |
+| Common React Mistakes - Unneeded State | [http://reactkungfu.com/2015/09/common-<br>react-dot-js-mistakes-unneeded-state/](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/) | Examples of how to think about and model data and UI state |
+| Understanding the Functional Revolution in Front-End Applications | [http://blog.reactandbethankful.com/posts/2015/09/15/<br>understanding-the-functional-revolution/](http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/) | Higher-level tutorial describing functional programming and how it relates to Javascript, UI, and client-side applications |
+| Functional UI and Components as Higher Order Functions | [https://blog.risingstack.com/functional-ui-<br>and-components-as-higher-order-functions/](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/) | Another tutorial on functional programming and how it relates to React |
+| Components, React, and Flux | [http://slides.com/danabramov/<br>components-react-flux-wip#/](http://slides.com/danabramov/components-react-flux-wip#/) | A fantastic HTML slideshow that discusses how to organize code as reusable components, and the basic concepts and benefits of a Flux unidirectional architecture |
+| Reactive, Component-Based UIs | [http://banderson.github.io/<br>reactive-component-ui-presentation/#/](http://banderson.github.io/reactive-component-ui-presentation/#/) | Another fantastic HTML slideshow describing the three principles of React: "functional over OOP", "stateless over stateful", "clarity over brevity" (use arrow keys to advance slides) |
+| Why You Should Care About Flux | [http://jaysoo.ca/2015/06/02/<br>why-you-should-care-about-flux/](http://jaysoo.ca/2015/06/02/why-you-should-care-about-flux/) | Describes the value in separating "reads" from "writes", and eliminating local state |
+| Lessons Backbone Developers Can Learn From React | [http://benmccormick.org/2015/09/09/<br>what-can-backbone-developers-learn-from-react/](http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/) | Discusses 3 lessons from React: "UIs are trees of reusable components", "modern JS is cleaner code", and "don't use DOM for state" |
+| State is an Anti-Pattern | [https://www.reddit.com/r/reactjs/comments/<br>3bjdoe/state_is_an_antipattern/](https://www.reddit.com/r/reactjs/comments/3bjdoe/state_is_an_antipattern/) | Some long-winded but useful thoughts on what makes a good component: "intuitive", "same input -> same output", "pure", and "only side effects are Flux actions" |
+| Why Local Component State is a Trap | [https://www.safaribooksonline.com/blog/2015/10/29/<br>react-local-component-state/](https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/) | Thoughts on a "single state tree" vs local component state |
