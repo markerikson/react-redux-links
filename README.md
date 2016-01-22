@@ -20,3 +20,18 @@ All of the links on this page are worth reading, but there's obviously a LOT of 
 | Pros and Cons of Using Immutability With React | [http://reactkungfu.com/2015/08/<br>pros-and-cons-of-using-immutability-with-react-js/](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/) | Excellent description of what immutability is, how to use it with React, and pros and cons of using it |
 | React Best Practices and Tips | [http://www.toptal.com/react/tips-and-practices](http://www.toptal.com/react/tips-and-practices) | Several excellent guidelines for component structure and behavior |
 | Redux Best Practices | [https://medium.com/lexical-labs-engineering/<br>redux-best-practices-64d59775802e#.ij385pwu6](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.ij385pwu6) | Guidelines for tools, component structure, file layout, and async data handling |
+
+
+
+
+### Javascript ES6 Features and Examples
+
+| Title | URL | Description |
+|---|---|---|
+| Exploring ES6 | [http://exploringjs.com/es6/index.html](http://exploringjs.com/es6/index.html) | A full online book covering every aspect of ES6 in fine detail |
+| ES6 Features Overview | [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features) | Examples of each of the new major features |
+| ES6 Features Comparison | [http://es6-features.org/](http://es6-features.org/) | Code snippets comparing ES6 features with their ES5 equivalents |
+| ES6 Overview in 350 Bullet Points | [https://ponyfoo.com/articles/es6](https://ponyfoo.com/articles/es6) | Quick samples and descriptions of all the various ES6 capabilities |
+| ES6 In Depth | [https://ponyfoo.com/articles/<br>tagged/es6-in-depth](https://ponyfoo.com/articles/tagged/es6-in-depth) | Many articles covering each feature in greater detail |
+| Javascript Features | [http://jsfeatures.in/#ES6](http://jsfeatures.in/#ES6) | More samples of features in ES5, ES6, and ES7 |
+| ES6 - The Bits You'll Actually Use | [http://jamesknelson.com/<br>es6-the-bits-youll-actually-use/](http://jamesknelson.com/es6-the-bits-youll-actually-use/) | A quick tour through some of the more useful features in ES6 |
