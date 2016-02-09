@@ -12,6 +12,10 @@
   http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript  
   In-depth article covering the value of immutable data, and two common JS libraries
 
+- **List of immutable libraries**
+  https://gist.github.com/jlongster/bce43d9be633da55053f
+  A follow-up to the previous article with pointers to numerous immutable data libraries
+
 - **Why Should I Care About Immutable Data In React?**  
   http://www.bennadel.com/blog/2903-why-should-i-care-about-immutable-data-in-reactjs.htm  
   Describes the major benefits of using immutable data in React, with a demo
