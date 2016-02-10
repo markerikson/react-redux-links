@@ -8,7 +8,7 @@
   The creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos
 
 - **Read the Source ep17 - React Redux with Dan Abramov**  
-  https://youtu.be/VJ38wSFbM3A
+  https://youtu.be/VJ38wSFbM3A  
   Dan walks through the implementation and concepts of React-Redux.  A great follow-up to the Egghead.io tutorial series.
 
 - **Single State Tree + Flux**  
