@@ -24,3 +24,7 @@
 - **Webpack + React is Awesome**  
   http://www.christianalfoni.com/articles/2014_12_13_Webpack-and-react-is-awesome  
   Another tutorial explaining how to use and set up Webpack
+
+- **Beginner Webpack Tutorial**  
+  https://github.com/AriaFallah/WebpackTutorial/tree/master/part1  
+  Very well-written tutorial that steps through the many pieces in a typical Webpack config, how to configure them, and what they're used for.  (Two parts so far, more to come.)
