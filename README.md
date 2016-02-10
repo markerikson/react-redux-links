@@ -14,6 +14,7 @@ Curated links I've collected on React, Redux, ES6, and more.  Not quite "awesome
 - [React/Flux/Redux Pros, Cons, and Discussion](pros-cons-discussion.md)
 - [React and Flux vs Backbone](react-vs-backbone.md)
 - [Using React with ES6](using-react-with-es6.md)
+- [Boilerplates and Starter Kits](boilerplates-and-starter-kits.md)
 
 
 ## Best of the Best / Suggested Reading List
