@@ -27,3 +27,7 @@
 - **React Slingshot**  
   https://github.com/coryhouse/react-slingshot  
   A flexible starter kit designed to illustrate best practices.
+
+- **Universal-JS**  
+  https://github.com/colinmeinke/universal-js
+  A well-written universal starter with docs explaining choices, and plenty of example tests.
