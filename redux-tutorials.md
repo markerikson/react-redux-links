@@ -7,6 +7,10 @@
   https://egghead.io/series/getting-started-with-redux  
   The creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos
 
+- **Read the Source ep17 - React Redux with Dan Abramov**  
+  https://youtu.be/VJ38wSFbM3A
+  Dan walks through the implementation and concepts of React-Redux.  A great follow-up to the Egghead.io tutorial series.
+
 - **Single State Tree + Flux**  
   http://merrickchristensen.com/articles/single-state-tree.html  
   Describes the benefits of a Flux architecture, and a single state tree like Redux has
