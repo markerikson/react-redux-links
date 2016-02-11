@@ -3,6 +3,7 @@ Curated links I've collected on React, Redux, ES6, and more.  Not quite "awesome
 
 
 ## Table of Contents
+- [Node.js and NPM](node-js-and-npm.md)
 - [ES6 Features and Samples](es6-features.md)
 - [React Tutorials](react-tutorials.md)
 - [Webpack Tutorials](webpack-tutorials.md)
