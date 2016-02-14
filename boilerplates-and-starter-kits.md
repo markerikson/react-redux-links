@@ -1,5 +1,9 @@
 ### Boilerplates and Starter Kits
 
+- **React Starter Project Search Tool**  
+  http://andrewhfarmer.com/starter-project/  
+  Search for starter kits with/without specific libraries and sort by GitHub stars, number of dependencies, or recently updated.
+
 - **React-Redux Universal Hot Example**  
   https://github.com/erikras/react-redux-universal-hot-example  
   Has the kitchen sink, and more.  Popular, but maybe too many things stuffed into one repo.
