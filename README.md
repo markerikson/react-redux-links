@@ -1,21 +1,29 @@
 # React/Redux Links
-Curated links I've collected on React, Redux, ES6, and more.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
+Curated links I've collected on React, Redux, ES6, and more, meant to be a collection of high-quality articles and resources for someone who wants to learn about the React-Redux ecosystem.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
 
 
 ## Table of Contents
-- [Node.js and NPM](node-js-and-npm.md)
-- [ES6 Features and Samples](es6-features.md)
+
+#### Basic Tutorials and Project Setup
 - [React Tutorials](react-tutorials.md)
+- [Node.js and NPM](node-js-and-npm.md)
 - [Webpack Tutorials](webpack-tutorials.md)
-- [Thinking in React and Flux](thinking-in-react-and-flux.md)
+- [Boilerplates and Starter Kits](boilerplates-and-starter-kits.md)
+
+#### In-Depth Concepts - ES6, Flux/Redux, and Immutable Data
+- [ES6 Features and Samples](es6-features.md)
+- [Using React with ES6](using-react-with-es6.md)
 - [Flux tutorials](flux-tutorials.md)
 - [Redux tutorials](redux-tutorials.md)
 - [Immutable Data concepts](immutable-data.md)
+
+#### Guidelines, Comparisons, and Discussion
+- [Thinking in React and Flux](thinking-in-react-and-flux.md)
 - [Tips, Guidelines, and Best Practices](tips-and-best-practices.md)
 - [React/Flux/Redux Pros, Cons, and Discussion](pros-cons-discussion.md)
 - [React and Flux vs Backbone](react-vs-backbone.md)
-- [Using React with ES6](using-react-with-es6.md)
-- [Boilerplates and Starter Kits](boilerplates-and-starter-kits.md)
+
+
 
 
 ## Best of the Best / Suggested Reading List
