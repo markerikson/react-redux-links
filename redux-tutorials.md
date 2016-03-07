@@ -42,3 +42,7 @@
 - **Exploring Redux Middlewares**  
   http://blog.krawaller.se/posts/exploring-redux-middleware/  
   Understanding middlewares through a series of small experiments
+
+- **Understanding Redux Middleware**  
+  https://medium.com/@meagle/understanding-87566abcfb7a  
+  Breaks down Redux's applyMiddleware function line-by-line, and explains the concepts involved
