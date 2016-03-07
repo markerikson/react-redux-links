@@ -16,6 +16,7 @@ Curated links I've collected on React, Redux, ES6, and more, meant to be a colle
 - [Flux tutorials](flux-tutorials.md)
 - [Redux tutorials](redux-tutorials.md)
 - [Immutable Data concepts](immutable-data.md)
+- [React/Redux Testing](react-redux-testing.md)
 
 #### Guidelines, Comparisons, and Discussion
 - [Thinking in React and Flux](thinking-in-react-and-flux.md)
