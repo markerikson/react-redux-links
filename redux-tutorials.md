@@ -38,3 +38,7 @@
 - **Full-Stack Redux Tutorial**  
   http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html  
   A full-blown, in-depth tutorial that builds up a complete client-server application.
+
+- **Exploring Redux Middlewares**  
+  http://blog.krawaller.se/posts/exploring-redux-middleware/  
+  Understanding middlewares through a series of small experiments
