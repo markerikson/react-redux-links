@@ -35,3 +35,7 @@
 - **Universal-JS**  
   https://github.com/colinmeinke/universal-js
   A well-written universal starter with docs explaining choices, and plenty of example tests.
+
+- **React + Electron Boilerplate**
+  https://github.com/chentsulin/electron-react-boilerplate
+  Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid application development
