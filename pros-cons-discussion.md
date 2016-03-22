@@ -61,5 +61,5 @@
   A higher-level, more business-case look at the pros of React
 
 - **"Here we see the culmination of the great Frameworks vs Libraries divide"**  
-  https://news.ycombinator.com/item?id=10969819
+  https://news.ycombinator.com/item?id=10969819  
   A great piece of insight: "pick and choose libraries" vs "use a full framework" is a personal choice based on trust and decisiveness
