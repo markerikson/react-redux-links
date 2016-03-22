@@ -44,3 +44,11 @@
 - **React.js Introduction For People Who Know Just Enough jQuery To Get By**  
   http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/  
   A step-by-step tutorial that builds a simple component with jQuery and with React
+
+- **8 no-Flux strategies for React component communication**  
+  http://andrewhfarmer.com/component-communication/  
+  Very helpful list of ways to have React components communicate back and forth
+
+- **How to communicate between React components**  
+  http://ctheu.com/2015/02/12/how-to-communicate-between-react-components/  
+  Another good list of component communication strategies
