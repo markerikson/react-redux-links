@@ -59,3 +59,7 @@
 - **Using React is a Business Decision, Not a Technology Choice**  
   https://blog.formidable.com/using-react-is-a-business-decision-not-a-technology-choice-63c4641c5f7#.jsqybujyx  
   A higher-level, more business-case look at the pros of React
+
+- **"Here we see the culmination of the great Frameworks vs Libraries divide"**  
+  https://news.ycombinator.com/item?id=10969819
+  A great piece of insight: "pick and choose libraries" vs "use a full framework" is a personal choice based on trust and decisiveness
