@@ -33,9 +33,13 @@
   A flexible starter kit designed to illustrate best practices.
 
 - **Universal-JS**  
-  https://github.com/colinmeinke/universal-js
+  https://github.com/colinmeinke/universal-js  
   A well-written universal starter with docs explaining choices, and plenty of example tests.
 
-- **React + Electron Boilerplate**
-  https://github.com/chentsulin/electron-react-boilerplate
+- **React + Electron Boilerplate**  
+  https://github.com/chentsulin/electron-react-boilerplate  
   Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid application development
+
+- **React-Redux-Cesium-Testing Demo**  
+  https://github.com/markerikson/react-redux-cesium-testing-demo  
+  Demonstrates a number of useful bits of project configuration, including offline tests with Mocha+JSDOM, live-reloading tests in the browser using mocha-loader, async loading of React components, use of the Cesium 3D globe library with React and Webpack, and using the Shrinkpack tool to manage dependencies inside the repo.  Not intended for production use, but could serve as a useful example.
