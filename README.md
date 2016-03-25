@@ -6,6 +6,7 @@ Curated links I've collected on React, Redux, ES6, and more, meant to be a colle
 
 #### Basic Tutorials and Project Setup
 - [React Tutorials](react-tutorials.md)
+- [Git Resources and Tutorials](git-resources.md)
 - [Node.js and NPM](node-js-and-npm.md)
 - [Webpack Tutorials](webpack-tutorials.md)
 - [Boilerplates and Starter Kits](boilerplates-and-starter-kits.md)
@@ -13,8 +14,8 @@ Curated links I've collected on React, Redux, ES6, and more, meant to be a colle
 #### In-Depth Concepts - ES6, Flux/Redux, and Immutable Data
 - [ES6 Features and Samples](es6-features.md)
 - [Using React with ES6](using-react-with-es6.md)
-- [Flux tutorials](flux-tutorials.md)
-- [Redux tutorials](redux-tutorials.md)
+- [Flux Tutorials](flux-tutorials.md)
+- [Redux Tutorials](redux-tutorials.md)
 - [Immutable Data concepts](immutable-data.md)
 - [React/Redux Testing](react-redux-testing.md)
 
