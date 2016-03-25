@@ -93,7 +93,7 @@
   A solid Git client, with a good variety of features.  Includes UI for interactive rebase, which makes that task much easier to do.  Note that a recent release (1.8 for Windows, 2.2 for Mac) drastically changed the UI appearance, added required accounts, has had a number of performance issues, and is generally seen as a step backwards.  You may want to download the earlier versions instead ([1.6.25 for Windows](https://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.6.25.exe), [2.1 for Mac](https://downloads.atlassian.com/software/sourcetree/SourceTree_2.1.dmg) ).
   
 - **Git Extensions** (Win)  
-  http://gitextensions.github.io/
+  http://gitextensions.github.io/  
   A Windows client with Windows Explorer and Visual Studio integration
   
 - **Git Tower** (Mac)  
