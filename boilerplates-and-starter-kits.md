@@ -44,6 +44,6 @@
   https://github.com/markerikson/react-redux-cesium-testing-demo  
   Demonstrates a number of useful bits of project configuration, including offline tests with Mocha+JSDOM, live-reloading tests in the browser using mocha-loader, async loading of React components, use of the Cesium 3D globe library with React and Webpack, and using the Shrinkpack tool to manage dependencies inside the repo.  Not intended for production use, but could serve as a useful example.
 
-- **react-boilerplate**
-  https://github.com/mxstbr/react-boilerplate
+- **react-boilerplate**  
+  https://github.com/mxstbr/react-boilerplate  
   A highly scalable, offline-first foundation for your next project with the best DX and a focus on performance and best practices
