@@ -37,6 +37,20 @@
   http://think-like-a-git.net/  
   A tutorial for "advanced beginners" who know the basic commands, but want to better understand Git's concepts
   
+
+#### E-Books
+
+- **Pro Git**  
+  https://git-scm.com/book/en/v2  
+  An in-depth online reference to all aspects of Git
+
+- **Git Succinctly**  
+  https://www.syncfusion.com/resources/techportal/details/ebooks/git  
+  A free PDF that covers Git concepts and usage
+
+- **Git Internals**  
+  https://github.com/pluralsight/git-internals-pdf  
+  A free PDF that digs deep into Git's data structures and behavior
   
 #### Workflows
 
