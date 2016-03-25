@@ -19,3 +19,7 @@
 - **Why and How to Bind Methods in your React Component Classes**  
   http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/  
   Another good look at function binding in JS, and how it works with React
+
+- **React-Autobind**  
+  https://github.com/cassiozen/React-autobind  
+  A useful utility to bind class methods.  A good compromise - makes binding explicit, but removes repetition.
