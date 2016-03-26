@@ -28,3 +28,7 @@
 - **Beginner Webpack Tutorial**  
   https://github.com/AriaFallah/WebpackTutorial/tree/master/part1  
   Very well-written tutorial that steps through the many pieces in a typical Webpack config, how to configure them, and what they're used for.  (Two parts so far, more to come.)
+
+- **Learn Webpack**  
+  https://github.com/danderu/learn-webpack  
+  A repository with examples and exercises to learn webpack for newbies
