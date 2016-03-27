@@ -35,5 +35,5 @@
   A long, in-depth article describing approaches and use of Tape, React TestUtils, and Enzyme
   
 - **TDD and React Components**  
-  https://medium.com/@nackjicholsonn/tdd-and-react-components-5ae5a9a5a7bf
+  https://medium.com/@nackjicholsonn/tdd-and-react-components-5ae5a9a5a7bf  
   Detailed example of using TDD to design and develop a React component, using Teaspoon for testing
