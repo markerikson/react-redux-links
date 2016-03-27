@@ -14,7 +14,7 @@
   Describes project setup and basic approaches, using the common stack of Webpack+Karma+Mocha+Chai+Sinon
   
 - **How to Test React.js Components**  
-  https://nemisj.com/how-to-test-react-js-components/
+  https://nemisj.com/how-to-test-react-js-components/  
   Covers what to test, and how to test things like props and shallow rendering
   
 - **Unit Testing a Redux App**  
