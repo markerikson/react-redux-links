@@ -46,3 +46,7 @@
 - **Understanding Redux Middleware**  
   https://medium.com/@meagle/understanding-87566abcfb7a  
   Breaks down Redux's applyMiddleware function line-by-line, and explains the concepts involved
+
+- **Getting Started with React, Redux and Immutable: a Test-Driven Tutorial**  
+  http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/  
+  Another solid, in-depth tutorial, similar to the "Full-Stack" tutorial.  Builds a client-only TodoMVC app, and demonstrates a good project setup (including a Mocha+JSDOM-based testing configuration).  Well-written, covers many concepts, and very easy to follow.
