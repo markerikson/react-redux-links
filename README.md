@@ -18,6 +18,7 @@ Curated tutorial and resource links I've collected on React, Redux, ES6, and mor
 - [Redux Tutorials](redux-tutorials.md)
 - [Immutable Data concepts](immutable-data.md)
 - [React/Redux Testing](react-redux-testing.md)
+- [React Performance](react-performance.md)
 
 #### Guidelines, Comparisons, and Discussion
 - [Thinking in React and Flux](thinking-in-react-and-flux.md)
