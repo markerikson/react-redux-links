@@ -37,7 +37,7 @@ Curated tutorial and resource links I've collected on React, Redux, ES6, and mor
 All of the links in this collection are worth reading, but there's obviously a LOT of them.  Here's a "best-of" list to get you started:
 
 - **React How-To**  
-  https://github.com/petehunt/react-howto
+  https://github.com/petehunt/react-howto  
   Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
 
 - **ES6 - The Bits You'll Actually Use**  
