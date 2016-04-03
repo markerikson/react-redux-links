@@ -52,3 +52,7 @@
 - **How to communicate between React components**  
   http://ctheu.com/2015/02/12/how-to-communicate-between-react-components/  
   Another good list of component communication strategies
+
+- **React Primer (Draft)**  
+  https://github.com/mikechau/react-primer-draft  
+  A very long and well-written dive into React's concepts.  Note that the "draft" label is accurate - it still says it covers React 0.12 and 0.13, and the non-React sections listed in the Table of Contents are empty.  However, the existing React content is still useful, just be aware that some of the details may be out of date.
