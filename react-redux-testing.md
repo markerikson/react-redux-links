@@ -37,3 +37,8 @@
 - **TDD and React Components**  
   https://medium.com/@nackjicholsonn/tdd-and-react-components-5ae5a9a5a7bf  
   Detailed example of using TDD to design and develop a React component, using Teaspoon for testing
+
+- **Testing Redux Applications**  
+  http://randycoulman.com/blog/2016/03/15/testing-redux-applications/  
+  http://randycoulman.com/blog/categories/getting-testy/  
+  A great writeup on how to specifically deal with testing pieces of a Redux app.  The "Getting Testy" post series also has a lot of really good idea on how to go about writing tests and what kinds of things should be tested.
