@@ -23,3 +23,7 @@
 - **React-Autobind**  
   https://github.com/cassiozen/React-autobind  
   A useful utility to bind class methods.  A good compromise - makes binding explicit, but removes repetition.
+
+- **react-bind-decorator**  
+  https://github.com/zackargyle/react-bind-decorator  
+  Another autobinding approach, intended to be fast and performant.
