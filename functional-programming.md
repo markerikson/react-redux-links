@@ -8,9 +8,9 @@
   http://web24studios.com/2015/10/understanding-programmatic-side-effects/  
   A short article that explains the concept of "side effects"
   
- - **What Is Functional Programming?**  
-   http://blog.jenkster.com/2015/12/what-is-functional-programming.html  
-   Describes how side effects and "hidden inputs" add complexity to code, in very clear terms.
+- **What Is Functional Programming?**  
+  http://blog.jenkster.com/2015/12/what-is-functional-programming.html  
+  Describes how side effects and "hidden inputs" add complexity to code, in very clear terms.
 
 - **Getting Functional with Javascript**  
   http://www.datchley.name/getting-functional-with-javascript-part-1/  
@@ -57,4 +57,8 @@
 - **The "Thinking Functionally" series**  
   http://fsharpforfunandprofit.com/series/thinking-functionally.html  
   A series of lessons teaching functional concepts using F#.  Very well written, clear and easy to understand.  Examples use F#, but concepts are widely applicable.
+
+- **Imperative to Functional Programming Succinctly**
+  https://www.syncfusion.com/resources/techportal/details/ebooks/imperative  
+  A short ebook covering many functional concepts.
   
