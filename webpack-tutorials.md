@@ -9,6 +9,10 @@
   http://survivejs.com/  
   A full book online book that covers setting up Webpack, developing using React and Flux, and using ESLint for code quality
 
+- **SurviveJS - Webpack**  
+  http://survivejs.com/webpack/  
+  A follow-up book focused on Webpack usage.  Still a work in progress, but good.
+
 - **Beginner's Guide to Webpack**  
   https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460  
   A walkthrough for getting started with a Webpack dev setup
