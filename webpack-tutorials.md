@@ -32,3 +32,11 @@
 - **Learn Webpack**  
   https://github.com/danderu/learn-webpack  
   A repository with examples and exercises to learn webpack for newbies
+
+- **Webpack: The Confusing Parts**  
+  https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9  
+  A great simplification and breakdown of the different pieces that make up a Webpack configuration: dev vs prod, CLI vs dev-server, the "entry" option, the "output" option / "path" vs "publicPath", loaders and configuration, Babel, plugins, and path resolving.
+
+- **Unpacking Webpack**  
+  http://blog.tighten.co/unpacking-webpack  
+  A useful overview of what Webpack can do and why you would want to use it.
