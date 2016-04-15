@@ -64,5 +64,5 @@
   
 - **Functional Programming in Javascript**  
   https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84  
-  A web series by a querky programmer showing you high level functional concepts in Javascript
+  A web series by a quirky programmer showing you high level functional concepts in Javascript
   
