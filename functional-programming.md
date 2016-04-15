@@ -58,7 +58,7 @@
   http://fsharpforfunandprofit.com/series/thinking-functionally.html  
   A series of lessons teaching functional concepts using F#.  Very well written, clear and easy to understand.  Examples use F#, but concepts are widely applicable.
 
-- **Imperative to Functional Programming Succinctly**
+- **Imperative to Functional Programming Succinctly**  
   https://www.syncfusion.com/resources/techportal/details/ebooks/imperative  
   A short ebook covering many functional concepts.
   
