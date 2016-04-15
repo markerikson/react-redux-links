@@ -3,7 +3,7 @@
  - **The Little Idea of Functional Programming**  
    http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/  
    Describes the three basic principles of FP: "data in/data out", "code as data", and "function composition" all the way down, and demonstrates transforming some data.  Has some _very_ helpful graphics and illustrations.
- 
+  
 - **Understanding Programmatic Side Effects**  
   http://web24studios.com/2015/10/understanding-programmatic-side-effects/  
   A short article that explains the concept of "side effects"
@@ -58,7 +58,7 @@
   http://fsharpforfunandprofit.com/series/thinking-functionally.html  
   A series of lessons teaching functional concepts using F#.  Very well written, clear and easy to understand.  Examples use F#, but concepts are widely applicable.
 
-- **Imperative to Functional Programming Succinctly**  
+- **Imperative to Functional Programming Succinctly**
   https://www.syncfusion.com/resources/techportal/details/ebooks/imperative  
   A short ebook covering many functional concepts.
   
