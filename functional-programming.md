@@ -3,7 +3,7 @@
  - **The Little Idea of Functional Programming**  
    http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/  
    Describes the three basic principles of FP: "data in/data out", "code as data", and "function composition" all the way down, and demonstrates transforming some data.  Has some _very_ helpful graphics and illustrations.
-  
+   
 - **Understanding Programmatic Side Effects**  
   http://web24studios.com/2015/10/understanding-programmatic-side-effects/  
   A short article that explains the concept of "side effects"
