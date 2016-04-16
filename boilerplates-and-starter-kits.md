@@ -47,3 +47,7 @@
 - **react-boilerplate**  
   https://github.com/mxstbr/react-boilerplate  
   A highly scalable, offline-first foundation for your next project with the best DX and a focus on performance and best practices
+
+- **Koa 2 server with Passport + Mongoose + GraphQL**  
+  https://github.com/sibeliusseraphini/koa-passport-mongoose-graphql
+  An awesome boilerplate using bleeding edge technologies.
