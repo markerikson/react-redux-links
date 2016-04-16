@@ -1,6 +1,8 @@
 # React/Redux Links
 Curated tutorial and resource links I've collected on React, Redux, ES6, and more, meant to be a collection of high-quality articles and resources for someone who wants to learn about the React-Redux ecosystem.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
 
+You might also want to check out my categorized list of Redux-related addons, libraries, and utilities, at [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links).
+
 
 ## Table of Contents
 
