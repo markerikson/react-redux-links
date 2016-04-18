@@ -47,3 +47,8 @@
 - **react-boilerplate**  
   https://github.com/mxstbr/react-boilerplate  
   A highly scalable, offline-first foundation for your next project with the best DX and a focus on performance and best practices
+
+- **roc**  
+  https://github.com/rocjs/roc  
+  Quickly create products powered by libraries like Koa, React and Redux ready for deployment in production with minimal additional setup. Tools like Webpack and Babel power the build process.  
+  Roc uses templates to initialize new projects. Templates are very thin skeletons that depend on Roc extensions that manage the typical boilerplate. Meaning only your own code will leave a significant footprint in your project. This allows you to maintain a very clean separation of concerns as your projects evolve.
