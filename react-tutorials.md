@@ -56,3 +56,7 @@
 - **React Primer (Draft)**  
   https://github.com/mikechau/react-primer-draft  
   A very long and well-written dive into React's concepts.  Note that the "draft" label is accurate - it still says it covers React 0.12 and 0.13, and the non-React sections listed in the Table of Contents are empty.  However, the existing React content is still useful, just be aware that some of the details may be out of date.
+
+- **Hacking with React**
+  http://www.hackingwithreact.com/
+  A hands-on introduction to making a web app using React 0.14, React Router 1.0, ES6, Jest and more.
