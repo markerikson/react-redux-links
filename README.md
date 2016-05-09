@@ -25,6 +25,8 @@ You might also want to check out my categorized list of Redux-related addons, li
 - [Immutable Data](immutable-data.md)
 - [React/Redux Testing](react-redux-testing.md)
 - [React Performance](react-performance.md)
+- [Webpack Advanced Techniques](webpack-advanced-techniques.md)
+
 
 #### Guidelines, Comparisons, and Discussion
 - [Thinking in React and Flux](thinking-in-react-and-flux.md)
