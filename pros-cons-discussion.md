@@ -63,3 +63,8 @@
 - **"Here we see the culmination of the great Frameworks vs Libraries divide"**  
   https://news.ycombinator.com/item?id=10969819  
   A great piece of insight: "pick and choose libraries" vs "use a full framework" is a personal choice based on trust and decisiveness
+  
+- **"What are the real benefits of using Flux/Redux?"**  
+  https://www.reddit.com/r/javascript/comments/3w8uey/what_are_the_real_benefits_of_using_fluxredux/  
+  Discussion of some of the actual practical advantages of using Redux, with some thoughts on
+similar structures in ClojureScript.

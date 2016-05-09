@@ -40,3 +40,7 @@
 - **Unpacking Webpack**  
   http://blog.tighten.co/unpacking-webpack  
   A useful overview of what Webpack can do and why you would want to use it.
+
+- **Utilizing Webpack and Babel to build a React.js App**  
+  http://tylermcginnis.com/react-js-tutorial-1-5-utilizing-webpack-and-babel-to-build-a-react-js-app/  
+  A lesson from a larger course on React.  Covers basic Webpack concepts and setup.

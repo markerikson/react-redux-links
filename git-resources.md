@@ -85,6 +85,9 @@
   http://ndpsoftware.com/git-cheatsheet.html  
   A clickable page that shows how various commands move data between different parts of Git's storage (working copy, index, local repo, remote repo)
   
+- **Git Useful Tips**  
+  http://ericdouglas.github.io/2016/04/01/Git-Useful-Tips/  
+  A useful reference to commands and concepts.
   
 #### Desktop GUI Clients
 

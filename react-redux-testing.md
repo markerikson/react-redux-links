@@ -42,3 +42,20 @@
   http://randycoulman.com/blog/2016/03/15/testing-redux-applications/  
   http://randycoulman.com/blog/categories/getting-testy/  
   A great writeup on how to specifically deal with testing pieces of a Redux app.  The "Getting Testy" post series also has a lot of really good idea on how to go about writing tests and what kinds of things should be tested.
+  
+- **Testing with Mocha and Webpack**  
+  http://randycoulman.com/blog/2016/03/22/testing-with-mocha-and-webpack/  
+  http://randycoulman.com/blog/2016/04/05/more-on-testing-with-mocha-and-webpack/  
+  Some excellent information on setting up a good test environment, including use of the mocha-webpack tool.
+  
+- **Testing React Components with Teaspoon and Unexpected**  
+  http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/  
+  A short but useful look at a couple testing libraries and ways to use them.
+
+- **Redux Flow Tutorial**  
+  http://dchambers.github.io/articles/redux-flow-tutorial/  
+  Covers how to set up Flow for type-checking a Redux application
+  
+- **Unit Testing React Components and Redux Reducers**  
+  http://pebblecode.com/blog/react-redux-unit-testing/  
+  Some basic examples for testing reducers and components.

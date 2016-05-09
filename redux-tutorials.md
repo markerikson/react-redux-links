@@ -30,6 +30,14 @@
 - **Leveling Up with React: Redux**  
   https://css-tricks.com/learning-react-redux/  
   A very well-written introduction to Redux and its related concepts, with some nifty cartoon-ish diagrams.
+  
+- **Functionally Managing State with Redux**  
+  http://wecodetheweb.com/2015/09/29/functionally-managing-state-with-redux/  
+  A quick overview of Redux's core concepts, and how to use it with React
+  
+- **Redux: From Twitter Hype to Production**  
+  http://slides.com/jenyaterpil/redux-from-twitter-hype-to-production#/  
+  An extremely well-produced slideshow that visually steps through core Redux concepts, usage with React, project organization, and side effects with thunks and sagas.  Has some absolutely _fantastic_ animated diagrams demonstrating how data flows through a React+Redux architecture.
 
 
 
@@ -61,6 +69,10 @@
 - **Read the Source ep17 - React Redux with Dan Abramov**  
   https://youtu.be/VJ38wSFbM3A  
   Dan walks through the implementation and concepts of React-Redux.  A great follow-up to the Egghead.io tutorial series.
+  
+- **Let's Write Redux!**  
+  http://www.jamasoftware.com/blog/lets-write-redux/  
+  Walks through writing a miniature version of Redux step-by-step, to help explain the concepts and implementation.
 
 - **Exploring Redux Middlewares**  
   http://blog.krawaller.se/posts/exploring-redux-middleware/  

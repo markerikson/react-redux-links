@@ -34,6 +34,10 @@
 - **React.js Introduction For People Who Know Just Enough jQuery To Get By**  
   http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/  
   A step-by-step tutorial that builds a simple component with jQuery and with React
+  
+- **Build with React**  
+  http://buildwithreact.com/#articles  
+  A series of short articles introducing React concepts
 
 
 
@@ -52,15 +56,21 @@
   http://spapas.github.io/2015/06/05/comprehensive-react-flux-tutorial/  
   Demonstrates building up a CRUD app UI using React
   
+- **Learn React**  
+  https://www.kirupa.com/react/index.htm  
+  A series of articles that cover a variety of topics, including project setup, components, styling, JSX, state, and more.
+  
 - **React Primer (Draft)**  
   https://github.com/mikechau/react-primer-draft  
   A very long and well-written dive into React's concepts.  Note that the "draft" label is accurate - it still says it covers React 0.12 and 0.13, and the non-React sections listed in the Table of Contents are empty.  However, the existing React content is still useful, just be aware that some of the details may be out of date.
-  
   
 - **React.js Program - React.js Fundamentals**  
   http://courses.reactjsprogram.com/courses/reactjsfundamentals  
   A 12-part text+video course that includes quizzes and a hands-on curriculum.  The Fundamentals course is free, and the site also includes paid courses for other React and Redux-related topics.
   
+- **Step by Step Guide to React and Redux**  
+  http://satyam.github.io/book-react-redux/  
+  A complete guide to building an app with React and Redux, from tool selection to project configuration to server and client code.  (NOTE: Currently in-progress as of May 2016 - only covers project configuration and server-side setup so far, but the content looks promising.)
   
   
 #### Paid Courses and Books
