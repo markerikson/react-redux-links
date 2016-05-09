@@ -1,10 +1,6 @@
 
 ### Webpack Tutorials
 
-- **The Hitchiker's Guide to Modern JS Tooling**  
-  http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/  
-  A great overview of many of the most common build tools, package managers, test frameworks, and code quality tools currently in use
-
 - **SurviveJS**  
   http://survivejs.com/  
   A full book online book that covers setting up Webpack, developing using React and Flux, and using ESLint for code quality

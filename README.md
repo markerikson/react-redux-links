@@ -6,7 +6,8 @@ You might also want to check out my categorized list of Redux-related addons, li
 
 ## Table of Contents
 
-#### Project Setup
+#### Getting Started
+- [Basic Concepts and Overviews](basic-concepts.md)
 - [Git Resources and Tutorials](git-resources.md)
 - [Node.js and NPM](node-js-and-npm.md)
 - [Webpack Tutorials](webpack-tutorials.md)

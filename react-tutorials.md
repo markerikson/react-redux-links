@@ -1,10 +1,6 @@
 
 ### React Tutorials
 
-- **React How-To**  
-  https://github.com/petehunt/react-howto  
-  Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
-
 - **React to the Future**  
   http://elijahmanor.com/talks/react-to-the-future/dist/#/  
   A fantastic HTML slideshow describing what React is, what makes it special, and how to work with it
