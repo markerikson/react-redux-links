@@ -28,9 +28,13 @@ You might also want to check out my categorized list of Redux-related addons, li
 
 #### Advanced Topics
 
-- [Redux Side Effects](redux-side-effects.md)
 - [React Performance](react-performance.md)
+- [React/Redux Architecture](react-redux-architecture.md)
+- [React Styling](react-styling.md)
+- [Redux Side Effects](redux-side-effects.md)
+- [Redux Tips and Techniques](redux-techniques.md)
 - [Webpack Advanced Techniques](webpack-advanced-techniques.md)
+
 
 
 #### Guidelines, Comparisons, and Discussion
