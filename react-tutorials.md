@@ -38,7 +38,10 @@
 - **Build with React**  
   http://buildwithreact.com/#articles  
   A series of short articles introducing React concepts
-
+  
+- **Survive.js Training**  
+  https://survivejs.github.io/training/#/0
+  An interactive presentation that goes through quick intros to Babel and Webpack before covering React basics, type checking, state management with Redux and MobX, async data, routing, performance, testing, and structuring applications.  
 
 
 
@@ -72,6 +75,39 @@
   http://satyam.github.io/book-react-redux/  
   A complete guide to building an app with React and Redux, from tool selection to project configuration to server and client code.  (NOTE: Currently in-progress as of May 2016 - only covers project configuration and server-side setup so far, but the content looks promising.)
   
+- **React Speed Coding**  
+  https://leanpub.com/reactspeedcoding  
+  https://github.com/manavsehgal/reactspeedcoding  
+  A complete book that covers the entire application stack, from project setup to component design to connecting to a backend.  Free to read online, other formats purchasable.  Repo includes demos, samples, code from the book, and the manuscript.
+  
+- **A Complete Intro to React**  
+  http://btholt.github.io/complete-intro-to-react/  
+  An online workshop intended to get you up to speed on modern development and give you an idea what it's like to develop an app in the React ecosystem.
+  
+  
+
+#### React Implementation Walkthroughs
+  
+- **React Components, Elements, and Instances**  
+  https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca
+  Clarifies the differences between these related terms.
+  
+- **React Elements vs React Components vs Component Backing Instances**  
+  https://medium.com/@fay_jai/react-elements-vs-react-components-vs-component-backing-instances-14d42729f62  
+  Another solid comparison of what these terms mean, how React uses them, and how they differ.
+  
+- **Dive Into React Codebase: Transactions**  
+  http://reactkungfu.com/2015/12/dive-into-react-codebase-transactions/  
+  A deep dive into the implementation of React's internal "transactions" concept
+  
+- **Dive Into React Codebase: Handling state changes**  
+  http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/  
+  A deep dive into how React implements component state and `setState()`
+  
+- **Reverse Engineering React**  
+  https://vimeo.com/album/3930691  
+  A video series covering the implementation of an alternative/miniature version of React called "Reaction".  Note that it doesn't look at React itself, but does cover all the equivalent concepts in a simpler implementation.
+  
   
 #### Paid Courses and Books
 
@@ -83,3 +119,10 @@
 - **React for Beginners**  
   https://reactforbeginners.com/  
   A complete course that teaches how to build full real-world applications.  Includes videos and source code. 
+  
+- **Pro React**  
+  http://www.pro-react.com/  
+  The book teaches you how to successfully structure increasingly complex front-end applications and interfaces.  You will learn how to use React completely, and learn best practices for creating interfaces in a composable way. You will also cover additional tools and libraries in the React ecosystem (such as React Router and Flux architecture). 
+  
+  
+  
