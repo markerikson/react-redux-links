@@ -81,7 +81,17 @@
 - **Understanding Redux Middleware**  
   https://medium.com/@meagle/understanding-87566abcfb7a  
   Breaks down Redux's applyMiddleware function line-by-line, and explains the concepts involved
+  
+- **Building Redux Middleware**  
+  https://reactjsnews.com/redux-middleware  
+  Demonstrates building a basic Redux middleware
 
 
+
+#### Paid Courses and Books
+
+- **The Complete Redux Book**  
+  https://leanpub.com/redux-book  
+  How do I manage a large state in production? Why do I need store enhancers? What is the best way to handle form validations?  Get the answers to all these questions and many more using simple terms and sample code. Learn everything you need to use Redux to build complex and production-ready web applications.  (NOTE: Work in progress as of May 2016, but looks very promising.)
 
 

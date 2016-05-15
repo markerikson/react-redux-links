@@ -27,3 +27,15 @@
 - **React-Redux Style Guide**  
   https://github.com/ghengeveld/react-redux-styleguide  
   An opinionated style guide for developing applications in ES6+ with React and/or Redux.
+
+- **Nine things every React beginner should know**  
+  https://camjackson.net/post/9-things-every-reactjs-beginner-should-know  
+  A solid list of concepts and suggestions for writing a React-based app.
+  
+- **React.js Best Practices for 2016**  
+  https://blog.risingstack.com/react-js-best-practices-for-2016/  
+  Some high-level suggestions for tools and approaches.
+  
+- **How to avoid refactoring in your first React.js application**  
+  http://andrejgajdos.com/how-to-avoid-refactoring-in-your-first-react-application/  
+  Covers several useful topics such as props vs state and use of shouldComponentUpdate, and links to several other articles on anti-patterns and component lifecycles.
