@@ -89,7 +89,7 @@
 #### React Implementation Walkthroughs
   
 - **React Components, Elements, and Instances**  
-  https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca
+  https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca  
   Clarifies the differences between these related terms.
   
 - **React Elements vs React Components vs Component Backing Instances**  
