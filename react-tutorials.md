@@ -40,7 +40,7 @@
   A series of short articles introducing React concepts
   
 - **Survive.js Training**  
-  https://survivejs.github.io/training/#/0
+  https://survivejs.github.io/training/#/0  
   An interactive presentation that goes through quick intros to Babel and Webpack before covering React basics, type checking, state management with Redux and MobX, async data, routing, performance, testing, and structuring applications.  
 
 
