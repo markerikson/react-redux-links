@@ -1,4 +1,4 @@
-### Redux Techniques and Structure
+### Redux Techniques
 
 
 - **Two Weird Tricks with Redux**  
@@ -14,3 +14,10 @@
   https://blog.boldlisting.com/connecting-redux-to-your-api-eac51ad9ff89
   Describes imperative and declarative approaches to managing request data and metadata
   
+- **Debugging is in Flux**  
+  https://vimeo.com/166342150  
+  A fantastic talk that demonstrates use cases and examples for time-travel debugging in a Flux-style architecture, including crash reporting.  The demo is built in Alt, but obviously completely applies to Redux as well.
+  
+- **Drew Bug**  
+  https://www.youtube.com/watch?v=n8vkg_RVIRo  
+  A video demonstrating a Redux crash reporter and time travel debugger.
