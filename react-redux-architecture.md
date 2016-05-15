@@ -12,7 +12,7 @@
   A good look at which lifecycle methods run in which situations, as well as the signatures of each method.
   
 - **Dissecting React Lifecycle Methods**  
-  https://medium.com/@fay_jai/dissecting-reactjs-lifecycle-methods-be4fdea11c6d
+  https://medium.com/@fay_jai/dissecting-reactjs-lifecycle-methods-be4fdea11c6d  
   Breaks the lifecycle methods down into "mount/unmount" and "update" categories, and describes the purpose and use of each.
   
 - **The React Component Lifecycle**  
@@ -27,19 +27,19 @@
 #### React Component Management
 
 - **Presentational and Container Components**  
-  https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+  https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0  
   Dan Abramov's foundational article on classifying components based on intent and behavior.  A must-read for anyone using React.
   
 - **Mixins Are Dead.  Long Live Composition**  
-  https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
+  https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750  
   A look at some of the issues with using mixins, and reasons why higher-order components are (usually) an improvement.
   
 - **React Components, Elements, and Instances**  
-  https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca
+  https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca  
   Clarifies the differences between these related terms.
   
 - **How to use Classes and Sleep at Night**  
-  https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
+  https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4  
   Some pragmatic opinions on when and how to use the ES6 "class" keyword, particularly in relation to React components.
   
 - **Higher Order Components: Theory and Practice**  
@@ -74,7 +74,7 @@
   Describes "File-Type First", "Feature First / Pods" approaches, as well as other related structure issues.
   
 - **Four Strategies for Organizing Code**  
-  https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33
+  https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33  
   Describes "by component", "by toolbox", "by layer", and "by kind" approaches.
 
 - **Rules for Structuring (Redux) Applications**  
@@ -90,7 +90,7 @@
   Ryan Florence, an author of React Router, gives his suggested file structure.
   
 - **How to Better Organize Your React Applications?**  
-  https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1
+  https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1  
   Another feature-style approach, describing things in terms of "components", "scenes", and "services".
 
 
