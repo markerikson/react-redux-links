@@ -1,6 +1,6 @@
 ### React Performance and Optimization
 
-My [Redux Ecosystem Links] list includes a number of useful tools for visualizing React component updates, in the [Devtools > Component Update Monitoring](https://github.com/markerikson/redux-ecosystem-links/blob/master/devtools.md#component-update-monitoring) section.
+My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) list includes a number of useful tools for visualizing React component updates, in the [Devtools > Component Update Monitoring](https://github.com/markerikson/redux-ecosystem-links/blob/master/devtools.md#component-update-monitoring) section.
 
 
 
@@ -44,7 +44,7 @@ My [Redux Ecosystem Links] list includes a number of useful tools for visualizin
   A couple quick tips: using NODE_ENV=production, and Babel's React constant/inline transformations
   
 - **Optimising React rendering**  
-  https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae
+  https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae  
   Another couple quick tips: only updating changed elements, and making children smarter
   
   
