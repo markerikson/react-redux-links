@@ -11,7 +11,7 @@
   Demonstrates writing a custom thunk middleware that injects additional dependencies into thunks.
 
 - **Connecting Redux to your API**  
-  https://blog.boldlisting.com/connecting-redux-to-your-api-eac51ad9ff89
+  https://blog.boldlisting.com/connecting-redux-to-your-api-eac51ad9ff89  
   Describes imperative and declarative approaches to managing request data and metadata
   
 - **Debugging is in Flux**  
