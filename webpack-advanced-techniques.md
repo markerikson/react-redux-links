@@ -17,7 +17,7 @@
   Tips on dynamically loading route views and optimizing chunk sizes
   
 - **Fixing annoying imports in React Projects**  
-  https://medium.com/datawallet-tech/fixing-annoying-imports-in-react-projects-895a6ad24c24
+  https://medium.com/datawallet-tech/fixing-annoying-imports-in-react-projects-895a6ad24c24  
   A quick example of using Webpack's module aliasing to simplify import paths, with further discussion in the comments.
   
 - **Webpack and Hot Module Replacement**  
@@ -25,5 +25,5 @@
   A great in-depth walkthrough of how HMR works
   
 - **Webpack's HMR and React Hot-Loader - The Missing Manual**  
-  https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96
+  https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96  
   Demonstrates three ways to enable HMR, and usage with three different React application scenarios
