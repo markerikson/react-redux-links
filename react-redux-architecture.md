@@ -34,10 +34,6 @@
   https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750  
   A look at some of the issues with using mixins, and reasons why higher-order components are (usually) an improvement.
   
-- **React Components, Elements, and Instances**  
-  https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca  
-  Clarifies the differences between these related terms.
-  
 - **How to use Classes and Sleep at Night**  
   https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4  
   Some pragmatic opinions on when and how to use the ES6 "class" keyword, particularly in relation to React components.
@@ -45,6 +41,14 @@
 - **Higher Order Components: Theory and Practice**  
   http://engineering.blogfoster.com/higher-order-components-theory-and-practice/  
   Gives practical use cases for HOCs, such as authentication, routing, and data management, with samples.
+  
+- **Sharing and Testing Code in React with Higher Order Components**  
+  http://blog.carbonfive.com/2016/02/02/sharing-and-testing-code-in-react-with-higher-order-components/  
+  Demonstrates extracting HOCs from existing code, and testing them.
+  
+- **React Higher Order Components in depth**  
+  https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e
+  A very detailed article looking at some advanced HoC patterns
 
 - **8 no-Flux strategies for React component communication**  
   http://andrewhfarmer.com/component-communication/  
@@ -54,6 +58,21 @@
   http://ctheu.com/2015/02/12/how-to-communicate-between-react-components/  
   Another good list of component communication strategies
   
+- **How to Write a Google Maps React Component**  
+  https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/  
+  Demonstrates how to wrap a third-party component that has an imperative API, lazy-loading the dependencies, and more.
+  
+- **Building SVG Maps with React**  
+  https://blog.komand.com/building-svg-maps-with-react  
+  Demonstrates building a component that zooms and pans SVG graphics based on user input.
+  
+- **How to Sprinkle ReactJS into an Existing Web Application**  
+  https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application  
+  Looks at how to incrementally add some React-based functionality into an existing app.
+  
+- **Leveling Up with React: Container Components**  
+  https://css-tricks.com/learning-react-container-components/
+  Describes the container component pattern and how to use it to split up responsibilities between fetching and displaying data.
   
   
 #### React and AJAX
@@ -65,6 +84,19 @@
 - **AJAX/HTTP Library Comparison**  
   http://andrewhfarmer.com/ajax-libraries/  
   A useful overview of the most popular AJAX libraries, including platform support and feature comparisons.
+  
+- **Implementing React Redux with GraphQL**  
+  https://marufsarker.github.io/blog/posts/2016/05/09/react-redux-with-graphql.html  
+  Walks through the implementation of a server/client Todo app that uses GraphQL mutations for the async actions.
+  
+- **Rendering Backend Requests with React**  
+  https://blog.boldlisting.com/rendering-backend-requests-with-react-7e493103c2b6
+  Describes a pattern for dealing with components that depend on loading data from a backend
+  
+- **Build a React + Flux App with User Authentication**  
+  https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication  
+  Builds a React app that calls a remote API and authenticates users.  Uses a specific auth provider and basic Flux implementation, but the concepts are widely applicable.
+  
   
 #### React and Forms
 
@@ -133,7 +165,6 @@
   https://www.reddit.com/r/javascript/comments/42ey9e/redux_reducer_composition_without_slicing_state/  
   Some very informative discussion on how to organize reducers and actions.
   
-  
 - **Wordpress Calypso: Our Approach to Data**  
   https://github.com/Automattic/wp-calypso/blob/master/docs/our-approach-to-data.md  
   The team behind Wordpress's new admin panel looks at their migration from emitters to Flux to Redux, and describes how they organize their state tree, use selectors to extract state, run queries with components, and persist their store state through refreshes.
@@ -141,4 +172,8 @@
 - **Redux and the Elm Architecture**  
   http://salsita.github.io/redux-elm/  
   Redux lacks built-in abstractions for real-world, maintainable, scalable applications. In particular, it is difficult to create and distributed encapsulated, reusable components.  The Elm Architecture clearly addresses some important areas where Redux alone is lacking.
+  
+- **So you've screwed up your Redux store - or, why Redux makes refactoring easy**
+  https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71  
+  Describes some useful practices for organizing Redux actions, reducers, and selectors.
   
