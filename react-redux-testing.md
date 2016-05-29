@@ -59,3 +59,11 @@
 - **Unit Testing React Components and Redux Reducers**  
   http://pebblecode.com/blog/react-redux-unit-testing/  
   Some basic examples for testing reducers and components.
+  
+- **Getting Started with TDD in React**  
+  https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react  
+  Covers a typical Mocha+Chai+JSDOM+Enzyme setup, talks about why/how/what to test, and walks through several examples.
+  
+- **Testing React Applications**  
+  https://youtu.be/KBhHsYlF4mQ  
+  A fantastic talk that goes through many important details of trying to test React components under JSDOM.

@@ -35,4 +35,8 @@
   Covers the basic concepts and syntax of sagas, and how they can improve testability.
   
   
-  
+#### Other
+
+- **The Problem with Redux... And How to Fix It**  
+  http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/  
+  Describes how Redux has some weaknesses with handling side effects and creating fractal applications, and how the Redux-Elm addon addresses those.

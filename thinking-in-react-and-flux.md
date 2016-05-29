@@ -55,3 +55,7 @@
 - **Why Local Component State is a Trap**  
   https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/  
   Thoughts on a "single state tree" vs local component state
+  
+- **Functional Javascript: Reverse-Engineering the Hype**  
+  http://banderson.github.io/functional-js-reverse-engineering-the-hype/#/  
+  A slideshow that talks about why functional-type programming matters, and how it relates to React-type apps.

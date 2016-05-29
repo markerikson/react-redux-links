@@ -66,3 +66,6 @@
   https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84  
   A web series by a quirky programmer showing you high level functional concepts in Javascript
   
+- **Functional Programming Jargon**  
+  https://github.com/hemanth/functional-programming-jargon  
+  A list of FP terms with easier-to-understand definitions and explanations.

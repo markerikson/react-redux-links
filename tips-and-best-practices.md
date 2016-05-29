@@ -39,3 +39,8 @@
 - **How to avoid refactoring in your first React.js application**  
   http://andrejgajdos.com/how-to-avoid-refactoring-in-your-first-react-application/  
   Covers several useful topics such as props vs state and use of shouldComponentUpdate, and links to several other articles on anti-patterns and component lifecycles.
+  
+- **Let It Be - How to declare JavaScript variables**  
+  http://madhatted.com/2016/1/25/let-it-be  
+  https://www.reddit.com/r/javascript/comments/44yjzo/let_it_be_how_to_declare_javascript_variables/  
+  A look at how `var`, `let`, and `const` behave, and how using them communicates intent.  Further discussion in the Reddit comments.

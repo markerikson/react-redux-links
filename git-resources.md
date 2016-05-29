@@ -38,6 +38,11 @@
   A tutorial for "advanced beginners" who know the basic commands, but want to better understand Git's concepts
   
 
+- **Advance Git**  
+  https://medium.com/@jstats/advance-git-dfe557bdbe59
+  Gives advice for good commit messages, and describes the options and usage for several advanced Git commands (`add --patch`, `rebase`, `reflog`, and more).
+  
+
 #### E-Books
 
 - **Pro Git**  
