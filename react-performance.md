@@ -1,8 +1,9 @@
-### React Performance and Optimization
+### React/Redux Performance and Optimization
 
 My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) list includes a number of useful tools for visualizing React component updates, in the [Devtools > Component Update Monitoring](https://github.com/markerikson/redux-ecosystem-links/blob/master/devtools.md#component-update-monitoring) section.
 
 
+#### React Components
 
 - **React Docs: Performance**  
   https://facebook.github.io/react/docs/advanced-performance.html  
@@ -12,15 +13,14 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - **Performance Engineering with React**  
   http://benchling.engineering/performance-engineering-with-react/  
   http://benchling.engineering/deep-dive-react-perf-debugging/  
-  A 2-part series on React performance.  Excellent information.  Goes in-depth on use of the Perf API, shouldComponentUpdate, shallow equality, and how to properly profile components.  Highly recommended.
+  https://news.ycombinator.com/item?id=11036007  
+  A 2-part series on React performance.  Excellent information.  Goes in-depth on use of the Perf API, shouldComponentUpdate, shallow equality, and how to properly profile components.  Highly recommended.  Further useful discussion in the HN comment thread.
   
 - **Respectable React Components**  
   http://kelle.co/react-perf-slides/  
   A slideshow that walks through the core concepts of managing good React performance.
   
-- **Building Efficient UI with React and Redux**  
-  https://www.toptal.com/react/react-redux-and-immutablejs  
-  Builds a simple app using React, Redux, and Immutable.js, and looks at some of the most common misuses of React and how to avoid them.
+
   
 - **Optimizing React Performance using keys, component lifecycle, and performance tools**  
   http://jaero.space/blog/react-performance-1  
@@ -47,11 +47,46 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae  
   Another couple quick tips: only updating changed elements, and making children smarter
   
+- **Performance optimisations for React applications**  
+  https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191  
+  Covers ways to make update checks fast and easy.  (NOTE: the advice given to "denormalize" data may not be the best approach - see discussion with Dan Abramov in the comments.)
+  
+  
+#### Immutable Data
+
+- **Building Efficient UI with React and Redux**  
+  https://www.toptal.com/react/react-redux-and-immutablejs  
+  Builds a simple app using React, Redux, and Immutable.js, and looks at some of the most common misuses of React and how to avoid them.
+  
+- **"Comparing React to Vue for dynamic tabular data"**  
+  https://news.ycombinator.com/item?id=11765477  
+  Good comments from an HN thread discussing a React vs Vue benchmark.  A Discord developer talks about several lessons learned, including pros and cons of using Immutable.js, and only rendering elements that are visible.
+  
+- **Immutable.js: worth the cost?**  
+  https://medium.com/@AlexFaunt/immutablejs-worth-the-price-66391b8742d4
+  Looks at several pros and cons of using Immutable.js, such as enforced immutability (pro), and major performance problems from calling `toJS()`  frequently (con).
+
+- **React + Redux performance optimization with shouldComponentUpdate**  
+  http://stackoverflow.com/questions/37285200/react-redux-performance-optimization-with-componentshouldupdate  
+  Discussion of proper Redux connection structure and use of Immutable's `toJS()`, with links to further articles and discussions.
+  
+#### Redux Performance
   
 - **High Performance Redux**  
   http://somebody32.github.io/high-performance-redux/  
   A detailed HTML slideshow that digs down into React Redux to show how `connect()`'s optimizations work, and has interactive demos to show various approaches.  (Note: the code-related slides advance using the down arrow to step through different lines of code - don't miss that info!)
   
-- **Performance optimisations for React applications**  
-  https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191  
-  Covers ways to make update checks fast and easy.  (NOTE: the advice given to "denormalize" data may not be the best approach - see discussion with Dan Abramov in the comments.)
+- **How to optimize small updates to props of nested component?**  
+  http://stackoverflow.com/questions/37264415/how-to-optimize-small-updates-to-props-of-nested-component-in-react-redux  
+  Looks at how a normalized Redux state structure combined with multiple connected components can improve performance
+  
+- **Redux TodoMVC Pull #1: Optimization**  
+  https://github.com/mweststrate/redux-todomvc/pull/1  
+  An optimization pass for a Redux vs MobX benchmark, demonstrating several techniques
+  
+- **Redux Issue #1751: Performance issues with large collections**  
+  https://github.com/reactjs/redux/issues/1751  
+  Discussion of several factors that affect Redux performance
+  
+
+
