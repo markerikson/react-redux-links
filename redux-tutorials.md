@@ -60,6 +60,10 @@
   http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/  
   http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/  
   Another solid, in-depth tutorial, similar to the "Full-Stack" tutorial.  Builds a client-only TodoMVC app, and demonstrates a good project setup (including a Mocha+JSDOM-based testing configuration).  Well-written, covers many concepts, and very easy to follow.
+  
+- **Build an Image Gallery using React, Redux, and redux-saga**  
+  http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga  
+  A step-by-step look at building a page with some complex async behavior.
 
 
 
@@ -69,6 +73,10 @@
 - **Read the Source ep17 - React Redux with Dan Abramov**  
   https://youtu.be/VJ38wSFbM3A  
   Dan walks through the implementation and concepts of React-Redux.  A great follow-up to the Egghead.io tutorial series.
+  
+- **Connect.js explained**  
+  https://gist.github.com/gaearon/1d19088790e70ac32ea636c025ba424e  
+  A very simplified version of React Redux's `connect()` function that illustrates the basic implementation
   
 - **Let's Write Redux!**  
   http://www.jamasoftware.com/blog/lets-write-redux/  

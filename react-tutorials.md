@@ -43,6 +43,21 @@
   https://survivejs.github.io/training/#/0  
   An interactive presentation that goes through quick intros to Babel and Webpack before covering React basics, type checking, state management with Redux and MobX, async data, routing, performance, testing, and structuring applications.  
 
+- **Taming the React Setup**  
+  http://developer.telerik.com/featured/taming-react-setup/  
+  Describes seven different setups for writing React code, from simple (plain react.js loaded into the browser), to complex (use of Babel with Webpack or JSPM).
+  
+- **React From Zero**  
+  https://github.com/kay-is/react-from-zero  
+  A simple (99% ES2015 less) tutorial for React.  Everything runs in the browser without a manual pre-compilation.
+  
+- **React Hello World Examples**  
+  https://gist.github.com/danawoodman/9cfddb1a0c934a35f31a  
+  A one-page set of simple snippets demonstrating usage of React
+  
+- **I Learned How to be Productve in React in a Week and You Can, Too**  
+  https://css-tricks.com/productive-in-react/  
+  A solid article written by a React newcomer, covering the basics, some gotchas, and important takeaways.  Aimed at general web devs who are curious about React.
 
 
 #### Project-Based Tutorials
@@ -83,6 +98,16 @@
 - **A Complete Intro to React**  
   http://btholt.github.io/complete-intro-to-react/  
   An online workshop intended to get you up to speed on modern development and give you an idea what it's like to develop an app in the React ecosystem.
+  
+- **React Tutorial: Build a Yelp Clone**  
+  https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/  
+  A full-length walkthrough of how to build an app that uses routing, Google Maps integration, and more.
+  
+- **Build a Music Player with React & Electron**  
+  https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts  
+  https://scotch.io/tutorials/build-a-music-player-with-react-electron-ii-making-the-ui  
+  https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together  
+  A 3-part tutorial that builds a desktop music app with React for the UI and Electron for the desktop functionality
   
   
 

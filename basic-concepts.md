@@ -15,3 +15,7 @@
 - **State of the Art Javascript in 2016**  
   https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b
   An opinionated list of what tools and libraries a modern JS development stack should include, plus links to further resources.
+  
+- **Timeline for Learning React**  
+  https://daveceddia.com/timeline-for-learning-react/  
+  Another high-level suggested timeline for how to approach learning React and related technologies.
