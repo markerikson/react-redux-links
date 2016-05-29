@@ -1,9 +1,8 @@
 
 ### Javascript ES6 Features and Examples
 
-- **Exploring ES6**  
-  http://exploringjs.com/es6/index.html  
-  A full online book covering every aspect of ES6 in fine detail  
+
+#### Overviews
 
 - **ES6 Features Overview**  
   https://github.com/lukehoban/es6features  
@@ -17,10 +16,6 @@
   https://ponyfoo.com/articles/es6  
   Quick samples and descriptions of all the various ES6 capabilities  
 
-- **ES6 In Depth**  
-  https://ponyfoo.com/articles/tagged/es6-in-depth  
-  Many articles covering each feature in greater detail
-
 - **Javascript Features**  
   http://jsfeatures.in/#ES6  
   More samples of features in ES5, ES6, and ES7
@@ -29,3 +24,17 @@
   http://jamesknelson.com/es6-the-bits-youll-actually-use/  
   A quick tour through some of the more useful features in ES6  
   
+- **ES6 Succinctly**  
+  http://kamranahmed.info/blog/2016/04/04/es6-in-depth/  
+  A very readable overview of the features in ES6, why you would want to use them, and examples showing what they look like.
+  
+
+#### In-Depth Details
+
+- **ES6 In Depth**  
+  https://ponyfoo.com/articles/tagged/es6-in-depth  
+  Many articles covering each feature in greater detail
+  
+- **Exploring ES6**  
+  http://exploringjs.com/es6/index.html  
+  A full online book covering every aspect of ES6 in fine detail  
