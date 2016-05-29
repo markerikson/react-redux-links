@@ -66,6 +66,38 @@
   http://andrewhfarmer.com/ajax-libraries/  
   A useful overview of the most popular AJAX libraries, including platform support and feature comparisons.
   
+#### React and Forms
+
+(Note: the "linked state mixin" and "two-way binding" approaches described in some of these articles are still valid, but _mostly_ discouraged at this point.  The more idiomatic approach is "one-way data flow" with "controlled inputs".)
+
+- **React Docs: Forms**  
+  https://facebook.github.io/react/docs/forms.html  
+  The React documentation page on forms.  Describes "controlled" and "uncontrolled" form inputs.
+
+- **Learn Raw React: Ridiculously Simple Forms**  
+  http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/  
+  Covers the basics of implementing form rendering, updates, and validation, in plain JS
+  
+- **Forms in React and Redux**  
+  http://x-team.com/2016/02/tutorial-forms-in-react-and-redux/  
+  Demonstrates building a simple set of wrapper components to manage forms using React and Redux
+  
+- **Form Validation Tutorial with React.js**  
+  https://html5hive.org/reactjs-form-validation-tutorial/  
+  A good example of setting up form validation in React
+
+- **Not-so-simple Forms with React**  
+  http://www.randseay.com/articles/forms-with-react/  
+  Explains how to set up more advanced form scenarios such as optional or repeatable sections.
+  
+- **Managing state and controlled form fields with React**  
+  https://blog.iansinnott.com/managing-state-and-controlled-form-fields-with-react/  
+  Describes the concepts of "controlled" and "uncontrolled" inputs.  
+  
+- **Two-Way Data Binding and Form Validation in React**  
+  https://medium.com/@thejenniekim/two-way-data-binding-and-form-validation-in-react-9d0b15123176  
+  Another demonstration of building a form with some logic and validation.
+  
   
 #### Project File Structure
 
