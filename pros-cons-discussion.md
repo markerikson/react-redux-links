@@ -85,3 +85,17 @@ similar structures in ClojureScript.
 - **"React Tutorial: Cloning Yelp"**
   https://news.ycombinator.com/item?id=11782234  
   A great quote on the inherent complexity of developing any application (from yet another "Javascript Fatigue"-type discussion thread
+  
+- **"9 things every ReactJS beginner should know"**  
+  https://www.reddit.com/r/javascript/comments/42fo3m/9_things_every_reactjs_beginner_should_know/  
+  Some interesting discussion on easy vs simple, desktop vs web, and managing container components.
+  
+- **"React.js Introduction for People Who Know Just Enough jQuery"**  
+  https://news.ycombinator.com/item?id=9856855  
+  https://news.ycombinator.com/item?id=9859143  
+  https://news.ycombinator.com/item?id=9860960  
+  A long discussion thread about many aspects related to use of React and frameworks.  Plenty of good discussion overall.  In addition, buried in the overall thread, some specifically insightful comments about managic codebase size and complexity, and doing web apps "by hand" with direct DOM manipulation vs what a framework like React provides.
+  
+- **"I'm a web dev who uses jQuery for a large app - How can I convince my bosses a JS framework is the way to go?"**  
+  https://www.reddit.com/r/javascript/comments/3v43qf/im_a_web_developer_who_uses_jquery_to_write_a/  
+  Another long, in-depth discussion thread on the merits of JS frameworks, as well as "big-bang" rewrites

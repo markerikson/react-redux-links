@@ -67,3 +67,7 @@
 - **Testing React Applications**  
   https://youtu.be/KBhHsYlF4mQ  
   A fantastic talk that goes through many important details of trying to test React components under JSDOM.
+  
+- **Testing in React: Getting Off the Ground**  
+  https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a
+  A look at approaches and ways to start testing React components

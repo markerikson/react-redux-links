@@ -69,3 +69,11 @@
 - **Functional Programming Jargon**  
   https://github.com/hemanth/functional-programming-jargon  
   A list of FP terms with easier-to-understand definitions and explanations.
+  
+- **An Introduction to Reasonably Pure Functional Programming**  
+  https://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/  
+  Explain four key concepts of functional programming: pure functions, immutable values, composition, and side effects
+  
+- **Functors, Applicatives, and Monads in Plain English**  
+  http://www.russbishop.net/monoids-monads-and-functors  
+  An attempt to explain these concepts in reasonable terms.

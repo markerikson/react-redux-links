@@ -93,7 +93,10 @@
 - **Building Redux Middleware**  
   https://reactjsnews.com/redux-middleware  
   Demonstrates building a basic Redux middleware
-
+  
+- **A Beginner's Guide to Redux Middleware**  
+  https://www.codementor.io/reactjs/tutorial/beginner-s-guide-to-redux-middleware  
+  A useful explanation of middleware use cases, with numerous examples
 
 
 #### Paid Courses and Books

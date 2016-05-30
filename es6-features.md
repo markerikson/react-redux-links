@@ -38,3 +38,14 @@
 - **Exploring ES6**  
   http://exploringjs.com/es6/index.html  
   A full online book covering every aspect of ES6 in fine detail  
+  
+  
+#### Techniques
+
+- **"Real" Mixins with Javascript Classes"**  
+  http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/  
+  An explanation of what mixins are, and how to implement them using ES6 classes
+  
+- **Functional Mixins in ECMAScript 2015**  
+  http://raganwald.com/2015/06/17/functional-mixins.html  
+  Another approach at combining mixins and classes

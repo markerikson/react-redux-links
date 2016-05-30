@@ -94,6 +94,10 @@
   http://ericdouglas.github.io/2016/04/01/Git-Useful-Tips/  
   A useful reference to commands and concepts.
   
+- **19 Tips for Everyday Git Use**  
+  http://www.alexkras.com/19-git-tips-for-everyday-use  
+  A variety of practical commands for different scenarios.
+  
 #### Desktop GUI Clients
 
 - **SourceTree** (Win, Mac)  

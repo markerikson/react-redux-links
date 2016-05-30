@@ -109,6 +109,10 @@
   https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together  
   A 3-part tutorial that builds a desktop music app with React for the UI and Electron for the desktop functionality
   
+- **Interactive Guide to Server-side rendering with Webpack, React, React Transmit, CSS modules and more**  
+  https://github.com/dimaip/server-side-rendering  
+  A Github project with a series of commits showing steps for putting together a basic app with server-side rendering and async data fetching.
+  
   
 
 #### React Implementation Walkthroughs
@@ -132,6 +136,10 @@
 - **Reverse Engineering React**  
   https://vimeo.com/album/3930691  
   A video series covering the implementation of an alternative/miniature version of React called "Reaction".  Note that it doesn't look at React itself, but does cover all the equivalent concepts in a simpler implementation.
+  
+- **Tiny React Renderer**  
+  https://github.com/iamdustan/tiny-react-renderer  
+  A heavily commented learning implementation of a bare basic React renderer
   
   
 #### Paid Courses and Books

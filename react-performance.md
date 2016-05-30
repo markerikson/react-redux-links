@@ -51,6 +51,14 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191  
   Covers ways to make update checks fast and easy.  (NOTE: the advice given to "denormalize" data may not be the best approach - see discussion with Dan Abramov in the comments.)
   
+- **Should I use shouldComponentUpdate?**  
+  http://jamesknelson.com/should-i-use-shouldcomponentupdate/  
+  A reminder that `shouldComponentUpdate` is itself code that has to execute, and that using it involves measured tradeoffs.
+  
+- **"shouldComponentUpdate - using it for performance optimizations"**  
+  https://www.reddit.com/r/reactjs/comments/4gfn26/shouldcomponentupdate_using_it_for_performance/  
+  Discussion on pros, cons, and approaches to using `shouldComponentUpdate`
+  
   
 #### Immutable Data
 
