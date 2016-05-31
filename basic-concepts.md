@@ -23,3 +23,7 @@
 - **Learn the Javascript Ecosystem one package at a time**  
   http://andrewhfarmer.com/npm-sandboxing/  
   Some tips for how to approach learning the JS ecosystem without being overwhelmed.
+
+- **On being overwhelmed with our fast paced industry**  
+  http://wesbos.com/overwhelmed-with-web-development/  
+  Wes Bos gives advice on how to cut down on noise, avoid "new shiny" syndrome, and still improve your web dev skills
