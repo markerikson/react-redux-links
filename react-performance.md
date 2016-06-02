@@ -77,6 +77,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - **React + Redux performance optimization with shouldComponentUpdate**  
   http://stackoverflow.com/questions/37285200/react-redux-performance-optimization-with-componentshouldupdate  
   Discussion of proper Redux connection structure and use of Immutable's `toJS()`, with links to further articles and discussions.
+
+- **"React-Immutable-Mixin vs PureRenderMixin" - comment from Lee Byron**  
+  https://github.com/jurassix/react-immutable-render-mixin/issues/19#issuecomment-222567064  
+  Immutable.js author Lee Byron comments on a performance discussion, giving advice on suggested Immutable.js usage patterns
   
 #### Redux Performance
   
