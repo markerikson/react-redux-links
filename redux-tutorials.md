@@ -9,7 +9,11 @@
 - **Getting Started with Redux - Video Series**  
   https://egghead.io/series/getting-started-with-redux  
   https://github.com/tayiorbeii/egghead.io_redux_course_notes  
-  The creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos.  The linked Github repo contains notes and transcriptions of the videos.
+  Dan Abramov, the creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos.  The linked Github repo contains notes and transcriptions of the videos.
+
+- **Building React Applications with Idiomatic Redux - Video Series**  
+  https://egghead.io/series/building-react-applications-with-idiomatic-redux  
+  Dan Abramov's second video tutorial series, continuing directly after the first.  Includes lessons on store initial state, using Redux with React Router, using "selector" functions, normalizing state, use of Redux middleware, async action creators, and more.
 
 - **Single State Tree + Flux**  
   http://merrickchristensen.com/articles/single-state-tree.html  
