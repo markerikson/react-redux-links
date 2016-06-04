@@ -59,6 +59,9 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://www.reddit.com/r/reactjs/comments/4gfn26/shouldcomponentupdate_using_it_for_performance/  
   Discussion on pros, cons, and approaches to using `shouldComponentUpdate`
   
+- **A Cartoon Guide to Performance in React**  
+  https://www.youtube.com/watch?v=-t8eOoRsJ7M  
+  An excellent presentation by Lin Clark of Code Cartoons.  Covers what work browsers do when rendering, what work React does, and the main ways you can improve React performance.  Very clear and easy to understand.
   
 #### Immutable Data
 
