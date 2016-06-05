@@ -90,7 +90,7 @@
   Walks through the implementation of a server/client Todo app that uses GraphQL mutations for the async actions.
   
 - **Rendering Backend Requests with React**  
-  https://blog.boldlisting.com/rendering-backend-requests-with-react-7e493103c2b6
+  https://blog.boldlisting.com/rendering-backend-requests-with-react-7e493103c2b6  
   Describes a pattern for dealing with components that depend on loading data from a backend
   
 - **Build a React + Flux App with User Authentication**  
@@ -133,8 +133,8 @@
   
 #### Project File Structure
 
-- **Scaling React.js Applications**
-  https://vimeo.com/168648012
+- **Scaling React.js Applications**  
+  https://vimeo.com/168648012  
   Talk about managing large react.js applications. Covers "Feature" structure, redux-saga and CSS modules.
 
 - **Organizing Large React Applications**  
@@ -177,7 +177,7 @@
   http://salsita.github.io/redux-elm/  
   Redux lacks built-in abstractions for real-world, maintainable, scalable applications. In particular, it is difficult to create and distributed encapsulated, reusable components.  The Elm Architecture clearly addresses some important areas where Redux alone is lacking.
   
-- **So you've screwed up your Redux store - or, why Redux makes refactoring easy**
+- **So you've screwed up your Redux store - or, why Redux makes refactoring easy**  
   https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71  
   Describes some useful practices for organizing Redux actions, reducers, and selectors.
   
