@@ -133,6 +133,10 @@
   
 #### Project File Structure
 
+- **Scaling React.js Applications**
+  https://vimeo.com/168648012
+  Talk about managing large react.js applications. Covers "Feature" structure, redux-saga and CSS modules.
+
 - **Organizing Large React Applications**  
   http://engineering.kapost.com/2016/01/organizing-large-react-applications/  
   Describes "File-Type First", "Feature First / Pods" approaches, as well as other related structure issues.
