@@ -56,6 +56,10 @@
   https://github.com/markerikson/react-redux-cesium-testing-demo  
   Demonstrates a number of useful bits of project configuration, including offline tests with Mocha+JSDOM, live-reloading tests in the browser using mocha-loader, async loading of React components, use of the Cesium 3D globe library with React and Webpack, and using the Shrinkpack tool to manage dependencies inside the repo.  Not intended for production use, but could serve as a useful example.
 
+- **React Static Plate**  
+  https://github.com/webyak/react-static-plate  
+  Build static sites with React to host on Amazon S3, Github Pages, Surge, etc.  An interesting alternative to other static page generation tools.
+
 
 #### Other
 
