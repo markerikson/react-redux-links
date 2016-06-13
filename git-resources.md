@@ -39,7 +39,7 @@
   
 
 - **Advance Git**  
-  https://medium.com/@jstats/advance-git-dfe557bdbe59
+  https://medium.com/@jstats/advance-git-dfe557bdbe59  
   Gives advice for good commit messages, and describes the options and usage for several advanced Git commands (`add --patch`, `rebase`, `reflog`, and more).
   
 
@@ -97,6 +97,10 @@
 - **19 Tips for Everyday Git Use**  
   http://www.alexkras.com/19-git-tips-for-everyday-use  
   A variety of practical commands for different scenarios.
+  
+- **Git Tips**  
+  https://github.com/git-tips/tips  
+  A large collection of Git tips and tricks.
   
 #### Desktop GUI Clients
 

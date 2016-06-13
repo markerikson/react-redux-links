@@ -39,6 +39,14 @@
   http://exploringjs.com/es6/index.html  
   A full online book covering every aspect of ES6 in fine detail  
   
+- **Why Do ES6 Classes Exist, and Why Now?**  
+  http://appendto.com/2016/06/why-do-es6-classes-exist-and-why-now/  
+  Digs into some of the intricacies of ES6 classes, and some of the pros and cons around using them
+  
+- **When 'not' to use arrow functions**  
+  http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/  
+  An in-depth look at when you should stick with standard JS functions instead of arrow functions
+  
   
 #### Techniques
 

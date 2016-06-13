@@ -47,7 +47,7 @@
   Demonstrates extracting HOCs from existing code, and testing them.
   
 - **React Higher Order Components in depth**  
-  https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e
+  https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e  
   A very detailed article looking at some advanced HoC patterns
 
 - **8 no-Flux strategies for React component communication**  
@@ -71,7 +71,7 @@
   Looks at how to incrementally add some React-based functionality into an existing app.
   
 - **Leveling Up with React: Container Components**  
-  https://css-tricks.com/learning-react-container-components/
+  https://css-tricks.com/learning-react-container-components/  
   Describes the container component pattern and how to use it to split up responsibilities between fetching and displaying data.
   
   
@@ -96,6 +96,10 @@
 - **Build a React + Flux App with User Authentication**  
   https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication  
   Builds a React app that calls a remote API and authenticates users.  Uses a specific auth provider and basic Flux implementation, but the concepts are widely applicable.
+  
+- **Building Realtime Collaborative Offline-First Apps with React, Redux, PouchDB, and Websockets**  
+  http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/  
+  A blog post and sample project demonstrating various layers of client-server syncing, eventually driving a Redux store and React UI.
   
   
 #### React and Forms

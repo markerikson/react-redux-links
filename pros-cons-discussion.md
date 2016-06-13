@@ -23,6 +23,10 @@
   http://benmccormick.org/2015/11/25/productive-javascript-development/  
   Looks at 6 ways different frameworks make things "easy": concepts, reading/writing code, architecting / maintaining / debugging apps. 
   
+- **How React Helped Us Scale a Large Web App**  
+  https://medium.com/opengov-developers/how-react-helped-us-scale-a-large-web-app-d89f96c4790a
+  A look at how React has been used to scale the OpenGov app architecture in terms of both users and developers.
+  
   
 #### Redux/Flux Comparisons
 

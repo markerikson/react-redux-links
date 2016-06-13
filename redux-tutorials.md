@@ -42,7 +42,18 @@
 - **Redux: From Twitter Hype to Production**  
   http://slides.com/jenyaterpil/redux-from-twitter-hype-to-production#/  
   An extremely well-produced slideshow that visually steps through core Redux concepts, usage with React, project organization, and side effects with thunks and sagas.  Has some absolutely _fantastic_ animated diagrams demonstrating how data flows through a React+Redux architecture.
+  
+- **Redux diagrams**  
+  https://github.com/reactjs/redux/issues/653  
+  A variety of user-provided diagrams illustrating how the pieces of Redux fit together.
 
+- **How I Learned to Stop Worrying and Love Redux**  
+  https://medium.com/@shopsifter/how-i-learned-to-stop-worrying-and-love-redux-9b50e505e802
+  A new Redux user describes how she was able to overcome initial problems learning Redux.
+
+- **Introduction to Redux and React-Redux**  
+  http://julienrenaux.fr/2016/05/30/introduction-to-redux-and-react-redux/  
+  A quick overview of core Redux concepts, with code examples for creating a store and hooking up React components to read the data.
 
 
 #### Project-Based Tutorials
@@ -69,6 +80,9 @@
   http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga  
   A step-by-step look at building a page with some complex async behavior.
 
+- **The Soundcloud Client in React + Redux**  
+  http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/  
+  A detailed walkthrough demonstrating project setup, routing, authentication, fetching of remote data, and wrapping of a stateful library.
 
 
 
@@ -86,6 +100,9 @@
   http://www.jamasoftware.com/blog/lets-write-redux/  
   Walks through writing a miniature version of Redux step-by-step, to help explain the concepts and implementation.
 
+
+#### Redux Middleware
+
 - **Exploring Redux Middlewares**  
   http://blog.krawaller.se/posts/exploring-redux-middleware/  
   Understanding middlewares through a series of small experiments
@@ -101,6 +118,10 @@
 - **A Beginner's Guide to Redux Middleware**  
   https://www.codementor.io/reactjs/tutorial/beginner-s-guide-to-redux-middleware  
   A useful explanation of middleware use cases, with numerous examples
+  
+- **Redux Middleware**  
+  http://jonnyreeves.co.uk/2016/redux-middleware/  
+  A tutorial describing how Redux compares to typical "MVC", what a "middleware" is, what they can do, and how you can test them. 
 
 
 #### Paid Courses and Books

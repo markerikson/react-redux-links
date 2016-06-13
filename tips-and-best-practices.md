@@ -44,3 +44,13 @@
   http://madhatted.com/2016/1/25/let-it-be  
   https://www.reddit.com/r/javascript/comments/44yjzo/let_it_be_how_to_declare_javascript_variables/  
   A look at how `var`, `let`, and `const` behave, and how using them communicates intent.  Further discussion in the Reddit comments.
+  
+- **The State of React.js in 2016**  
+  https://speakerdeck.com/koba04/the-state-of-react-dot-js-2016  
+  Looks at a number of things to consider when writing React code today, including deprecation of string refs and upcoming updates to the React rendering implementation
+  
+- **React Playbook**  
+  https://github.com/kylpo/react-playbook  
+  https://medium.com/@kylpo/redux-best-practices-eef55a20cc72  
+  A variety of tips, best practices, opinions, and comparisons related to React, Redux, Immutable.js, and MobX.  Includes thoughts on component architecture, file structure, coding style, and other topics.
+  

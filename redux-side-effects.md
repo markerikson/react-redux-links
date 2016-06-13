@@ -34,6 +34,14 @@
   http://wecodetheweb.com/2016/01/23/handling-async-in-redux-with-sagas/  
   Covers the basic concepts and syntax of sagas, and how they can improve testability.
   
+- **Redux Saga conceptual diagram**  
+  https://twitter.com/kuy/status/731484272234663937  
+  A useful diagram illustrating the various things a saga can do
+  
+- **"Redux Sagas benefits?"**  
+  https://www.reddit.com/r/reactjs/comments/4ng8rr/redux_sagas_benefits/  
+  Discussion of when and why you might want to use sagas, with some great examples in the comments.
+  
   
 #### Other
 

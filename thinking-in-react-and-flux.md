@@ -59,3 +59,7 @@
 - **Functional Javascript: Reverse-Engineering the Hype**  
   http://banderson.github.io/functional-js-reverse-engineering-the-hype/#/  
   A slideshow that talks about why functional-type programming matters, and how it relates to React-type apps.
+
+- **"Trying to understand why React prefers one-way data binding"**  
+  https://www.reddit.com/r/javascript/comments/4ni311/trying_to_understand_why_react_prefers_oneway/  
+  Some excellent and very informative discussion on why the "one-way data flow" paradigm is used with React, vs two-way data binding.

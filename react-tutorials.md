@@ -58,6 +58,10 @@
 - **I Learned How to be Productve in React in a Week and You Can, Too**  
   https://css-tricks.com/productive-in-react/  
   A solid article written by a React newcomer, covering the basics, some gotchas, and important takeaways.  Aimed at general web devs who are curious about React.
+  
+- **Getting Started with React the Easy Way**  
+  http://codeutopia.net/blog/2016/01/10/getting-started-with-react-the-easy-way/  
+  Shows the simplest way to load React into a web page and start using it
 
 
 #### Project-Based Tutorials
@@ -113,6 +117,13 @@
   https://github.com/dimaip/server-side-rendering  
   A Github project with a series of commits showing steps for putting together a basic app with server-side rendering and async data fetching.
   
+- **Building a Slack-Style Chat Application**  
+  http://codeutopia.net/blog/2016/01/17/learning-react-basics-and-building-a-basic-application-prototype/  
+  http://codeutopia.net/blog/2016/01/25/getting-started-with-npm-and-browserify-in-a-react-project/  
+  http://codeutopia.net/blog/2016/02/01/react-application-data-flow-where-and-how-to-store-your-data/  
+  http://codeutopia.net/blog/2016/02/08/using-webrtc-and-react-to-build-a-basic-chat-server/  
+  http://codeutopia.net/blog/2016/02/15/improving-our-react-workflow-with-es6-and-functional-stateless-components/  
+  A multi-part series that builds up a chat application
   
 
 #### React Implementation Walkthroughs
@@ -141,6 +152,10 @@
   https://github.com/iamdustan/tiny-react-renderer  
   A heavily commented learning implementation of a bare basic React renderer
   
+- **How to write your own Virtual DOM**  
+  https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060  
+  https://medium.com/@deathmood/write-your-virtual-dom-2-props-events-a957608f5c76  
+  A series of articles that build up a small Virtual DOM system from scratch.
   
 #### Paid Courses and Books
 

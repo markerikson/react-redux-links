@@ -43,10 +43,17 @@
   A lesson from a larger course on React.  Covers basic Webpack concepts and setup.
   
 - **Introduction to Webpack**  
-  http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791
-  http://code.tutsplus.com/tutorials/introduction-to-webpack-part-2--cms-25911
+  http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791  
+  http://code.tutsplus.com/tutorials/introduction-to-webpack-part-2--cms-25911  
   Covers basic setup, loaders, managing styles and images, and more.
   
+- **Why I think Webpack is the right approach to build pipelines**  
+  http://devlog.disco.zone/2016/06/01/webpack/  
+  Some thoughts on how Webpack works, and why its "tree of modules" approach to bundling makes sense.  Useful for understanding how you can work with Webpack.
+  
+- **Webpack is not as complicated as you think**  
+  http://jilles.me/webpack-is-not-as-complicated-as-you-think/  
+  A simple overview of a basic Webpack config looks like.
   
   
 #### Configuration Terms and Concepts
@@ -60,3 +67,6 @@
   http://tomasalabes.me/blog/_site/web-development/2016/04/30/Webpack-Series-Part-1.html  
   Describes a number of Webpack config options, including "noParse", "libraryTarget", and "externals"
   
+- **Angular + Webpack <3**  
+  https://docs.google.com/presentation/d/10mIapWjv1pyUQaMv6G8MCdoe9OK2Ey8zz-CLkHuFdRI/edit?usp=sharing  
+  A long presentation that describes Webpack and its core concepts in depth.  A few parts are Angular-centric, but still an extremely clear and informative set of slides.  Covers topics like the "entry" and "output" options, "loaders", and "plugins", 

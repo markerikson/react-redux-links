@@ -13,7 +13,7 @@
   A great overview of many of the most common build tools, package managers, test frameworks, and code quality tools currently in use
   
 - **State of the Art Javascript in 2016**  
-  https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b
+  https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b  
   An opinionated list of what tools and libraries a modern JS development stack should include, plus links to further resources.
   
 - **Timeline for Learning React**  

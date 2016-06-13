@@ -8,7 +8,7 @@
   Compares the standard React.createClass() syntax vs ES6 React.Component class syntax
   
 - **Coding with React like a Game Developer**  
-  https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643 
+  https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643  
   Demonstrates React usage with ES5 vs ES6, plus some other topics
   
 - **The React Quick Start Guide: ES6 Edition**  

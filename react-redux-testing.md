@@ -69,5 +69,13 @@
   A fantastic talk that goes through many important details of trying to test React components under JSDOM.
   
 - **Testing in React: Getting Off the Ground**  
-  https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a
+  https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a  
   A look at approaches and ways to start testing React components
+  
+- **Testing React and Redux**  
+  http://silvenon.com/testing-react-and-redux/  
+  A three-part article that shows how to set up Ava and Babel, then walks through testing Redux code (action creators, reducers, selectors, thunks, and sagas), and React components.
+  
+- **Setting Up Javascript Testing Tools for ES6**  
+  http://x-team.com/2016/05/setting-up-javascript-testing-tools-for-es6/  
+  Tips on configuring tools to work with ES6 code, and writing tests using ES6

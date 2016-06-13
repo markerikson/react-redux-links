@@ -46,7 +46,27 @@
   http://djcordhose.github.io/react-intro-live-coding/2016_jsunconf.html#/  
   A slideshow that shows the basics of adding type information to Redux-based code 
   
+- **Using Redux with Flow**  
+  http://frantic.im/using-redux-with-flow  
+  Covers how to use Flow typing with Redux
+  
 - **Ajax Polling in React with Redux and Sagas**  
   http://notjoshmiller.com/ajax-polling-in-react-with-redux/  
   http://notjoshmiller.com/ajax-polling-part-2-sagas/  
   Covers a couple different ways to manage the logic for AJAX polling.
+  
+- **"How can I display a modal dialog in Redux that performs asynchronous actions?"**  
+  http://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions  
+  A detailed answer describing how you can declaratively drive pieces of your UI by putting descriptive pieces of data into your state (such as the name of the current dialog component to show, and what props that dialog should have)
+  
+- **Two mistakes I made working with Redux**  
+  http://www.mattzeunert.com/2016/06/01/redux-mistakes.html  
+  Some suggestions on how to handle denormalizing data and defining actions.
+  
+- **Encapsulation in Redux: the Right Way to Write Reusable Components**  
+  http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
+  A look at one way to write encapsulated action handling in Redux
+  
+- **Scalable Single-Page Application Architecture with Redux and Angular 2**  
+  http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
+  An in-depth article covering how to architect an application using Redux, Angular 2, and RxJS.  
