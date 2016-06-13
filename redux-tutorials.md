@@ -83,6 +83,10 @@
 - **The Soundcloud Client in React + Redux**  
   http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/  
   A detailed walkthrough demonstrating project setup, routing, authentication, fetching of remote data, and wrapping of a stateful library.
+  
+- **Interactive Frontend Development with React and Redux**  
+  https://courses.cs.ut.ee/2016/react/spring/Main/Lectures  
+  An Estonian university course covering React and Redux. Lecture videos, slides, and course code are all available online (in English).  Topics include React philosophy, container components, Redux basics, async actions, middleware, routing, and optimization.
 
 
 
