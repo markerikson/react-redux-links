@@ -156,6 +156,10 @@
   https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060  
   https://medium.com/@deathmood/write-your-virtual-dom-2-props-events-a957608f5c76  
   A series of articles that build up a small Virtual DOM system from scratch.
+
+- **React.js Reconciliation**  
+  https://www.infoq.com/presentations/react-reconciliation  
+  A video presentation digging into how React's reconciliation algorithm determines how to properly update nodes based on render output.
   
 #### Paid Courses and Books
 
