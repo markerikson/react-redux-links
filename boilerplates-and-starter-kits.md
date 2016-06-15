@@ -37,6 +37,9 @@
   https://github.com/coryhouse/react-slingshot  
   A flexible starter kit designed to illustrate best practices.
 
+- **Redux Auth Boilerplate**
+  https://github.com/MQuy/redux-auth-boilerplate
+  A full-featured for redux with auth flow
 
 #### Specific Concept Demonstrations
   
