@@ -104,3 +104,6 @@ All of the links in this collection are worth reading, but there's obviously a L
   https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e  
   Guidelines for tools, component structure, file layout, and async data handling
 
+- **The Complete Redux Book**
+  http://redux-book.com
+  A book dedicated to Redux concepts, advanced features and real world implementation examples.
