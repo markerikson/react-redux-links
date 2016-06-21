@@ -1,5 +1,7 @@
 ### Webpack Advanced Techniques
 
+#### Articles and Slideshows
+
 - **Webpack: Build Performance**  
   https://github.com/webpack/docs/wiki/build-performance  
   Webpack docs on ways to speed up builds.
@@ -27,3 +29,22 @@
 - **Webpack's HMR and React Hot-Loader - The Missing Manual**  
   https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96  
   Demonstrates three ways to enable HMR, and usage with three different React application scenarios
+
+- **Hot Reloading in React**  
+  https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf  
+  Dan Abramov walks through the history of his React Hot Loader and React Transform tools, describes their implementation, flaws, and weaknesses, and looks at a potential solution (later implemented in React Hot Loader 3.0).
+  
+- **Webpack Plugins we been keeping on the DLL**  
+  https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7
+  An overview of Webpack's DllPlugin, and how it can be used for faster dev builds.
+
+
+#### Examples
+
+- **Using React with "plain" Webpack HMR**  
+  https://github.com/reactjs/redux/pull/1455  
+  Dan Abramov removes use of the React-Transform plugin from Redux's examples, and demonstrates how to use the "plain" Webpack HMR API to do reloading of updated components, reducers, and other code.
+  
+- **Basic HMR Usage Example**  
+  https://gist.github.com/markerikson/dc6cee36b5b6f8d718f2e24a249e0491  
+  An extracted example demonstrating using "plain" HMR to reload components, reducers, and even sagas.
