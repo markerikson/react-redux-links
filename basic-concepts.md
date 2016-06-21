@@ -27,3 +27,13 @@
 - **On being overwhelmed with our fast paced industry**  
   http://wesbos.com/overwhelmed-with-web-development/  
   Wes Bos gives advice on how to cut down on noise, avoid "new shiny" syndrome, and still improve your web dev skills
+  
+- **The Hitchhiker's Guide to the Modern Front End Development Workflow**  
+  http://marcobotto.com/the-hitchhikers-guide-to-the-modern-front-end-development-workflow/  
+  A useful overview of the many categories and types of tools used in modern web development.
+
+- **Simplified Javascript Jargon**  
+  http://jargon.js.org/  
+  An alphabetical list of common terms in the JS world, with very short definitions in the main list and slightly longer descriptions linked for each term.
+
+  

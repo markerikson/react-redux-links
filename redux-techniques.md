@@ -70,3 +70,7 @@
 - **Scalable Single-Page Application Architecture with Redux and Angular 2**  
   http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
   An in-depth article covering how to architect an application using Redux, Angular 2, and RxJS.  
+  
+- **Querying a Redux Store**  
+  https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
+  A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.

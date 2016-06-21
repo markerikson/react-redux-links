@@ -11,6 +11,9 @@
   http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux/34599594#34599594  
   Dan Abramov gives reasons for using thunks and async middleware, and some useful patterns for using thunks.
 
+- **Pure Functionality and Side Effects with Redux**  
+  https://blog.hivejs.org/building-the-ui-2/  
+  An overview of what side effects are, how they fit into Redux, and several approaches for managing them.
 
 #### Sagas
 

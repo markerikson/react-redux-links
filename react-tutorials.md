@@ -62,6 +62,10 @@
 - **Getting Started with React the Easy Way**  
   http://codeutopia.net/blog/2016/01/10/getting-started-with-react-the-easy-way/  
   Shows the simplest way to load React into a web page and start using it
+  
+- **React Enlightenment**  
+  http://www.reactenlightenment.com/  
+  A straightforward, cookbook-style approach to learning React.  (Currently a work-in-progress.)
 
 
 #### Project-Based Tutorials

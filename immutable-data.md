@@ -44,3 +44,7 @@
 - **Redux Ecosystem Links: Immutable Data**  
   https://github.com/markerikson/redux-ecosystem-links/blob/master/immutable-data.md  
   A large list of libraries for managing immutable data in Javascript.  Some of them are Redux-specific, but also includes many general-purpose immutable data libraries as well.
+  
+- **Painless Immutability**  
+  https://guigrpa.github.io/2016/06/16/painless-immutability/  
+  A somewhat opinionated article from the author of a new immutable data library comparing different options, but still well-written and informative about the pros and cons of each.
