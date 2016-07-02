@@ -45,6 +45,18 @@
   https://www.reddit.com/r/reactjs/comments/4ng8rr/redux_sagas_benefits/  
   Discussion of when and why you might want to use sagas, with some great examples in the comments.
   
+- **Manage Side Effects Efficiently with Redux Saga**  
+  https://youtu.be/QJVdcIlqGwc  
+  A presentation describing the concepts of generators and sagas.
+  
+- **Redux Saga conceptual diagram**  
+  https://qiita-image-store.s3.amazonaws.com/0/69860/8cc1a873-c675-9009-570d-9684da4a704f.png  
+  A nifty diagram from @kuy illustrating the general interaction of Redux Saga's async flow operators 
+  
+- **"Redux Sagas Benefits?"**  
+  https://www.reddit.com/r/reactjs/comments/4ng8rr/redux_sagas_benefits/  
+  Some great examples in the comments of how Redux Saga works and how to use it.
+  
   
 #### Other
 

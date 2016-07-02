@@ -103,3 +103,11 @@ similar structures in ClojureScript.
 - **"I'm a web dev who uses jQuery for a large app - How can I convince my bosses a JS framework is the way to go?"**  
   https://www.reddit.com/r/javascript/comments/3v43qf/im_a_web_developer_who_uses_jquery_to_write_a/  
   Another long, in-depth discussion thread on the merits of JS frameworks, as well as "big-bang" rewrites
+  
+- **"Why isn't AJAX present in Many examples of React/Flow/Redux?"**  
+  https://www.reddit.com/r/reactjs/comments/4pbq2x/why_isnt_ajax_present_in_many_examples_of/  
+  A long discussion thread that covers several topics related to tutorials, articles, and official docs, and various approaches.  Includes a couple comments from Dan Abramov on the limited size and scope of the React team.
+  
+- **"How can I better market my Javascript library?"**  
+  https://news.ycombinator.com/item?id=11833301  
+  The developer of a Redux wrapper library asks how to get more attention online.  I offer a pretty long reply comment describing the various network effects involved in any addon library, and critique his specific library from a Redux user's perspective.

@@ -13,6 +13,14 @@
   https://github.com/cesarandreu/web-app  
   Another very good learning resource.  Heavily commented Webpack config, good default settings.
   
+- **React Laboratory**  
+  https://github.com/tstringer/react-laboratory  
+  An absolute bare-minimum project.  One tiny Webpack config, one JS file, one component.  Pretty much the smallest possible setup to use React and JSX with Webpack.
+  
+- **Hipster Boilerplate**  
+  https://github.com/Jordaanm/hipster-boilerplate  
+  A learning-oriented repo that builds up a small project config step-by-step.  Each commit adds one new feature or capability (Babel+ES6, Webpack bundling, a small Redux app, LESS styling, routing, and hot-reloading).  
+  
   
   
 #### Full-Featured Starter Kits
@@ -66,3 +74,7 @@
 - **React Starter Project Search Tool**  
   http://andrewhfarmer.com/starter-project/  
   Search for starter kits with/without specific libraries and sort by GitHub stars, number of dependencies, or recently updated.
+  
+- **Awesome React Boilerplates**  
+  http://habd.as/awesome-react-boilerplates/  
+  Another good curated list of boilerplates for both React and React Native

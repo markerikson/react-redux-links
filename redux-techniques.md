@@ -36,12 +36,8 @@
   A video demonstrating a Redux crash reporter and time travel debugger.
 
 
+#### Type Checking
 
-#### Other
-- **Applying Redux Reducers to Arrays**  
-  http://blog.scottlogic.com/2016/05/19/redux-reducer-arrays.html  
-  Looks at one way to implement the classic "multiple instances of one connected component" issue in Redux.
-  
 - **Checking React and Redux Code with Flow**  
   http://djcordhose.github.io/react-intro-live-coding/2016_jsunconf.html#/  
   A slideshow that shows the basics of adding type information to Redux-based code 
@@ -49,6 +45,19 @@
 - **Using Redux with Flow**  
   http://frantic.im/using-redux-with-flow  
   Covers how to use Flow typing with Redux
+
+- **Type Checking with Flow in React + Redux**  
+  http://www.robinwieruch.de/the-soundcloud-client-in-react-redux-flow/  
+  
+- **Redux Flow Tutorial**  
+  http://dchambers.github.io/articles/redux-flow-tutorial/  
+  Covers how to set up Flow for type-checking a Redux application
+
+
+#### Other
+- **Applying Redux Reducers to Arrays**  
+  http://blog.scottlogic.com/2016/05/19/redux-reducer-arrays.html  
+  Looks at one way to implement the classic "multiple instances of one connected component" issue in Redux.
   
 - **Ajax Polling in React with Redux and Sagas**  
   http://notjoshmiller.com/ajax-polling-in-react-with-redux/  
@@ -74,3 +83,11 @@
 - **Querying a Redux Store**  
   https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
   A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.
+  
+- **Redux Saga in Action**  
+  https://medium.com/@totaldis/redux-saga-in-action-s-f7d11cffa35a
+  Some interesting thoughts on ways to organize the majority of your app's logic using redux-saga
+  
+- **React, Redux, and Redux-Form**  
+  https://jokeyrhyme.github.io/2016/06/27/react-redux-redux-form.html  
+  Thoughts on the merits of using the Redux-Form library

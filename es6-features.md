@@ -47,6 +47,12 @@
   http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/  
   An in-depth look at when you should stick with standard JS functions instead of arrow functions
   
+#### Specific Features
+
+- **Powering Javascript with Generators**  
+  http://appendto.com/2016/06/powering-javascript-with-generators  
+  A useful introduction to the generators feature in ES6.
+  
   
 #### Techniques
 
@@ -57,3 +63,7 @@
 - **Functional Mixins in ECMAScript 2015**  
   http://raganwald.com/2015/06/17/functional-mixins.html  
   Another approach at combining mixins and classes
+  
+- **Selective transpilation for modern Javascript environments**  
+  https://medium.com/@adamrackis/selective-transpilation-for-modern-javascript-environments-15bde6b75cfd  
+  An investigation into ways to offer up differently-compiled bundles for different platforms with various levels of JS feature support.

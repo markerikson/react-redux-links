@@ -54,6 +54,15 @@
 - **Introduction to Redux and React-Redux**  
   http://julienrenaux.fr/2016/05/30/introduction-to-redux-and-react-redux/  
   A quick overview of core Redux concepts, with code examples for creating a store and hooking up React components to read the data.
+  
+- **Redux and React Redux**  
+  http://www.pshrmn.com/tutorials/react/redux/  
+  http://www.pshrmn.com/tutorials/react/react-redux/  
+  A pair of articles covering basic Redux concepts and usage.
+  
+- **An Introduction to Redux**  
+  https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/  
+  An overview and intro to the basic concepts of Redux.
 
 
 #### Project-Based Tutorials
@@ -103,6 +112,14 @@
 - **Let's Write Redux!**  
   http://www.jamasoftware.com/blog/lets-write-redux/  
   Walks through writing a miniature version of Redux step-by-step, to help explain the concepts and implementation.
+  
+- **Hacking Redux**  
+  http://paulserraino.com/javascript/2016/02/16/hacking-redux.html  
+  Looks at the core concepts in Redux, and builds up a mini-Redux to demonstrate how Redux works internally.
+  
+- **Learning Redux with Reducks**  
+  http://www.aaron-powell.com/tagged/reducks.html  
+  Another "build a mini-Redux" article series.
 
 
 #### Redux Middleware
@@ -126,6 +143,14 @@
 - **Redux Middleware**  
   http://jonnyreeves.co.uk/2016/redux-middleware/  
   A tutorial describing how Redux compares to typical "MVC", what a "middleware" is, what they can do, and how you can test them. 
+  
+- **Redux Middleware Tutorial**  
+  http://www.pshrmn.com/tutorials/react/redux-middleware/  
+  An overview of what middleware is, how `applyMiddleware` works, and how to write middleware.
+  
+- **Redux Middleware: Behind the Scenes**  
+  http://briantroncone.com/?p=529  
+  Digs into the concepts and implementation of middleware.
 
 
 #### Paid Courses and Books

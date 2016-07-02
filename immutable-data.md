@@ -13,6 +13,10 @@
 - **Immutable Javascript using ES6 and Beyond**  
   http://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/  
   Describes ways to handle data immutably using "just" built-in Javascript functions
+  
+- **Immutability is Not Enough**  
+  https://codewords.recurse.com/issues/six/immutability-is-not-enough  
+  A look at how using an immutable data approach doesn't magically prevent all bugs.
 
 
 
@@ -48,3 +52,7 @@
 - **Painless Immutability**  
   https://guigrpa.github.io/2016/06/16/painless-immutability/  
   A somewhat opinionated article from the author of a new immutable data library comparing different options, but still well-written and informative about the pros and cons of each.
+  
+- **Immutable.js**  
+  http://seanamarasinghe.com/developer/immutable-js/  
+  An introduction to the API and use cases for Immutable.js

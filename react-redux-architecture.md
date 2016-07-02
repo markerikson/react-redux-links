@@ -74,6 +74,22 @@
   https://css-tricks.com/learning-react-container-components/  
   Describes the container component pattern and how to use it to split up responsibilities between fetching and displaying data.
   
+- **Finding `state`'s place with React and Redux**  
+  https://medium.com/@adamrackis/finding-state-s-place-with-react-and-redux-e9a586630172
+  A look at when and how using React component state may be useful, even when using Redux for primary app state
+  
+- **Dataflow through React**  
+  https://jurassix.gitbooks.io/dataflow-through-react/content/index.html  
+  An online book that covers a number of topics on React components and data flow.
+  
+- **A case for setState**  
+  https://medium.com/@zackargyle/a-case-for-setstate-1f1c47cd3f73  
+  An article arguing that React component state still has a number of uses.
+  
+- **Smart and Dumb Components in React**  
+  http://jaketrent.com/post/smart-dumb-components-react/  
+  Another look at ways to conceptually categorize components based on responsibilities, and some ways you can organize your code based on those concepts.
+  
   
 #### React and AJAX
 
@@ -134,6 +150,18 @@
   https://medium.com/@thejenniekim/two-way-data-binding-and-form-validation-in-react-9d0b15123176  
   Another demonstration of building a form with some logic and validation.
   
+- **Using React's state to manage data entry**  
+  https://medium.com/@adamrackis/using-reacts-state-to-manage-data-entry-ed92e4fd1a42
+  Describes how to manage data for forms using React component state and some wrapper components.
+  
+- **Handling React Forms with Mobx Observables**  
+  https://blog.risingstack.com/handling-react-forms-with-mobx-observables/  
+  Some examples of working with forms in React, using MobX for the data management.
+  
+- **Forms in React and Redux**  
+  http://x-team.com/2016/02/tutorial-forms-in-react-and-redux/  
+  A good example of how to set up form handling in conjunction with a Redux store.
+  
   
 #### Project File Structure
 
@@ -164,6 +192,10 @@
 - **How to Better Organize Your React Applications?**  
   https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1  
   Another feature-style approach, describing things in terms of "components", "scenes", and "services".
+  
+- **Fractal Project Structure**  
+  https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure  
+  Docs from the React Redux Starter Kit project describing their "Fractal Project Structure" concept, and advice for file and app organization.
 
 
 #### Redux Architecture

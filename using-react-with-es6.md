@@ -19,6 +19,10 @@
   http://benmccormick.org/2016/05/02/digging-into-react-choosing-component-styles/  
   A comparison of the three ways to define a React component.  Good descriptions, and links to some other related discussions.
   
+- **Refactoring React Components to ES6 Classes**  
+  http://www.newmediacampaigns.com/blog/refactoring-react-components-to-es6-classes  
+  Walks through the steps needed to convert an older-style `React.createClass()` component to use the newer ES6 class syntax instead.
+  
 
 #### Methods and Instance Binding
 
@@ -40,3 +44,8 @@
 - **react-bind-decorator**  
   https://github.com/zackargyle/react-bind-decorator  
   Another autobinding approach, intended to be fast and performant.
+  
+- **react-class-binder**  
+  https://github.com/Klathmon/react-class-binder  
+  https://www.reddit.com/r/reactjs/comments/4p0ytu/i_made_a_small_package_to_easily_autobind_this_in/  
+  Automatically bind methods defined in a React component using the ES2015 class syntax (similar to how React.createClass works).  The Reddit comments have discussion on some differences between the various libs that implement autobinding.

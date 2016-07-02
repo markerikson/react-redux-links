@@ -1,6 +1,8 @@
 ### Webpack Advanced Techniques
 
-#### Articles and Slideshows
+#### General Articles and Slideshows
+
+#### Build Optimization
 
 - **Webpack: Build Performance**  
   https://github.com/webpack/docs/wiki/build-performance  
@@ -21,7 +23,26 @@
 - **Fixing annoying imports in React Projects**  
   https://medium.com/datawallet-tech/fixing-annoying-imports-in-react-projects-895a6ad24c24  
   A quick example of using Webpack's module aliasing to simplify import paths, with further discussion in the comments.
+
+- **Webpack Plugins we been keeping on the DLL**  
+  https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7
+  An overview of Webpack's DllPlugin, and how it can be used for faster dev builds.
   
+- **Webpack Async Bundle Loading**  
+  http://jilles.me/webpack-async-bundle-loading/  
+  A quick look at how to delay-load some portion of your app's code.
+  
+- **DllPlugin usage summary**  
+  https://github.com/erikras/react-redux-universal-hot-example/issues/616#issuecomment-228956242  
+  Notes from a user who wants to document his findings on usage of DllPlugin.  Pretty thorough.
+  
+  
+- **Implement Webpack DLL Plugin for React-Boilerplate**  
+  https://github.com/mxstbr/react-boilerplate/pull/495  
+  A PR adding usage of DllPlugin to React-Boilerplate.  Thorough and well-commented - should be a very useful reference to anyone trying to set it up in their own project.
+  
+#### Hot Module Replacement
+
 - **Webpack and Hot Module Replacement**  
   https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07  
   A great in-depth walkthrough of how HMR works
@@ -34,12 +55,16 @@
   https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf  
   Dan Abramov walks through the history of his React Hot Loader and React Transform tools, describes their implementation, flaws, and weaknesses, and looks at a potential solution (later implemented in React Hot Loader 3.0).
   
-- **Webpack Plugins we been keeping on the DLL**  
-  https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7
-  An overview of Webpack's DllPlugin, and how it can be used for faster dev builds.
-
-
-#### Examples
+- **HMR Tutorial Series**  
+  http://andrewhfarmer.com/why-use-hmr/  
+  http://andrewhfarmer.com/understanding-hmr/  
+  http://andrewhfarmer.com/3-ways-webpack-hmr/  
+  http://andrewhfarmer.com/webpack-hmr-tutorial/  
+  A very readable and informative series of articles on using HMR.  
+  
+- **Live Editing Javascript with Webpack**  
+  http://jlongster.com/Backend-Apps-with-Webpack--Part-III  
+  Some interesting and advanced tricks for ways HMR could be used.
 
 - **Using React with "plain" Webpack HMR**  
   https://github.com/reactjs/redux/pull/1455  
@@ -48,3 +73,29 @@
 - **Basic HMR Usage Example**  
   https://gist.github.com/markerikson/dc6cee36b5b6f8d718f2e24a249e0491  
   An extracted example demonstrating using "plain" HMR to reload components, reducers, and even sagas.
+  
+
+
+
+#### Other Tips and Examples
+
+- **Course: Using Webpack for Production Javascript Apps**  
+  https://egghead.io/courses/using-webpack-for-production-javascript-applications  
+  A video course by Kent C. Dodds, covering a number of very useful Webpack techniques for real-world apps.  Requires an Egghead subscription, but solid and useful info.
+
+- **Javascript at Tumblr - Switching to Webpack**  
+  https://javascript.tumblr.com/post/143583264647/here-at-tumblr-we-use-a-js-bundler-to-compile-our  
+  Tumblr's dev team talks about switching from Browserify to Webpack, their migration steps, and some useful tips learned about pieces like CommonsChunkPlugin.
+
+- **Webpack HTML plugin in a Nutshell**  
+  http://www.jonathan-petitcolas.com/2016/01/23/webpack-html-plugin-in-a-nutshell.html  
+  Looks at what the HTML Webpack plugin can do and how to use it.
+  
+- **Truly Multiple Entries with Webpack**  
+  https://kuzzmi.com/blog/truly-multiple-entries-with-webpack  
+  Instructions on how to configure multiple entry points properly
+
+
+#### Examples
+
+  

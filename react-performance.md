@@ -20,8 +20,6 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   http://kelle.co/react-perf-slides/  
   A slideshow that walks through the core concepts of managing good React performance.
   
-
-  
 - **Optimizing React Performance using keys, component lifecycle, and performance tools**  
   http://jaero.space/blog/react-performance-1  
   http://jaero.space/blog/react-performance-2  
@@ -85,6 +83,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://github.com/jurassix/react-immutable-render-mixin/issues/19#issuecomment-222567064  
   Immutable.js author Lee Byron comments on a performance discussion, giving advice on suggested Immutable.js usage patterns
   
+- **"Immutable perf tip: avoid toJS"**  
+  https://twitter.com/leeb/status/746733697093668864  
+  Another suggestion from Lee Byron to avoid use of Immutable.js's data conversion functions based on performance reasons.
+  
 #### Redux Performance
   
 - **High Performance Redux**  
@@ -103,5 +105,7 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://github.com/reactjs/redux/issues/1751  
   Discussion of several factors that affect Redux performance
   
-
+- **Improving React and Redux Performance with Reselect**  
+  http://blog.rangle.io/react-and-redux-performance-with-reselect/  
+  Covers how to use Reselect to define memoized "selector" functions that can cut down on duplicate work
 

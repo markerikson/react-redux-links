@@ -37,11 +37,32 @@
   http://think-like-a-git.net/  
   A tutorial for "advanced beginners" who know the basic commands, but want to better understand Git's concepts
   
+- **Git from the Inside Out**  
+  https://codewords.recurse.com/issues/two/git-from-the-inside-out  
+  An explanation of how Git works, by describing the internal data structures and the graph that they form.
+  
+
+#### Tips and Useful Info
+
+- **How to Write a Git Commit Message**  
+  http://chris.beams.io/posts/git-commit/  
+  Great advice for how to write a succinct, informative, and useful commit message.
 
 - **Advance Git**  
   https://medium.com/@jstats/advance-git-dfe557bdbe59  
   Gives advice for good commit messages, and describes the options and usage for several advanced Git commands (`add --patch`, `rebase`, `reflog`, and more).
   
+- **Git Useful Tips**  
+  http://ericdouglas.github.io/2016/04/01/Git-Useful-Tips/  
+  A useful reference to commands and concepts.
+  
+- **19 Tips for Everyday Git Use**  
+  http://www.alexkras.com/19-git-tips-for-everyday-use  
+  A variety of practical commands for different scenarios.
+  
+- **Git Tips**  
+  https://github.com/git-tips/tips  
+  A large collection of Git tips and tricks.
 
 #### E-Books
 
@@ -90,17 +111,7 @@
   http://ndpsoftware.com/git-cheatsheet.html  
   A clickable page that shows how various commands move data between different parts of Git's storage (working copy, index, local repo, remote repo)
   
-- **Git Useful Tips**  
-  http://ericdouglas.github.io/2016/04/01/Git-Useful-Tips/  
-  A useful reference to commands and concepts.
-  
-- **19 Tips for Everyday Git Use**  
-  http://www.alexkras.com/19-git-tips-for-everyday-use  
-  A variety of practical commands for different scenarios.
-  
-- **Git Tips**  
-  https://github.com/git-tips/tips  
-  A large collection of Git tips and tricks.
+
   
 #### Desktop GUI Clients
 

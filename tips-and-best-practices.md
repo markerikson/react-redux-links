@@ -54,3 +54,11 @@
   https://medium.com/@kylpo/redux-best-practices-eef55a20cc72  
   A variety of tips, best practices, opinions, and comparisons related to React, Redux, Immutable.js, and MobX.  Includes thoughts on component architecture, file structure, coding style, and other topics.
   
+- **React Best Practices & Patterns**  
+  http://seanamarasinghe.com/developer/react-best-practices-patterns/  
+  A number of useful conventions for writing React code.
+  
+- **React Gotchas**  
+  https://daveceddia.com/react-gotchas/  
+  Three quick tips to keep in mind while writing React code (capitalize component names, close all JSX tags, and remember setState is asynchronous)
+  

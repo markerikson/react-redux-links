@@ -55,6 +55,14 @@
   http://jilles.me/webpack-is-not-as-complicated-as-you-think/  
   A simple overview of a basic Webpack config looks like.
   
+- **Creating a React and Webpack Project (screencast)**  
+  http://javascriptplayground.com/blog/2016/06/react-webpack-workflow-screencast/  
+  A video walkthrough of the basic setup for a Webpack-based project.
+  
+- **Webpack 101: An Introduction to Webpack**  
+  http://code.hootsuite.com/webpack-101/  
+  A useful intro to Webpacks concepts and capabilities, with some examples.
+  
   
 #### Configuration Terms and Concepts
 

@@ -66,6 +66,14 @@
 - **React Enlightenment**  
   http://www.reactenlightenment.com/  
   A straightforward, cookbook-style approach to learning React.  (Currently a work-in-progress.)
+  
+- **ReactJS Tutorial**  
+  http://www.tutorialspoint.com/reactjs/index.htm  
+  A multi-part tutorial covering numerous aspects of React.  Each part is short and the writing is a bit awkward, but the topics and info are useful.
+  
+- **React Tutorial**  
+  http://www.pshrmn.com/tutorials/react/react/  
+  A very readable intro to React's concepts.
 
 
 #### Project-Based Tutorials

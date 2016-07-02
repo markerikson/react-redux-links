@@ -7,7 +7,8 @@ While this list is primarily focused on learning React and Redux, and generally 
 
 - **Mozilla Developer Network: Javascript**  
   https://developer.mozilla.org/en-US/docs/Web/JavaScript  
-  Mozilla maintains a fantastic set of developer resources for Web technologies, including a comprehensive reference to the Javascript language and a number of associated tutorials.
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript  
+  Mozilla maintains a fantastic set of developer resources for Web technologies, including a comprehensive reference to the Javascript language and a number of associated tutorials.  Their "reintroduction to Javascript" article is a great overview of what the language looks like.
   
   
 - **Eric Elliott's Javascript Resource Lists**  
@@ -63,6 +64,10 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://www.sitepoint.com/inner-workings-javascripts-this-keyword/  
   https://www.sitepoint.com/mastering-javascripts-this-keyword/  
   A two-part article on the ins and outs of `this`.
+  
+- **Let's Settle `this`, Part One**  
+  https://medium.com/@nashvail/lets-settle-this-part-one-ef36471c7d97
+  Another look at `this`, with a number of examples and explanations
 
 
 

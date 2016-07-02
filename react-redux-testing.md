@@ -26,10 +26,6 @@
   https://github.com/mxstbr/react-boilerplate/blob/v3.0.0/docs/testing/component-testing.md  
   Useful description of how to use Mocha, Expect, and Enzyme to test React and Redux code
   
-- **Reddit - "Karma/Mocha/Chai/Sinon setup"**  
-  https://www.reddit.com/r/javascript/comments/4217x6/ive_spent_six_hours_attempting_to_set_up/  
-  Reddit user Cody_Chaos describes his approach to running unit tests under Node with Mocha, and integration tests in a browser with Karma.  Includes several useful config setup snippets.
-  
 - **Testing React Applications**  
   http://12devsofxmas.co.uk/2015/12/day-2-testing-react-applications/  
   A long, in-depth article describing approaches and use of Tape, React TestUtils, and Enzyme
@@ -52,10 +48,6 @@
   http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/  
   A short but useful look at a couple testing libraries and ways to use them.
 
-- **Redux Flow Tutorial**  
-  http://dchambers.github.io/articles/redux-flow-tutorial/  
-  Covers how to set up Flow for type-checking a Redux application
-  
 - **Unit Testing React Components and Redux Reducers**  
   http://pebblecode.com/blog/react-redux-unit-testing/  
   Some basic examples for testing reducers and components.
@@ -76,6 +68,25 @@
   http://silvenon.com/testing-react-and-redux/  
   A three-part article that shows how to set up Ava and Babel, then walks through testing Redux code (action creators, reducers, selectors, thunks, and sagas), and React components.
   
+  
+#### General Testing, Tools, and Setup
+
+- **Javascript Testing: Unit vs Functional vs Integration**  
+  https://www.sitepoint.com/javascript-testing-unit-functional-integration/  
+  A comparison of the various levels of tests you can run, and what roles they play in development.
+
+- **Reddit - "Karma/Mocha/Chai/Sinon setup"**  
+  https://www.reddit.com/r/javascript/comments/4217x6/ive_spent_six_hours_attempting_to_set_up/  
+  Reddit user Cody_Chaos describes his approach to running unit tests under Node with Mocha, and integration tests in a browser with Karma.  Includes several useful config setup snippets.
+
 - **Setting Up Javascript Testing Tools for ES6**  
   http://x-team.com/2016/05/setting-up-javascript-testing-tools-for-es6/  
   Tips on configuring tools to work with ES6 code, and writing tests using ES6
+  
+- **Keep Calm and Love Javascript Unit Tests - Part 2: Asynchronism**  
+  http://www.theodo.fr/blog/2016/06/keep-calm-and-love-javascript-unit-tests-part-2-asynchronism/  
+  Useful tips for testing asynchronous behavior under Mocha.
+  
+- **ESLint Part 1: Exploration**  
+  https://blog.scottnonnenberg.com/eslint-part-1-exploration/  
+  A solid look at what ESLint is, how you can use it to help keep your code clean, and a number of useful linting plugins that are available.
