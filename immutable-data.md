@@ -2,9 +2,14 @@
 
 
 #### Basic Concepts
+
+- **Pros and Cons of Using Immutability With React**  
+  http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/  
+  Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of using managing data immutably
+
 - **Immutability in Javascript**  
   http://www.sitepoint.com/immutability-javascript/  
-  Covers the basic concepts of immutable data in Javascript
+  Describes a couple basic concepts of immutable data in Javascript, and how the Immutable.js library can be used for those concepts.
 
 - **Immutable Data Structures and Javascript**  
   http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript  
