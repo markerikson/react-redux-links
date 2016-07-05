@@ -5,7 +5,23 @@
 
 - **Pros and Cons of Using Immutability With React**  
   http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/  
-  Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of using managing data immutably
+  Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of managing data immutably.  While the title refers to React, most of the writing just deals with plain Javascript concepts.
+
+- **Javascript and Immutability**  
+  http://t4d.io/javascript-and-immutability/  
+  A description of how to properly immutably update objects and arrays using functions like assign and slice
+
+- **Immutable Javascript using ES6 and Beyond**  
+  http://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/  
+  Describes ways to handle data immutably using "just" built-in Javascript functions, particularly ES6 syntax
+
+- **Pure javascript immutable arrays**  
+  http://vincent.billey.me/pure-javascript-immutable-array  
+  A reminder to avoid the built-in Array functions that mutate the array, with snippets demonstrating alernative immutable functionality
+
+- **Immutable Data from Scratch**  
+  https://ryanfunduk.com/articles/immutable-data-from-scratch/  
+  Demonstrates building up an immutable update utility library similar to React's Update Addons
 
 - **Immutability in Javascript**  
   http://www.sitepoint.com/immutability-javascript/  
@@ -14,10 +30,6 @@
 - **Immutable Data Structures and Javascript**  
   http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript  
   In-depth article covering the value of immutable data, and two common JS libraries
-
-- **Immutable Javascript using ES6 and Beyond**  
-  http://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/  
-  Describes ways to handle data immutably using "just" built-in Javascript functions
   
 - **Immutability is Not Enough**  
   https://codewords.recurse.com/issues/six/immutability-is-not-enough  
@@ -31,17 +43,11 @@
   http://www.sitepoint.com/immutability-react/  
   Covers the reasons and basic concepts of using immutable data with React
   
-- **Pros and Cons of Using Immutability With React**  
-  http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/  
-  Excellent description of what immutability is, how to use it with React, and pros and cons of using it
-  
 - **Why Should I Care About Immutable Data In React?**  
   http://www.bennadel.com/blog/2903-why-should-i-care-about-immutable-data-in-reactjs.htm  
   Describes the major benefits of using immutable data in React, with a demo
 
-- **Short-Circuiting Component Updates in React**  
-  http://www.bennadel.com/blog/2904-shouldcomponentupdate-will-short-circuit-an-entire-subtree-of-components-in-reactjs.htm  
-  Walks through how to optimize React performance by skipping updates for subtrees
+
 
 
 #### Immutable Data Libraries
