@@ -19,9 +19,17 @@
   http://vincent.billey.me/pure-javascript-immutable-array  
   A reminder to avoid the built-in Array functions that mutate the array, with snippets demonstrating alernative immutable functionality
 
+- **Javascript Array: slice vs splice**  
+  https://ariya.io/2014/02/javascript-array-slice-vs-splice  
+  A reminder that "slice" and "splice" are different functions with different behavior
+
 - **Immutable Data from Scratch**  
   https://ryanfunduk.com/articles/immutable-data-from-scratch/  
   Demonstrates building up an immutable update utility library similar to React's Update Addons
+
+- **Immutable Objects with `Object.freeze`**  
+  http://adripofjavascript.com/blog/drips/immutable-objects-with-object-freeze.html  
+  A quick look at how to use `Object.freeze` to enforce immutability.
 
 - **Immutability in Javascript**  
   http://www.sitepoint.com/immutability-javascript/  
@@ -47,6 +55,9 @@
   http://www.bennadel.com/blog/2903-why-should-i-care-about-immutable-data-in-reactjs.htm  
   Describes the major benefits of using immutable data in React, with a demo
 
+- **React: A (very brief) talk about immutability**  
+  https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c
+  Talks about the issues with mutation, and some ways to update immutably
 
 
 
