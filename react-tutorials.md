@@ -136,7 +136,10 @@
   http://codeutopia.net/blog/2016/02/08/using-webrtc-and-react-to-build-a-basic-chat-server/  
   http://codeutopia.net/blog/2016/02/15/improving-our-react-workflow-with-es6-and-functional-stateless-components/  
   A multi-part series that builds up a chat application
-  
+
+- **SurviveJS - React**  
+  http://survivejs.com/react/introduction  
+  A full book online book that shows how to develop a Kanban application. Covers key ideas of React, Flux, and advanced concepts such as styling. The commercial version has more content, but you can complete the basic tutorial for free.  
 
 #### React Implementation Walkthroughs
   
