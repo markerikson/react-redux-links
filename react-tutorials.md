@@ -190,6 +190,10 @@
 - **Pro React**  
   http://www.pro-react.com/  
   The book teaches you how to successfully structure increasingly complex front-end applications and interfaces.  You will learn how to use React completely, and learn best practices for creating interfaces in a composable way. You will also cover additional tools and libraries in the React ecosystem (such as React Router and Flux architecture). 
+
+  **appendTo Instructor-led React Courses**
+  https://appendto.com/courses/react-training/
+  appendTo offers instructor-led, hands-on React training courses on React, Redux, React Native, ES6, and Webpack.
   
   
   
