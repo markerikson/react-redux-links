@@ -3,7 +3,11 @@
 
 #### Suggested Starter Kits for Learners
 
-**NOTE**: It's easy for someone new to the React/Redux ecosystem to get confused by some of these boilerplates and starter kits.  Many of them include dozens of specifically-configured libraries, and it can be hard for a learner to understand how all the pieces fit together.  If you're trying to learn React or Redux for the first time, it's suggested that you start with reading tutorials and articles first, until you have a reasonable understanding of how things work.  However, if you _do_ want to use a starter kit as a learning tool, I specifically suggest the ones in this section.  They are simpler, easier to understand, and well documented.
+**NOTE**: It's easy for someone new to the React/Redux ecosystem to get confused by some of these boilerplates and starter kits.  Many of them include dozens of specifically-configured libraries, and it can be hard for a learner to understand how all the pieces fit together.  If you're trying to learn React or Redux for the first time, it's suggested that you start with reading tutorials and articles first, until you have a reasonable understanding of how things work.  However, if you _do_ want to use a starter kit as a learning tool, I specifically suggest the ones in this section.  They are simpler, easier to understand, and well documented.  In particular, Create-React-App is highly recommended.
+
+- **Create-React-App**  
+  https://github.com/facebookincubator/create-react-app  
+  An "official", no-visible-configuration tool to instantly create a React project with bundling, minification, and basic CSS and image handling all set up and ready to go.  If you outgrow the basic features, the underlying tools can be exposed and modified using a one-time "eject" command.  It's a great tool to use to when learning React, or just to set up a project quickly. 
 
 - **Simple Redux Boilerplate**  
   https://github.com/tsaiDavid/simple-redux-boilerplate  
