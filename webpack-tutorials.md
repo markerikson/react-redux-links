@@ -2,6 +2,10 @@
 
 
 #### Basic Tutorials
+- **Egghead.io - Intro to Webpack (Playlist)**  
+  https://egghead.io/playlists/intro-to-webpack-4ca2d994  
+  Three lessons giving a brief introduction to webpack and loaders concepts. First lesson is free.
+
 - **SurviveJS - Webpack**  
   http://survivejs.com/webpack/introduction  
   A full book online book that covers setting up Webpack for both development and production. Also touches topics such as ESLint and npm.
