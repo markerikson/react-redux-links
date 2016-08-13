@@ -89,3 +89,13 @@
 - **Functional Programming Isn't the Answer**  
   http://degoes.net/articles/fp-is-not-the-answer  
   A reminder that while FP has potential benefits, it's ultimately just a tool, and the end goal is useful software.
+  
+- **An Intro to Functional Programming Concepts in Javascript**  
+  https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c  
+  https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed  
+  https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6  
+  A multi-part series covering a number of FP concepts, how to use them in Javascript, and use of the Ramda FP utility library
+  
+- **JavaScript and Functional Programming**  
+  https://bethallchurch.github.io/JavaScript-and-Functional-Programming/  
+  An overview of the basic principles of functional programming, and how they can be applied in Javascript.  Also includes links to a variety of other articles and resources.

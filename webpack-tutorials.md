@@ -1,5 +1,6 @@
 ### Webpack Tutorials
 
+Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpack) for more links to documentation, plugins, people, utilities, and articles.
 
 #### Basic Tutorials
 - **Egghead.io - Intro to Webpack (Playlist)**  
@@ -63,7 +64,24 @@
   http://code.hootsuite.com/webpack-101/  
   A useful intro to Webpacks concepts and capabilities, with some examples.
   
+- **Webpack Deep Dive**  
+  http://slides.com/kentcdodds/webpack-deep-dive#/  
+  https://github.com/kentcdodds/es6-todomvc  
+  A set of slides that teach Webpack concepts and usage, with an associated repo that has diffs demonstrating each set of changes and configuration.
   
+- **Webpack: When To Use and Why**  
+  http://blog.andrewray.me/webpack-when-to-use-and-why/  
+  TL;DR It took me a long time to understand Webpack and how it fits in the build process. This is what I wish someone had told me.
+  
+- **Pro React Appendix: Webpack for React**  
+  http://www.pro-react.com/materials/appendixA/  
+  A free online chapter of the Pro React book, covering Webpack concepts and usage.
+  
+- **A Comprehensive Introduction to Webpack, the Module Bundler**  
+  http://www.theodo.fr/blog/2016/07/a-comprehensive-introduction-to-webpack-the-module-bundler/  A solid article covering basic Webpack configuration and setup.
+  
+  
+
 #### Configuration Terms and Concepts
 
 - **Webpack: The Confusing Parts**  
@@ -78,3 +96,30 @@
 - **Angular + Webpack <3**  
   https://docs.google.com/presentation/d/10mIapWjv1pyUQaMv6G8MCdoe9OK2Ey8zz-CLkHuFdRI/edit?usp=sharing  
   A long presentation that describes Webpack and its core concepts in depth.  A few parts are Angular-centric, but still an extremely clear and informative set of slides.  Covers topics like the "entry" and "output" options, "loaders", and "plugins", 
+  
+- **Why Can't Anyone Write a Simple Webpack Tutorial?**  
+  https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed  
+  A goofy but informative look at many of the concepts and pieces that make up Webpack
+  
+  
+#### Webpack Configuration Utilities
+
+- **webpack-config-utils**  
+  https://github.com/kentcdodds/webpack-config-utils  
+  Provides utilities to make it easier to compose your config object, so it's easier for people to read.
+  
+- **prepacked**  
+  https://github.com/mikeyamadeo/prepacked  
+  The power of webpack with simplified configuration. All the tools to effectively build in development and then ship for production with minimal setup.
+  
+- **terse-webpack**  
+  https://github.com/ericclemmons/terse-webpack  
+  Webpack simplified in a fluent API with presets & an escape hatch so you're not locked in.
+  
+- **Easy Webpack**  
+  https://github.com/easy-webpack/core  
+  An easy way to create configuration files for Webpack, with modularized individual features anbd preset configs.
+  
+- **Maintainable Webpack Config**  
+  https://github.com/chrisvfritz/maintainable-webpack-config  
+  An experiment to make Webpack configs testable and maintainable

@@ -25,7 +25,7 @@
   A quick example of using Webpack's module aliasing to simplify import paths, with further discussion in the comments.
 
 - **Webpack Plugins we been keeping on the DLL**  
-  https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7
+  https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7  
   An overview of Webpack's DllPlugin, and how it can be used for faster dev builds.
   
 - **Webpack Async Bundle Loading**  
@@ -40,6 +40,18 @@
 - **Implement Webpack DLL Plugin for React-Boilerplate**  
   https://github.com/mxstbr/react-boilerplate/pull/495  
   A PR adding usage of DllPlugin to React-Boilerplate.  Thorough and well-commented - should be a very useful reference to anyone trying to set it up in their own project.
+  
+- **Optimizing Webpack**  
+  http://engineering.invisionapp.com/post/optimizing-webpack/  
+  Explains how to use DllPlugin to pre-bundle vendor libraries for faster build times.
+  
+- **Manually Tuning Webpack Builds**  
+  https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44  
+  Tips for cutting down bundle sizes by removing duplicate library instances and fine-tuning usage of various libraries.
+  
+- **Chat discussion - summary of process.env.NODE_ENV and its use with Webpack**  
+  https://gist.github.com/markerikson/6776848172c33aaa4db882627c689e18  
+  An overview of how the `process.env.NODE_ENV` variable is often used to define optimizations for Webpack production builds
   
 #### Hot Module Replacement
 
@@ -94,8 +106,18 @@
 - **Truly Multiple Entries with Webpack**  
   https://kuzzmi.com/blog/truly-multiple-entries-with-webpack  
   Instructions on how to configure multiple entry points properly
-
-
-#### Examples
-
   
+- **Long-term caching of static assets with Webpack**  
+  https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95  Gathers documentation on proper use of asset caching into one article to act as a complete guide.
+  
+- **Goodbye "../../../"**  
+  http://davidboyne.co.uk/2016/04/29/react-webpack-gem.html  
+  Tips and discussion on removing relative paths when importing
+  
+- **Using the HTML Webpack Plugin for generating HTML files**  
+  http://javascriptplayground.com/blog/2016/07/webpack-html-plugin/  
+  Basic instructions for setting up the HTML Webpack plugin
+  
+- **Setting up CSS Modules with React and Webpack**  
+  http://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/  
+  Covers setting up and configuring Webpack to use CSS Modules for styling

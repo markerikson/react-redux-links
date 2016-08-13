@@ -64,6 +64,10 @@
 - **An Introduction to Redux**  
   https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/  
   An overview and intro to the basic concepts of Redux.
+  
+- **Why Redux makes sense to me and how I conceptualize it**  
+  https://medium.com/@fay_jai/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca  
+  Some useful analogies for visualizing how Redux works, how the pieces fit together, and why you'd want to use it.
 
 
 #### Project-Based Tutorials
@@ -98,7 +102,23 @@
   https://courses.cs.ut.ee/2016/react/spring/Main/Lectures  
   An Estonian university course covering React and Redux. Lecture videos, slides, and course code are all available online (in English).  Topics include React philosophy, container components, Redux basics, async actions, middleware, routing, and optimization.
 
+- **TypeScript Redux**  
+  https://github.com/ServiceStackApps/typescript-redux  
+  This guide goes through setting up, running and exploring the ultimate JavaScript Stack du jour: TypeScript, JSPM, React, and Redux.
+  
+- **Build a React Redux App with JSON Web Token (JWT) Authentication**  
+  http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/  
+  Demonstrates building the client portion of a JWT-authenticated application (follow-up to previous articles that built the server-side).
+  
+- **Redux Hero: An Intro to Redux and Reselect**  
+  https://decembersoft.com/posts/redux-hero-part-1-a-hero-is-born-a-fun-introduction-to-redux-js/  
+  https://decembersoft.com/posts/redux-hero-part-2-actions-and-their-consequences-a-fun-introduction-to-redux-actions/  
+  https://decembersoft.com/posts/redux-hero-part-3-choose-wisely-a-fun-introduction-to-reselect-js/  
+  An introduction to Redux and related libraries through building a small RPG-style game
 
+- **An Adventure in Redux: building redux-adventure**  
+  http://csharperimage.jeremylikness.com/2016/07/an-adventure-in-redux-building-redux.html  
+  Builds a small randomized dungeon game using Redux, TypeScript, and Angular 2
 
 #### Redux Implementation Walkthroughs
 
@@ -152,6 +172,10 @@
 - **Redux Middleware: Behind the Scenes**  
   http://briantroncone.com/?p=529  
   Digs into the concepts and implementation of middleware.
+  
+- **Middlewares and React Redux Lifecycle**  
+  https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6  
+  A description of what a middleware is, and how it works in Redux
 
 
 #### Paid Courses and Books

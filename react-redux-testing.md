@@ -68,6 +68,14 @@
   http://silvenon.com/testing-react-and-redux/  
   A three-part article that shows how to set up Ava and Babel, then walks through testing Redux code (action creators, reducers, selectors, thunks, and sagas), and React components.
   
+- **Testing React Applications Examples**  
+  https://github.com/mxstbr/react-testing  
+  A repo showcasing how to test various parts of a common React/Redux app using Mocha, expect and enzyme
+  
+- **Unit Testing Redux Container Components**  
+  http://pebblecode.com/blog/testing-redux-containers/  
+  Demonstrates techniques for properly testing Redux-connected React components using a mock store.
+  
   
 #### General Testing, Tools, and Setup
 
@@ -90,3 +98,9 @@
 - **ESLint Part 1: Exploration**  
   https://blog.scottnonnenberg.com/eslint-part-1-exploration/  
   A solid look at what ESLint is, how you can use it to help keep your code clean, and a number of useful linting plugins that are available.
+  
+- **Keep Calm and Love Javascript Unit Tests**  
+  http://www.theodo.fr/blog/2016/04/keep-calm-and-love-javascript-unit-tests-part-1/  
+  http://www.theodo.fr/blog/2016/06/keep-calm-and-love-javascript-unit-tests-part-2-asynchronism/  
+  An introduction to using Mocha, Chai, and Sinon to write unit tests for various scenarios.
+  

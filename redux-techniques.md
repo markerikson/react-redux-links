@@ -68,6 +68,10 @@
   http://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions  
   A detailed answer describing how you can declaratively drive pieces of your UI by putting descriptive pieces of data into your state (such as the name of the current dialog component to show, and what props that dialog should have)
   
+- **Implement a confirm modal using React & Redux**  
+  http://jslancer.com/2016/08/07/implement-a-confirm-modal-using-react-redux/  
+  Demonstrates wrapping up an existing modal library to be controlled by Redux actions
+  
 - **Two mistakes I made working with Redux**  
   http://www.mattzeunert.com/2016/06/01/redux-mistakes.html  
   Some suggestions on how to handle denormalizing data and defining actions.
@@ -76,18 +80,41 @@
   http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
   A look at one way to write encapsulated action handling in Redux
   
-- **Scalable Single-Page Application Architecture with Redux and Angular 2**  
-  http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
-  An in-depth article covering how to architect an application using Redux, Angular 2, and RxJS.  
-  
 - **Querying a Redux Store**  
   https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
   A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.
   
-- **Redux Saga in Action**  
-  https://medium.com/@totaldis/redux-saga-in-action-s-f7d11cffa35a
-  Some interesting thoughts on ways to organize the majority of your app's logic using redux-saga
-  
 - **React, Redux, and Redux-Form**  
   https://jokeyrhyme.github.io/2016/06/27/react-redux-redux-form.html  
   Thoughts on the merits of using the Redux-Form library
+  
+- **A Quick Look at the React and Redux DevTools**  
+  http://mediatemple.net/blog/tips/a-quick-look-at-the-react-and-redux-devtools/  
+  An intro to using the React DevTools and Redux DevTools extensions for debugging
+  
+  
+#### Variations on Redux Architectures
+
+- **Redux Saga in Action**  
+  https://medium.com/@totaldis/redux-saga-in-action-s-f7d11cffa35a  
+  Some interesting thoughts on ways to organize the majority of your app's logic using redux-saga
+  
+- **Scalable Single-Page Application Architecture with Redux and Angular 2**  
+  http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
+  An in-depth article covering how to architect an application using Redux, Angular 2, and RxJS.  
+  
+- **Redux and the Elm Architecture**  
+  http://salsita.github.io/redux-elm/  
+  Redux lacks built-in abstractions for real-world, maintainable, scalable applications. In particular, it is difficult to create and distributed encapsulated, reusable components.  The Elm Architecture clearly addresses some important areas where Redux alone is lacking.
+  
+- **Scaleable FE with Redux and Elm Architecture**  
+  https://medium.com/@hunterbmt/scaleable-fe-with-redux-and-elm-architecture-c6812ed0125e  
+  Examples of using Elm-style approaches to writing Redux code
+  
+- **redux-scuttlebutt; eventually consistent shared state among peers**  
+  https://medium.com/@grrowl/redux-scuttlebutt-eventually-consistent-shared-state-among-peers-191d48102079  
+  Describes how to use the Redux-Scuttlebutt library to sync actions and updates between multiple instances of a Redux application
+  
+- **Write Better Redux with redux-module-builder**  
+  https://www.fullstackreact.com/articles/better-redux-module-management/  
+  Describes how to use the utilities included in the redux-module-builder package to better organize a Redux application

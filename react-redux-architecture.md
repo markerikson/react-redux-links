@@ -90,6 +90,41 @@
   http://jaketrent.com/post/smart-dumb-components-react/  
   Another look at ways to conceptually categorize components based on responsibilities, and some ways you can organize your code based on those concepts.
   
+- **Functional Components vs. Stateless Functional Components vs. Stateless Components**  
+  https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components-630fdfd90c9c  
+  Clarifies the meaning of the terms, which are often used in overlapping ways.
+  
+- **React Component Jargon as of August 2016**  
+  https://medium.com/@arcomito/react-component-jargon-as-of-august-2016-28451d8ceb1d  
+  A very useful glossary of widely-used terms describing React components
+  
+- **Dynamically Rendering React Components**  
+  https://wail.es/dynamically-rendering-react-components/  
+  Examples of how to dynamically determine which React component to render
+  
+- **Higher Order Components: A React Application Design Pattern**  
+  https://www.sitepoint.com/react-higher-order-components/  
+  A discussion of how to use Higher Order Components to keep your React applications tidy, well structured and easy to maintain.  Also, how pure functions keep code clean and how these same principles can be applied to React components.
+  
+- **The React Controller View Pattern**  
+  http://blog.andrewray.me/the-reactjs-controller-view-pattern/  
+  Describes using top-level components to hold state and pass it to children as props
+  
+- **Functional React Serie - Part 1: Get your App outta my Component**  
+  https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25  
+  Part 1 in a series about writing React applications by treating components as functions, not templates.
+  
+- **How to handle state in React: The Missing FAQ**  
+  https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c  
+  An article that dispels misunderstandings and answers common questions about how to handle state in React.
+  
+- **Where to Hold React Component Data: state, store, static, and this**  
+  https://medium.freecodecamp.com/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00  
+  A great summary of different places to store state, and when and why you should use each.
+  
+- **Function as Child Components**  
+  https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9  
+  Explains the "function as a child" technique as an alternative to Higher Order Components
   
 #### React and AJAX
 
@@ -166,6 +201,22 @@
   http://donavon.js.org/react-forms/  
   A look at controlled vs uncontrolled inputs, with a useful note about issues with controlled inputs and certain browsers.
   
+- **React "controlled" vs "uncontrolled" inputs**  
+  https://gist.github.com/markerikson/d71cfc81687f11609d2559e8daee10cc  
+  An explanation of the terms "controlled inputs" and "uncontrolled inputs"
+  
+- **Uncontrolled components are an anti-pattern**  
+  https://medium.com/@jedwards8/uncontrolled-components-are-an-anti-pattern-abbdd86fd39e  
+  Argues that uncontrolled components are a bad idea and should be avoided.
+  
+- **ReactJS and controlled forms**  
+  http://leftdevel.com/blog/reactjs-controlled-forms/  
+  A look at the difference between controlled and uncontrolled inputs, and some problems that can come from using uncontrolled inputs.
+  
+- **Managing React Controlled Component State**  
+  http://spraso.com/managing-react-controlled-component-state/  
+  Some short examples of how to properly manage state for controlled inputs
+  
   
 #### Project File Structure
 
@@ -212,12 +263,13 @@
 - **Wordpress Calypso: Our Approach to Data**  
   https://github.com/Automattic/wp-calypso/blob/master/docs/our-approach-to-data.md  
   The team behind Wordpress's new admin panel looks at their migration from emitters to Flux to Redux, and describes how they organize their state tree, use selectors to extract state, run queries with components, and persist their store state through refreshes.
-
-- **Redux and the Elm Architecture**  
-  http://salsita.github.io/redux-elm/  
-  Redux lacks built-in abstractions for real-world, maintainable, scalable applications. In particular, it is difficult to create and distributed encapsulated, reusable components.  The Elm Architecture clearly addresses some important areas where Redux alone is lacking.
   
 - **So you've screwed up your Redux store - or, why Redux makes refactoring easy**  
   https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71  
   Describes some useful practices for organizing Redux actions, reducers, and selectors.
+  
+- **How we reduced boilerplate and handled asynchronous actions with Redux**  
+  https://blog.algolia.com/how-we-reduced-boilerplate-and-handled-asynchronous-actions-with-redux/  
+  A look at conventions that have helped the Algolia team write Redux apps.
+
   

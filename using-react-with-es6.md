@@ -32,7 +32,11 @@
 
 - **Why and How to Bind Methods in your React Component Classes**  
   http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/  
-  Another good look at function binding in JS, and how it works with React
+  A good look at function binding in JS, and how it works with React
+  
+- **React, ES6, Autobinding, and createClass()**  
+  http://blog.andrewray.me/react-es6-autobinding-and-createclass/  
+  A useful review of how JS function binding works, and how to handle it in ES6 with React 
 
 
 #### Method Binding Utilities

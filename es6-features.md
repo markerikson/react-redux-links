@@ -53,6 +53,16 @@
   http://appendto.com/2016/06/powering-javascript-with-generators  
   A useful introduction to the generators feature in ES6.
   
+- **Metaprogramming in ES6: Symbols, Reflection, and Proxies**  
+  https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/  
+  https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-2-reflect/  
+  https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/  
+  A deep dive into three new features of ES6 that enable different ways of metaprogramming.
+  
+- **Detailed overview of well-known Symbols**  
+  https://rainsoft.io/detailed-overview-of-well-known-symbols/  
+  An in-depth look at the predefined Symbols in ES6 and what they are used for.
+  
   
 #### Techniques
 

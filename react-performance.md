@@ -65,6 +65,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc  
   A comparison of how fast rendering happens in React 14 vs 15, and functional components vs class components
   
+- **Performance Conditionally Rendered Content in React**  
+  https://gist.github.com/ryanflorence/a301dc184f75e929a263dc1e80399a28  
+  A tip for improving performance when conditionally rendering components: use a function as a child, and only call that function if the condition is true.
+  
 #### Immutable Data
 
 - **Building Efficient UI with React and Redux**  
@@ -112,4 +116,12 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - **Improving React and Redux Performance with Reselect**  
   http://blog.rangle.io/react-and-redux-performance-with-reselect/  
   Covers how to use Reselect to define memoized "selector" functions that can cut down on duplicate work
+  
+- **Chat discussion - summary of Redux connection perf considerations**  
+  https://gist.github.com/markerikson/53735e4eb151bc228d6685eab00f5f85  
+  An overview of how having many connected components can improve performance
+  
+- **Chat discussion - single connected component vs many connected components**  
+  https://gist.github.com/markerikson/6056565dd65d1232784bf42b65f8b2ad  
+  An extended chat log discussing pros and cons of various approaches to managing connected components in a Redux app
 

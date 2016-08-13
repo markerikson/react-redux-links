@@ -62,3 +62,10 @@
   https://daveceddia.com/react-gotchas/  
   Three quick tips to keep in mind while writing React code (capitalize component names, close all JSX tags, and remember setState is asynchronous)
   
+- **A Simple Naming Convention for Action Creators in Redux**  
+  https://decembersoft.com/posts/a-simple-naming-convention-for-action-creators-in-redux-js/  
+  Some tips for consistent and understandable naming of actions and action creators
+  
+- **You're Missing the Point of JSX**  
+  http://blog.andrewray.me/youre-missing-the-point-of-jsx/  
+  Some arguments in favor of using JSX to define React UIs

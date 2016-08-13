@@ -15,3 +15,7 @@
 - **Elephants, The Three Code Ilities, & Two Months With CSS Modules**  
   http://chrispearce.co/elephants-the-three-code-ilities-two-months-with-css-modules/  
   A look at how Lystable used CSS Modules to scale their codebase.
+  
+- **Journey to Enjoyable, Maintainable Styling with React, ITCSS, and CSS-in-JS**  
+  https://medium.com/maintainable-react-apps/journey-to-enjoyable-maintainable-styling-with-react-itcss-and-css-in-js-632cfa9c70d6  
+  A long, in-depth article detailing one dev's progression through various approaches to handling CSS.
