@@ -176,6 +176,14 @@
   https://www.infoq.com/presentations/react-reconciliation  
   A video presentation digging into how React's reconciliation algorithm determines how to properly update nodes based on render output.
   
+- **React Fiber Architecture**  
+  https://github.com/acdlite/react-fiber-architecture  
+  A description of React's new core algorithm, React Fiber
+  
+- **On the Async Nature of `setState` in React**  
+  http://thereignn.ghost.io/on-the-async-nature-of-setstate-in-react/  
+  Digs into the behavior of `setState`, and whether it is actually always async or not.  Some decent info, although the final section does make some strange statements.
+  
 #### Paid Courses and Books
 
 

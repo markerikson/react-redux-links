@@ -22,6 +22,10 @@
 - **Simplified Javascript Jargon**  
   http://jargon.js.org/  
   An alphabetical list of common terms in the JS world, with very short definitions in the main list and slightly longer descriptions linked for each term.
+  
+- **Modern Javascript Development**  
+  https://mgadams.com/modern-javascript-development-part-1-d271f3790c1c  
+  An overview of how browsers, Javascript, and Javascript frameworks have evolved into today's landscape of tools and technologies
 
 
 #### React Learning Guidelines

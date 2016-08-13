@@ -61,6 +61,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://www.youtube.com/watch?v=-t8eOoRsJ7M  
   An excellent presentation by Lin Clark of Code Cartoons.  Covers what work browsers do when rendering, what work React does, and the main ways you can improve React performance.  Very clear and easy to understand.
   
+- **Component Rendering Performance in React**  
+  https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc  
+  A comparison of how fast rendering happens in React 14 vs 15, and functional components vs class components
+  
 #### Immutable Data
 
 - **Building Efficient UI with React and Redux**  
