@@ -17,7 +17,7 @@
   Quick samples and descriptions of all the various ES6 capabilities  
 
 - **Javascript Features**  
-  http://jsfeatures.in/#ES6  
+  https://jsfeatures.in/ES6  
   More samples of features in ES5, ES6, and ES7
 
 - **ES6 - The Bits You'll Actually Use**  
