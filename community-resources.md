@@ -22,6 +22,10 @@
 - **Awesome Webpack**  
   https://github.com/d3viant0ne/awesome-webpack  
   A curated list of awesome Webpack resources, libraries and tools
+
+- **React Roadmap**  
+  https://github.com/ericdouglas/react-roadmap  
+  A curated list of free resources to master React Development
   
   
 #### Podcasts
