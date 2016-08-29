@@ -27,6 +27,26 @@
   https://github.com/ericdouglas/react-roadmap  
   A curated list of free resources to master React Development
   
+- **React FAQ**  
+  https://github.com/timarney/react-faq  
+  A collection of links to help answer your questions about React.js
+  
+- **JS Coach**  
+  https://js.coach/  
+  An automatically-updated searchable and categorized list of JS packages related to React, Webpack, Babel, and more.
+  
+
+#### People
+
+- **Dan Abramov's React List**  
+  https://medium.com/@dan_abramov/my-react-list-862227952a8c  
+  A list of people (mostly but not entirely related to React) that Dan Abramov suggests following
+  
+- **Twitter React Lists**  
+  https://twitter.com/wleong/lists/my-react-list/members  
+  https://twitter.com/oguzbilgic/lists/react-influencers/members  
+  Some Twitter lists that focus on React-related people
+  
   
 #### Podcasts
 
@@ -69,6 +89,10 @@
   https://ponyfoo.com/weekly  
   A single email every thursday, discussing front-end web development and related technologies.
   
+- **Deterministic**  
+  https://deterministic.curated.co  
+  A weekly digest of interesting news and articles covering functional programming for the web, especially on the front end.
+  
   
 #### Online Course Sites
 
@@ -79,3 +103,6 @@
 - **Frontend Masters**  
   https://frontendmasters.com/  
   Front-end training courses from masters who are shaping the industry.
+  
+  
+  

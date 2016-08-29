@@ -63,6 +63,10 @@
 - **Git Tips**  
   https://github.com/git-tips/tips  
   A large collection of Git tips and tricks.
+  
+- **Digit**  
+  https://github.com/optionfactory/digit  
+  A tool to visualize the contents of a Git repo as an aid to learning
 
 #### E-Books
 
@@ -110,7 +114,6 @@
 - **Interactive Git Cheat Sheet**  
   http://ndpsoftware.com/git-cheatsheet.html  
   A clickable page that shows how various commands move data between different parts of Git's storage (working copy, index, local repo, remote repo)
-  
 
   
 #### Desktop GUI Clients

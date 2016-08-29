@@ -126,6 +126,38 @@
   https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9  
   Explains the "function as a child" technique as an alternative to Higher Order Components
   
+- **React Patterns**  
+  http://reactpatterns.com/  
+  A list of common patterns for structuring React components
+  
+- **Ramblings About React and Redux Architecture**  
+  https://medium.com/@kurtiskemple/ramblings-about-react-and-redux-architecture-c27dfff79ddf  
+  Thoughts on structuring components as "Providers", "Behavior", and "Presentational"
+  
+- **How to handle React context in a reliable way**  
+  https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc  
+  Covers what the context feature is, how to use it, and some concerns to be aware of.
+  
+- **Higher Order React Components**  
+  http://natpryce.com/articles/000814.html  
+  A solid explanation of what HoCs are, with examples and use cases
+  
+- **Writing a good React Component**  
+  https://medium.com/thoughts-from-travelperk/writing-a-good-react-component-59624ed40b8e  
+  Some very good best practices for writing components.
+  
+- **The Anatomy of a React Redux App**  
+  https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a  
+  Breaks down the component structure of a typical React/Redux app, and classifies the different types of components that usually show up
+  
+- **Making custom renderers for React**  
+  http://goshakkk.name/react-custom-renderers/  
+  Describes techniques for building custom rendering components that bridge between normal rendering and something like a canvas
+  
+- **Connected Higher Order Components with React and Redux**  
+  http://www.avitzurel.com/blog/2016/08/03/connected-higher-order-components-with-react-and-redux/  
+  Demonstrates creating HoCs that are connected to Redux
+  
 #### React and AJAX
 
 - **React AJAX Best Practices**  
@@ -217,6 +249,11 @@
   http://spraso.com/managing-react-controlled-component-state/  
   Some short examples of how to properly manage state for controlled inputs
   
+- **Radio Buttons and Checkboxes in React**  
+  http://react.tips/radio-buttons-in-reactjs/  
+  http://react.tips/checkboxes-in-react/  
+  Tutorials on managing various inputs in forms with React
+  
   
 #### Project File Structure
 
@@ -271,5 +308,15 @@
 - **How we reduced boilerplate and handled asynchronous actions with Redux**  
   https://blog.algolia.com/how-we-reduced-boilerplate-and-handled-asynchronous-actions-with-redux/  
   A look at conventions that have helped the Algolia team write Redux apps.
-
   
+- **10 Tips for Better Redux Architecture**  
+  https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44  
+  A great article covering when and why to use Redux, benefits, and several tips for a better application architecture.
+
+- **Redux without Profanity**  
+  https://tonyhb.gitbooks.io/redux-without-profanity/content/  
+  An online book covering best practices and approaches for managing a Redux application
+  
+- **Where do I put my business logic in a React-Redux application?**  
+  https://medium.com/@jeffbski/where-do-i-put-my-business-logic-in-a-react-redux-application-9253ef91ce1  
+  Describes several options for managing logic and async behavior (thunks, sagas, etc), and introduces a new middleware as an alternative approach

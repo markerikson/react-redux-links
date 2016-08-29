@@ -14,6 +14,10 @@
 - **Pure Functionality and Side Effects with Redux**  
   https://blog.hivejs.org/building-the-ui-2/  
   An overview of what side effects are, how they fit into Redux, and several approaches for managing them.
+  
+- **"Async Redux workflow: calling actions outside Redux?"**  
+  https://www.reddit.com/r/reactjs/comments/4upe9t/async_redux_workflow_calling_actions_outside_redux/d5sgy5s?context=3  
+  A comment explaining why using action creator functions is a good practice
 
 #### Sagas
 

@@ -24,6 +24,10 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Learning Javascript and the Danger of Spreading Yourself Too Thin**  
   https://medium.com/@kevininaniche/learning-javascript-and-the-danger-of-spreading-yourself-too-thin-4617384e7ea4  
   Tips on how to approach learning Javascript, and some additional resources.
+  
+- **Reddit /r/LearnJavascript**  
+  https://www.reddit.com/r/LearnJavascript  
+  A Reddit community for learning Javascript
 
 
 #### Tutorials and Books

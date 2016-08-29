@@ -69,6 +69,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://gist.github.com/ryanflorence/a301dc184f75e929a263dc1e80399a28  
   A tip for improving performance when conditionally rendering components: use a function as a child, and only call that function if the condition is true.
   
+- **Dan Abramov - "Don't stress over binding in render"**  
+  https://twitter.com/dan_abramov/status/760199672824815616  
+  Dan advises not to worry about binding methods in render functions unless profiling shows it's a real perf problem for you
+  
 #### Immutable Data
 
 - **Building Efficient UI with React and Redux**  
@@ -94,6 +98,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - **"Immutable perf tip: avoid toJS"**  
   https://twitter.com/leeb/status/746733697093668864  
   Another suggestion from Lee Byron to avoid use of Immutable.js's data conversion functions based on performance reasons.
+  
+- **"Potential concerns with using Immutable.js"**  
+  https://www.reddit.com/r/javascript/comments/4rcqpx/dan_abramov_redux_is_not_an_architecture_or/d51g4k4?context=3  
+  A comment discussing a number of potential negative tradeoffs when using Immutable.js, including both performance anti-patterns and API issues
   
 #### Redux Performance
   

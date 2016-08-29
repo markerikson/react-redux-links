@@ -23,6 +23,10 @@
   http://www.newmediacampaigns.com/blog/refactoring-react-components-to-es6-classes  
   Walks through the steps needed to convert an older-style `React.createClass()` component to use the newer ES6 class syntax instead.
   
+- **React ES5 to ES6 Checklist**  
+  https://github.com/cht8687/React-ES5-To-ES6-Checklist  
+  A checklist of steps and changes to refactor your ES5-based React code to use ES6 features
+  
 
 #### Methods and Instance Binding
 
@@ -37,6 +41,10 @@
 - **React, ES6, Autobinding, and createClass()**  
   http://blog.andrewray.me/react-es6-autobinding-and-createclass/  
   A useful review of how JS function binding works, and how to handle it in ES6 with React 
+  
+- **React Binding Patterns: 5 Approaches for Handling `this`**  
+  https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56  
+  Describes five different ways you can handle binding methods to handle the `this` keyword correctly
 
 
 #### Method Binding Utilities

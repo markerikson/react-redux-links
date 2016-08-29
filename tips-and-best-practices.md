@@ -4,10 +4,6 @@
   http://www.toptal.com/react/tips-and-practices  
   Several excellent guidelines for component structure and behavior
 
-- **Smart and Dumb Components**  
-  https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0  
-  Describes how to split components into two categories for separation of concerns and reusability
-
 - **Redux Best Practices**  
   https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e  
   Guidelines for tools, component structure, file layout, and async data handling
@@ -69,3 +65,7 @@
 - **You're Missing the Point of JSX**  
   http://blog.andrewray.me/youre-missing-the-point-of-jsx/  
   Some arguments in favor of using JSX to define React UIs
+  
+- **React/Redux - Best Practices and Gotchas**  
+  http://blog.getstream.io/react-redux-best-practices-gotchas  
+  Several useful tips for avoiding common pitfalls, structuring an application, and using various React-related tools

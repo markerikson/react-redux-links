@@ -19,6 +19,10 @@
 - **Fix Ugly JSON Api Responses With Redux Middleware**  
   http://blog.benwiley.org/fix-json-responses-redux-middleware/  
   Sets up a sample project that requests JSON data, then shows how to use some custom middleware to transform the response.
+  
+- **You Aren't Using Redux Middleware Enough**  
+  https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6  
+  Suggestions for using middleware to solve a number of interesting use cases
 
   
 #### Debugging
@@ -34,6 +38,14 @@
 - **Drew Bug**  
   https://www.youtube.com/watch?v=n8vkg_RVIRo  
   A video demonstrating a Redux crash reporter and time travel debugger.
+  
+- **Redux DevTools Without Redux**  
+  https://medium.com/@zalmoxis/redux-devtools-without-redux-or-how-to-have-a-predictable-state-with-any-architecture-61c5f5a7716f  
+  Instructions on setting up the Redux DevTools browser extension to use things other than a single Redux store (such as reducers for use within a React component, or other state libs)
+  
+- **Redux Error Reports Concept**  
+  https://medium.com/@jrullmann/redux-error-reports-concept-ab85b658f53e  
+  A semi-hypothetical description of tools that could be built to report errors by leveraging Redux
 
 
 #### Type Checking
@@ -92,6 +104,28 @@
   http://mediatemple.net/blog/tips/a-quick-look-at-the-react-and-redux-devtools/  
   An intro to using the React DevTools and Redux DevTools extensions for debugging
   
+- **Real-World React and Redux**  
+  https://dzone.com/articles/real-world-reactjs-and-redux-part-1  
+  https://dzone.com/articles/real-world-reactjs-and-redux-part-2  
+  A series of articles covering practical architecture lessons learned from building Redux apps, especially regarding use of custom middleware
+  
+- **Connecting the Linode API to Redux with Higher-Order Functions**  
+  https://engineering.linode.com/2016/08/17/Using-metaprogramming-in-the-manager.html  
+  Linode explains how they generate customized action creators and reducers to talk to different parts of their API
+  
+  
+  
+#### UI and Widget Implementations
+
+- **"How can I display a modal dialog in Redux?"**  
+  http://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions/35641680  
+  Dan Abramov describes a great technique for descriptively managing React modal dialogs using Redux actions and state
+
+- **"Generic Modal Dialogs with Feature-Specific Actions"**  
+  https://www.reddit.com/r/reactjs/comments/4wjmme/implement_a_confirm_modal_using_react_redux/d68ajcw?context=3  
+  A follow-on to Dan's technique, with a short suggestion for using generic modal components in a variety of situations by including actions as props.
+  
+  
   
 #### Variations on Redux Architectures
 
@@ -118,3 +152,7 @@
 - **Write Better Redux with redux-module-builder**  
   https://www.fullstackreact.com/articles/better-redux-module-management/  
   Describes how to use the utilities included in the redux-module-builder package to better organize a Redux application
+  
+- **The Elegance of React, Redux, and Ramda**  
+  https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19  
+  Demonstrates ways to use Ramda to compose together React components and Redux behavior

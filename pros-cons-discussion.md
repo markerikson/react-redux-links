@@ -111,3 +111,42 @@ similar structures in ClojureScript.
 - **"How can I better market my Javascript library?"**  
   https://news.ycombinator.com/item?id=11833301  
   The developer of a Redux wrapper library asks how to get more attention online.  I offer a pretty long reply comment describing the various network effects involved in any addon library, and critique his specific library from a Redux user's perspective.
+  
+- **"Our conversion from Angular to React"**  
+  https://www.reddit.com/r/reactjs/comments/4upt6t/netlify_our_conversion_from_angular_to_react/d5smdih  
+  A comment pointing out that React's "mostly the view" status enables it to be used in a wide variety of situations, which also means it works best when you are willing and able to come up with your own architecture.
+  
+- **"Dan Abramov: Redux is not an architecture or a pattern, it's just a library"**  
+  https://www.reddit.com/r/javascript/comments/4rcqpx/dan_abramov_redux_is_not_an_architecture_or/  
+  A discussion thread covering a number of aspects of Redux usage, including its relation with other libraries and patterns such as event sourcing.
+  
+- **"Why isn't AJAX present in many examples of React/Flow/Redux?"**  
+  https://www.reddit.com/r/reactjs/comments/4pbq2x/why_isnt_ajax_present_in_many_examples_of/  
+  Discussion of why a typical React app is made up of many different libraries and pieces.
+  
+- **"Confused: Redux or MobX?"**  
+  https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/  
+  An in-depth thread comparing the two libraries.  Includes comments from both Dan Abramov of Redux and Michel Weststrate of MobX describing their libraries, as well a number of other good comparisons.
+  
+#### React's PATENTS License
+
+- **Dan Abramov Twitter threads addressing patent concerns**  
+  https://twitter.com/dan_abramov/status/754992075087745024  
+  https://twitter.com/dan_abramov/status/766210972776337408  
+  https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc  
+  A couple of extended discussions from Dan debunking myths about React's PATENTS clause, and a collection of further related links
+  
+- **Comments from other companies on the acceptability of the license**  
+  https://wptavern.com/automattic-will-continue-to-use-react-js-in-calypso-despite-patent-clause  
+  https://twitter.com/paul_irish/status/754864479460929536  
+  https://twitter.com/palmerj3/status/766236192669073412  
+  https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/  
+  Comments from developers at Automattic, Google, Spotify, and Microsoft, indicating they're fine with using React
+  
+- **Further discussions**  
+  https://news.ycombinator.com/item?id=12108273  
+  https://news.ycombinator.com/item?id=12108526  
+  https://vimeo.com/170598656#comment_14699807  
+  https://github.com/facebook/react/issues/7293  
+  More discussion threads regarding the PATENTS license
+  

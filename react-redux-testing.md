@@ -76,6 +76,18 @@
   http://pebblecode.com/blog/testing-redux-containers/  
   Demonstrates techniques for properly testing Redux-connected React components using a mock store.
   
+- **React TDD Guide**  
+  https://github.com/zpratt/react-tdd-guide  
+  A repo with step-by-step commits demonstrating approaches to testing React apps
+  
+- **Unit Testing React Components that use Redux**  
+  http://www.thereformedprogrammer.net/unit-testing-react-components-that-use-redux/  
+  Tips on unit testing components that render more Redux-connected components
+  
+- **Generative Testing using Redux: Reducers**  
+  https://medium.com/javascript-inside/generative-testing-your-redux-reducers-326d7368f284  
+  A look at using "generative testing" to autoomatically test reducers with varying inputs
+  
   
 #### General Testing, Tools, and Setup
 

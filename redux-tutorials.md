@@ -68,6 +68,10 @@
 - **Why Redux makes sense to me and how I conceptualize it**  
   https://medium.com/@fay_jai/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca  
   Some useful analogies for visualizing how Redux works, how the pieces fit together, and why you'd want to use it.
+  
+- **Redux10: A Visual Overview of Redux in 10 Steps**  
+  https://github.com/chrisscoular/Redux10  
+  A small repo with a standalone HTML page.  Walks through 10 simple steps to help explain the basics of Redux.
 
 
 #### Project-Based Tutorials
@@ -119,6 +123,14 @@
 - **An Adventure in Redux: building redux-adventure**  
   http://csharperimage.jeremylikness.com/2016/07/an-adventure-in-redux-building-redux.html  
   Builds a small randomized dungeon game using Redux, TypeScript, and Angular 2
+  
+- **Building a Chat App with React, Redux, and PubNub**  
+  https://www.pubnub.com/blog/2016-06-14-getting-started-with-pubnub-and-react/  
+  https://www.pubnub.com/blog/2016-06-28-reactjs-chat-app-infinite-scroll-history-using-redux/    
+  https://www.pubnub.com/blog/2016-07-20-adding-realtime-user-list-to-react-chat-app/  
+  https://www.pubnub.com/blog/2016-08-16-add-typing-indicator-to-your-react-based-chat-app/  
+  A four-part tutorial that walks through building a realtime chat app
+  
 
 #### Redux Implementation Walkthroughs
 

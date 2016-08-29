@@ -28,6 +28,10 @@
   http://kamranahmed.info/blog/2016/04/04/es6-in-depth/  
   A very readable overview of the features in ES6, why you would want to use them, and examples showing what they look like.
   
+- **How to Learn ES6**  
+  https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620  
+  A set of resources for learning ES6
+  
 
 #### In-Depth Details
 
@@ -77,3 +81,27 @@
 - **Selective transpilation for modern Javascript environments**  
   https://medium.com/@adamrackis/selective-transpilation-for-modern-javascript-environments-15bde6b75cfd  
   An investigation into ways to offer up differently-compiled bundles for different platforms with various levels of JS feature support.
+  
+
+#### Javascript Module Formats
+
+- **JavaScript Modules: A Beginner's Guide**  
+  https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc  
+  https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306  
+  A two-part article discussing the various ways to define a module in Javascript, and common tools used to bundle modules together
+  
+- **Understanding ES6 Modules via Their History**  
+  https://www.sitepoint.com/understanding-es6-modules-via-their-history/  
+  A recap of how the various Javascript module formats evolved over time, and how that's lead to ES6 modules
+  
+- **Javascript Module Systems Showndown: CommonJS vs AMD vs ES2015**  
+  https://auth0.com/blog/javascript-module-systems-showdown/  
+  A look at the history and reasons for each module format's creation
+  
+- **History and Background of Javascript Module Loaders**  
+  https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/  
+  An overview of the various tools that have been used to load different module formats over time
+  
+- **Understanding Javascript Modules: Bundling and Transpiling**  
+  https://www.sitepoint.com/javascript-modules-bundling-transpiling/  
+  An overview of tools commonly used to bundle and transpile various module formats

@@ -2,10 +2,31 @@
 
 Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpack) for more links to documentation, plugins, people, utilities, and articles.
 
-#### Basic Tutorials
+
+#### Overviews and Introductions
+
+- **Webpack from First Principles**  
+  https://www.youtube.com/watch?v=WQue1AN93YU  
+  A screencast video explaining what Webpack is and why you would want to use it
+
 - **Egghead.io - Intro to Webpack (Playlist)**  
   https://egghead.io/playlists/intro-to-webpack-4ca2d994  
   Three lessons giving a brief introduction to webpack and loaders concepts. First lesson is free.
+
+- **Webpack - The Module Bundler**  
+  http://alp82.github.io/webpack-experiment-slides/#/  
+  HTML slideshow that describes Webpack's features and links to demos
+  
+- **Unpacking Webpack**  
+  http://blog.tighten.co/unpacking-webpack  
+  A useful overview of what Webpack can do and why you would want to use it.
+
+- **Webpack 101: An Introduction to Webpack**  
+  http://code.hootsuite.com/webpack-101/  
+  A useful intro to Webpack's concepts and capabilities, with some examples.
+
+
+#### Basic Tutorials
 
 - **SurviveJS - Webpack**  
   http://survivejs.com/webpack/introduction  
@@ -14,10 +35,6 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Beginner's Guide to Webpack**  
   https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460  
   A walkthrough for getting started with a Webpack dev setup
-
-- **Webpack - The Module Bundler**  
-  http://alp82.github.io/webpack-experiment-slides/#/  
-  HTML slideshow that describes Webpack's features and links to demos
 
 - **Webpack Your Bags**  
   http://blog.madewithlove.be/post/webpack-your-bags/  
@@ -34,10 +51,6 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Learn Webpack**  
   https://github.com/danderu/learn-webpack  
   A repository with examples and exercises to learn webpack for newbies
-
-- **Unpacking Webpack**  
-  http://blog.tighten.co/unpacking-webpack  
-  A useful overview of what Webpack can do and why you would want to use it.
 
 - **Utilizing Webpack and Babel to build a React.js App**  
   http://tylermcginnis.com/react-js-tutorial-1-5-utilizing-webpack-and-babel-to-build-a-react-js-app/  
@@ -59,10 +72,6 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Creating a React and Webpack Project (screencast)**  
   http://javascriptplayground.com/blog/2016/06/react-webpack-workflow-screencast/  
   A video walkthrough of the basic setup for a Webpack-based project.
-  
-- **Webpack 101: An Introduction to Webpack**  
-  http://code.hootsuite.com/webpack-101/  
-  A useful intro to Webpacks concepts and capabilities, with some examples.
   
 - **Webpack Deep Dive**  
   http://slides.com/kentcdodds/webpack-deep-dive#/  

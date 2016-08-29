@@ -74,6 +74,10 @@
 - **React Tutorial**  
   http://www.pshrmn.com/tutorials/react/react/  
   A very readable intro to React's concepts.
+  
+- **React Workshop**  
+  https://github.com/jesstelford/react-workshop  
+  A self-directed set of workshop lessons that teach React basics.
 
 
 #### Project-Based Tutorials
@@ -189,6 +193,10 @@
 - **On the Async Nature of `setState` in React**  
   http://thereignn.ghost.io/on-the-async-nature-of-setstate-in-react/  
   Digs into the behavior of `setState`, and whether it is actually always async or not.  Some decent info, although the final section does make some strange statements.
+  
+- **React - Basic Theoretical Concepts**  
+  https://github.com/reactjs/react-basic  
+  React team member Seb Markbage dives into his mental model for how React works.  (Note: after the first few paragraphs, _not_ "basic" at all.  Definitely an involved read, but informative.)
   
 #### Paid Courses and Books
 

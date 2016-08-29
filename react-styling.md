@@ -19,3 +19,7 @@
 - **Journey to Enjoyable, Maintainable Styling with React, ITCSS, and CSS-in-JS**  
   https://medium.com/maintainable-react-apps/journey-to-enjoyable-maintainable-styling-with-react-itcss-and-css-in-js-632cfa9c70d6  
   A long, in-depth article detailing one dev's progression through various approaches to handling CSS.
+  
+- **Patterns for Style Composition in React**  
+  http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/  
+  Some great suggestions for defining reusable React components that can have variations in styling

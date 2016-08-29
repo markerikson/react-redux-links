@@ -27,3 +27,7 @@ NPM 3.7 or later, as that fixes a bug with the progress bar that drastically slo
 - **Control of Your Global Node Packages on Windows**  
   http://www.bossable.com/1710/nodejs-package-path-for-windows/  
   Tips for dealing with various path problems
+
+- **Pragmatic Modularity with Node**  
+  http://mafintosh.com/pragmatic-modularity.html  
+  Includes a description of Node's resolution algorithm for `require`

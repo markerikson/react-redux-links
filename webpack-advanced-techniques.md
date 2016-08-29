@@ -53,6 +53,10 @@
   https://gist.github.com/markerikson/6776848172c33aaa4db882627c689e18  
   An overview of how the `process.env.NODE_ENV` variable is often used to define optimizations for Webpack production builds
   
+- **Tips for faster Webpack builds**  
+  https://www.reddit.com/r/javascript/comments/4xuknm/webpack_dashboard/d6jdl8z  
+  A Reddit comment with several useful tips to follow when trying to speed up builds
+  
 #### Hot Module Replacement
 
 - **Webpack and Hot Module Replacement**  
