@@ -57,10 +57,6 @@
   https://qiita-image-store.s3.amazonaws.com/0/69860/8cc1a873-c675-9009-570d-9684da4a704f.png  
   A nifty diagram from @kuy illustrating the general interaction of Redux Saga's async flow operators 
   
-- **"Redux Sagas Benefits?"**  
-  https://www.reddit.com/r/reactjs/comments/4ng8rr/redux_sagas_benefits/  
-  Some great examples in the comments of how Redux Saga works and how to use it.
-  
 - **Async Operations using Redux-Saga**  
   https://medium.com/@andresmijares25/async-operations-using-redux-saga-2ba02ae077b3  
   An example of using Redux-Saga to coordinate multiple async calls based on another article's flight data scenario.
