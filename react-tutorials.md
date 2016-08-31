@@ -150,6 +150,10 @@
   http://patternhatch.com/2016/08/02/a-primer-on-the-react-ecosystem-part-2-of-3/  
   A multi-part tutorial that demonstrates how to set up a React development environment, create React components and have them respond to data changes, and manage app state with Redux.
   
+- **Build your first React Redux Application**  
+  http://codepen.io/allanpope/post/build-react-redux-component  
+  A introduction to what React & Redux is and how to use those two frameworks to build a basic application.  
+  
 
 #### React Implementation Walkthroughs
   
