@@ -69,3 +69,7 @@
 - **React/Redux - Best Practices and Gotchas**  
   http://blog.getstream.io/react-redux-best-practices-gotchas  
   Several useful tips for avoiding common pitfalls, structuring an application, and using various React-related tools
+  
+- **React Best Practices**  
+  https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21  
+  Suggestions and tips for effectively writing React and Redux

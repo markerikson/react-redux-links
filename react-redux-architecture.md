@@ -158,6 +158,14 @@
   http://www.avitzurel.com/blog/2016/08/03/connected-higher-order-components-with-react-and-redux/  
   Demonstrates creating HoCs that are connected to Redux
   
+- **Redux'ing without Redux**  
+  https://medium.com/@m.mollaverdi/reduxing-without-redux-75dbd5c05336  
+  Thoughts on how some of Redux’s goodness can perhaps be utilised without actually using Redux.
+  
+- **Exploring React's State Propagation**  
+  https://www.sitepoint.com/exploring-reacts-state-propagation/  
+  Discusses data flow in React, the difference between `state` and `props`, and the usefulness of immutability
+  
 #### React and AJAX
 
 - **React AJAX Best Practices**  
@@ -259,7 +267,11 @@
 
 - **Scaling React.js Applications**  
   https://vimeo.com/168648012  
-  Talk about managing large react.js applications. Covers "Feature" structure, redux-saga and CSS modules.
+  Max Stoiber's talk about managing large react.js applications. Covers "Feature" structure, redux-saga and CSS modules.
+  
+- **How to Scale React Applications**  
+  https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/  
+  Max Stoiber, creator of the popular "React-Boilerplate" starter kit, describes the approaches they use to lay out projects based on features.
 
 - **Organizing Large React Applications**  
   http://engineering.kapost.com/2016/01/organizing-large-react-applications/  
@@ -288,6 +300,10 @@
 - **Fractal Project Structure**  
   https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure  
   Docs from the React Redux Starter Kit project describing their "Fractal Project Structure" concept, and advice for file and app organization.
+  
+- **Redux Structure: a Way to Success**  
+  https://datarockets.com/blog/redux-structure  
+  Thoughts on a "modules and components"-based approach to file structure, 
 
 
 #### Redux Architecture
@@ -320,3 +336,4 @@
 - **Where do I put my business logic in a React-Redux application?**  
   https://medium.com/@jeffbski/where-do-i-put-my-business-logic-in-a-react-redux-application-9253ef91ce1  
   Describes several options for managing logic and async behavior (thunks, sagas, etc), and introduces a new middleware as an alternative approach
+  

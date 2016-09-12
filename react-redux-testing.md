@@ -88,6 +88,14 @@
   https://medium.com/javascript-inside/generative-testing-your-redux-reducers-326d7368f284  
   A look at using "generative testing" to autoomatically test reducers with varying inputs
   
+- **Some Thoughts on Testing React/Redux Applications**  
+  https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f  
+  Guidelines and best practices for what and how to test in a React/Redux app
+  
+- **Test Driving a change to a Redux application - Step by Step**  
+  https://medium.com/@kensodev/test-driving-a-change-to-a-react-redux-application-step-by-step-6c8856e7644c  
+  Demonstrates a TDD approach to reworking a Redux app feature
+  
   
 #### General Testing, Tools, and Setup
 

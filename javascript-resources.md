@@ -28,6 +28,10 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Reddit /r/LearnJavascript**  
   https://www.reddit.com/r/LearnJavascript  
   A Reddit community for learning Javascript
+  
+- **Roadmap for Learning the Javascript Language**   
+  http://bytearcher.com/articles/roadmap-for-learning-javascript-language/  
+  A suggested approach for how to learn Javascript.
 
 
 #### Tutorials and Books
@@ -39,6 +43,10 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **You Don't Know Javascript**  
   https://github.com/getify/You-Dont-Know-JS  
   An online book series intended to teach all aspects of Javascript, including the "tougher" parts.
+  
+- **23 Free Javascript Books**  
+  https://hackerlists.com/free-javascript-books/  
+  A list of many Javascript books available for free online.
   
   
 #### Interactive Exercises

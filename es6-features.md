@@ -67,6 +67,14 @@
   https://rainsoft.io/detailed-overview-of-well-known-symbols/  
   An in-depth look at the predefined Symbols in ES6 and what they are used for.
   
+- **Learning ES6: New Collections**
+  https://www.eventbrite.com/engineering/learning-es6-new-collections/  
+  Details the new Map, Set, WeakMap & WeakSet collection types in ES6.
+  
+- **Learning ES6: Iterators and Iterables**  
+  https://www.eventbrite.com/engineering/learning-es6-iterators-iterables/  
+  Covers the new iteration-related features in ES6
+  
   
 #### Techniques
 

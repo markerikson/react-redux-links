@@ -150,6 +150,14 @@
   http://patternhatch.com/2016/08/02/a-primer-on-the-react-ecosystem-part-2-of-3/  
   A multi-part tutorial that demonstrates how to set up a React development environment, create React components and have them respond to data changes, and manage app state with Redux.
   
+- **Building Your First Real-World React Application**  
+  http://academy.plot.ly/#react  
+  Max Stoiber's full-size tutorial on building an app using React.  Includes an intro to React, project setup, using external libraries, data management with Redux, use of Immutable.js, and testing with Jest.
+  
+- **React on the Server for Beginners: Build a Universal React App**  
+  https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app  
+  Details building a React app that renders on both the client and the server
+  
 
 #### React Implementation Walkthroughs
   
@@ -198,6 +206,10 @@
   https://github.com/reactjs/react-basic  
   React team member Seb Markbage dives into his mental model for how React works.  (Note: after the first few paragraphs, _not_ "basic" at all.  Definitely an involved read, but informative.)
   
+- **React Events In Depth**  
+  https://www.youtube.com/watch?v=dRo_egw7tBc  
+  A Javascript Air episode focused on how React's Events system works, with React team members Dan Abramov and Ben Alpert
+  
 #### Paid Courses and Books
 
 Also see the course sites listed in the [Community Resources](community-resources.md#online-course-sites) page.
@@ -217,7 +229,4 @@ Also see the course sites listed in the [Community Resources](community-resource
   **appendTo Instructor-led React Courses**  
   https://appendto.com/courses/react-training/  
   appendTo offers instructor-led, hands-on React training courses on React, Redux, React Native, ES6, and Webpack.
-  
-
-  
   

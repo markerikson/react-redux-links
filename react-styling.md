@@ -23,3 +23,7 @@
 - **Patterns for Style Composition in React**  
   http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/  
   Some great suggestions for defining reusable React components that can have variations in styling
+  
+- **Functional CSS - The Good, The Bad, and Some Protips for React.js Users**  
+  https://github.com/chibicode/react-functional-css-protips  
+  An essay describing the "functional CSS" approach, pros and cons of using it, and tips for using that approach with React.

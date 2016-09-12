@@ -35,6 +35,10 @@
   https://js.coach/  
   An automatically-updated searchable and categorized list of JS packages related to React, Webpack, Babel, and more.
   
+- **Awesome React Components**  
+  https://github.com/brillout/awesome-react-components  
+  Catalog of React components / libraries
+  
 
 #### People
 
@@ -92,6 +96,10 @@
 - **Deterministic**  
   https://deterministic.curated.co  
   A weekly digest of interesting news and articles covering functional programming for the web, especially on the front end.
+  
+- **ES.next News**  
+  http://esnextnews.com/  
+  5 ECMAScript.next links every week, in your inbox.  Curated by Dr. Axel Rauschmayer and Johannes Weber.
   
   
 #### Online Course Sites

@@ -67,6 +67,14 @@
 - **Digit**  
   https://github.com/optionfactory/digit  
   A tool to visualize the contents of a Git repo as an aid to learning
+  
+- **Advanced Git Advice**  
+  https://medium.com/@zlobin/advanced-git-advice-27087a7fbb29  
+  A variety of useful tips and commands.
+  
+- **Git's Patch Mode All the Way**  
+  https://blog.petrzemek.net/2016/07/10/git-patch-mode-all-the-way/  
+  Shows how to use Git's ability to selectively pick and choose chunks of code as part of various actions
 
 #### E-Books
 

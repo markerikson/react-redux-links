@@ -36,7 +36,6 @@
   https://github.com/erikras/react-redux-universal-hot-example/issues/616#issuecomment-228956242  
   Notes from a user who wants to document his findings on usage of DllPlugin.  Pretty thorough.
   
-  
 - **Implement Webpack DLL Plugin for React-Boilerplate**  
   https://github.com/mxstbr/react-boilerplate/pull/495  
   A PR adding usage of DllPlugin to React-Boilerplate.  Thorough and well-commented - should be a very useful reference to anyone trying to set it up in their own project.
@@ -56,6 +55,18 @@
 - **Tips for faster Webpack builds**  
   https://www.reddit.com/r/javascript/comments/4xuknm/webpack_dashboard/d6jdl8z  
   A Reddit comment with several useful tips to follow when trying to speed up builds
+  
+- **Formidable Playbook**  
+  https://formidable.com/open-source/playbook/  
+  Formidable Labs describes their preferred approaches for configuring Webpack, including optimization approaches.
+  
+- **Code Chunking with Webpack**  
+  https://medium.com/react-weekly/code-chunking-with-webpack-a-pragmatic-approach-e17e8bcc6453  
+  Covers how to configure chunked bundles and dynamic bundle loading with Webpack and React-Router.
+  
+- **Lazily Load Code Declaratively in React and Webpack**  
+  https://gist.github.com/iammerrick/f3f9edfbf5dc279af775f73020193dcc  
+  Demonstrates one way to request and render components on demand, using Webpack's bundle-loader
   
 #### Hot Module Replacement
 

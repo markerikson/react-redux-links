@@ -113,6 +113,10 @@
   https://engineering.linode.com/2016/08/17/Using-metaprogramming-in-the-manager.html  
   Linode explains how they generate customized action creators and reducers to talk to different parts of their API
   
+- **A Finite State Machine Helper for Redux**  
+  https://hackernoon.com/a-finite-state-machine-helper-for-redux-c18519643719  
+  Describes a small but useful library for managing state machines using Redux reducers.
+  
   
   
 #### UI and Widget Implementations

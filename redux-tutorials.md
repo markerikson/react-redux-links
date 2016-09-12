@@ -72,6 +72,10 @@
 - **Redux10: A Visual Overview of Redux in 10 Steps**  
   https://github.com/chrisscoular/Redux10  
   A small repo with a standalone HTML page.  Walks through 10 simple steps to help explain the basics of Redux.
+  
+- **How to Use the React-Redux package**  
+  http://code.tutsplus.com/tutorials/how-to-use-the-react-redux-package--cms-27150  
+  An excerpt from the "Modern Web Apps with React and Redux" course, explaining how to use React-Redux to connect components to Redux.
 
 
 #### Project-Based Tutorials
@@ -130,6 +134,10 @@
   https://www.pubnub.com/blog/2016-07-20-adding-realtime-user-list-to-react-chat-app/  
   https://www.pubnub.com/blog/2016-08-16-add-typing-indicator-to-your-react-based-chat-app/  
   A four-part tutorial that walks through building a realtime chat app
+  
+- **React and Redux Tutorial - Trending Github**  
+  http://myappincome.co.uk/react-redux-tutorial-trending-github-part-1/  
+  A five-part tutorial that builds a small app showing trending Github repos.
   
 
 #### Redux Implementation Walkthroughs
@@ -199,3 +207,7 @@
 - **Developing a Redux Edge**  
   https://bleedingedgepress.com/developing-a-redux-edge/  
   This book is for anyone wanting to learn about Redux, a predictable state container for JavaScript apps. It is aimed at intermediate developers who have a good understanding of creating single page applications with JavaScript.
+  
+- **Modern Web Apps with React and Redux**  
+  http://code.tutsplus.com/courses/modern-web-apps-with-react-and-redux  
+  A paid course on TutsPlus that builds a spaced-repetition notecard app.
