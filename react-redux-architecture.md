@@ -336,4 +336,7 @@
 - **Where do I put my business logic in a React-Redux application?**  
   https://medium.com/@jeffbski/where-do-i-put-my-business-logic-in-a-react-redux-application-9253ef91ce1  
   Describes several options for managing logic and async behavior (thunks, sagas, etc), and introduces a new middleware as an alternative approach
-  
+
+- **Code Sharing Between React Native and React Web Apps**  
+  https://medium.com/the-many/code-sharing-between-react-native-and-react-web-apps-b1e1de22fc53  
+  Describes ways to architect Redux actions and reducers in the context of a product that shares code between React Native and React Web clients
