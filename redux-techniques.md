@@ -117,6 +117,9 @@
   https://hackernoon.com/a-finite-state-machine-helper-for-redux-c18519643719  
   Describes a small but useful library for managing state machines using Redux reducers.
   
+- **Conversational sign-up form UI with React and Redux**  
+  http://jsforallof.us/2016/09/08/conversational-sign-up-form-ui-with-react-and-redux/  
+  An example of form management with Redux
   
   
 #### UI and Widget Implementations

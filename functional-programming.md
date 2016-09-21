@@ -99,3 +99,7 @@
 - **JavaScript and Functional Programming**  
   https://bethallchurch.github.io/JavaScript-and-Functional-Programming/  
   An overview of the basic principles of functional programming, and how they can be applied in Javascript.  Also includes links to a variety of other articles and resources.
+  
+- **Functional-Light JS**  
+  https://github.com/getify/Functional-Light-JS  
+  This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that we approach these principles without drowning in all the heavy terminology. We look at a subset of FP foundational concepts that I call "Functional-Light Programming" (FLP) and apply it to JavaScript.

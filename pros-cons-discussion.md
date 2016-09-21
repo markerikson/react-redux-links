@@ -128,6 +128,14 @@ similar structures in ClojureScript.
   https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/  
   An in-depth thread comparing the two libraries.  Includes comments from both Dan Abramov of Redux and Michel Weststrate of MobX describing their libraries, as well a number of other good comparisons.
   
+- **"A SoundCloud client in React and Redux**  
+  https://news.ycombinator.com/item?id=11890229  
+  Includes an extended discussion on use of Redux with forms
+  
+- **"React Tutorial: Cloning Yelp"**  
+  https://news.ycombinator.com/item?id=11778663  
+  Around 250 comments on React, dependency management, tutorial writing, and library churn.
+  
 #### React's PATENTS License
 
 - **Dan Abramov Twitter threads addressing patent concerns**  

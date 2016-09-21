@@ -39,6 +39,10 @@
   https://github.com/brillout/awesome-react-components  
   Catalog of React components / libraries
   
+- **Awesome React Talks**  
+  https://github.com/mightyCrow/awesome-react-talks  
+  A curated list of talks about React or topics related to React.
+  
 
 #### People
 
@@ -100,6 +104,10 @@
 - **ES.next News**  
   http://esnextnews.com/  
   5 ECMAScript.next links every week, in your inbox.  Curated by Dr. Axel Rauschmayer and Johannes Weber.
+  
+- **Dave Ceddia's Newsletter**  
+  https://daveceddia.com/newsletter/  
+  Weekly-ish articles in your inbox about React, JavaScript, and more.
   
   
 #### Online Course Sites

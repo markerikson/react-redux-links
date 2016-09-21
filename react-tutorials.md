@@ -158,6 +158,13 @@
   https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app  
   Details building a React app that renders on both the client and the server
   
+- **React 101**  
+  https://blog.tighten.co/react-101-building-a-gif-search-engine  
+  https://blog.tighten.co/react-101-using-redux  
+  https://blog.tighten.co/react-101-routing-and-auth  
+  https://blog.tighten.co/react-101-part-4-firebase  
+  A great 4-part series that progressively builds up a Giphy search engine
+  
 
 #### React Implementation Walkthroughs
   

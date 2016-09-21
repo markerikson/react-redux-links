@@ -32,6 +32,10 @@
   https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620  
   A set of resources for learning ES6
   
+- **ES6 for Humans**  
+  https://github.com/metagrover/ES6-for-humans  
+  A kickstarter guide to writing ES6.
+  
 
 #### In-Depth Details
 

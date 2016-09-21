@@ -166,6 +166,14 @@
   https://www.sitepoint.com/exploring-reacts-state-propagation/  
   Discusses data flow in React, the difference between `state` and `props`, and the usefulness of immutability
   
+- **The 5 Types of React Application State**  
+  http://jamesknelson.com/5-types-react-application-state/  
+  Describes different categories of state: data, communication, control, session, and location
+  
+- **"M" and "C" in "MVC"**  
+  https://github.com/jamesknelson/m-and-c-in-mvc-talk  
+  Slides for James K. Nelson's talk at ReactNext, talking about the multiple categories of state and how controller components can manage them.
+  
 #### React and AJAX
 
 - **React AJAX Best Practices**  
@@ -191,6 +199,10 @@
 - **Building Realtime Collaborative Offline-First Apps with React, Redux, PouchDB, and Websockets**  
   http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/  
   A blog post and sample project demonstrating various layers of client-server syncing, eventually driving a Redux store and React UI.
+  
+- **AJAX Requests in React: How and Where to Fetch Data**  
+  https://daveceddia.com/ajax-requests-in-react/  
+  An overview of where AJAX requests fit into React usage.
   
   
 #### React and Forms

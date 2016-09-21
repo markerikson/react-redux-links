@@ -78,3 +78,7 @@
 - **Immutable.js**  
   http://seanamarasinghe.com/developer/immutable-js/  
   An introduction to the API and use cases for Immutable.js
+  
+- **How to use Immutable.js Records with React and Redux**  
+  https://medium.com/azendoo-team/immutable-record-react-redux-99f389ed676  
+  Examples for using Immutable.js records for clarity and consistency of data management

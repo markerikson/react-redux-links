@@ -96,6 +96,11 @@
   https://medium.com/@kensodev/test-driving-a-change-to-a-react-redux-application-step-by-step-6c8856e7644c  
   Demonstrates a TDD approach to reworking a Redux app feature
   
+- **Idiomatic React Testing Patterns**  
+  https://gist.github.com/joshdover/235714771d94509a83609b16d232014a  
+  https://news.ycombinator.com/item?id=12087437  
+  Several useful patterns for testing React components, with discussion on HN.
+  
   
 #### General Testing, Tools, and Setup
 
