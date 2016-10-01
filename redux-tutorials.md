@@ -27,23 +27,23 @@
 - **A Cartoon Guide to Redux**  
   https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.3k23w6m18  
   Another high-level description of Redux, with cartoons
-  
+
 - **Redux-Tutorial**  
   https://github.com/happypoulp/redux-tutorial  
   A file-based tutorial to Redux (click on each numbered .js file in the repo)
-  
+
 - **Leveling Up with React: Redux**  
   https://css-tricks.com/learning-react-redux/  
   A very well-written introduction to Redux and its related concepts, with some nifty cartoon-ish diagrams.
-  
+
 - **Functionally Managing State with Redux**  
   http://wecodetheweb.com/2015/09/29/functionally-managing-state-with-redux/  
   A quick overview of Redux's core concepts, and how to use it with React
-  
+
 - **Redux: From Twitter Hype to Production**  
   http://slides.com/jenyaterpil/redux-from-twitter-hype-to-production#/  
   An extremely well-produced slideshow that visually steps through core Redux concepts, usage with React, project organization, and side effects with thunks and sagas.  Has some absolutely _fantastic_ animated diagrams demonstrating how data flows through a React+Redux architecture.
-  
+
 - **Redux diagrams**  
   https://github.com/reactjs/redux/issues/653  
   A variety of user-provided diagrams illustrating how the pieces of Redux fit together.
@@ -55,27 +55,31 @@
 - **Introduction to Redux and React-Redux**  
   http://julienrenaux.fr/2016/05/30/introduction-to-redux-and-react-redux/  
   A quick overview of core Redux concepts, with code examples for creating a store and hooking up React components to read the data.
-  
+
 - **Redux and React Redux**  
   http://www.pshrmn.com/tutorials/react/redux/  
   http://www.pshrmn.com/tutorials/react/react-redux/  
   A pair of articles covering basic Redux concepts and usage.
-  
+
 - **An Introduction to Redux**  
   https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/  
   An overview and intro to the basic concepts of Redux.
-  
+
 - **Why Redux makes sense to me and how I conceptualize it**  
   https://medium.com/@fay_jai/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca  
   Some useful analogies for visualizing how Redux works, how the pieces fit together, and why you'd want to use it.
-  
+
 - **Redux10: A Visual Overview of Redux in 10 Steps**  
   https://github.com/chrisscoular/Redux10  
   A small repo with a standalone HTML page.  Walks through 10 simple steps to help explain the basics of Redux.
-  
+
 - **How to Use the React-Redux package**  
   http://code.tutsplus.com/tutorials/how-to-use-the-react-redux-package--cms-27150  
   An excerpt from the "Modern Web Apps with React and Redux" course, explaining how to use React-Redux to connect components to Redux.
+
+- **The basics of Redux - Video series**  
+  This is a [7 parts video series](https://www.youtube.com/watch?v=1w-oQ-i1XB8&index=15&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) on Redux. From the basic introduction to Immutables, Reducers, Middlewares... It's a really great overview.
+
 
 
 #### Project-Based Tutorials
@@ -97,7 +101,7 @@
   http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/  
   http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/  
   Another solid, in-depth tutorial, similar to the "Full-Stack" tutorial.  Builds a client-only TodoMVC app, and demonstrates a good project setup (including a Mocha+JSDOM-based testing configuration).  Well-written, covers many concepts, and very easy to follow.
-  
+
 - **Build an Image Gallery using React, Redux, and redux-saga**  
   http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga  
   A step-by-step look at building a page with some complex async behavior.
@@ -105,7 +109,7 @@
 - **The Soundcloud Client in React + Redux**  
   http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/  
   A detailed walkthrough demonstrating project setup, routing, authentication, fetching of remote data, and wrapping of a stateful library.
-  
+
 - **Interactive Frontend Development with React and Redux**  
   https://courses.cs.ut.ee/2016/react/spring/Main/Lectures  
   An Estonian university course covering React and Redux. Lecture videos, slides, and course code are all available online (in English).  Topics include React philosophy, container components, Redux basics, async actions, middleware, routing, and optimization.
@@ -113,11 +117,11 @@
 - **TypeScript Redux**  
   https://github.com/ServiceStackApps/typescript-redux  
   This guide goes through setting up, running and exploring the ultimate JavaScript Stack du jour: TypeScript, JSPM, React, and Redux.
-  
+
 - **Build a React Redux App with JSON Web Token (JWT) Authentication**  
   http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/  
   Demonstrates building the client portion of a JWT-authenticated application (follow-up to previous articles that built the server-side).
-  
+
 - **Redux Hero: An Intro to Redux and Reselect**  
   https://decembersoft.com/posts/redux-hero-part-1-a-hero-is-born-a-fun-introduction-to-redux-js/  
   https://decembersoft.com/posts/redux-hero-part-2-actions-and-their-consequences-a-fun-introduction-to-redux-actions/  
@@ -127,37 +131,37 @@
 - **An Adventure in Redux: building redux-adventure**  
   http://csharperimage.jeremylikness.com/2016/07/an-adventure-in-redux-building-redux.html  
   Builds a small randomized dungeon game using Redux, TypeScript, and Angular 2
-  
+
 - **Building a Chat App with React, Redux, and PubNub**  
   https://www.pubnub.com/blog/2016-06-14-getting-started-with-pubnub-and-react/  
   https://www.pubnub.com/blog/2016-06-28-reactjs-chat-app-infinite-scroll-history-using-redux/    
   https://www.pubnub.com/blog/2016-07-20-adding-realtime-user-list-to-react-chat-app/  
   https://www.pubnub.com/blog/2016-08-16-add-typing-indicator-to-your-react-based-chat-app/  
   A four-part tutorial that walks through building a realtime chat app
-  
+
 - **React and Redux Tutorial - Trending Github**  
   http://myappincome.co.uk/react-redux-tutorial-trending-github-part-1/  
   A five-part tutorial that builds a small app showing trending Github repos.
-  
+
 
 #### Redux Implementation Walkthroughs
 
 - **Read the Source ep17 - React Redux with Dan Abramov**  
   https://youtu.be/VJ38wSFbM3A  
   Dan walks through the implementation and concepts of React-Redux.  A great follow-up to the Egghead.io tutorial series.
-  
+
 - **Connect.js explained**  
   https://gist.github.com/gaearon/1d19088790e70ac32ea636c025ba424e  
   A very simplified version of React Redux's `connect()` function that illustrates the basic implementation
-  
+
 - **Let's Write Redux!**  
   http://www.jamasoftware.com/blog/lets-write-redux/  
   Walks through writing a miniature version of Redux step-by-step, to help explain the concepts and implementation.
-  
+
 - **Hacking Redux**  
   http://paulserraino.com/javascript/2016/02/16/hacking-redux.html  
   Looks at the core concepts in Redux, and builds up a mini-Redux to demonstrate how Redux works internally.
-  
+
 - **Learning Redux with Reducks**  
   http://www.aaron-powell.com/tagged/reducks.html  
   Another "build a mini-Redux" article series.
@@ -172,27 +176,27 @@
 - **Understanding Redux Middleware**  
   https://medium.com/@meagle/understanding-87566abcfb7a  
   Breaks down Redux's applyMiddleware function line-by-line, and explains the concepts involved
-  
+
 - **Building Redux Middleware**  
   https://reactjsnews.com/redux-middleware  
   Demonstrates building a basic Redux middleware
-  
+
 - **A Beginner's Guide to Redux Middleware**  
   https://www.codementor.io/reactjs/tutorial/beginner-s-guide-to-redux-middleware  
   A useful explanation of middleware use cases, with numerous examples
-  
+
 - **Redux Middleware**  
   http://jonnyreeves.co.uk/2016/redux-middleware/  
-  A tutorial describing how Redux compares to typical "MVC", what a "middleware" is, what they can do, and how you can test them. 
-  
+  A tutorial describing how Redux compares to typical "MVC", what a "middleware" is, what they can do, and how you can test them.
+
 - **Redux Middleware Tutorial**  
   http://www.pshrmn.com/tutorials/react/redux-middleware/  
   An overview of what middleware is, how `applyMiddleware` works, and how to write middleware.
-  
+
 - **Redux Middleware: Behind the Scenes**  
   http://briantroncone.com/?p=529  
   Digs into the concepts and implementation of middleware.
-  
+
 - **Middlewares and React Redux Lifecycle**  
   https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6  
   A description of what a middleware is, and how it works in Redux
@@ -207,7 +211,7 @@
 - **Developing a Redux Edge**  
   https://bleedingedgepress.com/developing-a-redux-edge/  
   This book is for anyone wanting to learn about Redux, a predictable state container for JavaScript apps. It is aimed at intermediate developers who have a good understanding of creating single page applications with JavaScript.
-  
+
 - **Modern Web Apps with React and Redux**  
   http://code.tutsplus.com/courses/modern-web-apps-with-react-and-redux  
   A paid course on TutsPlus that builds a spaced-repetition notecard app.
