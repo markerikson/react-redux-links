@@ -1,7 +1,7 @@
 # React/Redux Links
-Curated tutorial and resource links I've collected on React, Redux, ES6, and more, meant to be a collection of high-quality articles and resources for someone who wants to learn about the React-Redux ecosystem.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
+Curated tutorial and resource links I've collected on React, Redux, ES6, and more, meant to be a collection of high-quality articles and resources for someone who wants to learn about the React-Redux ecosystem, as well as a source for quality information on advanced topics and techniques.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
 
-Another important resource is the Reactiflux community on Discord, which has chat channels dedicated to discussion of React, Redux, and other related technologies.  There's always a number of people hanging out and answering questions, and it's a great place to ask questions and learn.  The invite link is at https://www.reactiflux.com.
+Another important resource is the **Reactiflux community on Discord**, which has chat channels dedicated to discussion of React, Redux, and other related technologies.  There's always a number of people hanging out and answering questions, and it's a great place to ask questions and learn.  The invite link is at **https://www.reactiflux.com**.
 
 You might also want to check out my categorized list of Redux-related addons, libraries, and utilities, at [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links).  Also see [Community Resources](community-resources.md) for links to other links lists, podcasts, and email newsletters.
 
@@ -32,9 +32,13 @@ You might also want to check out my categorized list of Redux-related addons, li
 
 #### Advanced Topics
 
-- [React Performance](react-performance.md)
+- [React Component Patterns](./react-component-patterns.md)
+- [React State Management](./react-state-management.md)
+- [React and Forms](./react-forms.md)
+- [React and AJAX](./react-ajax.md)
+- [React Styling](./react-styling.md)
+- [React/Redux Performance](react-performance.md)
 - [React/Redux Architecture](react-redux-architecture.md)
-- [React Styling](react-styling.md)
 - [Redux Side Effects](redux-side-effects.md)
 - [Redux Tips and Techniques](redux-techniques.md)
 - [Webpack Advanced Techniques](webpack-advanced-techniques.md)
