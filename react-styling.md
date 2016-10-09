@@ -8,6 +8,14 @@
   http://andrewhfarmer.com/how-to-style-react/  
   An excellent overview of the four major ways to deal with styles in React, and what the various tools are.  Includes a decision tree to help you decide what to use.
   
+- **CSS in JS**  
+  http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html  
+  Christopher Chedeau's classic talk that inspired the "CSS in JS" revolution
+  
+- **Component Based Style Reuse**  
+  https://www.youtube.com/watch?v=_70Yp8KPXH8  
+  Pete Hunt talks about various approaches to defining styles for components in plain CSS and in React
+  
 - **CSS Modules by Example**  
   http://andrewhfarmer.com/css-modules-by-example/  
   A set of 7 examples demonstrating ways to use CSS modules.
@@ -27,3 +35,7 @@
 - **Functional CSS - The Good, The Bad, and Some Protips for React.js Users**  
   https://github.com/chibicode/react-functional-css-protips  
   An essay describing the "functional CSS" approach, pros and cons of using it, and tips for using that approach with React.
+  
+- **Thoughts on Inline Styles**  
+  https://medium.com/@andrewingram/my-thoughts-on-inline-styles-da94682b5e35  
+  A look at reasons why people might or might not use inline style approaches, and some opinions and suggestions on when to use different approaches.

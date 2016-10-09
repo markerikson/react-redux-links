@@ -46,7 +46,21 @@
 - **Redux Error Reports Concept**  
   https://medium.com/@jrullmann/redux-error-reports-concept-ab85b658f53e  
   A semi-hypothetical description of tools that could be built to report errors by leveraging Redux
+  
+- **A Quick Look at the React and Redux DevTools**  
+  http://mediatemple.net/blog/tips/a-quick-look-at-the-react-and-redux-devtools/  
+  An intro to using the React DevTools and Redux DevTools extensions for debugging
 
+
+#### Reducers
+
+- **Redux Docs: Structuring Reducers**  
+  http://redux.js.org/docs/recipes/StructuringReducers.html  
+  Comprehensive information on writing reducers and structuring data, covering reducer composition, use of `combineReducers`, normalizing data, proper immutable updating, and more.
+
+- **"Reducer composition without slicing state"**  
+  https://www.reddit.com/r/javascript/comments/42ey9e/redux_reducer_composition_without_slicing_state/  
+  Discussion of ways to organize actions and reducer logic
 
 #### Type Checking
 
@@ -66,43 +80,64 @@
   Covers how to set up Flow for type-checking a Redux application
 
 
-#### Other
+#### Encapsulation and Reusability
+
+- **Querying a Redux Store**  
+  https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
+  A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.
+
+- **Encapsulation in Redux: the Right Way to Write Reusable Components**  
+  http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
+  A look at one way to write encapsulated action handling in Redux
+
+- **How to Reuse Redux Components**  
+  https://medium.com/@MattiaManzati/how-to-reuse-redux-components-8acd5b4d376a  
+  Discussion of an Elm-inspired approach to wrapping up reusable components and logic
+
+- **Redux and the Elm Architecture**  
+  http://salsita.github.io/redux-elm/  
+  Redux lacks built-in abstractions for real-world, maintainable, scalable applications. In particular, it is difficult to create and distributed encapsulated, reusable components.  The Elm Architecture clearly addresses some important areas where Redux alone is lacking.
+  
+- **Scaleable FE with Redux and Elm Architecture**  
+  https://medium.com/@hunterbmt/scaleable-fe-with-redux-and-elm-architecture-c6812ed0125e  
+  Examples of using Elm-style approaches to writing Redux code
+  
+- **Encapsulation in Redux: the Right Way to Write Reusable Components**  
+  http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
+  Examples of an Elm-style encapsulation approach
+  
+- **The Problem with Redux... And How to Fix It**  
+  http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/  
+  Demonstration of Redux-Elm, a library that adds composable actions to Redux
+
 - **Applying Redux Reducers to Arrays**  
   http://blog.scottlogic.com/2016/05/19/redux-reducer-arrays.html  
   Looks at one way to implement the classic "multiple instances of one connected component" issue in Redux.
-  
-- **Ajax Polling in React with Redux and Sagas**  
-  http://notjoshmiller.com/ajax-polling-in-react-with-redux/  
-  http://notjoshmiller.com/ajax-polling-part-2-sagas/  
-  Covers a couple different ways to manage the logic for AJAX polling.
-  
-- **"How can I display a modal dialog in Redux that performs asynchronous actions?"**  
-  http://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions  
-  A detailed answer describing how you can declaratively drive pieces of your UI by putting descriptive pieces of data into your state (such as the name of the current dialog component to show, and what props that dialog should have)
+
+
+#### UI and Widget Implementations
+
+- **"How can I display a modal dialog in Redux?"**  
+  http://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions/35641680  
+  Dan Abramov describes a great technique for descriptively managing React modal dialogs using Redux actions and state, by storing names of components and their props.
+
+- **"Generic Modal Dialogs with Feature-Specific Actions"**  
+  https://www.reddit.com/r/reactjs/comments/4wjmme/implement_a_confirm_modal_using_react_redux/d68ajcw?context=3  
+  A follow-on to Dan's technique, with a short suggestion for using generic modal components in a variety of situations by including actions as props.
   
 - **Implement a confirm modal using React & Redux**  
   http://jslancer.com/2016/08/07/implement-a-confirm-modal-using-react-redux/  
   Demonstrates wrapping up an existing modal library to be controlled by Redux actions
   
+  
+#### Other  
 - **Two mistakes I made working with Redux**  
   http://www.mattzeunert.com/2016/06/01/redux-mistakes.html  
   Some suggestions on how to handle denormalizing data and defining actions.
   
-- **Encapsulation in Redux: the Right Way to Write Reusable Components**  
-  http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
-  A look at one way to write encapsulated action handling in Redux
-  
-- **Querying a Redux Store**  
-  https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
-  A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.
-  
 - **React, Redux, and Redux-Form**  
   https://jokeyrhyme.github.io/2016/06/27/react-redux-redux-form.html  
   Thoughts on the merits of using the Redux-Form library
-  
-- **A Quick Look at the React and Redux DevTools**  
-  http://mediatemple.net/blog/tips/a-quick-look-at-the-react-and-redux-devtools/  
-  An intro to using the React DevTools and Redux DevTools extensions for debugging
   
 - **Real-World React and Redux**  
   https://dzone.com/articles/real-world-reactjs-and-redux-part-1  
@@ -122,16 +157,16 @@
   An example of form management with Redux
   
   
-#### UI and Widget Implementations
+#### Network Management
 
-- **"How can I display a modal dialog in Redux?"**  
-  http://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions/35641680  
-  Dan Abramov describes a great technique for descriptively managing React modal dialogs using Redux actions and state
+- **Ajax Polling in React with Redux and Sagas**  
+  http://notjoshmiller.com/ajax-polling-in-react-with-redux/  
+  http://notjoshmiller.com/ajax-polling-part-2-sagas/  
+  Covers a couple different ways to manage the logic for AJAX polling.
 
-- **"Generic Modal Dialogs with Feature-Specific Actions"**  
-  https://www.reddit.com/r/reactjs/comments/4wjmme/implement_a_confirm_modal_using_react_redux/d68ajcw?context=3  
-  A follow-on to Dan's technique, with a short suggestion for using generic modal components in a variety of situations by including actions as props.
-  
+- **Firebase with Redux**  
+  https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9  
+  Examples for combining Firebase into a Redux application
   
   
 #### Variations on Redux Architectures
@@ -144,14 +179,6 @@
   http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
   An in-depth article covering how to architect an application using Redux, Angular 2, and RxJS.  
   
-- **Redux and the Elm Architecture**  
-  http://salsita.github.io/redux-elm/  
-  Redux lacks built-in abstractions for real-world, maintainable, scalable applications. In particular, it is difficult to create and distributed encapsulated, reusable components.  The Elm Architecture clearly addresses some important areas where Redux alone is lacking.
-  
-- **Scaleable FE with Redux and Elm Architecture**  
-  https://medium.com/@hunterbmt/scaleable-fe-with-redux-and-elm-architecture-c6812ed0125e  
-  Examples of using Elm-style approaches to writing Redux code
-  
 - **redux-scuttlebutt; eventually consistent shared state among peers**  
   https://medium.com/@grrowl/redux-scuttlebutt-eventually-consistent-shared-state-among-peers-191d48102079  
   Describes how to use the Redux-Scuttlebutt library to sync actions and updates between multiple instances of a Redux application
@@ -163,3 +190,7 @@
 - **The Elegance of React, Redux, and Ramda**  
   https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19  
   Demonstrates ways to use Ramda to compose together React components and Redux behavior
+  
+- **Extreme Decoupling: React, Redux, Selectors**  
+  http://www.thinkloop.com/article/extreme-decoupling-react-redux-selectors/  
+  Discusses an API-first approach to splitting apart a Redux app into view, state, and integration layers.

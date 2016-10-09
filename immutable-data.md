@@ -56,7 +56,7 @@
   Describes the major benefits of using immutable data in React, with a demo
 
 - **React: A (very brief) talk about immutability**  
-  https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c
+  https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c  
   Talks about the issues with mutation, and some ways to update immutably
 
 

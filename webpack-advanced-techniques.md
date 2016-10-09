@@ -68,6 +68,10 @@
   https://gist.github.com/iammerrick/f3f9edfbf5dc279af775f73020193dcc  
   Demonstrates one way to request and render components on demand, using Webpack's bundle-loader
   
+- **Webpack Bloat**  
+  http://www.jamesonnetworks.com/entry/webpack-bloat  
+  Discussion of how to improve production configurations for smaller bundle sizes
+  
 #### Hot Module Replacement
 
 - **Webpack and Hot Module Replacement**  
@@ -136,3 +140,7 @@
 - **Setting up CSS Modules with React and Webpack**  
   http://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/  
   Covers setting up and configuring Webpack to use CSS Modules for styling
+  
+- **Webpack Map Entity Loader**  
+  http://drhayes.io/secret-game/map-entity-loader.html  
+  A small example of writing a custom Webpack loader for game data

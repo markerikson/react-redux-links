@@ -73,6 +73,23 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://twitter.com/dan_abramov/status/760199672824815616  
   Dan advises not to worry about binding methods in render functions unless profiling shows it's a real perf problem for you
   
+- **Real-World React Debugging**  
+  https://www.youtube.com/watch?v=0MGTONvtlrI  
+  http://jaredforsyth.com/real-world-react-debugging/#/  
+  A talk on strategies for debugging React apps, with slides.
+  
+- **Don't Use Bind when Passing Props**  
+  https://daveceddia.com/avoid-bind-when-passing-props/  
+  https://www.reddit.com/r/reactjs/comments/4ri9x8/dont_use_bind_when_passing_props/  
+  Advice on approaches to function binding, with further discussion.
+  
+- **Progressive Web Apps with React**  
+  https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12  
+  https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2  
+  https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c  
+  A multi-part series by Addy Osmani on building performant Progressive Web Apps, including page loading, code splitting, and offline handling.
+
+  
 #### Immutable Data
 
 - **Building Efficient UI with React and Redux**  

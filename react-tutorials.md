@@ -78,6 +78,10 @@
 - **React Workshop**  
   https://github.com/jesstelford/react-workshop  
   A self-directed set of workshop lessons that teach React basics.
+  
+- **React Cheat Sheet**  
+  http://reactcheatsheet.com/  
+  A filterable list of React's APIs and concepts
 
 
 #### Project-Based Tutorials
@@ -216,6 +220,18 @@
 - **React Events In Depth**  
   https://www.youtube.com/watch?v=dRo_egw7tBc  
   A Javascript Air episode focused on how React's Events system works, with React team members Dan Abramov and Ben Alpert
+  
+- **Building React from Scratch**  
+  https://www.youtube.com/watch?v=_MAD4Oly9yg  
+  Paul O'Shannessy walks through building a mini React implementation
+  
+- **Building Your Own React Clone in Five Easy Steps**  
+  http://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/  
+  Builds a mini-React implementation to illustrate the basic principles
+  
+- **Our First 50,000 Stars**  
+  https://facebook.github.io/react/blog/2016/09/28/our-first-50000-stars.html  
+  A post celebrating React's progress, including a history of how React's concepts came together over time
   
 #### Paid Courses and Books
 

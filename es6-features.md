@@ -36,6 +36,10 @@
   https://github.com/metagrover/ES6-for-humans  
   A kickstarter guide to writing ES6.
   
+- **Start Using ES6 Today**  
+  http://wesbos.github.io/ES6-Talk/  
+  A set of slides describing the features in ES6
+  
 
 #### In-Depth Details
 
@@ -78,6 +82,10 @@
 - **Learning ES6: Iterators and Iterables**  
   https://www.eventbrite.com/engineering/learning-es6-iterators-iterables/  
   Covers the new iteration-related features in ES6
+  
+- **The Most In-Depth Yet Understandable ES6 Destructuring Tutorial**  
+  http://untangled.io/in-depth-es6-destructuring-with-assembled-avengers/  
+  A thorough set of examples for ES6's destructuring feature
   
   
 #### Techniques

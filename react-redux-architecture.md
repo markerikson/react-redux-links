@@ -75,7 +75,7 @@
   Describes the container component pattern and how to use it to split up responsibilities between fetching and displaying data.
   
 - **Finding `state`'s place with React and Redux**  
-  https://medium.com/@adamrackis/finding-state-s-place-with-react-and-redux-e9a586630172
+  https://medium.com/@adamrackis/finding-state-s-place-with-react-and-redux-e9a586630172  
   A look at when and how using React component state may be useful, even when using Redux for primary app state
   
 - **Dataflow through React**  
@@ -160,7 +160,7 @@
   
 - **Redux'ing without Redux**  
   https://medium.com/@m.mollaverdi/reduxing-without-redux-75dbd5c05336  
-  Thoughts on how some of Redux’s goodness can perhaps be utilised without actually using Redux.
+  Thoughts on how some of Redux's goodness can perhaps be utilised without actually using Redux.
   
 - **Exploring React's State Propagation**  
   https://www.sitepoint.com/exploring-reacts-state-propagation/  
@@ -173,6 +173,10 @@
 - **"M" and "C" in "MVC"**  
   https://github.com/jamesknelson/m-and-c-in-mvc-talk  
   Slides for James K. Nelson's talk at ReactNext, talking about the multiple categories of state and how controller components can manage them.
+  
+- **React, Higher Order Components, and Legacy Applications**  
+  http://browniefed.com/blog/react/  
+  Examples of how to integrate React into an existing application using HoCs
   
 #### React and AJAX
 
@@ -274,6 +278,10 @@
   http://react.tips/checkboxes-in-react/  
   Tutorials on managing various inputs in forms with React
   
+- **Elegant Form Validation in React**  
+  https://spin.atomicobject.com/2016/10/05/form-validation-react/  
+  Examples of adding validation to a form
+  
   
 #### Project File Structure
 
@@ -316,14 +324,14 @@
 - **Redux Structure: a Way to Success**  
   https://datarockets.com/blog/redux-structure  
   Thoughts on a "modules and components"-based approach to file structure, 
+  
+- **My journey toward a maintainable project structure for React/Redux**  
+  https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5  
+  Describes an evolution of approaches for project structure
 
 
 #### Redux Architecture
 
-
-- **Reddit: "Redux - Reducer composition without slicing state?"**  
-  https://www.reddit.com/r/javascript/comments/42ey9e/redux_reducer_composition_without_slicing_state/  
-  Some very informative discussion on how to organize reducers and actions.
   
 - **Wordpress Calypso: Our Approach to Data**  
   https://github.com/Automattic/wp-calypso/blob/master/docs/our-approach-to-data.md  
@@ -352,3 +360,12 @@
 - **Code Sharing Between React Native and React Web Apps**  
   https://medium.com/the-many/code-sharing-between-react-native-and-react-web-apps-b1e1de22fc53  
   Describes ways to architect Redux actions and reducers in the context of a product that shares code between React Native and React Web clients
+  
+- **You Might Not Need Redux**  
+  https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367  
+  Dan Abramov discusses the tradeoffs involved in using Redux.
+  
+- **Avoiding Accidental Complexity When Structuring Your App State**  
+  https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a  
+  An excellent set of guidelines for organizing your Redux store structure.
+  

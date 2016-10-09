@@ -45,6 +45,10 @@
 - **React Binding Patterns: 5 Approaches for Handling `this`**  
   https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56  
   Describes five different ways you can handle binding methods to handle the `this` keyword correctly
+  
+- **"Fat arrow vs autobind vs bindbindbind?"**  
+  https://www.reddit.com/r/reactjs/comments/54xnao/fat_arrow_vs_autobind_vs_bindbindbindbindbind/d85wj0l  
+  Dan Abramov comments, giving his thoughts on how to handle method binding.
 
 
 #### Method Binding Utilities

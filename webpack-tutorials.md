@@ -87,9 +87,16 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   A free online chapter of the Pro React book, covering Webpack concepts and usage.
   
 - **A Comprehensive Introduction to Webpack, the Module Bundler**  
-  http://www.theodo.fr/blog/2016/07/a-comprehensive-introduction-to-webpack-the-module-bundler/  A solid article covering basic Webpack configuration and setup.
+  http://www.theodo.fr/blog/2016/07/a-comprehensive-introduction-to-webpack-the-module-bundler/  
+  A solid article covering basic Webpack configuration and setup.
   
+- **Module Bundling with Webpack: Getting Started Guide**  
+  https://www.codementor.io/javascript/tutorial/module-bundler-webpack-getting-started-guide  
+  Tutorial covering basic config setup and concepts
   
+- **Webpack Tutorials for Beginners**  
+  https://www.youtube.com/playlist?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC  
+  A video tutorial series explaining Webpack config and loaders
 
 #### Configuration Terms and Concepts
 
@@ -109,6 +116,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Why Can't Anyone Write a Simple Webpack Tutorial?**  
   https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed  
   A goofy but informative look at many of the concepts and pieces that make up Webpack
+  
+- **Webpack Loader Variations**  
+  http://andrewhfarmer.com/webpack-loader-variations/  
+  Examples of the different ways to define a loader in a Webpack config
   
   
 #### Webpack Configuration Utilities
@@ -132,3 +143,6 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Maintainable Webpack Config**  
   https://github.com/chrisvfritz/maintainable-webpack-config  
   An experiment to make Webpack configs testable and maintainable
+  
+- **Webpack Dashboard**  
+  A CLI dashboard for your webpack dev server

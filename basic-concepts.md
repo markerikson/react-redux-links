@@ -26,8 +26,27 @@
 - **Modern Javascript Development**  
   https://mgadams.com/modern-javascript-development-part-1-d271f3790c1c  
   An overview of how browsers, Javascript, and Javascript frameworks have evolved into today's landscape of tools and technologies
+  
+- **Making Sense of Front-End Build Tools**  
+  https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b  
+  An approach to understanding the variety of build tools by categorizing them as "installing" vs "doing"
 
-
+- **The State of Javascript in 2016: Survey Results**
+  http://stateofjs.com/  
+  Results from a survey of over 9000 developers, covering use of Javascript tools, technologies, and concepts.
+  
+- **The (R)Evolution of Web Development**  
+  http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/  
+  A slideshow giving an overview of web dev history and modern web dev tools, technologies, and trends.
+  
+- **The State of Javascript**  
+  https://youtu.be/5NIL3Epadj0  
+  A talk by Jack Franklin, summarizing the state of modern web development.
+  
+- **Modern JS Stack Training**  
+  https://github.com/verekia/modern-js-stack-training  
+  A repo that walks through concepts involved in a typical JS app, and how to set up each piece
+  
 #### React Learning Guidelines
 
 - **React How-To**  
@@ -52,3 +71,7 @@
 - **How to Learn Web Frameworks**  
   https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68  
   Some great advice on how to approach learning web development and frameworks, especially if you're a junior developer.
+
+- **How to keep up: "First do it, then do it right, then do it better"**  
+  https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3  
+  Advice from Addy Osmani on how to cope with learning new JS technologies

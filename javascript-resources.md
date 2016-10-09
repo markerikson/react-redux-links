@@ -32,6 +32,13 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Roadmap for Learning the Javascript Language**   
   http://bytearcher.com/articles/roadmap-for-learning-javascript-language/  
   A suggested approach for how to learn Javascript.
+  
+- **What Do I Need to Know to Ace a JavaScript Interview?**  
+  https://github.com/adam-s/js-interview-review  
+  Collected resources for studying Javascript and preparing for an interview
+  
+
+  
 
 
 #### Tutorials and Books
@@ -44,9 +51,20 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://github.com/getify/You-Dont-Know-JS  
   An online book series intended to teach all aspects of Javascript, including the "tougher" parts.
   
+- **Speaking Javascript**  
+  http://speakingjs.com/es5/index.html  
+  A free online book on Javascript from Dr. Axel Rauschmayer.
+  
 - **23 Free Javascript Books**  
   https://hackerlists.com/free-javascript-books/  
   A list of many Javascript books available for free online.
+  
+- **Rithm School Free Javascript Course**  
+  https://www.rithmschool.com/courses  
+  
+- **Practical Javascript**  
+  http://watchandcode.com/p/practical-javascript  
+  A free online course to learn Javascript fundamentals.
   
   
 #### Interactive Exercises
@@ -78,9 +96,15 @@ While this list is primarily focused on learning React and Redux, and generally 
   A two-part article on the ins and outs of `this`.
   
 - **Let's Settle `this`, Part One**  
-  https://medium.com/@nashvail/lets-settle-this-part-one-ef36471c7d97
+  https://medium.com/@nashvail/lets-settle-this-part-one-ef36471c7d97  
   Another look at `this`, with a number of examples and explanations
 
 
 
 #### Paid Courses and Books
+
+- **Javascript: Understanding the Weird Parts**  
+  https://www.udemy.com/understand-javascript/?couponCode=YOUTUBE19  
+  https://www.youtube.com/watch?v=Bv_5Zv5c-Ts  
+  http://joanmira.com/javascript-understanding-the-weird-parts/  
+  A widely recommended course on Javascript by Tony Alicea.  The first 3.5-hour video is free on Youtube, with a discount link for the course.  The last link is notes from the course.

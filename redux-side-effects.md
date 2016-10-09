@@ -18,6 +18,10 @@
 - **"Async Redux workflow: calling actions outside Redux?"**  
   https://www.reddit.com/r/reactjs/comments/4upe9t/async_redux_workflow_calling_actions_outside_redux/d5sgy5s?context=3  
   A comment explaining why using action creator functions is a good practice
+  
+- **Why doesn't Redux support AJAX out of the box?**  
+  http://goshakkk.name/redux-no-ajax-by-default/  
+  Looks at how AJAX calls fit into a Redux application
 
 #### Sagas
 
@@ -37,9 +41,9 @@
   http://engineering.invisionapp.com/post/persist-redux-state-by-using-sagas/  
   A very well-written set of examples showing how to use sagas to implement some complex store persistence logic.
   
-- **Handling Async in Redux with Sagas**  
-  http://wecodetheweb.com/2016/01/23/handling-async-in-redux-with-sagas/  
-  Covers the basic concepts and syntax of sagas, and how they can improve testability.
+- **Handling async in Redux with Sagas**  
+  http://wecodetheweb.com/2016/10/01/handling-async-in-redux-with-sagas/  
+  Covers the basic concepts and syntax of sagas, and how they can improve testability.  (Updated version of a 2015 post, covering the latest version of redux-saga.)
   
 - **Redux Saga conceptual diagram**  
   https://twitter.com/kuy/status/731484272234663937  
@@ -60,10 +64,6 @@
 - **Async Operations using Redux-Saga**  
   https://medium.com/@andresmijares25/async-operations-using-redux-saga-2ba02ae077b3  
   An example of using Redux-Saga to coordinate multiple async calls based on another article's flight data scenario.
-  
-  
-#### Other
 
-- **The Problem with Redux... And How to Fix It**  
-  http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/  
-  Describes how Redux has some weaknesses with handling side effects and creating fractal applications, and how the Redux-Elm addon addresses those.
+
+  

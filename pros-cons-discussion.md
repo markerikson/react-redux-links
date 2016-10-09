@@ -24,7 +24,7 @@
   Looks at 6 ways different frameworks make things "easy": concepts, reading/writing code, architecting / maintaining / debugging apps. 
   
 - **How React Helped Us Scale a Large Web App**  
-  https://medium.com/opengov-developers/how-react-helped-us-scale-a-large-web-app-d89f96c4790a
+  https://medium.com/opengov-developers/how-react-helped-us-scale-a-large-web-app-d89f96c4790a  
   A look at how React has been used to scale the OpenGov app architecture in terms of both users and developers.
   
   
@@ -136,7 +136,16 @@ similar structures in ClojureScript.
   https://news.ycombinator.com/item?id=11778663  
   Around 250 comments on React, dependency management, tutorial writing, and library churn.
   
+- **"Why Learning Angular 2 was Excruciating"**  
+  https://news.ycombinator.com/item?id=12534296  
+  https://news.ycombinator.com/item?id=12536634  
+  Another very long thread about the JS ecosystem and versioning.  The linked comment describes how React, Redux, and Webpack have brought predictability to a particular application.
+  
 #### React's PATENTS License
+
+- **Facebook Open Source License FAQ**  
+  https://code.facebook.com/pages/850928938376556  
+  Official answers to questions about the meanings of license phrasing
 
 - **Dan Abramov Twitter threads addressing patent concerns**  
   https://twitter.com/dan_abramov/status/754992075087745024  
@@ -156,5 +165,6 @@ similar structures in ClojureScript.
   https://news.ycombinator.com/item?id=12108526  
   https://vimeo.com/170598656#comment_14699807  
   https://github.com/facebook/react/issues/7293  
+  https://news.ycombinator.com/item?id=12597488
   More discussion threads regarding the PATENTS license
   

@@ -55,6 +55,10 @@
   https://twitter.com/oguzbilgic/lists/react-influencers/members  
   Some Twitter lists that focus on React-related people
   
+- **"41 Javascript Experts to Follow on Twitter"**  
+  http://techbeacon.com/javascript-leaders-you-should-follow-twitter  
+  A varied list of JS-related people.  Not specifically React-related, but a useful list.
+  
   
 #### Podcasts
 

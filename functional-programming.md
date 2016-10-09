@@ -103,3 +103,11 @@
 - **Functional-Light JS**  
   https://github.com/getify/Functional-Light-JS  
   This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that we approach these principles without drowning in all the heavy terminology. We look at a subset of FP foundational concepts that I call "Functional-Light Programming" (FLP) and apply it to JavaScript.
+ 
+- **The Case for Lenses in Pragmatic Business Applications**  
+  http://www.brandonkeown.com/2016/10/lenses-for-fun-and-profit.html  
+   Demonstrates the use of Ramda's "lens" concept for encapsulating data access
+   
+- **Don't Be Scared of Functional Programming**  
+  https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/  
+  Several examples of functional programming principles, both in plain JS and with Underscore.js
