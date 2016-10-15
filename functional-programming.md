@@ -108,6 +108,22 @@
   http://www.brandonkeown.com/2016/10/lenses-for-fun-and-profit.html  
    Demonstrates the use of Ramda's "lens" concept for encapsulating data access
    
+- **Functional Lenses, How Do They Work**  
+  https://medium.com/@dtipson/functional-lenses-d1aba9e52254  
+  A dive into the "lens" concept, and how they can be used to manipulate data structures
+   
 - **Don't Be Scared of Functional Programming**  
   https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/  
   Several examples of functional programming principles, both in plain JS and with Underscore.js
+  
+- **Using Composition and Array Functions**  
+  http://ignaciochavez.com/using-composition-and-array-functions/  
+  Some useful examples of composing together different functions to accomplish a task.  Has some very nice diagrams illustrating the process.
+  
+- **Dipping a toe into functional JS with lodash/fp**  
+  https://simonsmith.io/dipping-a-toe-into-functional-js-with-lodash-fp/  
+  Examples of using Lodash's functional API for logic and React component composition
+  
+- **Composability: From Callbacks to Categories in ES6**  
+  https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e  
+  Explores different solutions to "callback hell", based on various FP concepts

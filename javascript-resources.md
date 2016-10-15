@@ -66,6 +66,14 @@ While this list is primarily focused on learning React and Redux, and generally 
   http://watchandcode.com/p/practical-javascript  
   A free online course to learn Javascript fundamentals.
   
+- **Javascript Path**  
+  https://github.com/javascript-society/javascript-path  
+  A list of books to master JavaScript Development
+  
+- **DevFreeBooks: Javascript**  
+  https://devfreebooks.org/javascript/  
+  A list of free online books for Javascript
+  
   
 #### Interactive Exercises
 

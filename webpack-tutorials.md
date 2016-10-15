@@ -5,6 +5,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 
 #### Overviews and Introductions
 
+- **Webpack Documentation**  
+  https://webpack.js.org/  
+  Webpack's new documentation site, explaining concepts, configuration, and recipes
+
 - **Webpack from First Principles**  
   https://www.youtube.com/watch?v=WQue1AN93YU  
   A screencast video explaining what Webpack is and why you would want to use it
@@ -120,6 +124,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack Loader Variations**  
   http://andrewhfarmer.com/webpack-loader-variations/  
   Examples of the different ways to define a loader in a Webpack config
+  
+  
+- **Remix's Software Stack: Webpack**  
+  https://blog.getremix.com/remixs-software-stack-webpack-34990de9d803  
+  An explanation of the configuration settings and options inside one company's Webpack config
   
   
 #### Webpack Configuration Utilities

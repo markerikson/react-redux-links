@@ -65,5 +65,8 @@
   https://medium.com/@andresmijares25/async-operations-using-redux-saga-2ba02ae077b3  
   An example of using Redux-Saga to coordinate multiple async calls based on another article's flight data scenario.
 
+- **Should I use redux-saga or not?**  
+  https://speakerdeck.com/kuy/should-i-use-redux-saga-or-not  
+  A presentation from Yuki Kodama, comparing side effect approaches.  In Japanese, but still has a number of useful diagrams that can be understood by English speakers.
 
   

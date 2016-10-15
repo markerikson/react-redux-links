@@ -43,9 +43,9 @@
   https://youtu.be/5NIL3Epadj0  
   A talk by Jack Franklin, summarizing the state of modern web development.
   
-- **Modern JS Stack Training**  
-  https://github.com/verekia/modern-js-stack-training  
-  A repo that walks through concepts involved in a typical JS app, and how to set up each piece
+- **JavaScript Stack from Scratch**  
+  https://github.com/verekia/js-stack-from-scratch  
+  This is a minimalistic and straight to the point guide to assembling a JavaScript stack. It teaches you how to set up ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, and Flow. It requires some general programming knowledge, and JavaScript basics. It focuses on wiring all these tools together and giving you the simplest possible example for each tool. You can see this tutorial as a way to write your own boilerplate from scratch.
   
 #### React Learning Guidelines
 

@@ -10,6 +10,11 @@
   https://medium.com/@arcomito/react-component-jargon-as-of-august-2016-28451d8ceb1d  
   A very useful glossary of widely-used terms describing React components
   
+- **React in Patterns**  
+  https://github.com/krasimir/react-in-patterns  
+  http://krasimirtsonev.com/blog/article/react-js-presentational-container-components  
+   List of design patterns/techniques used while developing with React
+  
 - **Functional Components vs. Stateless Functional Components vs. Stateless Components**  
   https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components-630fdfd90c9c  
   Clarifies the meaning of the terms, which are often used in overlapping ways.
@@ -17,6 +22,10 @@
 - **How to use Classes and Sleep at Night**  
   https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4  
   Some pragmatic opinions on when and how to use the ES6 "class" keyword, particularly in relation to React components.
+  
+- **Embracing Functions in React**  
+  https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30  
+  A look at stateless functional components in React, and why they might be useful or should be considered in the first place.
   
   
 #### Component Categories
@@ -40,6 +49,10 @@
 - **The Anatomy of a React Redux App**  
   https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a  
   Breaks down the component structure of a typical React/Redux app, and classifies the different types of components that usually show up
+  
+- **React and Flux in Production Best Practices**  
+  https://medium.com/@delveeng/react-and-flux-in-production-best-practices-c87766c57cb6  
+  Delve's practice of describing components as "containers", "smart", and "dumb"
   
   
 #### Higher-Order Components
@@ -76,6 +89,18 @@
   https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e  
   A very detailed article looking at some advanced HoC patterns
   
+- **Real World Examples of Higher Order Components**  
+  http://rea.tech/reactjs-real-world-examples-of-higher-order-components/  
+  Explanations and examples of HOCs and their uses
+  
+- **Function as Child Components**  
+  https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9  
+  Explains the "function as a child" technique as an alternative to Higher Order Components
+  
+- **Functions as Child Components and Higher Order Components**  
+  http://rea.tech/functions-as-child-components-and-higher-order-components/  
+  Comparisons and examples for these two component patterns
+  
   
 #### Other Component Patterns
 
@@ -87,10 +112,23 @@
   http://blog.andrewray.me/the-reactjs-controller-view-pattern/  
   Describes using top-level components to hold state and pass it to children as props
   
-- **Function as Child Components**  
-  https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9  
-  Explains the "function as a child" technique as an alternative to Higher Order Components
-  
 - **Functional React Series - Part 1: Get your App outta my Component**  
   https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25  
   Part 1 in a series about writing React applications by treating components as functions, not templates.
+  
+- **Make Your React Components Pretty**  
+  https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e  
+  Techniques for making your components easier to read, including using functional components, using JSX spread for props, and use of destructuring.
+  
+- **Component Factories in React.js**  
+  https://github.com/szabototo89/create-it/blob/master/docs/article-full.md  
+  A variation on Dependency Injection for React components
+  
+- **Functional Components with React stateless functions and Ramda**  
+  https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b  
+  Examples of using Ramda functions to compose together components
+  
+- **Mixins Considered Harmful**  
+  https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html  
+  https://news.ycombinator.com/item?id=12087796  
+  Dan Abramov explains why the React team discourages use of mixins, and prefers HoCs

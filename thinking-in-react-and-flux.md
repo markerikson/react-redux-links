@@ -59,3 +59,11 @@
 - **You're Missing the Point of React**  
   https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a  
   Dan Abramov explains React's real value: not popularizing the virtual DOM, but its use of composition and unidirectional data flow 
+  
+- **Reasons Why I Love Redux**  
+  https://twitter.com/jlongster/status/780879989164081152  
+  James Longster describes his appreciation for Redux, and how its constraints force you to think through your state handling
+  
+- **How to solve a Problem with React**  
+  https://codequs.com/p/HyLJOnBt/how-to-solve-a-problem-with-react/  
+  A guide explaining ways to approach planning out a React app: composing individual components into larger components, or working top-down to plan out a component hierarchy.

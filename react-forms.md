@@ -32,6 +32,10 @@
 - **Managing state and controlled form fields with React**  
   https://blog.iansinnott.com/managing-state-and-controlled-form-fields-with-react/  
   Describes the concepts of "controlled" and "uncontrolled" inputs.  
+  
+- **React Hates me: "Overcontrolled" components**  
+  http://www.matthiaslienau.de/blog/2015/4/8/react-hates-me-overcontrolled-components  
+  Describes some specific issues with controlled inputs and the preventDefault method
 
 
 #### Form Tutorials and Usage
@@ -49,7 +53,7 @@
   Explains how to set up more advanced form scenarios such as optional or repeatable sections.
   
 - **Using React's state to manage data entry**  
-  https://medium.com/@adamrackis/using-reacts-state-to-manage-data-entry-ed92e4fd1a42
+  https://medium.com/@adamrackis/using-reacts-state-to-manage-data-entry-ed92e4fd1a42  
   Describes how to manage data for forms using React component state and some wrapper components.
   
 - **Handling React Forms with Mobx Observables**  

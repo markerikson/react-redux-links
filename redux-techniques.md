@@ -113,6 +113,12 @@
 - **Applying Redux Reducers to Arrays**  
   http://blog.scottlogic.com/2016/05/19/redux-reducer-arrays.html  
   Looks at one way to implement the classic "multiple instances of one connected component" issue in Redux.
+  
+- **Redux: Encapsulating the Redux State Tree**  
+  http://randycoulman.com//blog/2016/09/13/encapsulating-the-redux-state-tree/  
+  http://randycoulman.com/blog/2016/09/20/redux-reducer-selector-asymmetry/  
+  http://randycoulman.com/blog/2016/09/27/modular-reducers-and-selectors/  
+  A blog series discussing approaches to encapsulating Redux data using selectors and other related approaches
 
 
 #### UI and Widget Implementations

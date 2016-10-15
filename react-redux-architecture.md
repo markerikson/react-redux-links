@@ -152,3 +152,20 @@
   https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a  
   An excellent set of guidelines for organizing your Redux store structure.
   
+- **Things I Wish I Knew About Redux**  
+  https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0  
+  https://www.reddit.com/r/javascript/comments/4taau2/things_i_wish_i_knew_about_redux/  
+  A number of excellent tips and lessons learned after building an app with Redux.  Includes info on connecting components, selecting data, and app/project structure.  Additional discussion on Reddit.
+
+- **Developing component-based web apps with React and Redux**  
+  https://medium.com/@carlos_paelinck/developing-component-based-web-apps-using-react-redux-6236bc958930  
+  Some examples of component structure and data handling in a drawing app.
+  
+- **Switching from Backbone to React and Redux**  
+  https://medium.com/@royisch/moving-to-react-redux-in-baby-steps-aea0402624bf  
+  https://medium.com/@royisch/6-lessons-learned-from-going-to-production-with-react-redux-19257f6724f6  
+  A pair of articles describing one company's transition from a Backbone app to using React and Redux.
+  
+- **Black Pixel Redux Handbook**  
+  http://bpxl-labs.github.io/redux-handbook/  
+  Black Pixel's guidelines for project/app structure and usage

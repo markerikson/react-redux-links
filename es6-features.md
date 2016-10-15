@@ -40,6 +40,10 @@
   http://wesbos.github.io/ES6-Talk/  
   A set of slides describing the features in ES6
   
+- **Learn Harmony (ES2015 Now**  
+  http://learnharmony.org/  
+  An interactive tool for learning and experimenting with ES6/ES2015 features
+  
 
 #### In-Depth Details
 
@@ -86,6 +90,10 @@
 - **The Most In-Depth Yet Understandable ES6 Destructuring Tutorial**  
   http://untangled.io/in-depth-es6-destructuring-with-assembled-avengers/  
   A thorough set of examples for ES6's destructuring feature
+  
+- **Using ES6 Generators and Yield to Implement Async Workflows**  
+  https://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm  
+  A dive into how generators work, and how they can be used to handle async behavior
   
   
 #### Techniques

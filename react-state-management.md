@@ -7,8 +7,9 @@
   Describes different categories of state: data, communication, control, session, and location
   
 - **"M" and "C" in "MVC"**  
+  https://www.youtube.com/watch?v=fUpkYixd03k
   https://github.com/jamesknelson/m-and-c-in-mvc-talk  
-  Slides for James K. Nelson's talk at ReactNext, talking about the multiple categories of state and how controller components can manage them.
+  James K. Nelson's talk at ReactNext, talking about the multiple categories of state and how controller components can manage them.
   
 - **Exploring React's State Propagation**  
   https://www.sitepoint.com/exploring-reacts-state-propagation/  
@@ -21,9 +22,25 @@
 - **Dataflow through React**  
   https://jurassix.gitbooks.io/dataflow-through-react/content/index.html  
   An online book that covers a number of topics on React components and data flow.
+  
+- **React Anti-Patterns: Props in Initial State**  
+  https://medium.com/@justintulk/react-anti-patterns-props-in-initial-state-28687846cc2e  
+  Discussion of why using props to initialize a component's state may or may not be a bad idea.
+  
+- **How to safely use React context**  
+  https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076  
+  Guidelines for when and how to actually use React's `context` feature
+  
+- **Best Practices for Component State in React**  
+  http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html  
+  Some excellent suggestions and approaches for state handling and structure.
 
 
 #### Using `setState`
+
+- **React component state cheatsheet**  
+  https://twitter.com/dan_abramov/status/749710501916139520  
+  Dan Abramov pseudocodes his guidelines for when to put something into component state
 
 - **Where to Hold React Component Data: state, store, static, and this**  
   https://medium.freecodecamp.com/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00  

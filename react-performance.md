@@ -149,4 +149,8 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - **Chat discussion - single connected component vs many connected components**  
   https://gist.github.com/markerikson/6056565dd65d1232784bf42b65f8b2ad  
   An extended chat log discussing pros and cons of various approaches to managing connected components in a Redux app
+  
+- **React Performance Debugging: The Magic of Reselect Selectors**  
+  http://rea.tech/reactjs-performance-debugging-aka-the-magic-of-reselect-selectors/  
+  Discussion of React perf topics, and how Reselect selector functions can improve perf for Redux apps
 

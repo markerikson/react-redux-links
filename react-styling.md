@@ -39,3 +39,7 @@
 - **Thoughts on Inline Styles**  
   https://medium.com/@andrewingram/my-thoughts-on-inline-styles-da94682b5e35  
   A look at reasons why people might or might not use inline style approaches, and some opinions and suggestions on when to use different approaches.
+  
+- **Style as a Function of State**  
+  https://medium.com/@rofrischmann/styles-as-functions-of-state-1885627a63f7  
+  A look at how styles can be managed similar to UI, and an example using the author's new styling library

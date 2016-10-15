@@ -41,6 +41,10 @@
   https://codewords.recurse.com/issues/two/git-from-the-inside-out  
   An explanation of how Git works, by describing the internal data structures and the graph that they form.
   
+- **Ry's Git Tutorial**  
+  http://rypress.com/tutorials/git/index  
+  An excellent introduction to Git's key concepts and command.  Very well written and explained.
+  
 
 #### Tips and Useful Info
 

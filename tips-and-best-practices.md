@@ -73,3 +73,7 @@
 - **React Best Practices**  
   https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21  
   Suggestions and tips for effectively writing React and Redux
+  
+- **Helpful principles when starting with React**  
+  http://ignaciochavez.com/helpful-principles-starting-react/  
+  Several useful tips for structuring components, managing data flow, and updating data.  Has some excellent diagrams illustrating the concepts described.

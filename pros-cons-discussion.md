@@ -141,6 +141,10 @@ similar structures in ClojureScript.
   https://news.ycombinator.com/item?id=12536634  
   Another very long thread about the JS ecosystem and versioning.  The linked comment describes how React, Redux, and Webpack have brought predictability to a particular application.
   
+- **"React perf and optimization tests"**  
+  https://twitter.com/AdamRackis/status/751486423232966656  
+  Discussion of React's performance compared to an existing Handlebars/Knockout app
+  
 #### React's PATENTS License
 
 - **Facebook Open Source License FAQ**  

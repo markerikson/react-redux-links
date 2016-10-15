@@ -76,6 +76,10 @@
 - **How to Use the React-Redux package**  
   http://code.tutsplus.com/tutorials/how-to-use-the-react-redux-package--cms-27150  
   An excerpt from the "Modern Web Apps with React and Redux" course, explaining how to use React-Redux to connect components to Redux.
+  
+- **Pro React beta chapter: Using Redux**  
+  http://www.pro-react.com/materials/  
+  An alternative version of Pro React's chapter on using Flux that explains Redux usage
 
 
 #### Project-Based Tutorials

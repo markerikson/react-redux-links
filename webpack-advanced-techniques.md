@@ -72,6 +72,11 @@
   http://www.jamesonnetworks.com/entry/webpack-bloat  
   Discussion of how to improve production configurations for smaller bundle sizes
   
+- **Dynamic Vendor Bundling in Webpack**  
+  https://medium.com/jeremy-gayed/dynamic-vendor-bundling-in-webpack-528993e48aab  
+  An approach to dynamically adding anything from `node_modules` to a "vendor" bundle
+
+  
 #### Hot Module Replacement
 
 - **Webpack and Hot Module Replacement**  
@@ -105,7 +110,13 @@
   https://gist.github.com/markerikson/dc6cee36b5b6f8d718f2e24a249e0491  
   An extracted example demonstrating using "plain" HMR to reload components, reducers, and even sagas.
   
-
+- **React - Hot Module Reload**  
+  https://medium.com/@baphemot/react-hot-module-reload-f6b3d34b9b86  
+  An explanation of how to set up HMR using React-Hot-Loader 3.0
+  
+- **Adding HMR to Create-React-App**  
+  http://chrisshepherd.me/posts/adding-hot-module-reloading-to-create-react-app  
+  A quick example of the basic pattern for using plain HMR with Webpack
 
 
 #### Other Tips and Examples

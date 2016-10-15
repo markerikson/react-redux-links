@@ -82,6 +82,11 @@
 - **React Cheat Sheet**  
   http://reactcheatsheet.com/  
   A filterable list of React's APIs and concepts
+  
+- **How React Do?**  
+  http://blog.jfo.click/how-react-do/  
+  A tutorial written by someone as they learned React, stepping up through a series of React concepts.
+  
 
 
 #### Project-Based Tutorials
@@ -169,6 +174,15 @@
   https://blog.tighten.co/react-101-part-4-firebase  
   A great 4-part series that progressively builds up a Giphy search engine
   
+- **#ReactForNewbies: Building a Todo App with Create-React-App**  
+  https://edemkumodzi.com/reactfornewbies-building-a-todo-app-with-create-react-app-part-1-5aae4bd637ee  
+  The first part of an ongoing series, written by someone who is writing the posts as he learns React.
+  
+- **Rock and Roll React Tutorial**  
+  http://myappincome.co.uk/rock-and-roll-reactjs-tutorial-part-1/  
+  http://myappincome.co.uk/rock-and-roll-react-js-tutorial-part-2/  
+  http://myappincome.co.uk/rock-and-roll-react-js-tutorial-part-3/  
+  A tutorial that builds a React version of the Ember "Rock and Roll App" example.  Covers more intermediate topics, and is aimed at new React devs trying to grow their knowledge.
 
 #### React Implementation Walkthroughs
   
@@ -232,6 +246,22 @@
 - **Our First 50,000 Stars**  
   https://facebook.github.io/react/blog/2016/09/28/our-first-50000-stars.html  
   A post celebrating React's progress, including a history of how React's concepts came together over time
+  
+- **Tiny React Reimplementation**  
+  http://jsbin.com/qiguyibolu/1/edit?js,output  
+  A _very_ tiny (100 lines) implementation of React's basic algorithm
+  
+- **What's Next for React - React Fiber**  
+  https://www.youtube.com/watch?v=aV1271hd9ew  
+  Andrew Clark describes the concepts, implementation, and potential benefits of the in-progress React Fiber internal algorithm reimplementation.
+  
+- **React Implementation Notes**  
+  https://facebook.github.io/react/contributing/implementation-notes.html  
+  An in-depth explanation of how React's current internal algorithms work
+  
+- **ReactJS: Under the Hood**  
+  https://www.youtube.com/watch?v=xsKYAa1ZXpQ  
+  A talk digging into React's internal concepts and implementation, including the split between the core library and the renderers.
   
 #### Paid Courses and Books
 
