@@ -115,6 +115,12 @@
 - **Don't Be Scared of Functional Programming**  
   https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/  
   Several examples of functional programming principles, both in plain JS and with Underscore.js
+
+
+- **Functional Programming Basics in ES6**  
+  https://www.youtube.com/watch?v=HvMemAgOw6I  
+  Talk on functional programming with JavaScript and ES6 syntax. Covers basics such as purity, referential transparency, closures, immutability, currying, composition, and recursion.
+
   
 - **Using Composition and Array Functions**  
   http://ignaciochavez.com/using-composition-and-array-functions/  
