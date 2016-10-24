@@ -96,6 +96,10 @@
 
 #### Encapsulation and Reusability
 
+- **Scalable Frontend with Elm or Redux**  
+  https://github.com/slorber/scalable-frontend-with-elm-or-redux  
+  A repo containing ongoing discussion about ways to handle fully encapsulated reusable chunks of logic and components in Redux, with a number of submitted approaches being compared.
+
 - **Encapsulation in Redux: the Right Way to Write Reusable Components**  
   http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
   A look at one way to write encapsulated action handling in Redux
