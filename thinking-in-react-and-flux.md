@@ -67,3 +67,7 @@
 - **How to solve a Problem with React**  
   https://codequs.com/p/HyLJOnBt/how-to-solve-a-problem-with-react/  
   A guide explaining ways to approach planning out a React app: composing individual components into larger components, or working top-down to plan out a component hierarchy.
+  
+- **A Conceptual Introduction to React Components**  
+  https://ifelse.io/2016/10/20/introducing-react-components/  
+  Examples and suggestions for how to approach breaking a UI concept into components with relationships

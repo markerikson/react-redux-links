@@ -107,6 +107,9 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://medium.com/@nashvail/lets-settle-this-part-one-ef36471c7d97  
   Another look at `this`, with a number of examples and explanations
 
+- **Grokking Scope in Javascript**  
+  https://code.tutsplus.com/tutorials/grokking-scope-in-javascript--cms-26259  
+  Advice for understanding how Javascript variable coping works
 
 
 #### Paid Courses and Books

@@ -34,6 +34,10 @@
 - **Best Practices for Component State in React**  
   http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html  
   Some excellent suggestions and approaches for state handling and structure.
+  
+- **A Visual Guide to State in React**  
+  https://daveceddia.com/visual-guide-to-state-in-react/  
+  Describes what "state" is, what kinds of data should be included into React state, and how state flow relates to component updates.
 
 
 #### Using `setState`

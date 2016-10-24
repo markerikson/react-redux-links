@@ -44,6 +44,10 @@
   http://learnharmony.org/  
   An interactive tool for learning and experimenting with ES6/ES2015 features
   
+- **ES6 New Features Tutorials**  
+  https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt  
+  A set of video tutorials explaining the new features in ES6
+  
 
 #### In-Depth Details
 
@@ -94,6 +98,10 @@
 - **Using ES6 Generators and Yield to Implement Async Workflows**  
   https://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm  
   A dive into how generators work, and how they can be used to handle async behavior
+  
+- **ES6 Promise Anti-Patterns and Best Practices**  
+  http://www.datchley.name/promise-patterns-anti-patterns/  
+  Some advice for good usage of Promises
   
   
 #### Techniques

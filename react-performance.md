@@ -154,3 +154,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   http://rea.tech/reactjs-performance-debugging-aka-the-magic-of-reselect-selectors/  
   Discussion of React perf topics, and how Reselect selector functions can improve perf for Redux apps
 
+- **Refactoring Components for Redux Performance**  
+  https://yahooeng.tumblr.com/post/152078809581/refactoring-components-for-redux-performance  
+  Discusses common perf issues, methods for analyzing perf, and ways to structure Redux-connected container components to cut down on re-rendering.
+  
+- **React/Redux Performance Tuning Tips**  
+  https://medium.com/@arikmaor/react-redux-performance-tuning-tips-cef1a6c50759  
+  A number of suggestions for improved performance with Redux

@@ -1,5 +1,8 @@
 ### React Component Patterns
 
+**Related topics**:
+- [Thinking in React](./thinking-in-react-and-flux.md): Articles discussing ways to think about React applications and component structure
+
 #### Terms and Concepts
 
 - **React Patterns**  
@@ -61,6 +64,11 @@
   https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750  
   A look at some of the issues with using mixins, and reasons why higher-order components are (usually) an improvement.
   
+- **Mixins Considered Harmful**  
+  https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html  
+  https://news.ycombinator.com/item?id=12087796  
+  Dan Abramov explains why the React team discourages use of mixins, and prefers HoCs
+  
 - **Higher Order Components: Theory and Practice**  
   http://engineering.blogfoster.com/higher-order-components-theory-and-practice/  
   Gives practical use cases for HOCs, such as authentication, routing, and data management, with samples.
@@ -101,6 +109,10 @@
   http://rea.tech/functions-as-child-components-and-higher-order-components/  
   Comparisons and examples for these two component patterns
   
+- **ReactCasts: Higher Order Components**  
+  https://youtu.be/6nVxCWUAEPM  
+  A screencast that walks through the idea and usage of Higher Order Components
+  
   
 #### Other Component Patterns
 
@@ -128,7 +140,3 @@
   https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b  
   Examples of using Ramda functions to compose together components
   
-- **Mixins Considered Harmful**  
-  https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html  
-  https://news.ycombinator.com/item?id=12087796  
-  Dan Abramov explains why the React team discourages use of mixins, and prefers HoCs

@@ -30,6 +30,7 @@ You might also want to check out my categorized list of Redux-related addons, li
 - [Functional Programming](functional-programming.md)
 - [Immutable Data](immutable-data.md)
 - [React/Redux Testing](react-redux-testing.md)
+- [React Native](./react-native.md)
 
 #### Advanced Topics
 
@@ -38,11 +39,14 @@ You might also want to check out my categorized list of Redux-related addons, li
 - [React and Forms](./react-forms.md)
 - [React and AJAX](./react-ajax.md)
 - [React Styling](./react-styling.md)
+- [React Server Rendering](./react-server-rendering.md)
 - [React/Redux Performance](react-performance.md)
 - [React/Redux Architecture](react-redux-architecture.md)
 - [Redux Side Effects](redux-side-effects.md)
 - [Redux Tips and Techniques](redux-techniques.md)
 - [Webpack Advanced Techniques](webpack-advanced-techniques.md)
+- [Static Typing](./static-typing.md)
+
 
 
 

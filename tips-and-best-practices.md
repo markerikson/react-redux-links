@@ -77,3 +77,11 @@
 - **Helpful principles when starting with React**  
   http://ignaciochavez.com/helpful-principles-starting-react/  
   Several useful tips for structuring components, managing data flow, and updating data.  Has some excellent diagrams illustrating the concepts described.
+  
+- **Redux Patterns and Anti-Patterns**  
+  https://tech.affirm.com/redux-patterns-and-anti-patterns-7d80ef3d53bc  
+  Some tips for using Redux, including use of Immutable.js and structuring for action creators and reducers
+  
+- **Our Redux Migration (and 5 tips for adoption in a mature codebase)**  
+  https://blog.agolo.com/our-redux-migration-and-5-tips-for-adoption-in-a-mature-codebase-dc62322cb921  
+  Lessons learned from migrating to Redux, including choosing a directory structure nd knowing when to use Redux.

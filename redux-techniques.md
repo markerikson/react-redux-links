@@ -80,11 +80,21 @@
   Covers how to set up Flow for type-checking a Redux application
 
 
-#### Encapsulation and Reusability
+#### Selectors and Normalization
 
 - **Querying a Redux Store**  
   https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
   A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.
+  
+- **Redux Normalizr: Improve your State Management**  
+  http://www.robinwieruch.de/the-soundcloud-client-in-react-redux-normalizr/  
+  A tutorial describing how to use Normalizr for improved data management of nested data in Redux
+
+- **Using normalizr.js in a Redux store**  
+  https://medium.com/@mcowpercoles/using-normalizr-js-in-a-redux-store-96ab33991369  
+  Some examples of using Normalizr and selectors to manage normalized data
+
+#### Encapsulation and Reusability
 
 - **Encapsulation in Redux: the Right Way to Write Reusable Components**  
   http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
@@ -162,6 +172,10 @@
   http://jsforallof.us/2016/09/08/conversational-sign-up-form-ui-with-react-and-redux/  
   An example of form management with Redux
   
+- **Standard actions in Redux**  
+  https://medium.com/@jtbennett/standard-actions-in-redux-c6a415c8aea4  
+  A description of the Flux Standard Action specification, and how it can be used with Redux
+  
   
 #### Network Management
 
@@ -200,3 +214,7 @@
 - **Extreme Decoupling: React, Redux, Selectors**  
   http://www.thinkloop.com/article/extreme-decoupling-react-redux-selectors/  
   Discusses an API-first approach to splitting apart a Redux app into view, state, and integration layers.
+  
+- **Using React(-Native) with Redux and Redux Saga**  
+  https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f  
+  Description of a decoupled saga-based app structure, similar to that described in "Redux Saga in Action"

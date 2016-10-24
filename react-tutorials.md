@@ -3,13 +3,14 @@
 
 #### Basic Introductions
 
+- **React Documentation**  
+  https://facebook.github.io/react/docs/hello-world.html  
+  https://facebook.github.io/react/tutorial/tutorial.html  
+  The official React documentation, recently rewritten with an excellent set of tutorials, explanations, and API information.
+
 - **React to the Future**  
   http://elijahmanor.com/talks/react-to-the-future/dist/#/  
   A fantastic HTML slideshow describing what React is, what makes it special, and how to work with it
-  
-- **React Docs Tutorial**  
-  https://facebook.github.io/react/docs/tutorial.html  
-  The original React tutorial page from the React docs
 
 - **React: Getting Started and Concepts**  
   https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
@@ -87,7 +88,14 @@
   http://blog.jfo.click/how-react-do/  
   A tutorial written by someone as they learned React, stepping up through a series of React concepts.
   
-
+- **React Tutorials for Beginners**  
+  https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA  
+  A set of video tutorials introducing React concepts
+  
+- **How to get Create-React-App to work with your API**  
+  https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/  
+  An example of how to set up a server to work with Create-React-App
+  
 
 #### Project-Based Tutorials
 
@@ -176,7 +184,8 @@
   
 - **#ReactForNewbies: Building a Todo App with Create-React-App**  
   https://edemkumodzi.com/reactfornewbies-building-a-todo-app-with-create-react-app-part-1-5aae4bd637ee  
-  The first part of an ongoing series, written by someone who is writing the posts as he learns React.
+  https://edemkumodzi.com/reactfornewbies-building-a-todo-app-with-create-react-app-part-2-f846e2d8b820  
+  An ongoing series, written by someone who is writing the posts as he learns React.
   
 - **Rock and Roll React Tutorial**  
   http://myappincome.co.uk/rock-and-roll-reactjs-tutorial-part-1/  
@@ -262,6 +271,11 @@
 - **ReactJS: Under the Hood**  
   https://www.youtube.com/watch?v=xsKYAa1ZXpQ  
   A talk digging into React's internal concepts and implementation, including the split between the core library and the renderers.
+  
+- **setState() State Mutation Operator May Be Synchronous in ReactJS**  
+  https://www.bennadel.com/blog/2893-setstate-state-mutation-operation-may-be-synchronous-in-reactjs.htm  
+  Digs into the behavior of React's setState method, and discusses when it may be synchronous vs asynchronous
+  
   
 #### Paid Courses and Books
 

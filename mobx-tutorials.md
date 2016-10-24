@@ -3,30 +3,54 @@
 
 #### Basic Introductions
 - **MobX Docs**  
-https://github.com/mobxjs/mobx
-The official MobX documentation. They also have an [interactive 10 minutes introduction](https://mobxjs.github.io/mobx/getting-started.html) to get started with MobX and React.
-I would suggest you also take a look at their [API overview](https://mobxjs.github.io/mobx/refguide/api.html).
+  https://github.com/mobxjs/mobx  
+  https://mobxjs.github.io/mobx/  
+  https://mobxjs.github.io/mobx/getting-started.html
+  The official MobX site, with documentation including a getting started introduction and API reference.
 
 - **Getting Started with MobX - Video Series**  
-[MobX introduction tutorial by LearnCode.academy](https://www.youtube.com/watch?v=_q50BXqkAfI)
-A quick two videos introduction to MobX, how to set it up get start coding a simple ToDo App.
+  https://www.youtube.com/watch?v=_q50BXqkAfI  
+  A quick two videos introduction to MobX: how to set it up, and get started coding a simple ToDo App.
 
-- **Managing complex state in React - Video Series**  
-[Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
-MobX fundamentals including debugging with the MobX-react devtools.
+- **Managing complex state in React with MobX - Video Series**  
+  https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx  
+  Videos describing MobX fundamentals including debugging with the MobX-react devtools.
 
 - **Introduction video to MobX with React - Video**  
-[Practical React with MobX](https://www.youtube.com/watch?v=XGwuM_u7UeQ)
-In depth introduction to MobX with React including 'Why mobx' (all coded with ES5).
+  https://www.youtube.com/watch?v=XGwuM_u7UeQ  
+  In depth introduction to MobX with React including 'Why mobx' (all coded with ES5).
 
-- **Comparing MobX and Redux - Video**  
-[Comparing MobX and Redux](https://www.youtube.com/watch?v=83v8cdvGfeA)
-A great video to understand the differences between MobX and Redux.
+- **React Native with MobX — Getting Started**
+  https://medium.com/@dabit3/react-native-with-mobx-getting-started-ba7e18d8ff44  
+  An introduction article about combining MobX and React Native to create a simple list app.
+  
+- **Real World MobX**  
+  https://www.youtube.com/watch?v=Aws40KOx90U  
+  A talk by MobX creator Michel Weststrate, describing MobX's concepts and usage
 
-- **React Native with MobX — Getting Started**  
-[Medium article](https://medium.com/@dabit3/react-native-with-mobx-getting-started-ba7e18d8ff44#.s9xqrdxxg)
-An introduction article about combining MobX and React Native to create a simple list app.
 
 #### Testing
+
 - **Testing React and MobX**  
-[How to Test React and MobX with Jest](https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest?utm_content=buffer15b42&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest  
+  A look at ways to test React components and MobX logic
+
+
+#### MobX and Redux Comparisons
+
+- **Comparing MobX and Redux - Video**  
+  https://www.youtube.com/watch?v=83v8cdvGfeA
+A great video to understand the differences between MobX and Redux.
+
+- **Redux or MobX: An attempt to dissolve the confusion**  
+  http://www.robinwieruch.de/redux-mobx-confusion/  
+  An in-depth comparison of the ideas, concepts, approaches, and use cases for the two state management libraries
+  
+- **Redux vs MobX by example**  
+  https://hashnode.com/post/redux-vs-mobx-by-example-part-i-intro-and-exploring-redux-cito5m0nn0sssxi53c7zq7jpr  
+  https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mobx-and-conclusion-citpp2tbu003za853ua1tx228  
+  Implementation of the same app using both Redux and MobX, and a final comparison of the approaches
+  
+- **"How does MobX compare with Redux, and which is better for React app development?"**  
+  https://hashnode.com/post/how-does-mobx-compare-with-redux-and-which-one-is-better-for-react-app-development-cisrch8eh0030g5532qeds1ja/answer/citq8rptk010cus530wdzdg69  
+  An excellent answer comparing the two libraries and their philosophies

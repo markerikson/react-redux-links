@@ -111,6 +111,14 @@
 - **My journey toward a maintainable project structure for React/Redux**  
   https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5  
   Describes an evolution of approaches for project structure
+  
+- **Building Modular Redux Applications**  
+  https://vimeo.com/album/4199344/video/187454108  
+  A talk discussing an approach to Redux structure by splitting logic into "data providers/sources" and presentation.
+  
+- **How to Structure real world Redux/React Applications**  
+  https://medium.com/@yiquanzhou/how-to-structure-real-world-redux-react-application-d61e66a7dd36  
+  Another look at structuring code, based on business logic, data domains, and reusability.
 
 
 #### Redux Architecture
@@ -151,6 +159,10 @@
 - **Avoiding Accidental Complexity When Structuring Your App State**  
   https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a  
   An excellent set of guidelines for organizing your Redux store structure.
+  
+- **Redux Step by STep: A Simple and Robust Workflow for Real Life Apps**  
+  https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092  
+  A follow-up to the "Accidental Complexity" article, discussing principles for structuring a Redux app and demonstrating how they apply to actual code.
   
 - **Things I Wish I Knew About Redux**  
   https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0  

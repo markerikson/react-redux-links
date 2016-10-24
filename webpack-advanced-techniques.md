@@ -76,6 +76,9 @@
   https://medium.com/jeremy-gayed/dynamic-vendor-bundling-in-webpack-528993e48aab  
   An approach to dynamically adding anything from `node_modules` to a "vendor" bundle
 
+- **"Vector.im bundle is too big - analysis"**  
+  https://github.com/vector-im/vector-web/issues/2498  
+  Web perf expert Nolan Lawson analyzes why the JS bundle for the Vector.im web app is too big, and ways it could potentially be improved using code splitting and app structure changes.  A good example of ways to improve bundle sizes.
   
 #### Hot Module Replacement
 

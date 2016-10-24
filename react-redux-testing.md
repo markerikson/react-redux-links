@@ -130,6 +130,10 @@
   https://medium.com/@mmontoya/testing-reactjs-components-with-mocha-webpack-ce7f710d268c  
   Looks at how mocha-webpack can be used to enable faster testing for React components
   
+- **Testing React Components with Enzyme and Mocha**  
+  https://ifelse.io/2016/04/04/testing-react-components-with-enzyme-and-mocha/  
+  Examples of setting up a Webpack+Mocha test environment, and using Enzyme for implementing tests
+  
 #### General Testing, Tools, and Setup
 
 - **Javascript Testing: Unit vs Functional vs Integration**  

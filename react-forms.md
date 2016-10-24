@@ -83,3 +83,8 @@
 - **Two-Way Data Binding and Form Validation in React**  
   https://medium.com/@thejenniekim/two-way-data-binding-and-form-validation-in-react-9d0b15123176  
   Another demonstration of building a form with some logic and validation.
+  
+- **Form Validation as a Higher Order Component**  
+  https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-1-83ac8fd6c1f0  
+  https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-2-1edb7881870d  
+  A 2-part series, demonstrating how to use Ramda and FP approaches to create validation logic

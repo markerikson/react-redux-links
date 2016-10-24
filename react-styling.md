@@ -43,3 +43,19 @@
 - **Style as a Function of State**  
   https://medium.com/@rofrischmann/styles-as-functions-of-state-1885627a63f7  
   A look at how styles can be managed similar to UI, and an example using the author's new styling library
+  
+- **React JS Style Components**  
+  https://www.youtube.com/watch?v=gNeavlJ7lNY  
+  A talk describing ways to better compose existing styles in an application, using components.
+  
+- **Functional CSS From A Pure UI Perspective**  
+  https://medium.com/@sharifsbeat/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc  
+  Thoughts on various ways to compose classes and styles together.
+  
+- **Invidual Paint for your React Components**  
+  https://vimeo.com/album/4199344/video/187454103  
+  A talk discussing various approaches to manage styles and themes for React
+  
+- **Components: A Styling Odyssey**  
+  https://speakerdeck.com/alexlande/components-a-styling-odyssey  
+  Slideshow discussing pros and cons of various approaches to managing styles for components

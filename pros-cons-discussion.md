@@ -145,6 +145,12 @@ similar structures in ClojureScript.
   https://twitter.com/AdamRackis/status/751486423232966656  
   Discussion of React's performance compared to an existing Handlebars/Knockout app
   
+- **"Why is everying in Javascript changing so fast?**  
+  https://news.ycombinator.com/item?id=11833301  
+  https://news.ycombinator.com/item?id=12760268  
+  https://news.ycombinator.com/item?id=12758514  
+  Yet another rant thread about Javascript churn, but with a couple very insightful comments about the unique complexities and challenges involved in writing applications for the web.
+  
 #### React's PATENTS License
 
 - **Facebook Open Source License FAQ**  

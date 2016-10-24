@@ -80,6 +80,14 @@
 - **Pro React beta chapter: Using Redux**  
   http://www.pro-react.com/materials/  
   An alternative version of Pro React's chapter on using Flux that explains Redux usage
+  
+- **React/Redux Tutorials**  
+  https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a  
+  A set of video tutorials introducing Redux concepts
+  
+- **Redux for the Very Beginner**  
+  http://toranbillups.com/blog/archive/2016/01/22/redux-for-the-very-beginner/  
+  A beginner-friendly screencast that introduces Redux
 
 
 #### Project-Based Tutorials
@@ -126,6 +134,7 @@
   https://decembersoft.com/posts/redux-hero-part-1-a-hero-is-born-a-fun-introduction-to-redux-js/  
   https://decembersoft.com/posts/redux-hero-part-2-actions-and-their-consequences-a-fun-introduction-to-redux-actions/  
   https://decembersoft.com/posts/redux-hero-part-3-choose-wisely-a-fun-introduction-to-reselect-js/  
+  https://decembersoft.com/posts/redux-hero-part-4-every-hero-needs-a-villain-a-fun-introduction-to-redux-saga-js/
   An introduction to Redux and related libraries through building a small RPG-style game
 
 - **An Adventure in Redux: building redux-adventure**  
@@ -143,6 +152,21 @@
   http://myappincome.co.uk/react-redux-tutorial-trending-github-part-1/  
   A five-part tutorial that builds a small app showing trending Github repos.
   
+- **Mapping Colorado's 14er Mountains with React and Redux**  
+  https://appendto.com/2016/10/mapping-colorados-14er-mountains-with-react-and-redux-mega-tutorial/  
+  Demonstrates building an app that uses Google Maps to show markers for locations, as well as cards with info on those locations.
+  
+- **Zero to Hero with React and Redux**  
+  https://codequs.com/p/B1oWbS_Nyx/zero-to-hero-with-react-and-redux/  
+  A 2-hour video tutorial that introduces Redux concepts and use with TypeScript.
+  
+- **Screencast: Builting a React/Redux App from Scratch**  
+  https://medium.com/@kensodev/screencast-1-1-session-building-a-react-redux-application-from-scratch-f888c1e74c6  
+  A 2-hour screencast demonstrating building a Redux app from the ground up
+  
+- **Building Redux in TypeScript with Angular 2**  
+  http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/  
+  An extended tutorial that builds up a mini-Redux in TypeScript, then transitions to building an application
 
 #### Redux Implementation Walkthroughs
 
