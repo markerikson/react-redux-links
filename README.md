@@ -22,7 +22,7 @@ You might also want to check out my categorized list of Redux-related addons, li
 - [React Tutorials](react-tutorials.md)
 - [Flux Tutorials](flux-tutorials.md)
 - [Redux Tutorials](redux-tutorials.md)
-- [MobX Tutorials](MobX-tutorials.md)
+- [MobX Tutorials](mobx-tutorials.md)
 
 #### Intermediate Concepts
 
