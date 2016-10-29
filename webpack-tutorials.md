@@ -101,6 +101,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack Tutorials for Beginners**  
   https://www.youtube.com/playlist?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC  
   A video tutorial series explaining Webpack config and loaders
+  
+- **Getting Started with Webpack 2**  
+  https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783  
+  An introduction to Webpack's concepts and configuration, and how to use the latest version to handle various build goals.
 
 #### Configuration Terms and Concepts
 

@@ -18,6 +18,10 @@
 - **Accessing React PropTypes Meta-data**  
   https://medium.com/@nunogrilopinheiro/accessing-react-proptypes-meta-data-45b3465abda7  
   A look at how to access PropTypes info at runtime using various tooling
+  
+- **React: Validating Children**  
+  http://www.mattzabriskie.com/blog/react-validating-children  
+  Examples of using PropTypes to enforce what children can be passed to a component
 
 
 #### TypeScript
@@ -29,7 +33,17 @@
 
 #### Flow
 
-
+- **Setting up Flow when you've already got Babel in place**  
+  https://medium.freecodecamp.com/using-flow-with-babel-c04fdca8d14d  
+  Instructions for integrating Flow into an existing project
+  
+- **Eradicate Runtime Errors in React with Flow**  
+  http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/  
+  An introduction to Flow's benefits in a project, and how to use it
+  
+- **Flow Guide: The Definitive Guide for using Flow**  
+  https://github.com/ryyppy/flow-guide  
+  Instructions on setting up Flow, a style guide, and links to further info
 
 - **Runtime Introspection of Flow Types**  
   https://medium.com/@joe_stant/runtime-introspection-of-flow-types-ddb7e5b042a5  

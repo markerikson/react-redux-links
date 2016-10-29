@@ -106,6 +106,10 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Let's Settle `this`, Part One**  
   https://medium.com/@nashvail/lets-settle-this-part-one-ef36471c7d97  
   Another look at `this`, with a number of examples and explanations
+  
+- **Understanding Javascript Function Invocation and `this`**  
+  http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/  
+  An excellent explanation of how function calls and the `this` keyword work
 
 - **Grokking Scope in Javascript**  
   https://code.tutsplus.com/tutorials/grokking-scope-in-javascript--cms-26259  

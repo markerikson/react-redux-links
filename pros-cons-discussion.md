@@ -151,6 +151,10 @@ similar structures in ClojureScript.
   https://news.ycombinator.com/item?id=12758514  
   Yet another rant thread about Javascript churn, but with a couple very insightful comments about the unique complexities and challenges involved in writing applications for the web.
   
+- **"Youtube is being rebuilt on Web Components"**  
+  https://www.reddit.com/r/javascript/comments/59ax4f/youtube_is_being_rebuilt_on_web_components_and/d97rsdd/  
+  SOme interesting thoughts on how various frameworks have approached composition, and how React helps make it more approachable.
+  
 #### React's PATENTS License
 
 - **Facebook Open Source License FAQ**  

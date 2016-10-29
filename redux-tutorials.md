@@ -167,6 +167,10 @@
 - **Building Redux in TypeScript with Angular 2**  
   http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/  
   An extended tutorial that builds up a mini-Redux in TypeScript, then transitions to building an application
+  
+- **Redux without React - State Management in Vanilla Javascript**  
+  https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/  
+  A tutorial teaching Redux usage with a plain JS UI layer on top
 
 #### Redux Implementation Walkthroughs
 
@@ -190,6 +194,9 @@
   http://www.aaron-powell.com/tagged/reducks.html  
   Another "build a mini-Redux" article series.
 
+- **AMA with the Redux Creators**  
+  https://hashnode.com/ama/with-redux-cisteui6p005gzx53fstg8t6l  
+  Dan Abramov and Andrew Clark answer questions about Redux, and describe the history of its original development.
 
 #### Redux Middleware
 

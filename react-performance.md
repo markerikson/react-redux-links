@@ -83,12 +83,29 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://www.reddit.com/r/reactjs/comments/4ri9x8/dont_use_bind_when_passing_props/  
   Advice on approaches to function binding, with further discussion.
   
+
+  
+- **React Perf Debugging: Animation and FLIPping**  
+  https://engineering.siftscience.com/browser-dgaf-that-you-use-react/  
+  https://engineering.siftscience.com/browser-dgaf-use-react-pt-2-flipping-react/  
+  A deep dive into some tricky issues that come up with running animations, and some ways to work around those.
+  
+  
+  
+#### Code Splitting and Progressive Apps
+
+Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
+
 - **Progressive Web Apps with React**  
   https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12  
   https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2  
   https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c  
   A multi-part series by Addy Osmani on building performant Progressive Web Apps, including page loading, code splitting, and offline handling.
 
+
+- **Progressive loading for modern web applications via code splitting**  
+  https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6  
+  Examples of how to set up code splitting, and write components that encapsulate the process for improved loading times.
   
 #### Immutable Data
 

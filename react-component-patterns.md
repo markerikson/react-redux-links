@@ -30,6 +30,10 @@
   https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30  
   A look at stateless functional components in React, and why they might be useful or should be considered in the first place.
   
+- **Ownership and Children in React**  
+  http://ctheu.com/2015/02/10/ownership-and-children-in-reactjs/  
+  Discusses the difference between "parent" and "owner" relationships, and what the "children" prop can look like.
+  
   
 #### Component Categories
 
@@ -112,6 +116,14 @@
 - **ReactCasts: Higher Order Components**  
   https://youtu.be/6nVxCWUAEPM  
   A screencast that walks through the idea and usage of Higher Order Components
+  
+- **ReactCasts: Function as Child Component**  
+  https://www.youtube.com/watch?v=WE3XAt9P8Ek  
+  A screencast that introduces the idea of Functions as Children and demonstrates usage
+  
+- **Annotations about React Higher-Order Components**  
+  https://blog.codeminer42.com/annotations-about-react-higher-order-components-e3561bc7c27a  
+  An explanation of what HOCs are, what they can be used for, and when to use them.
   
   
 #### Other Component Patterns

@@ -7,3 +7,8 @@
 - **React.js: Server side rendering**  
   http://crypt.codemancers.com/posts/2016-09-16-react-server-side-rendering/  
   An example of setting up server rendering using React-Router and Express
+  
+- **Build a Universal Javascript App**  
+  https://www.packtpub.com/books/content/build-universal-javascript-app-part-1  
+  https://www.packtpub.com/books/content/build-universal-javascript-app-part-2  
+  A tutorial that discusses some benefits of building a universal app, and walks through building an app with Express, React, and React Router.

@@ -47,6 +47,10 @@
   https://github.com/verekia/js-stack-from-scratch  
   This is a minimalistic and straight to the point guide to assembling a JavaScript stack. It teaches you how to set up ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, and Flow. It requires some general programming knowledge, and JavaScript basics. It focuses on wiring all these tools together and giving you the simplest possible example for each tool. You can see this tutorial as a way to write your own boilerplate from scratch.
   
+- **Javascript Package Managers 101**  
+  https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a  
+  An overview of what packages and package managers are, some related terms, and how these tools work.
+  
 #### React Learning Guidelines
 
 - **React How-To**  

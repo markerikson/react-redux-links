@@ -80,6 +80,10 @@
   https://github.com/vector-im/vector-web/issues/2498  
   Web perf expert Nolan Lawson analyzes why the JS bundle for the Vector.im web app is too big, and ways it could potentially be improved using code splitting and app structure changes.  A good example of ways to improve bundle sizes.
   
+- **Webpack Performance: The Comprehensive Guide**  
+  https://github.com/lcxfs1991/blog/issues/15  
+  An in-depth look at the parts that go into a Webpack build, and how each piece can be optimized for a faster build.
+  
 #### Hot Module Replacement
 
 - **Webpack and Hot Module Replacement**  
@@ -120,6 +124,10 @@
 - **Adding HMR to Create-React-App**  
   http://chrisshepherd.me/posts/adding-hot-module-reloading-to-create-react-app  
   A quick example of the basic pattern for using plain HMR with Webpack
+  
+- **Webpack Hot Reloading and React**  
+  https://ctheu.com/2015/12/29/webpack-hot-reloading-and-react-how/  
+  An explanation of how Hot Reloading works, and how the various pieces fit together.
 
 
 #### Other Tips and Examples

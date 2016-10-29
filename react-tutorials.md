@@ -96,6 +96,10 @@
   https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/  
   An example of how to set up a server to work with Create-React-App
   
+- **A Walk Through My "Just Enough React To Get You Into Trouble" Presentation**  
+  http://www.globalnerdy.com/2016/07/22/a-walk-through-my-just-enough-react-to-get-you-into-trouble-presentation-at-tampa-code-camp-2016/  
+  A blog post version of a talk introducing React's core concepts, and demoing them in JSFiddle
+  
 
 #### Project-Based Tutorials
 
@@ -192,6 +196,22 @@
   http://myappincome.co.uk/rock-and-roll-react-js-tutorial-part-2/  
   http://myappincome.co.uk/rock-and-roll-react-js-tutorial-part-3/  
   A tutorial that builds a React version of the Ember "Rock and Roll App" example.  Covers more intermediate topics, and is aimed at new React devs trying to grow their knowledge.
+  
+- **Find Your Park with React and the DarkSky API**  
+  https://appendto.com/2016/10/find-your-park-with-reactjs-and-the-darksky-api/  
+  Demonstrates building a small app that displays info on a Google map
+  
+- **React Daily UI**  
+  http://codepen.io/collection/DoLZRm/
+  https://www.fullstackreact.com/react-daily-ui/001-sign-up-form/  
+  https://www.fullstackreact.com/react-daily-ui/002-checkout/  
+  https://www.fullstackreact.com/react-daily-ui/003-landing-page/  
+  https://www.fullstackreact.com/react-daily-ui/004-calculator/  
+  A series of tutorials that build small apps, and explain React features and concepts that are used in the process.
+  
+- **Building your First React Javascript App**  
+  http://www.primaryobjects.com/2016/09/19/building-your-first-react-javascript-app/  
+  A tutorial that builds a small app demonstrating form inputs and remote data requests.
 
 #### React Implementation Walkthroughs
   
@@ -275,6 +295,10 @@
 - **setState() State Mutation Operator May Be Synchronous in ReactJS**  
   https://www.bennadel.com/blog/2893-setstate-state-mutation-operation-may-be-synchronous-in-reactjs.htm  
   Digs into the behavior of React's setState method, and discusses when it may be synchronous vs asynchronous
+  
+- **React Source Code Annotations**  
+  https://annot.io/github.com/facebook/react  
+  Crowdsourced annotations and descriptions for files in the React codebase
   
   
 #### Paid Courses and Books

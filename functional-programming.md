@@ -133,3 +133,12 @@
 - **Composability: From Callbacks to Categories in ES6**  
   https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e  
   Explores different solutions to "callback hell", based on various FP concepts
+
+
+- **So You Want To Be a Functional Programmer**  
+  https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403  
+  A multi-part series on functional programming concepts and learning approaches (links to previous parts in the article).
+  
+- **Imperative vs Declarative Programming**  
+  https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea  
+  Metaphors, examples, and explanations for the terms "declarative" and "imperative", and how those relate to Functional Programming

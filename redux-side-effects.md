@@ -68,5 +68,9 @@
 - **Should I use redux-saga or not?**  
   https://speakerdeck.com/kuy/should-i-use-redux-saga-or-not  
   A presentation from Yuki Kodama, comparing side effect approaches.  In Japanese, but still has a number of useful diagrams that can be understood by English speakers.
+  
+- **Interview with Redux-Saga Author Yassine Eloaufi**  
+  http://survivejs.com/blog/redux-saga-interview/  
+  An interview with the author of Redux-Saga, where he describes some of its concepts and history
 
   
