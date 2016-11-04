@@ -22,6 +22,8 @@
 - **React: Validating Children**  
   http://www.mattzabriskie.com/blog/react-validating-children  
   Examples of using PropTypes to enforce what children can be passed to a component
+  
+
 
 
 #### TypeScript
@@ -44,6 +46,10 @@
 - **Flow Guide: The Definitive Guide for using Flow**  
   https://github.com/ryyppy/flow-guide  
   Instructions on setting up Flow, a style guide, and links to further info
+  
+- **Why Use Flow?**  
+  https://blog.aria.ai/post/why-use-flow/  
+  A look at the concepts of static typing and type inference, examples of using Flow to add type declarations to code, and pointers to further information on Flow.
 
 - **Runtime Introspection of Flow Types**  
   https://medium.com/@joe_stant/runtime-introspection-of-flow-types-ddb7e5b042a5  

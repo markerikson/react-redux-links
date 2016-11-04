@@ -93,6 +93,10 @@
 - **Using normalizr.js in a Redux store**  
   https://medium.com/@mcowpercoles/using-normalizr-js-in-a-redux-store-96ab33991369  
   Some examples of using Normalizr and selectors to manage normalized data
+  
+- **Memoize-Immutable: efficient memoizer for Redux**  
+  https://blog.prototypo.io/memoize-immutable-efficient-memoizer-for-redux-and-other-immutable-environments-59277fefa45f  
+  Discusses principles of immutability and memoization, and a library they built to help memoize Redux data lookups
 
 #### Encapsulation and Reusability
 
@@ -133,6 +137,14 @@
   http://randycoulman.com/blog/2016/09/20/redux-reducer-selector-asymmetry/  
   http://randycoulman.com/blog/2016/09/27/modular-reducers-and-selectors/  
   A blog series discussing approaches to encapsulating Redux data using selectors and other related approaches
+  
+- **Redux State Keys - A predictable yet dynamic substate**  
+  http://www.robinwieruch.de/redux-state-keys/  
+  Description of an approach for dividing up domain-specific state from abstract state, and reusing logic based on those slices.
+  
+- **The Power of Higher-Order Reducers**  
+  http://slides.com/omnidan/hor#/  
+  A set of slides discussing how reducers can be layered together to add capabilities
 
 
 #### UI and Widget Implementations
@@ -148,6 +160,9 @@
 - **Implement a confirm modal using React & Redux**  
   http://jslancer.com/2016/08/07/implement-a-confirm-modal-using-react-redux/  
   Demonstrates wrapping up an existing modal library to be controlled by Redux actions
+  
+- **Implementing Search/Filter on a list in React and Redux**  
+  https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad  Some quick examples of using Redux to supply a list of items as a prop, and using React local component state to store a filtered version based on inputs.
   
   
 #### Other  

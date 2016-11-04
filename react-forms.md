@@ -36,6 +36,10 @@
 - **React Hates me: "Overcontrolled" components**  
   http://www.matthiaslienau.de/blog/2015/4/8/react-hates-me-overcontrolled-components  
   Describes some specific issues with controlled inputs and the preventDefault method
+  
+- **React.js Forms: Controlled Components**  
+  http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/  
+  An excellent article that describes the concept of controlled components, and demonstrates examples of how to interact with different types of form inputs
 
 
 #### Form Tutorials and Usage

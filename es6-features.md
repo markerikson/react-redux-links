@@ -48,6 +48,10 @@
   https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt  
   A set of video tutorials explaining the new features in ES6
   
+- **ES6 Cheatsheet**  
+  https://es6cheatsheet.com/  
+  An interactive cheatsheet with editable and runnable examples to help explain the new syntax and features in ES6.  Offered as a "Pay What You Want" model, so $0 is a valid choice, but payments are requested.
+  
 
 #### In-Depth Details
 
@@ -102,6 +106,10 @@
 - **ES6 Promise Anti-Patterns and Best Practices**  
   http://www.datchley.name/promise-patterns-anti-patterns/  
   Some advice for good usage of Promises
+  
+- **A Practical Introduction to ES6 Generator Functions**  
+  http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html  
+  Some practical examples discussing what generator functions are, how they work, and what they can be used for.
   
   
 #### Techniques

@@ -126,6 +126,10 @@
 - **Interactive Git Cheat Sheet**  
   http://ndpsoftware.com/git-cheatsheet.html  
   A clickable page that shows how various commands move data between different parts of Git's storage (working copy, index, local repo, remote repo)
+  
+- **giteveryday**  
+  https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html  
+  A useful minimum set of commands for Everyday Git.  Commands grouped by usefulness to different categories of users.
 
   
 #### Desktop GUI Clients

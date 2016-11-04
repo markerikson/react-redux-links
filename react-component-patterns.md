@@ -152,3 +152,6 @@
   https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b  
   Examples of using Ramda functions to compose together components
   
+- **"What is the ideal way to pass data to a callback prop?**  
+  https://gist.github.com/jazlalli/fdee443405680f96d19211daa15d1d38  
+  Discussion and examples of various ways to pass data to callbacks between children and parents

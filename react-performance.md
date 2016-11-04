@@ -107,6 +107,12 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6  
   Examples of how to set up code splitting, and write components that encapsulate the process for improved loading times.
   
+- **Performance Optimizing a React Single Page App**  
+  https://medium.com/front-end-hacking/performance-optimizing-a-react-single-page-app-a68985fa72cc  
+  https://medium.com/@ryancollinsio/performance-optimizing-a-react-single-page-app-part-2-92a0f0c83202  
+  A series of articles looking at various performance-related topics, including server rendering, asset optimization, code splitting, memoization, and immutable data.
+  
+  
 #### Immutable Data
 
 - **Building Efficient UI with React and Redux**  

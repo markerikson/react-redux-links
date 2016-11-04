@@ -121,6 +121,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   https://docs.google.com/presentation/d/10mIapWjv1pyUQaMv6G8MCdoe9OK2Ey8zz-CLkHuFdRI/edit?usp=sharing  
   A long presentation that describes Webpack and its core concepts in depth.  A few parts are Angular-centric, but still an extremely clear and informative set of slides.  Covers topics like the "entry" and "output" options, "loaders", and "plugins", 
   
+- **Advanced Webpack**  
+  http://presentations.survivejs.com/advanced-webpack/  
+  An in-depth presentation that walks through Webpack concepts, terms, configuration, and usage.  Covers a number of advanced topics, and very worth reading.
+  
 - **Why Can't Anyone Write a Simple Webpack Tutorial?**  
   https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed  
   A goofy but informative look at many of the concepts and pieces that make up Webpack
@@ -129,11 +133,13 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   http://andrewhfarmer.com/webpack-loader-variations/  
   Examples of the different ways to define a loader in a Webpack config
   
-  
 - **Remix's Software Stack: Webpack**  
   https://blog.getremix.com/remixs-software-stack-webpack-34990de9d803  
   An explanation of the configuration settings and options inside one company's Webpack config
   
+- **Webpack devtool source map options**  
+  http://cheng.logdown.com/posts/2016/03/25/679045  
+  A list of the available values for the `devtool` option in a Webpack config
   
 #### Webpack Configuration Utilities
 

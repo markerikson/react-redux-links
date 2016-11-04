@@ -85,3 +85,7 @@
 - **Our Redux Migration (and 5 tips for adoption in a mature codebase)**  
   https://blog.agolo.com/our-redux-migration-and-5-tips-for-adoption-in-a-mature-codebase-dc62322cb921  
   Lessons learned from migrating to Redux, including choosing a directory structure nd knowing when to use Redux.
+  
+- **5 Simple Tips for Your First React + Redux Project**  
+  https://blog.preen.ly/5-simple-tips-for-your-first-react-redux-project-10cbb2727b9a  
+  Good suggestions for managing state and structure, including using local component state when necessary, use of selector functions, and more.

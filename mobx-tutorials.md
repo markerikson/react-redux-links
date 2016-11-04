@@ -28,6 +28,9 @@
   https://www.youtube.com/watch?v=Aws40KOx90U  
   A talk by MobX creator Michel Weststrate, describing MobX's concepts and usage
 
+- **A MobX introduction and case study**  
+  https://blog.wearewizards.io/a-mobx-introduction-and-case-study  
+  An introduction to MobX, with examples showing how it works in a real app with Typescript
 
 #### Testing
 

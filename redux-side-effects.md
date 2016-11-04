@@ -73,4 +73,6 @@
   http://survivejs.com/blog/redux-saga-interview/  
   An interview with the author of Redux-Saga, where he describes some of its concepts and history
 
-  
+- **Lazy registration with Redux and Sagas**  
+  http://goshakkk.name/lazy-auth-redux-saga-flow/  
+  Examples of using Redux-Saga to implement an async series of user interactions.

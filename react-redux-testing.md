@@ -134,6 +134,10 @@
   https://ifelse.io/2016/04/04/testing-react-components-with-enzyme-and-mocha/  
   Examples of setting up a Webpack+Mocha test environment, and using Enzyme for implementing tests
   
+- **Testing for PropType Errors in React**  
+  https://daveceddia.com/testing-for-proptypes-errors/  
+  Some quick examples that use Sinon to check for error logging to help verify correct prop usage during testing.
+  
 #### General Testing, Tools, and Setup
 
 - **Javascript Testing: Unit vs Functional vs Integration**  

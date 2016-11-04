@@ -167,6 +167,10 @@ similar structures in ClojureScript.
   https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc  
   A couple of extended discussions from Dan debunking myths about React's PATENTS clause, and a collection of further related links
   
+- **React's license: necessary and open?**  
+  http://lu.is/blog/2016/10/31/reacts-license-necessary-and-open/  
+  Analysis from a lawyer on the merits of React's patent license, and whether it still qualifes as "Open Source".
+  
 - **Comments from other companies on the acceptability of the license**  
   https://wptavern.com/automattic-will-continue-to-use-react-js-in-calypso-despite-patent-clause  
   https://twitter.com/paul_irish/status/754864479460929536  
