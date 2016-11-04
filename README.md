@@ -34,18 +34,23 @@ You might also want to check out my categorized list of Redux-related addons, li
 
 #### Advanced Topics
 
-- [React Component Patterns](./react-component-patterns.md)
-- [React State Management](./react-state-management.md)
-- [React and Forms](./react-forms.md)
-- [React and AJAX](./react-ajax.md)
-- [React Styling](./react-styling.md)
-- [React Server Rendering](./react-server-rendering.md)
-- [React/Redux Performance](react-performance.md)
-- [React/Redux Architecture](react-redux-architecture.md)
-- [Redux Side Effects](redux-side-effects.md)
-- [Redux Tips and Techniques](redux-techniques.md)
-- [Webpack Advanced Techniques](webpack-advanced-techniques.md)
-- [Static Typing](./static-typing.md)
+- **React**:
+  - [React Component Patterns](./react-component-patterns.md)
+  - [React State Management](./react-state-management.md)
+  - [React and Forms](./react-forms.md)
+  - [React and AJAX](./react-ajax.md)
+  - [React Styling](./react-styling.md)
+  - [React Server Rendering](./react-server-rendering.md)
+  - [React and Routing](./react-routing.md)
+- **React and Redux**
+  - [React/Redux Performance](react-performance.md)
+  - [React/Redux Architecture](react-redux-architecture.md)
+- **Redux**
+  - [Redux Side Effects](redux-side-effects.md)
+  - [Redux Tips and Techniques](redux-techniques.md)
+- **Other**
+  - [Webpack Advanced Techniques](webpack-advanced-techniques.md)
+  - [Static Typing](./static-typing.md)
 
 
 
