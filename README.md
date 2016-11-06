@@ -34,18 +34,22 @@ You might also want to check out my categorized list of Redux-related addons, li
 
 #### Advanced Topics
 
-- **React**:
+- **Architecture and Structure**
+  - [Project Structure](./project-structure)
   - [React Component Patterns](./react-component-patterns.md)
   - [React State Management](./react-state-management.md)
+  - [React Architecture and Best Practices](./react-architecture.md)
+  - [Redux Architecture and Best Practices](./redux-architecture.md)
+  - [React/Redux Performance](react-performance.md)
+- **React**:
+  - [React Implementation and Concepts](./react-implementation)
   - [React and Forms](./react-forms.md)
   - [React and AJAX](./react-ajax.md)
   - [React Styling](./react-styling.md)
   - [React Server Rendering](./react-server-rendering.md)
-  - [React and Routing](./react-routing.md)
-- **React and Redux**
-  - [React/Redux Performance](react-performance.md)
-  - [React/Redux Architecture](react-redux-architecture.md)
+  - [React and Routing](./react-routing.md)  
 - **Redux**
+  - [Redux Middleware](./redux-middleware.md)
   - [Redux Side Effects](redux-side-effects.md)
   - [Redux Tips and Techniques](redux-techniques.md)
 - **Other**
@@ -53,11 +57,7 @@ You might also want to check out my categorized list of Redux-related addons, li
   - [Static Typing](./static-typing.md)
 
 
-
-
-#### Guidelines, Comparisons, and Discussion
-- [Thinking in React and Flux](thinking-in-react-and-flux.md)
-- [Tips, Guidelines, and Best Practices](tips-and-best-practices.md)
+#### Comparisons and Discussion
 - [React/Flux/Redux Pros, Cons, and Discussion](pros-cons-discussion.md)
 - [React and Flux vs Backbone](react-vs-backbone.md)
 

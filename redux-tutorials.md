@@ -171,7 +171,7 @@
 - **Redux without React - State Management in Vanilla Javascript**  
   https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/  
   A tutorial teaching Redux usage with a plain JS UI layer on top
-
+  
 - **Build a Media Library With React, Redux, and Redux-Saga**  
   https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1  
   A two-part tutorial that builds an image and video display and preview app
@@ -201,40 +201,6 @@
 - **AMA with the Redux Creators**  
   https://hashnode.com/ama/with-redux-cisteui6p005gzx53fstg8t6l  
   Dan Abramov and Andrew Clark answer questions about Redux, and describe the history of its original development.
-
-#### Redux Middleware
-
-- **Exploring Redux Middlewares**  
-  http://blog.krawaller.se/posts/exploring-redux-middleware/  
-  Understanding middlewares through a series of small experiments
-
-- **Understanding Redux Middleware**  
-  https://medium.com/@meagle/understanding-87566abcfb7a  
-  Breaks down Redux's applyMiddleware function line-by-line, and explains the concepts involved
-  
-- **Building Redux Middleware**  
-  https://reactjsnews.com/redux-middleware  
-  Demonstrates building a basic Redux middleware
-  
-- **A Beginner's Guide to Redux Middleware**  
-  https://www.codementor.io/reactjs/tutorial/beginner-s-guide-to-redux-middleware  
-  A useful explanation of middleware use cases, with numerous examples
-  
-- **Redux Middleware**  
-  http://jonnyreeves.co.uk/2016/redux-middleware/  
-  A tutorial describing how Redux compares to typical "MVC", what a "middleware" is, what they can do, and how you can test them. 
-  
-- **Redux Middleware Tutorial**  
-  http://www.pshrmn.com/tutorials/react/redux-middleware/  
-  An overview of what middleware is, how `applyMiddleware` works, and how to write middleware.
-  
-- **Redux Middleware: Behind the Scenes**  
-  http://briantroncone.com/?p=529  
-  Digs into the concepts and implementation of middleware.
-  
-- **Middlewares and React Redux Lifecycle**  
-  https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6  
-  A description of what a middleware is, and how it works in Redux
 
 
 #### Paid Courses and Books

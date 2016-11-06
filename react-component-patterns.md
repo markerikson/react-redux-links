@@ -35,6 +35,52 @@
   Discusses the difference between "parent" and "owner" relationships, and what the "children" prop can look like.
   
   
+#### React Component Lifecycle
+
+- **React Docs: Component Specs and Lifecycle**  
+  https://facebook.github.io/react/docs/component-specs.html  
+  The official React docs page on component lifecycle
+  
+- **Understanding the React Component Lifecycle**  
+  http://busypeoples.github.io/post/react-component-lifecycle/  
+  A good look at which lifecycle methods run in which situations, as well as the signatures of each method.
+  
+- **Dissecting React Lifecycle Methods**  
+  https://medium.com/@fay_jai/dissecting-reactjs-lifecycle-methods-be4fdea11c6d  
+  Breaks the lifecycle methods down into "mount/unmount" and "update" categories, and describes the purpose and use of each.
+  
+- **The React Component Lifecycle**  
+  https://www.kirupa.com/react/component_lifecycle.htm  
+  Another useful description of the order and purpose of the lifecycle methods.
+  
+- **React In-Depth: The React Life Cycle**  
+  https://developmentarc.gitbooks.io/react-indepth/content/  
+  A deep dive into the lifecycle methods, and various techniques for using them.
+  
+  
+#### Component Communication
+
+- **8 no-Flux strategies for React component communication**  
+  http://andrewhfarmer.com/component-communication/  
+  Very helpful list of ways to have React components communicate back and forth
+
+- **How to communicate between React components**  
+  http://ctheu.com/2015/02/12/how-to-communicate-between-react-components/  
+  Another good list of component communication strategies
+  
+- **How to handle React context in a reliable way**  
+  https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc  
+  Covers what the `context` feature is, how to use it, and some concerns to be aware of.
+  
+- **How to safely use React context**  
+  https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076  
+  Guidelines for when and how to actually use React's `context` feature
+  
+- **Context All the Things with React**  
+  https://www.youtube.com/watch?v=k9AhBMwj1w4  
+  A talk on what `context` is, and how to use it safely
+  
+  
 #### Component Categories
 
 - **Presentational and Container Components**  

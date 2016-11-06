@@ -1,30 +1,6 @@
 ### Redux Techniques
 
 
-
-#### Middlewares
-- **Two Weird Tricks with Redux**  
-  http://jlongster.com/Two-Weird-Tricks-with-Redux  
-  https://news.ycombinator.com/item?id=11488633  
-  James Longster describes a couple useful approaches he found while writing the Firefox Developer Tools: checking for specific actions using a middleware, and managing multiple async requests.  The HN comments include some useful discussion.
-  
-- **Redux Hack: Custom Thunk APIs**  
-  http://chrispearce.co/redux-quick-hack-custom-thunk-apis/  
-  Demonstrates writing a custom thunk middleware that injects additional dependencies into thunks.
-
-- **Connecting Redux to your API**  
-  https://blog.boldlisting.com/connecting-redux-to-your-api-eac51ad9ff89  
-  Describes imperative and declarative approaches to managing request data and metadata
-  
-- **Fix Ugly JSON Api Responses With Redux Middleware**  
-  http://blog.benwiley.org/fix-json-responses-redux-middleware/  
-  Sets up a sample project that requests JSON data, then shows how to use some custom middleware to transform the response.
-  
-- **You Aren't Using Redux Middleware Enough**  
-  https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6  
-  Suggestions for using middleware to solve a number of interesting use cases
-
-  
 #### Debugging
 
 - **Hot reloading and time travel debugging: what are they?**  
@@ -62,22 +38,6 @@
   https://www.reddit.com/r/javascript/comments/42ey9e/redux_reducer_composition_without_slicing_state/  
   Discussion of ways to organize actions and reducer logic
 
-#### Type Checking
-
-- **Checking React and Redux Code with Flow**  
-  http://djcordhose.github.io/react-intro-live-coding/2016_jsunconf.html#/  
-  A slideshow that shows the basics of adding type information to Redux-based code 
-  
-- **Using Redux with Flow**  
-  http://frantic.im/using-redux-with-flow  
-  Covers how to use Flow typing with Redux
-
-- **Type Checking with Flow in React + Redux**  
-  http://www.robinwieruch.de/the-soundcloud-client-in-react-redux-flow/  
-  
-- **Redux Flow Tutorial**  
-  http://dchambers.github.io/articles/redux-flow-tutorial/  
-  Covers how to set up Flow for type-checking a Redux application
 
 
 #### Selectors and Normalization
@@ -97,54 +57,11 @@
 - **Memoize-Immutable: efficient memoizer for Redux**  
   https://blog.prototypo.io/memoize-immutable-efficient-memoizer-for-redux-and-other-immutable-environments-59277fefa45f  
   Discusses principles of immutability and memoization, and a library they built to help memoize Redux data lookups
-
-#### Encapsulation and Reusability
-
-- **Scalable Frontend with Elm or Redux**  
-  https://github.com/slorber/scalable-frontend-with-elm-or-redux  
-  A repo containing ongoing discussion about ways to handle fully encapsulated reusable chunks of logic and components in Redux, with a number of submitted approaches being compared.
-
-- **Encapsulation in Redux: the Right Way to Write Reusable Components**  
-  http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
-  A look at one way to write encapsulated action handling in Redux
-
-- **How to Reuse Redux Components**  
-  https://medium.com/@MattiaManzati/how-to-reuse-redux-components-8acd5b4d376a  
-  Discussion of an Elm-inspired approach to wrapping up reusable components and logic
-
-- **Redux and the Elm Architecture**  
-  http://salsita.github.io/redux-elm/  
-  Redux lacks built-in abstractions for real-world, maintainable, scalable applications. In particular, it is difficult to create and distributed encapsulated, reusable components.  The Elm Architecture clearly addresses some important areas where Redux alone is lacking.
   
-- **Scaleable FE with Redux and Elm Architecture**  
-  https://medium.com/@hunterbmt/scaleable-fe-with-redux-and-elm-architecture-c6812ed0125e  
-  Examples of using Elm-style approaches to writing Redux code
-  
-- **Encapsulation in Redux: the Right Way to Write Reusable Components**  
-  http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/  
-  Examples of an Elm-style encapsulation approach
-  
-- **The Problem with Redux... And How to Fix It**  
-  http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/  
-  Demonstration of Redux-Elm, a library that adds composable actions to Redux
+- **Two mistakes I made working with Redux**  
+  http://www.mattzeunert.com/2016/06/01/redux-mistakes.html  
+  Some suggestions on how to handle denormalizing data and defining actions.
 
-- **Applying Redux Reducers to Arrays**  
-  http://blog.scottlogic.com/2016/05/19/redux-reducer-arrays.html  
-  Looks at one way to implement the classic "multiple instances of one connected component" issue in Redux.
-  
-- **Redux: Encapsulating the Redux State Tree**  
-  http://randycoulman.com//blog/2016/09/13/encapsulating-the-redux-state-tree/  
-  http://randycoulman.com/blog/2016/09/20/redux-reducer-selector-asymmetry/  
-  http://randycoulman.com/blog/2016/09/27/modular-reducers-and-selectors/  
-  A blog series discussing approaches to encapsulating Redux data using selectors and other related approaches
-  
-- **Redux State Keys - A predictable yet dynamic substate**  
-  http://www.robinwieruch.de/redux-state-keys/  
-  Description of an approach for dividing up domain-specific state from abstract state, and reusing logic based on those slices.
-  
-- **The Power of Higher-Order Reducers**  
-  http://slides.com/omnidan/hor#/  
-  A set of slides discussing how reducers can be layered together to add capabilities
 
 
 #### UI and Widget Implementations
@@ -162,22 +79,27 @@
   Demonstrates wrapping up an existing modal library to be controlled by Redux actions
   
 - **Implementing Search/Filter on a list in React and Redux**  
-  https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad  Some quick examples of using Redux to supply a list of items as a prop, and using React local component state to store a filtered version based on inputs.
+  https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad  
+  Some quick examples of using Redux to supply a list of items as a prop, and using React local component state to store a filtered version based on inputs.
   
   
-#### Other  
-- **Two mistakes I made working with Redux**  
-  http://www.mattzeunert.com/2016/06/01/redux-mistakes.html  
-  Some suggestions on how to handle denormalizing data and defining actions.
+#### Redux and Forms
+
+- **Abstracted Form State with Redux-Form**  
+  https://speakerdeck.com/erikras/abstracted-form-state-with-redux-form  
+  Slides by the author of Redux-Form, discussing how forms work in plain HTML/Javascript, in React, and how the Redux-Form library can integrate them into Redux.
   
 - **React, Redux, and Redux-Form**  
   https://jokeyrhyme.github.io/2016/06/27/react-redux-redux-form.html  
   Thoughts on the merits of using the Redux-Form library
   
-- **Real-World React and Redux**  
-  https://dzone.com/articles/real-world-reactjs-and-redux-part-1  
-  https://dzone.com/articles/real-world-reactjs-and-redux-part-2  
-  A series of articles covering practical architecture lessons learned from building Redux apps, especially regarding use of custom middleware
+- **Conversational sign-up form UI with React and Redux**  
+  http://jsforallof.us/2016/09/08/conversational-sign-up-form-ui-with-react-and-redux/  
+  An example of form management with Redux
+
+  
+#### Other  
+
   
 - **Connecting the Linode API to Redux with Higher-Order Functions**  
   https://engineering.linode.com/2016/08/17/Using-metaprogramming-in-the-manager.html  
@@ -187,13 +109,15 @@
   https://hackernoon.com/a-finite-state-machine-helper-for-redux-c18519643719  
   Describes a small but useful library for managing state machines using Redux reducers.
   
-- **Conversational sign-up form UI with React and Redux**  
-  http://jsforallof.us/2016/09/08/conversational-sign-up-form-ui-with-react-and-redux/  
-  An example of form management with Redux
-  
 - **Standard actions in Redux**  
   https://medium.com/@jtbennett/standard-actions-in-redux-c6a415c8aea4  
   A description of the Flux Standard Action specification, and how it can be used with Redux
+  
+- **Redux runtime reconfiguration techniques**  
+  https://www.youtube.com/watch?v=ZvbZTXs3Y3E  
+  http://redux-reconfig.surge.sh/  
+  http://codepen.io/vnovick/pen/pEgKww/?editors=0010#0  
+  Discussion and demonstration of some ways to load reducers and components at runtime.
   
   
 #### Network Management
@@ -208,32 +132,3 @@
   Examples for combining Firebase into a Redux application
   
   
-#### Variations on Redux Architectures
-
-- **Redux Saga in Action**  
-  https://medium.com/@totaldis/redux-saga-in-action-s-f7d11cffa35a  
-  Some interesting thoughts on ways to organize the majority of your app's logic using redux-saga
-  
-- **Scalable Single-Page Application Architecture with Redux and Angular 2**  
-  http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
-  An in-depth article covering how to architect an application using Redux, Angular 2, and RxJS.  
-  
-- **redux-scuttlebutt; eventually consistent shared state among peers**  
-  https://medium.com/@grrowl/redux-scuttlebutt-eventually-consistent-shared-state-among-peers-191d48102079  
-  Describes how to use the Redux-Scuttlebutt library to sync actions and updates between multiple instances of a Redux application
-  
-- **Write Better Redux with redux-module-builder**  
-  https://www.fullstackreact.com/articles/better-redux-module-management/  
-  Describes how to use the utilities included in the redux-module-builder package to better organize a Redux application
-  
-- **The Elegance of React, Redux, and Ramda**  
-  https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19  
-  Demonstrates ways to use Ramda to compose together React components and Redux behavior
-  
-- **Extreme Decoupling: React, Redux, Selectors**  
-  http://www.thinkloop.com/article/extreme-decoupling-react-redux-selectors/  
-  Discusses an API-first approach to splitting apart a Redux app into view, state, and integration layers.
-  
-- **Using React(-Native) with Redux and Redux Saga**  
-  https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f  
-  Description of a decoupled saga-based app structure, similar to that described in "Redux Saga in Action"
