@@ -42,7 +42,7 @@ You might also want to check out my categorized list of Redux-related addons, li
   - [Redux Architecture and Best Practices](./redux-architecture.md)
   - [React/Redux Performance](react-performance.md)
 - **React**:
-  - [React Implementation and Concepts](./react-implementation)
+  - [React Implementation and Concepts](./react-implementation.md)
   - [React and Forms](./react-forms.md)
   - [React and AJAX](./react-ajax.md)
   - [React Styling](./react-styling.md)
