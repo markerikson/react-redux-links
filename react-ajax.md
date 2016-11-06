@@ -27,3 +27,7 @@
 - **AJAX Requests in React: How and Where to Fetch Data**  
   https://daveceddia.com/ajax-requests-in-react/  
   An overview of where AJAX requests fit into React usage.
+  
+- **Slaying a UI Antipattern in Fantasyland**  
+  https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a  
+  Examples of how to handle the common "loading/no data/data" issue with some static typing and FP principles.

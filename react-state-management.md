@@ -27,9 +27,7 @@
   https://medium.com/@justintulk/react-anti-patterns-props-in-initial-state-28687846cc2e  
   Discussion of why using props to initialize a component's state may or may not be a bad idea.
   
-- **How to safely use React context**  
-  https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076  
-  Guidelines for when and how to actually use React's `context` feature
+
   
 - **Best Practices for Component State in React**  
   http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html  

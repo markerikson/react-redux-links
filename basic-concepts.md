@@ -43,15 +43,16 @@
   https://youtu.be/5NIL3Epadj0  
   A talk by Jack Franklin, summarizing the state of modern web development.
   
-- **JavaScript Stack from Scratch**  
-  https://github.com/verekia/js-stack-from-scratch  
-  This is a minimalistic and straight to the point guide to assembling a JavaScript stack. It teaches you how to set up ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, and Flow. It requires some general programming knowledge, and JavaScript basics. It focuses on wiring all these tools together and giving you the simplest possible example for each tool. You can see this tutorial as a way to write your own boilerplate from scratch.
-  
 - **Javascript Package Managers 101**  
   https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a  
   An overview of what packages and package managers are, some related terms, and how these tools work.
   
-#### React Learning Guidelines
+  
+#### Suggested Learning Approaches
+
+- **A Study Plan to Cure Javascript Fatigue**  
+  https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1  
+  The author of the "State of JS 2016" survey gives an excellent step-by-step study plan to use when learning the Javascript ecosystem.
 
 - **React How-To**  
   https://github.com/petehunt/react-howto  
@@ -79,3 +80,8 @@
 - **How to keep up: "First do it, then do it right, then do it better"**  
   https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3  
   Advice from Addy Osmani on how to cope with learning new JS technologies
+  
+  
+- **"Ask HN: Overwhelmed with learning front-end, how do I proceed?"**  
+  https://news.ycombinator.com/item?id=12882816  
+  A discussion thread with numerous suggestions for ways to learn front-end technologies.

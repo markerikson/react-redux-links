@@ -25,6 +25,9 @@
   https://github.com/Jordaanm/hipster-boilerplate  
   A learning-oriented repo that builds up a small project config step-by-step.  Each commit adds one new feature or capability (Babel+ES6, Webpack bundling, a small Redux app, LESS styling, routing, and hot-reloading).  
   
+- **JavaScript Stack from Scratch**  
+  https://github.com/verekia/js-stack-from-scratch  
+  This is a minimalistic and straight to the point guide to assembling a JavaScript stack. It teaches you how to set up ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, and Flow. It requires some general programming knowledge, and JavaScript basics. It focuses on wiring all these tools together and giving you the simplest possible example for each tool. You can see this tutorial as a way to write your own boilerplate from scratch.
   
   
 #### Full-Featured Starter Kits

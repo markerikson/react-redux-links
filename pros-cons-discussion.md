@@ -29,10 +29,6 @@
   
   
 #### Redux/Flux Comparisons
-
-- **The Case for Flux**  
-  https://medium.com/swlh/the-case-for-flux-379b7d1982c6#.tgrsz3zhc  
-  The author of Redux lays out reasons you might want to use a Flux-style architecture
   
 - **Redux: Concept Over Implementation**  
   http://www.schibsted.pl/2015/09/redux-concept-over-implementation/  

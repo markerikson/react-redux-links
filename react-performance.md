@@ -83,12 +83,14 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://www.reddit.com/r/reactjs/comments/4ri9x8/dont_use_bind_when_passing_props/  
   Advice on approaches to function binding, with further discussion.
   
-
-  
 - **React Perf Debugging: Animation and FLIPping**  
   https://engineering.siftscience.com/browser-dgaf-that-you-use-react/  
   https://engineering.siftscience.com/browser-dgaf-use-react-pt-2-flipping-react/  
   A deep dive into some tricky issues that come up with running animations, and some ways to work around those.
+  
+- **Virtualizing the Virtual DOM**  
+  https://medium.com/outsystems-engineering/virtualizing-the-virtual-dom-pushing-react-further-d76a16e5f209  
+  Discussion and examples of using the "virtualization" technique to only render list components that are currently in view.
   
   
   

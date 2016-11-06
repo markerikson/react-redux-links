@@ -172,6 +172,10 @@
   https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/  
   A tutorial teaching Redux usage with a plain JS UI layer on top
 
+- **Build a Media Library With React, Redux, and Redux-Saga**  
+  https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1  
+  A two-part tutorial that builds an image and video display and preview app
+
 #### Redux Implementation Walkthroughs
 
 - **Read the Source ep17 - React Redux with Dan Abramov**  

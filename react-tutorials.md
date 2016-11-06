@@ -317,6 +317,11 @@ Also see the course sites listed in the [Community Resources](community-resource
   http://www.pro-react.com/  
   The book teaches you how to successfully structure increasingly complex front-end applications and interfaces.  You will learn how to use React completely, and learn best practices for creating interfaces in a composable way. You will also cover additional tools and libraries in the React ecosystem (such as React Router and Flux architecture). 
 
+- **React: Up & Running**  
+  http://shop.oreilly.com/product/0636920042266.do  
+  http://www.phpied.com/react-up-and-running/  
+  A book that starts with 0 setup and no tools, just React, then moves on to introduce additional syntax while building a CRUD app.  Also covers linting, testing, build processes, and data management.
+
   **appendTo Instructor-led React Courses**  
   https://appendto.com/courses/react-training/  
   appendTo offers instructor-led, hands-on React training courses on React, Redux, React Native, ES6, and Webpack.

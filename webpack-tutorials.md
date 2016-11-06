@@ -105,6 +105,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Getting Started with Webpack 2**  
   https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783  
   An introduction to Webpack's concepts and configuration, and how to use the latest version to handle various build goals.
+  
+- **Migrating to Webpack 2**  
+  http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/  
+  Tips for migration an existing Webpack config to work properly with Webpack 2
 
 #### Configuration Terms and Concepts
 

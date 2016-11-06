@@ -50,6 +50,10 @@
 - **Why Use Flow?**  
   https://blog.aria.ai/post/why-use-flow/  
   A look at the concepts of static typing and type inference, examples of using Flow to add type declarations to code, and pointers to further information on Flow.
+  
+- **Why You Need Types**  
+  http://jaysoo.ca/2016/08/23/why-you-need-types/  
+  Some thoughts on how static typing can help development, with examples using Flow.
 
 - **Runtime Introspection of Flow Types**  
   https://medium.com/@joe_stant/runtime-introspection-of-flow-types-ddb7e5b042a5  
@@ -58,6 +62,22 @@
 - **Phantom Types with Flow**  
   https://medium.com/@gcanti/phantom-types-with-flow-828aff73232b  
   Description of an advanced technique for tracking data flow using types
+  
+- **Checking React and Redux Code with Flow**  
+  http://djcordhose.github.io/react-intro-live-coding/2016_jsunconf.html#/  
+  A slideshow that shows the basics of adding type information to Redux-based code 
+  
+- **Using Redux with Flow**  
+  http://frantic.im/using-redux-with-flow  
+  Covers how to use Flow typing with Redux
+
+- **Type Checking with Flow in React + Redux**  
+  http://www.robinwieruch.de/the-soundcloud-client-in-react-redux-flow/  
+  Demonstrates setting up static typing with an existing project
+  
+- **Redux Flow Tutorial**  
+  http://dchambers.github.io/articles/redux-flow-tutorial/  
+  Covers how to set up Flow for type-checking a Redux application
 
 
 #### Comparisons

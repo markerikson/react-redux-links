@@ -130,6 +130,10 @@
 - **giteveryday**  
   https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html  
   A useful minimum set of commands for Everyday Git.  Commands grouped by usefulness to different categories of users.
+  
+- **Git Getting Started Cheat Sheet**  
+  https://gist.github.com/akras14/3d242d80af8388ebca60  
+  Another useful list of commands with explanations
 
   
 #### Desktop GUI Clients

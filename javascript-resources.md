@@ -37,7 +37,13 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://github.com/adam-s/js-interview-review  
   Collected resources for studying Javascript and preparing for an interview
   
-
+- **Zero to One: How I Mastered Javascript and You Can Too**  
+  https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7  
+  An article describing how one person approached learning Javascript, with suggestions and advice to follow.
+  
+- **Want to Learn Javascript in 2016?**  
+  https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225  
+  Extensive suggestions for resources to use when learning Javascript
   
 
 
@@ -114,6 +120,11 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Grokking Scope in Javascript**  
   https://code.tutsplus.com/tutorials/grokking-scope-in-javascript--cms-26259  
   Advice for understanding how Javascript variable coping works
+  
+- **Let It Be - How to declare JavaScript variables**  
+  http://madhatted.com/2016/1/25/let-it-be  
+  https://www.reddit.com/r/javascript/comments/44yjzo/let_it_be_how_to_declare_javascript_variables/  
+  A look at how `var`, `let`, and `const` behave, and how using them communicates intent.  Further discussion in the Reddit comments.
 
 
 #### Paid Courses and Books
