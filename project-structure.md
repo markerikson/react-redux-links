@@ -7,7 +7,7 @@
 - [React and Forms](./react-forms.md)
 - [React and AJAX](./react-ajax.md)
 - [React Architecture and Best Practices](./react-architecture.md)
-- [Redux Architecture and Best Practices)](./redux-architecture.md)
+- [Redux Architecture and Best Practices](./redux-architecture.md)
 
 
 #### Project File Structure
