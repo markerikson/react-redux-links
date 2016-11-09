@@ -168,4 +168,5 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   An experiment to make Webpack configs testable and maintainable
   
 - **Webpack Dashboard**  
+  https://github.com/FormidableLabs/webpack-dashboard  
   A CLI dashboard for your webpack dev server
