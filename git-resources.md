@@ -45,6 +45,9 @@
   http://rypress.com/tutorials/git/index  
   An excellent introduction to Git's key concepts and command.  Very well written and explained.
   
+- **Git for Humans**  
+  https://speakerdeck.com/alicebartlett/git-for-humans  
+  A slideshow introducing Git concepts without complex terminology
 
 #### Tips and Useful Info
 
@@ -76,9 +79,21 @@
   https://medium.com/@zlobin/advanced-git-advice-27087a7fbb29  
   A variety of useful tips and commands.
   
+  
+## Specific Techniques
+  
 - **Git's Patch Mode All the Way**  
   https://blog.petrzemek.net/2016/07/10/git-patch-mode-all-the-way/  
   Shows how to use Git's ability to selectively pick and choose chunks of code as part of various actions
+
+- **Git: Undoing changes and rewriting history**  
+  http://slides.com/lilianakastilio/github-4#/  
+  A slideshow discussing various ways to change commit history
+  
+- **Beginner's guide to git rebasing and squashing**  
+  https://shinglyu.github.io/web/2016/11/08/servo-rebase-and-squash-guide.html  
+  A tutorial on rebasing and squashing commits to change past history.
+
 
 #### E-Books
 
@@ -93,6 +108,7 @@
 - **Git Internals**  
   https://github.com/pluralsight/git-internals-pdf  
   A free PDF that digs deep into Git's data structures and behavior
+  
   
 #### Workflows
 

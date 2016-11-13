@@ -78,6 +78,14 @@
 - **Redux Flow Tutorial**  
   http://dchambers.github.io/articles/redux-flow-tutorial/  
   Covers how to set up Flow for type-checking a Redux application
+  
+- **Exhaustive switch in Flow**  
+  https://ouicar.github.io/2016/08/08/exhaustive-switch.html  
+  A trick to help catch missing case errors in switch statements.
+  
+- **Typed Redux**  
+  https://blog.callstack.io/typed-redux-2aa8bff926ff  
+  Examples of how to use Flow to add typing to Redux apps
 
 
 #### Comparisons
@@ -89,3 +97,7 @@
 - **Flow vs TypeScript**  
   http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/  
   A comparison of the features, goals, and usage of both type systems
+  
+- **Typescript vs Flow**  
+  https://gist.github.com/voltrevo/ecb5b7292707d29b13ae453ae0b529d9  
+  A comparison of common features, advantages in either system, missing features, and other aspects.

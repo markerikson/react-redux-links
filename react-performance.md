@@ -92,6 +92,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/outsystems-engineering/virtualizing-the-virtual-dom-pushing-react-further-d76a16e5f209  
   Discussion and examples of using the "virtualization" technique to only render list components that are currently in view.
   
+- **Creating more efficient React views with windowing**  
+  https://bvaughn.github.io/connect-tech-2016/#/  
+  An excellent slideshow on performance topics from the author of the React-Virtualized library.  Covers sources of slowness, ways to avoid re-renders, and a deep look at "windowing/virtualization" for high-performance lists.
+  
   
   
 #### Code Splitting and Progressive Apps

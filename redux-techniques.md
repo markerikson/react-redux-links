@@ -26,6 +26,10 @@
 - **A Quick Look at the React and Redux DevTools**  
   http://mediatemple.net/blog/tips/a-quick-look-at-the-react-and-redux-devtools/  
   An intro to using the React DevTools and Redux DevTools extensions for debugging
+  
+- **Improve your development workflow with the Redux DevTools Extension**  
+  https://medium.com/@zalmoxis/improve-your-development-workflow-with-redux-devtools-extension-f0379227ff83  
+  The author of the Redux DevTools extension describes new features, including "pause/locking" for iteration on behavior, and some changes needed to add it to the store.
 
 
 #### Reducers
@@ -62,6 +66,10 @@
   http://www.mattzeunert.com/2016/06/01/redux-mistakes.html  
   Some suggestions on how to handle denormalizing data and defining actions.
 
+- **Practical Redux: Using Redux-ORM**  
+  http://blog.isquaredsoftware.com/2016/10/practical-redux-part-1-redux-orm-basics/  
+  http://blog.isquaredsoftware.com/2016/10/practical-redux-part-2-redux-orm-concepts-and-techniques/  
+  A look at how Redux-ORM can help manage normalized data in a Redux store, including use cases, basic usage, key concepts, and advanced techniques.
 
 
 #### UI and Widget Implementations
@@ -81,6 +89,10 @@
 - **Implementing Search/Filter on a list in React and Redux**  
   https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad  
   Some quick examples of using Redux to supply a list of items as a prop, and using React local component state to store a filtered version based on inputs.
+  
+- **Creating Reusable Generic Modal Dialogs with React and Redux**  
+  https://www.packtpub.com/books/content/creating-reusable-generic-modals-react-and-redux  
+  A quick look at how to get results from generic dialogs like a ColorPicker, while keeping your Redux state serializable and component structure decoupled.
   
   
 #### Redux and Forms
@@ -118,6 +130,10 @@
   http://redux-reconfig.surge.sh/  
   http://codepen.io/vnovick/pen/pEgKww/?editors=0010#0  
   Discussion and demonstration of some ways to load reducers and components at runtime.
+  
+- **Secure file uploads with redux-plupload**  
+  http://engineering.tes.com/post/secure-file-uploads/  
+  Some examples of how to use Redux-Plupload to manage file uploads
   
   
 #### Network Management

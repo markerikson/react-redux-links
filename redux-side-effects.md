@@ -22,6 +22,11 @@
 - **Why doesn't Redux support AJAX out of the box?**  
   http://goshakkk.name/redux-no-ajax-by-default/  
   Looks at how AJAX calls fit into a Redux application
+  
+- **Adding Customized Asynchrony to Redux**  
+  https://anyperk.engineering/im-lauren-and-i-m-a-frontend-apprentice-here-at-anyperk-a1a40106d231  
+  A quick introduction to some of the libraries that can be used to manage asynchronous behavior in Redux.
+
 
 #### Sagas
 
@@ -76,3 +81,7 @@
 - **Lazy registration with Redux and Sagas**  
   http://goshakkk.name/lazy-auth-redux-saga-flow/  
   Examples of using Redux-Saga to implement an async series of user interactions.
+  
+- **A Saga that led Xero to Redux**  
+  https://devblog.xero.com/a-saga-that-led-xero-to-redux-aa1361b9a800  
+  Examples of how Xero's async logic for their dashboard evolved over team, from nested callbacks to promises to Redux with sagas

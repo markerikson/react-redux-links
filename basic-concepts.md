@@ -81,7 +81,12 @@
   https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3  
   Advice from Addy Osmani on how to cope with learning new JS technologies
   
-  
 - **"Ask HN: Overwhelmed with learning front-end, how do I proceed?"**  
   https://news.ycombinator.com/item?id=12882816  
   A discussion thread with numerous suggestions for ways to learn front-end technologies.
+  
+- **Deciding What to Learn / When the Latest Tech Makes You Feel Dumb**  
+  http://gedd.ski/post/what-not-to-learn/  
+  http://gedd.ski/post/when-tech-makes-you-feel-dumb/  
+  A pair of short but excellent posts giving advice on how to deal with tech and information overload.
+  

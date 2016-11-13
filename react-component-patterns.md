@@ -34,6 +34,10 @@
   http://ctheu.com/2015/02/10/ownership-and-children-in-reactjs/  
   Discusses the difference between "parent" and "owner" relationships, and what the "children" prop can look like.
   
+- **ReactCasts #3: React's Children API**  
+  https://www.youtube.com/watch?v=DJ53-G8EbxE  
+  A screencast demonstrating how the "children" prop to compose components together
+
   
 #### React Component Lifecycle
 
@@ -79,6 +83,10 @@
 - **Context All the Things with React**  
   https://www.youtube.com/watch?v=k9AhBMwj1w4  
   A talk on what `context` is, and how to use it safely
+  
+- **ReactCasts #4: Context (Part 1)**  
+  https://www.youtube.com/watch?v=lxq938kqIss  
+  A two-part series explaining what React's `context` feature can be used for, and some potential concerns to be aware of when using it
   
   
 #### Component Categories

@@ -66,8 +66,15 @@
 - **Functional Javascript: Reverse-Engineering the Hype**  
   http://banderson.github.io/functional-js-reverse-engineering-the-hype/#/  
   A slideshow that talks about why functional-type programming matters, and how it relates to React-type apps.
-
-
+  
+- **Principles of Strong Components**  
+  http://gedd.ski/post/strong-components/  
+  Generic advice on designing good components.  Not React-specific, but highly applicable to React.
+  
+- **Some Thoughts on Function Components in React**  
+  https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7  
+  Suggestions for ways to approach writing components, particularly using React's functional component syntax
+  
 
 #### React Best Practices
 

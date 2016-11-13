@@ -149,7 +149,7 @@ similar structures in ClojureScript.
   
 - **"Youtube is being rebuilt on Web Components"**  
   https://www.reddit.com/r/javascript/comments/59ax4f/youtube_is_being_rebuilt_on_web_components_and/d97rsdd/  
-  SOme interesting thoughts on how various frameworks have approached composition, and how React helps make it more approachable.
+  Some interesting thoughts on how various frameworks have approached composition, and how React helps make it more approachable.
   
 #### React's PATENTS License
 
@@ -179,6 +179,6 @@ similar structures in ClojureScript.
   https://news.ycombinator.com/item?id=12108526  
   https://vimeo.com/170598656#comment_14699807  
   https://github.com/facebook/react/issues/7293  
-  https://news.ycombinator.com/item?id=12597488
+  https://news.ycombinator.com/item?id=12597488  
   More discussion threads regarding the PATENTS license
   

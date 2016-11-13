@@ -115,6 +115,10 @@
   https://dzone.com/articles/real-world-reactjs-and-redux-part-2  
   A series of articles covering practical architecture lessons learned from building Redux apps, especially regarding use of custom middleware
   
+- **Idiomatic Redux: Why Use Action Creators?**  
+  http://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/  
+  Thoughts on why consistent use of action creators is a good practice, as opposed to putting logic inline into components.
+  
 
 #### Encapsulation and Reusability
 
@@ -164,6 +168,9 @@
   http://slides.com/omnidan/hor#/  
   A set of slides discussing how reducers can be layered together to add capabilities
 
+- **Redux Issue #822: "How to create a generic list as a reducer?"**  
+  https://github.com/reactjs/redux/issues/822  
+  Discussion of various approaches to the "generic list of reusable components" problem
 
 
 #### Variations on Redux Architectures

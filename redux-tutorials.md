@@ -175,6 +175,11 @@
 - **Build a Media Library With React, Redux, and Redux-Saga**  
   https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1  
   A two-part tutorial that builds an image and video display and preview app
+  
+- **Practical Redux**  
+  http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/
+  http://blog.isquaredsoftware.com/2016/11/practical-redux-part-3-project-planning-and-setup/  
+  An ongoing series of posts intended to demonstrate a number of specific Redux techniques by building a sample sample application, based on the MekHQ application for managing Battletech campaigns.
 
 #### Redux Implementation Walkthroughs
 
@@ -200,7 +205,8 @@
 
 - **AMA with the Redux Creators**  
   https://hashnode.com/ama/with-redux-cisteui6p005gzx53fstg8t6l  
-  Dan Abramov and Andrew Clark answer questions about Redux, and describe the history of its original development.
+  https://blog.hashnode.com/the-story-of-redux-and-more/  
+  Dan Abramov and Andrew Clark answer questions about Redux, and describe the history of its original development.  Second link is a summary of answers in the AMA.
 
 
 #### Paid Courses and Books

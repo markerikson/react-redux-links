@@ -84,6 +84,10 @@
   https://github.com/lcxfs1991/blog/issues/15  
   An in-depth look at the parts that go into a Webpack build, and how each piece can be optimized for a faster build.
   
+- **Webpack Config: Commons Chunk Plugin part 1**  
+  https://www.youtube.com/watch?v=-xzWMKuiS2o  
+  An intro to what the Webpack Commons Chunk Plugin does and how it works
+  
 #### Hot Module Replacement
 
 - **Webpack and Hot Module Replacement**  
@@ -149,7 +153,8 @@
   Instructions on how to configure multiple entry points properly
   
 - **Long-term caching of static assets with Webpack**  
-  https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95  Gathers documentation on proper use of asset caching into one article to act as a complete guide.
+  https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95  
+  Gathers documentation on proper use of asset caching into one article to act as a complete guide.
   
 - **Goodbye "../../../"**  
   http://davidboyne.co.uk/2016/04/29/react-webpack-gem.html  

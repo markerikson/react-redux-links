@@ -5,7 +5,7 @@
 - **MobX Docs**  
   https://github.com/mobxjs/mobx  
   https://mobxjs.github.io/mobx/  
-  https://mobxjs.github.io/mobx/getting-started.html
+  https://mobxjs.github.io/mobx/getting-started.html  
   The official MobX site, with documentation including a getting started introduction and API reference.
 
 - **Getting Started with MobX - Video Series**  
@@ -20,7 +20,7 @@
   https://www.youtube.com/watch?v=XGwuM_u7UeQ  
   In depth introduction to MobX with React including 'Why mobx' (all coded with ES5).
 
-- **React Native with MobX — Getting Started**
+- **React Native with MobX — Getting Started**  
   https://medium.com/@dabit3/react-native-with-mobx-getting-started-ba7e18d8ff44  
   An introduction article about combining MobX and React Native to create a simple list app.
   

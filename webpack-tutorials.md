@@ -28,6 +28,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack 101: An Introduction to Webpack**  
   http://code.hootsuite.com/webpack-101/  
   A useful intro to Webpack's concepts and capabilities, with some examples.
+  
+- **Webpack: The Missing Guide**  
+  http://www.eloquentwebapp.com/webpack-missing-guide/  
+  An intro to what Webpack is, what it can do, and how to use it.
 
 
 #### Basic Tutorials

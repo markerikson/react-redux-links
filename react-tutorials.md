@@ -100,6 +100,10 @@
   http://www.globalnerdy.com/2016/07/22/a-walk-through-my-just-enough-react-to-get-you-into-trouble-presentation-at-tampa-code-camp-2016/  
   A blog post version of a talk introducing React's core concepts, and demoing them in JSFiddle
   
+- **React Intro**  
+  https://docs.google.com/presentation/d/19DaabQG8CB4INKGpaHao0hIXcB7zmETg4IHOZkF7MPM  
+  A slideshow from Lee Byron, one of React's early team members, giving an overview of what React is, how it works, and how it can fit into applications.
+  
 
 #### Project-Based Tutorials
 

@@ -59,3 +59,11 @@
 - **Components: A Styling Odyssey**  
   https://speakerdeck.com/alexlande/components-a-styling-odyssey  
   Slideshow discussing pros and cons of various approaches to managing styles for components
+  
+- **Styling ReactJS Applications**  
+  https://www.youtube.com/watch?v=19gqsBc_Cx0  
+  Max Stoiber's talk at ReactNL 2016, comparing various options for styling React applications and introducing his new library, Styled-Components.
+  
+- **Scalable Styles in Production JS**  
+  https://medium.com/front-end-hacking/scalable-styles-in-production-js-cde88016f357  
+  Some comparisons between various approaches to managing styles (plain CSS, inline styles, CSS-in-JS), and why Aphrodite can help solve some of the issues that come up.

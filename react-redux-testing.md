@@ -138,6 +138,11 @@
   https://daveceddia.com/testing-for-proptypes-errors/  
   Some quick examples that use Sinon to check for error logging to help verify correct prop usage during testing.
   
+- **What to Test in a React App**  
+  https://daveceddia.com/what-to-test-in-react-app/  
+  General guidance on what types of tests you might want to write and what to test for.
+  
+  
 #### General Testing, Tools, and Setup
 
 - **Javascript Testing: Unit vs Functional vs Integration**  
@@ -165,3 +170,6 @@
   http://www.theodo.fr/blog/2016/06/keep-calm-and-love-javascript-unit-tests-part-2-asynchronism/  
   An introduction to using Mocha, Chai, and Sinon to write unit tests for various scenarios.
   
+- **UI Testing at Urban Airship**  
+  https://github.com/urbanairship/technical-blog/blob/master/AirshipUITesting.md  
+  In-depth discussion of complexities and approaches for testing real-world UI code, including test runners, mocking, and more.
