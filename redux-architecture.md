@@ -22,6 +22,10 @@
   http://jaysoo.ca/2015/06/02/why-you-should-care-about-flux/  
   Describes the value in separating "reads" from "writes", and eliminating local state.  Applies to Redux as well.
   
+- **Redux vs MobX vs Flux vs... Do you even need that?**
+  http://goshakkk.name/redux-vs-mobx-vs-flux-etoomanychoices/
+  New libraries come and go... should you start with React? MobX? Something else? 
+  
   
 #### Redux Architecture
 
@@ -118,6 +122,10 @@
 - **Idiomatic Redux: Why Use Action Creators?**  
   http://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/  
   Thoughts on why consistent use of action creators is a good practice, as opposed to putting logic inline into components.
+  
+- **Redux anti-pattern: dumb mapStateToProps**
+  http://goshakkk.name/redux-antipattern-mapstatetoprops/
+  An analysis of a somewhat common Redux anti-pattern, where `mapStateToProps` is doing too little, shifting all the domain knowledge into the component that should not be aware of it.
   
 
 #### Encapsulation and Reusability
