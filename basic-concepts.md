@@ -63,11 +63,11 @@
   Another high-level suggested timeline for how to approach learning React and related technologies.
   
 - **React Roadmap**  
-  https://github.com/ericdouglas/react-roadmap
+  https://github.com/ericdouglas/react-roadmap  
   A curated list of free resources to master React Development, in suggested learning order
   
 - **React FAQ**  
-  https://github.com/timarney/react-faq
+  https://github.com/timarney/react-faq  
   A collection of links to help answer your questions about React, including how to get started
 
 
