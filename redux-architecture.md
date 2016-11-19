@@ -119,6 +119,10 @@
   http://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/  
   Thoughts on why consistent use of action creators is a good practice, as opposed to putting logic inline into components.
   
+- **Seven Months into Redux: Two Things My Team Learned Along the Way**  
+  https://medium.com/@benipsen/seven-months-into-redux-two-things-my-team-learned-along-the-way-5d979c25ea61  
+  Describes the benefits a dev team got from using RxJS streams and using selector functions to derive data.
+  
 
 #### Encapsulation and Reusability
 
@@ -171,6 +175,14 @@
 - **Redux Issue #822: "How to create a generic list as a reducer?"**  
   https://github.com/reactjs/redux/issues/822  
   Discussion of various approaches to the "generic list of reusable components" problem
+  
+- **Redux-Doghouse - Creating React-Redux Components through Scoping**  
+  http://engineering.datadoghq.com/redux-doghouse--creating-reusable-react-redux-components-through-scoping/  
+  A look at some of the issues involved in trying to write reusable connected components that can be instantiated many times, and how the library they wrote helps solve those problems.
+  
+- **Redux Stack: Modular Redux Configuration**  
+  https://medium.com/@jondot/redux-stack-modular-redux-configuration-ec96412a2262  
+  Discussion of a small library that tries to make it easier to hook together different Redux addons.
 
 
 #### Variations on Redux Architectures

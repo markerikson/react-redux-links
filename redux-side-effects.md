@@ -26,6 +26,10 @@
 - **Adding Customized Asynchrony to Redux**  
   https://anyperk.engineering/im-lauren-and-i-m-a-frontend-apprentice-here-at-anyperk-a1a40106d231  
   A quick introduction to some of the libraries that can be used to manage asynchronous behavior in Redux.
+  
+- **A Dummy's Guide to Redux and Thunk in React**  
+  https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3  
+  A tutorial that shows how to take a React component that does its own data fetching, and rework it to use accept data from Redux and use a thunk action creator instead.
 
 
 #### Sagas

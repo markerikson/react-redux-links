@@ -40,6 +40,14 @@
 - **React.js Forms: Controlled Components**  
   http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/  
   An excellent article that describes the concept of controlled components, and demonstrates examples of how to interact with different types of form inputs
+  
+- **Controlled and uncontrolled form inputs in React don't have to be complicated**  
+  http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/  
+  A great summary of what controlled and uncontrolled inputs are, what each approach looks like, and how to handle values from different types of inputs.
+  
+- **Controllable React Components**  
+  https://speakerdeck.com/lettertwo/controllable-react-components  
+  A slideshow discussing how React components can themselves either be controlled or uncontrolled, and introducing a library to help make components controllable.
 
 
 #### Form Tutorials and Usage

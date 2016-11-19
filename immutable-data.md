@@ -82,3 +82,7 @@
 - **How to use Immutable.js Records with React and Redux**  
   https://medium.com/azendoo-team/immutable-record-react-redux-99f389ed676  
   Examples for using Immutable.js records for clarity and consistency of data management
+  
+- **Immutable.js: An Introduction with examples written for humans**  
+  http://untangled.io/immutable-js-an-introduction-with-examples-written-for-humans/  
+  A detailed series of tutorials explaining how to use Immutable.js's API

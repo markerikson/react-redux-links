@@ -88,6 +88,10 @@
   https://www.youtube.com/watch?v=-xzWMKuiS2o  
   An intro to what the Webpack Commons Chunk Plugin does and how it works
   
+- **A beginner's step-by-step guide to Code Splitting with Webpack 2 and React Router**  
+  http://brotzky.co/blog/a-beginners-step-by-step-guide-to-code-splitting-with-webpack-2-and-react-router/  
+  An excellent guide to concepts and configuration needed for code splitting.
+  
 #### Hot Module Replacement
 
 - **Webpack and Hot Module Replacement**  

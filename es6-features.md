@@ -40,7 +40,7 @@
   http://wesbos.github.io/ES6-Talk/  
   A set of slides describing the features in ES6
   
-- **Learn Harmony (ES2015 Now**  
+- **Learn Harmony (ES2015) Now**  
   http://learnharmony.org/  
   An interactive tool for learning and experimenting with ES6/ES2015 features
   
@@ -51,6 +51,10 @@
 - **ES6 Cheatsheet**  
   https://es6cheatsheet.com/  
   An interactive cheatsheet with editable and runnable examples to help explain the new syntax and features in ES6.  Offered as a "Pay What You Want" model, so $0 is a valid choice, but payments are requested.
+  
+- **A Rundown of Javascript 2015 Features**  
+  https://auth0.com/blog/a-rundown-of-es6-features/  
+  An overview of the features in ES6 and how they can be used.
   
 
 #### In-Depth Details
@@ -153,3 +157,7 @@
 - **Understanding Javascript Modules: Bundling and Transpiling**  
   https://www.sitepoint.com/javascript-modules-bundling-transpiling/  
   An overview of tools commonly used to bundle and transpile various module formats
+  
+- **How Javascript Modules Work - from Past to Present**  
+  http://www.penta-code.com/how-javascript-modules-work-from-past-to-present/  
+  An overview of the different approaches that have been used to load Javascript modules over time.

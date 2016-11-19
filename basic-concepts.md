@@ -60,6 +60,7 @@
 
 - **Timeline for Learning React**  
   https://daveceddia.com/timeline-for-learning-react/  
+  https://daveceddia.com/how-to-learn-react/  
   Another high-level suggested timeline for how to approach learning React and related technologies.
   
 - **React Roadmap**  

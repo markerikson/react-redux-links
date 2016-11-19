@@ -173,3 +173,7 @@
 - **UI Testing at Urban Airship**  
   https://github.com/urbanairship/technical-blog/blob/master/AirshipUITesting.md  
   In-depth discussion of complexities and approaches for testing real-world UI code, including test runners, mocking, and more.
+  
+- **Migrating to Jest**  
+  https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e  
+  Kent C. Dodds describes why and how his team at Paypal switched their test setup to use Jest instead of Ava.

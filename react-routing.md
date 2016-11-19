@@ -14,3 +14,7 @@
 - **Do I Even Need a Routing Library?**  
   http://jamesknelson.com/even-need-routing-library/  
   Another excellent article from James K Nelson that digs into the core concepts behind a topic, this time looking at what routing libraries do, issues with browser history, and what to consider when deciding on a routing approach.
+  
+- **Webpack code splitting with Create React App and React Router**  
+  https://www.drewbolles.com/blog/2016/11/14/webpack-code-splitting-with-create-react-app-react-router/  
+  A quick example of how to use React-Router's hooks to set up code splitting with Webpack
