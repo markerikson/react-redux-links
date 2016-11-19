@@ -22,6 +22,6 @@
   
 #### Specific aspects
 
-- **Using iOS Image Picker with React Native**
-  http://goshakkk.name/react-native-camera-roll-image-picker/
+- **Using iOS Image Picker with React Native**  
+  http://goshakkk.name/react-native-camera-roll-image-picker/  
   Getting an ImagePicker to work on iOS is painful. It's barely documented. This tutorial-style article shows you everything you need to do to finally start asking users for images.

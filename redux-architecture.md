@@ -123,6 +123,10 @@
   https://medium.com/@benipsen/seven-months-into-redux-two-things-my-team-learned-along-the-way-5d979c25ea61  
   Describes the benefits a dev team got from using RxJS streams and using selector functions to derive data.
   
+- **Redux anti-pattern: dumb mapStateToProps**  
+  http://goshakkk.name/redux-antipattern-mapstatetoprops/  
+  An analysis of a somewhat common Redux anti-pattern, where `mapStateToProps` is doing too little, shifting all the domain knowledge into the component that should not be aware of it.
+
 
 #### Encapsulation and Reusability
 

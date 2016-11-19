@@ -99,3 +99,6 @@
   http://gedd.ski/post/when-tech-makes-you-feel-dumb/  
   A pair of short but excellent posts giving advice on how to deal with tech and information overload.
   
+- **Redux vs MobX vs Flux vs... Do you even need that?**  
+  http://goshakkk.name/redux-vs-mobx-vs-flux-etoomanychoices/  
+  Advice on avoiding choice overload when learning a toolset like React, by simplifying and just focusing on one new thing at a time.

@@ -115,8 +115,8 @@
   http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html  
   Some practical examples discussing what generator functions are, how they work, and what they can be used for.
   
-- **3 cases where JavaScript generators rock (+ understanding them)**
-  http://goshakkk.name/javascript-generators-understanding-sample-use-cases/
+- **3 cases where JavaScript generators rock (+ understanding them)**  
+  http://goshakkk.name/javascript-generators-understanding-sample-use-cases/  
   A simple thinking pattern for easily understanding generators, plus 3 practical applications.
   
   
