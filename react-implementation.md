@@ -47,6 +47,10 @@
   https://medium.com/@deathmood/write-your-virtual-dom-2-props-events-a957608f5c76  
   A series of articles that build up a small Virtual DOM system from scratch.
   
+- **Write Your Own React.js!**  
+  https://medium.com/@calebmer/write-your-own-react-js-776dbef98b8  
+  Some thoughts on why and how you might want to try writing your own React-alike, and some of the tradeoffs involved in writing something like React.
+  
   
 #### Implementation and Internals
 

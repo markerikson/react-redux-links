@@ -96,6 +96,14 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://bvaughn.github.io/connect-tech-2016/#/  
   An excellent slideshow on performance topics from the author of the React-Virtualized library.  Covers sources of slowness, ways to avoid re-renders, and a deep look at "windowing/virtualization" for high-performance lists.
   
+- **React Component Profiling**  
+  https://blog.yld.io/2016/11/25/react-component-profiling/  
+  Tips on using the new browser devtools integration capability in React 15.4 to track component performance.
+  
+- **React Snippets: Debug Component performance with ES7 Annotations**  
+  https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html  Demonstrates using a custom decorator to wrap components and log information on when and why components re-rendered
+  
+  
   
   
 #### Code Splitting and Progressive Apps
@@ -148,6 +156,7 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **"Potential concerns with using Immutable.js"**  
   https://www.reddit.com/r/javascript/comments/4rcqpx/dan_abramov_redux_is_not_an_architecture_or/d51g4k4?context=3  
   A comment discussing a number of potential negative tradeoffs when using Immutable.js, including both performance anti-patterns and API issues
+  
   
 #### Redux Performance
   

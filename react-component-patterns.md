@@ -37,6 +37,10 @@
 - **ReactCasts #3: React's Children API**  
   https://www.youtube.com/watch?v=DJ53-G8EbxE  
   A screencast demonstrating how the "children" prop to compose components together
+  
+- **React Stateless Functional Components: Nine Wins You Might Have Overlooked**  
+  https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc  
+  Thoughts on reasons why you might want to write more components using the functional syntax.
 
   
 #### React Component Lifecycle
@@ -84,9 +88,10 @@
   https://www.youtube.com/watch?v=k9AhBMwj1w4  
   A talk on what `context` is, and how to use it safely
   
-- **ReactCasts #4: Context (Part 1)**  
+- **ReactCasts #4-5: Context (Parts 1 and 2)**  
   https://www.youtube.com/watch?v=lxq938kqIss  
-  A two-part series explaining what React's `context` feature can be used for, and some potential concerns to be aware of when using it
+  https://www.youtube.com/watch?v=mwYHDXS6uSc
+  A two-part series explaining what React's `context` feature can be used for, and some potential concerns to be aware of when using it.    
   
   
 #### Component Categories

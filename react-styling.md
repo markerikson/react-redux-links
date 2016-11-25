@@ -67,3 +67,11 @@
 - **Scalable Styles in Production JS**  
   https://medium.com/front-end-hacking/scalable-styles-in-production-js-cde88016f357  
   Some comparisons between various approaches to managing styles (plain CSS, inline styles, CSS-in-JS), and why Aphrodite can help solve some of the issues that come up.
+  
+- **Writing Your Styles in JS != Writing Inline Styles**  
+  http://mxstbr.blog/2016/11/inline-styles-vs-css-in-js  
+  Max Stoiber describes the key difference between "inline styles" and "CSS-in-JS" approaches: styles applied to elements vs styles added to a <style> tag.  
+  
+- **"Styled Components or Glamor?"**  
+  https://www.reddit.com/r/reactjs/comments/5eq8ew/styled_components_or_glamor/  
+  Discussion and comparisons between some different CSS-in-JS libraries

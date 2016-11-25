@@ -30,6 +30,10 @@
 - **A Dummy's Guide to Redux and Thunk in React**  
   https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3  
   A tutorial that shows how to take a React component that does its own data fetching, and rework it to use accept data from Redux and use a thunk action creator instead.
+  
+- **What the heck is a "thunk"?**  
+  https://daveceddia.com/what-is-a-thunk/  
+  A quick explanation for what the word "thunk" means in general, and for Redux specifically..
 
 
 #### Sagas
@@ -89,3 +93,10 @@
 - **A Saga that led Xero to Redux**  
   https://devblog.xero.com/a-saga-that-led-xero-to-redux-aa1361b9a800  
   Examples of how Xero's async logic for their dashboard evolved over team, from nested callbacks to promises to Redux with sagas
+  
+  
+#### Observables
+
+- **Epic Middleware in Redux**  
+  https://medium.com/@kevinsalter/epic-middleware-in-redux-e4385b6ff7c6  
+  Discussion and examples of using Redux-Observable and RxJS to create "epics" which can transform actions.

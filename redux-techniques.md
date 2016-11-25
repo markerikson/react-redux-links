@@ -42,13 +42,19 @@
   https://www.reddit.com/r/javascript/comments/42ey9e/redux_reducer_composition_without_slicing_state/  
   Discussion of ways to organize actions and reducer logic
 
-
+- **Taking Advantage of `combineReducers**  
+  http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/  
+  Examples of using `combineReducers` multiple times to produce a state tree, and some thoughts on tradeoffs in various approaches to reducer logic.
 
 #### Selectors and Normalization
 
 - **Querying a Redux Store**  
   https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
   A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.
+  
+- **Normalizing Redux Stores for Maximum Code Reuse**  
+  https://medium.com/@adamrackis/normalizing-redux-stores-for-maximum-code-reuse-ae6e3844ae95  
+  Thoughts on how normalized Redux stores enable some useful data handling approaches, with examples of using selector functions to denormalize hierarchical data.
   
 - **Redux Normalizr: Improve your State Management**  
   http://www.robinwieruch.de/the-soundcloud-client-in-react-redux-normalizr/  
@@ -108,6 +114,10 @@
 - **Conversational sign-up form UI with React and Redux**  
   http://jsforallof.us/2016/09/08/conversational-sign-up-form-ui-with-react-and-redux/  
   An example of form management with Redux
+  
+- **Should you store your form state in Redux?**  
+  http://goshakkk.name/should-i-put-form-state-into-redux/  
+  Thoughts on the tradeoffs involved in storing form data in component state vs Redux, and different potential use cases.
 
   
 #### Other  

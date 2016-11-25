@@ -12,3 +12,7 @@
   https://www.packtpub.com/books/content/build-universal-javascript-app-part-1  
   https://www.packtpub.com/books/content/build-universal-javascript-app-part-2  
   A tutorial that discusses some benefits of building a universal app, and walks through building an app with Express, React, and React Router.
+  
+- **React is gaining ground as a universal server side templating system**  
+  https://medium.com/@velmu/react-is-gaining-ground-as-a-universal-server-side-templating-system-26fe02eebe12  
+  Some thoughts on using React as a template rendering engine, integrated into various server-side language stacks.

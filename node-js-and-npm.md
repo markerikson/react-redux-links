@@ -35,3 +35,7 @@ NPM 3.7 or later, as that fixes a bug with the progress bar that drastically slo
 - **Node Hero: The Complete Node.js Tutorial**  
   https://risingstack.com/resources/node-hero  
   An ebook covering a variety of topics about using Node, including basic usage, NPM, Express, and building server applications.  The ebook is free, but requires email registration to download.
+  
+- **Understanding NPM**  
+  https://unpm.nodesource.com/  
+  An interactive visualization that is intended to help you understand the role and scope of NPM.

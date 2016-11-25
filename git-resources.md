@@ -93,6 +93,10 @@
 - **Beginner's guide to git rebasing and squashing**  
   https://shinglyu.github.io/web/2016/11/08/servo-rebase-and-squash-guide.html  
   A tutorial on rebasing and squashing commits to change past history.
+  
+- **Git Rebasing and Clean Pull Requests**  
+  https://www.jungledisk.com/blog/2016/11/21/git-rebasing-and-clean-prs/  
+  Some best practices for cleaning up branches and producing readable commits.
 
 
 #### E-Books

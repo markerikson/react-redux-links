@@ -142,6 +142,13 @@
   https://daveceddia.com/what-to-test-in-react-app/  
   General guidance on what types of tests you might want to write and what to test for.
   
+- **Testing React Applications**  
+  https://www.youtube.com/watch?v=59Ndb3YkLKA  
+  A presentation by Max Stoiber, looking at what types of things to test in a React/Redux application, and ways to use tools like Jest to speed up the testing process.
+  
+- **Good Practices for Testing React Apps**  
+  https://medium.com/@TuckerConnelly/good-practices-for-testing-react-apps-3a64154fa3b1  
+  Thoughts on writing end-to-end tests, unit tests, and integration tests for Reaact applications, including treating components as "black boxes".
   
 #### General Testing, Tools, and Setup
 

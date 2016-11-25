@@ -18,3 +18,11 @@
 - **Webpack code splitting with Create React App and React Router**  
   https://www.drewbolles.com/blog/2016/11/14/webpack-code-splitting-with-create-react-app-react-router/  
   A quick example of how to use React-Router's hooks to set up code splitting with Webpack
+  
+- **Multifactor Authentication in your React Apps**  
+  https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps  
+  A tutorial demonstrating how to use the Auth0 service, along with React Router, to implement multi-factor authentication for an app.
+  
+- **How to Handle Routing in React**  
+  https://code.tutsplus.com/tutorials/understanding-how-to-handle-routing-in-react--cms-27355  
+  A quick example of using React-Router v2 in a small React app
