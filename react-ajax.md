@@ -31,3 +31,7 @@
 - **Slaying a UI Antipattern in Fantasyland**  
   https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a  
   Examples of how to handle the common "loading/no data/data" issue with some static typing and FP principles.
+  
+- **Why doesn't Redux support AJAX out of the box?**
+  http://goshakkk.name/redux-no-ajax-by-default/
+  Presents AJAX as something that naturally fits into the Redux architecture and does not require any third-party library to get started with AJAX in Redux apps.
