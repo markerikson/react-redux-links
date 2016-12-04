@@ -50,6 +50,9 @@
   https://www.reddit.com/r/reactjs/comments/54xnao/fat_arrow_vs_autobind_vs_bindbindbindbindbind/d85wj0l  
   Dan Abramov comments, giving his thoughts on how to handle method binding.
 
+- **Do you even need that bind?**  
+  https://swizec.com/blog/do-you-even-need-that-bind/swizec/7247  
+  A dive through React's implementation of event handling, and why callback binding is needed
 
 #### Method Binding Utilities
 

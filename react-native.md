@@ -3,6 +3,14 @@
 
 #### Tutorials
 
+- **React Native Express**  
+  http://www.reactnativeexpress.com/  
+  A full set of tutorials for everything related to React Native
+
+- **Awesome React Native Education**  
+  https://github.com/hsavit1/Awesome-React-Native-Education  
+  An overview of the React Native ecosystem, in a similar style to react-redux-links
+  
 - **React Native Workshop**  
   https://rangle-io.gitbooks.io/react-native-workshop/content/  
   An introduction to React Native's concepts, in conjunction with Flexbox and Redux
@@ -18,13 +26,15 @@
 - **How to distribute React Native components backed by native code**  
   https://www.benwixen.com/articles/distributing-react-native-components-with-native-code/  
   A project layout for redistributable components with native code, that includes unit tests and supports automatic linking.
+  
 
-- **Awesome React Native Education**
-  https://github.com/hsavit1/Awesome-React-Native-Education
-  An overview of the React Native ecosystem, in a similar style to react-redux-links
   
 #### Specific aspects
 
 - **Using iOS Image Picker with React Native**  
   http://goshakkk.name/react-native-camera-roll-image-picker/  
   Getting an ImagePicker to work on iOS is painful. It's barely documented. This tutorial-style article shows you everything you need to do to finally start asking users for images.
+
+- **Rapid cross-platform development with React Native**  
+  https://robots.thoughtbot.com/rapid-cross-platform-mobile-development-with-react-native  
+  Thoughts on how React Native enables code reuse and iteration, and a look at using the flexbox-based layout system on various platforms.

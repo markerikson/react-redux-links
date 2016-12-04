@@ -90,6 +90,10 @@
   https://www.bennadel.com/blog/2893-setstate-state-mutation-operation-may-be-synchronous-in-reactjs.htm  
   Digs into the behavior of React's setState method, and discusses when it may be synchronous vs asynchronous
   
+- **React Internals: Through the Lens of a Renderer**  
+  https://www.youtube.com/watch?v=VVxQAoNK_XQ  
+  A talk exploring how a React renderer works, and how to implement a tiny renderer
+  
 
 #### React Fiber
   

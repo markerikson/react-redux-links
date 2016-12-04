@@ -31,3 +31,7 @@
 - **Slaying a UI Antipattern in Fantasyland**  
   https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a  
   Examples of how to handle the common "loading/no data/data" issue with some static typing and FP principles.
+  
+- **Handling AJAX In Your React Application with Agility**  
+  https://hackernoon.com/handling-ajax-in-your-react-application-with-agility-413f1f21fc70  
+  Describes three approaches to fetching data in a React app: within a React component, using the Relay GraphQL library, and using Redux middleware

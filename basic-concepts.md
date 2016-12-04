@@ -70,6 +70,10 @@
 - **React FAQ**  
   https://github.com/timarney/react-faq  
   A collection of links to help answer your questions about React, including how to get started
+  
+- **Front-End Developer Handbook**  
+  https://www.frontendhandbook.com/  
+  A guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
 
 
 #### General Suggestions for Learning
@@ -102,3 +106,7 @@
 - **Redux vs MobX vs Flux vs... Do you even need that?**  
   http://goshakkk.name/redux-vs-mobx-vs-flux-etoomanychoices/  
   Advice on avoiding choice overload when learning a toolset like React, by simplifying and just focusing on one new thing at a time.
+  
+- **How to avoid Javascript fatigue and sleep well at night**  
+  https://www.javascriptfatigue.club/blog/2016/11/29/how-to-avoid-javascript-fatigue-and-sleep-well-at-night  
+  A talk giving suggestions for dealing with learning tools and techologies, including knowing when to stop reading, following specific experts, learning patterns, and focusing on what the real problem is you're trying to solve

@@ -221,7 +221,13 @@
   http://react.tips/from-react-to-flux-to-redux/  
   Four implementations of a shopping list application, built with varying approaches to help you see the differences: React/ES5, React/ES6, React/Flux/ES5, React/Redux/ES6.
 
-
+- **30 Days of React**  
+  https://www.fullstackreact.com/30-days-of-react/  
+  A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
+  
+- **Create an Instagram-like App with Node.js, React, and Redux**  
+  http://www.eloquentwebapp.com/instagram-app-node-react-redux/  
+  An in-depth tutorial that demonstrates several advanced React concepts, including routing, hot loading, use of Redux and redux-saga, and more.
   
 #### Paid Courses and Books
 

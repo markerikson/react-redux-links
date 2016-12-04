@@ -137,9 +137,6 @@
   https://decembersoft.com/posts/redux-hero-part-4-every-hero-needs-a-villain-a-fun-introduction-to-redux-saga-js/
   An introduction to Redux and related libraries through building a small RPG-style game
 
-- **An Adventure in Redux: building redux-adventure**  
-  http://csharperimage.jeremylikness.com/2016/07/an-adventure-in-redux-building-redux.html  
-  Builds a small randomized dungeon game using Redux, TypeScript, and Angular 2
   
 - **Building a Chat App with React, Redux, and PubNub**  
   https://www.pubnub.com/blog/2016-06-14-getting-started-with-pubnub-and-react/  
@@ -164,22 +161,40 @@
   https://medium.com/@kensodev/screencast-1-1-session-building-a-react-redux-application-from-scratch-f888c1e74c6  
   A 2-hour screencast demonstrating building a Redux app from the ground up
   
-- **Building Redux in TypeScript with Angular 2**  
-  http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/  
-  An extended tutorial that builds up a mini-Redux in TypeScript, then transitions to building an application
-  
-- **Redux without React - State Management in Vanilla Javascript**  
-  https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/  
-  A tutorial teaching Redux usage with a plain JS UI layer on top
-  
 - **Build a Media Library With React, Redux, and Redux-Saga**  
   https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1  
+  https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2  
   A two-part tutorial that builds an image and video display and preview app
   
 - **Practical Redux**  
   http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/
   http://blog.isquaredsoftware.com/2016/11/practical-redux-part-3-project-planning-and-setup/  
-  An ongoing series of posts intended to demonstrate a number of specific Redux techniques by building a sample sample application, based on the MekHQ application for managing Battletech campaigns.
+  An ongoing series of posts intended to demonstrate a number of specific Redux techniques by building a sample application, based on the MekHQ application for managing Battletech campaigns.
+  
+- **A Practical Guide to Redux**  
+  http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/  
+  A tutorial that introduces the key concepts and usage of Redux through the code in a small sample app.
+
+
+
+#### Using Redux with non-React Frameworks
+
+- **Redux without React - State Management in Vanilla Javascript**  
+  https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/  
+  A tutorial teaching Redux usage with a plain JS UI layer on top
+
+- **An Adventure in Redux: building redux-adventure**  
+  http://csharperimage.jeremylikness.com/2016/07/an-adventure-in-redux-building-redux.html  
+  Builds a small randomized dungeon game using Redux, TypeScript, and Angular 2
+
+- **Building Redux in TypeScript with Angular 2**  
+  http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/  
+  An extended tutorial that builds up a mini-Redux in TypeScript, then transitions to building an application
+
+- **Managing State in Aurelia: How to Use Aurelia with Redux**  
+  https://www.sitepoint.com/managing-state-aurelia-with-redux/  
+  A tutorial that builds a small Markdown editor three ways: pure Aurelia with data binding, Aurelia with Redux to manage state, and then implementation of undo/redo on top.
+
 
 #### Redux Implementation Walkthroughs
 

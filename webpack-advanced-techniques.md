@@ -92,6 +92,15 @@
   http://brotzky.co/blog/a-beginners-step-by-step-guide-to-code-splitting-with-webpack-2-and-react-router/  
   An excellent guide to concepts and configuration needed for code splitting.
   
+- **Speeding up Webpack performance with parallel builds**  
+  http://tech.trivago.com/2015/12/15/parallel-webpack/  
+  Describes a tool called `parallel-webpack`, which can build multiple entry points in multiple formats in parallel.
+  
+- **Building Vendor and Feature Bundles with Webpack**  
+  http://odetocode.com/blogs/scott/archive/2016/12/01/building-vendor-and-feature-bundles-with-webpack.aspx  
+  Demonstrates using DllPlugin to build a vendor bundle, and generating multiple bundles for different features by dynamically building up multiple entry points.
+  
+  
 #### Hot Module Replacement
 
 - **Webpack and Hot Module Replacement**  
@@ -136,6 +145,14 @@
 - **Webpack Hot Reloading and React**  
   https://ctheu.com/2015/12/29/webpack-hot-reloading-and-react-how/  
   An explanation of how Hot Reloading works, and how the various pieces fit together.
+  
+- **ReactCasts #7: Hot Module Replacement in Create-React-App**  
+  https://www.youtube.com/watch?v=hcl3lNjgj-E  
+  A screencast talking about what HMR is, and two ways to add it to projects created with Create-React-App
+  
+- **"Difference between Webpack HMR and React-Hot-Loader?"**  
+  https://github.com/facebookincubator/create-react-app/issues/1063#issuecomment-261788083  
+  Dan Abramov clarifies that HMR is the API and capability that Webpack gives you, while React-Hot-Loader is a specialized tool that uses the HMR API to automatically add HMR handling to React code.
 
 
 #### Other Tips and Examples
@@ -175,3 +192,18 @@
 - **Webpack Map Entity Loader**  
   http://drhayes.io/secret-game/map-entity-loader.html  
   A small example of writing a custom Webpack loader for game data
+  
+  
+#### Webpack Tools
+
+- **Webpack Dashboard**  
+  https://github.com/FormidableLabs/webpack-dashboard  
+  A CLI dashboard for your webpack dev server
+
+- **Webpack Visualizer**  
+  https://chrisbateman.github.io/webpack-visualizer/  
+  A tool and plugin to visualize the (pre-minified) sizes of files in a Webpack bundle
+  
+- **Webpack Bundle Analyzer**  
+  https://github.com/th0r/webpack-bundle-analyzer  
+  Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap, and can parse minified bundles to show true minified (and gzipped) sizes

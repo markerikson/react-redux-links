@@ -80,6 +80,10 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://devfreebooks.org/javascript/  
   A list of free online books for Javascript
   
+- **DOM Enlightenment**  
+  http://domenlightenment.com/  
+  A deep look at how to interact with the DOM from Javascript, without using a library or a framework.
+  
   
 #### Interactive Exercises
 

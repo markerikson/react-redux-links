@@ -100,6 +100,10 @@
   https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0  
   Dan Abramov's foundational article on classifying components based on intent and behavior.  A must-read for anyone using React.
   
+- **"People are reading way too much into 'presentational' vs 'container'"**  
+  https://twitter.com/dan_abramov/status/802569801906475008  
+  Dan Abramov follows up his article by emphasizing that "presentational" and "container" was just a pattern he had noticed, rather than an approach that _must_ be followed
+  
 - **Leveling Up with React: Container Components**  
   https://css-tricks.com/learning-react-container-components/  
   Describes the container component pattern and how to use it to split up responsibilities between fetching and displaying data.
@@ -184,6 +188,10 @@
   https://blog.codeminer42.com/annotations-about-react-higher-order-components-e3561bc7c27a  
   An explanation of what HOCs are, what they can be used for, and when to use them.
   
+- **Single-Prop HOCs - Better Composition in React**  
+  https://www.okgrow.com/posts/compose-react-sphoc  
+  Thoughts and examples of composing multiple small focused HOCs together into a final combined HOC
+  
   
 #### Other Component Patterns
 
@@ -214,3 +222,7 @@
 - **"What is the ideal way to pass data to a callback prop?**  
   https://gist.github.com/jazlalli/fdee443405680f96d19211daa15d1d38  
   Discussion and examples of various ways to pass data to callbacks between children and parents
+
+- **React and third-party libraries**  
+  http://krasimirtsonev.com/blog/article/react-third-party-library-integration  
+  Demonstrates how to build a React component that wraps up non-React code like a jQuery UI plugin

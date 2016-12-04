@@ -35,6 +35,10 @@
   https://daveceddia.com/what-is-a-thunk/  
   A quick explanation for what the word "thunk" means in general, and for Redux specifically..
 
+- **"Controversial opinion: redux-thunk is too powerful"**  
+  https://twitter.com/intelligibabble/status/800103510624727040  
+  https://twitter.com/dan_abramov/status/800310164792414208  
+  Some discussion on the pros and cons of redux-thunk's flexibility and usage, as well as possible issues with multiple dispatches in a row.
 
 #### Sagas
 

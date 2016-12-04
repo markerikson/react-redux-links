@@ -75,3 +75,7 @@
 - **"Styled Components or Glamor?"**  
   https://www.reddit.com/r/reactjs/comments/5eq8ew/styled_components_or_glamor/  
   Discussion and comparisons between some different CSS-in-JS libraries
+  
+- **The magic behind styled-components**  
+  http://mxstbr.blog/2016/11/styled-components-magic-explained/  
+  A look at how the styled-components library uses the new ES6 "tagged template literals" feature to interpolate arguments and build up CSS

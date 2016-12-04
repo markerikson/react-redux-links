@@ -48,6 +48,8 @@
 
 #### Selectors and Normalization
 
+**Related topics**: [Redux Architecture - Encapsulation](./redux-architecture.md#encapsulation-and-reusability]
+
 - **Querying a Redux Store**  
   https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
   A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.
@@ -76,6 +78,15 @@
   http://blog.isquaredsoftware.com/2016/10/practical-redux-part-1-redux-orm-basics/  
   http://blog.isquaredsoftware.com/2016/10/practical-redux-part-2-redux-orm-concepts-and-techniques/  
   A look at how Redux-ORM can help manage normalized data in a Redux store, including use cases, basic usage, key concepts, and advanced techniques.
+  
+- **"How do you add/remove to a redux store generated with normalizr?**  
+  http://stackoverflow.com/questions/34954726/how-do-you-add-remove-to-a-redux-store-generated-with-normalizr  
+  Stack Overflow discussion of how to handle updates to normalized data
+
+- **"Any deep-dive/advanced tutorials on reselect?"**  
+  https://www.reddit.com/r/reactjs/comments/5dxasp/any_deepdiveadvanced_tutorials_on_reselect/  
+  Discussion on passing arguments to Reselect selectors, and how to use "factory functions" to define per-component selectors for Redux `mapState` functions
+
 
 
 #### UI and Widget Implementations
@@ -99,6 +110,10 @@
 - **Creating Reusable Generic Modal Dialogs with React and Redux**  
   https://www.packtpub.com/books/content/creating-reusable-generic-modals-react-and-redux  
   A quick look at how to get results from generic dialogs like a ColorPicker, while keeping your Redux state serializable and component structure decoupled.
+  
+- **Animating with React, Redux, and D3**  
+  https://medium.com/swizec-a-geek-with-a-hat/animating-with-react-redux-and-d3-80852153a25b  
+  Explanation and examples of drawing animated particles using D3 to calculate new positions, Redux to store the state, and React to render them.
   
   
 #### Redux and Forms

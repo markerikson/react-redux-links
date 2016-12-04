@@ -107,9 +107,7 @@
   https://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm  
   A dive into how generators work, and how they can be used to handle async behavior
   
-- **ES6 Promise Anti-Patterns and Best Practices**  
-  http://www.datchley.name/promise-patterns-anti-patterns/  
-  Some advice for good usage of Promises
+
   
 - **A Practical Introduction to ES6 Generator Functions**  
   http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html  
@@ -118,6 +116,38 @@
 - **3 cases where JavaScript generators rock (+ understanding them)**  
   http://goshakkk.name/javascript-generators-understanding-sample-use-cases/  
   A simple thinking pattern for easily understanding generators, plus 3 practical applications.
+  
+
+#### Promises
+
+- **Javascript Promises for Dummies**  
+  https://scotch.io/tutorials/javascript-promises-for-dummies  
+  An introduction to understanding promises
+
+- **Javascript Promises... in Wicked Detail**  
+  http://www.mattgreer.org/articles/promises-in-wicked-detail/  
+  Explains what promises are and how they work by building a promise implementation from scratch
+  
+- **Javascript Promises: an Introduction**  
+  https://developers.google.com/web/fundamentals/getting-started/primers/promises  
+  An explanation of what promises are, what they're useful for, terms, and related APIs
+  
+- **ES6 Promises in Depth**  
+  https://ponyfoo.com/articles/es6-promises-in-depth  
+  A detailed description of promises, what they are, and how to use them
+  
+- **Awesome Promises**  
+  https://github.com/wbinnssmith/awesome-promises  
+  Links to tutorials, articles, and other resources on promises
+  
+- **We have a problem with promises**  
+  https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html  
+  Describes some common mistakes while using promises, and how to avoid them
+
+- **ES6 Promise Anti-Patterns and Best Practices**  
+  http://www.datchley.name/promise-patterns-anti-patterns/  
+  Some advice for good usage of Promises
+
   
   
 #### Techniques
@@ -161,3 +191,7 @@
 - **How Javascript Modules Work - from Past to Present**  
   http://www.penta-code.com/how-javascript-modules-work-from-past-to-present/  
   An overview of the different approaches that have been used to load Javascript modules over time.
+  
+- **Understanding the State of Javascript Modules**  
+  http://georgemauer.net/2016/11/25/how-js-modules-work.html  
+  A look at the major differences in module loading approaches, and why tools like Webpack or Browserify are needed to help, as well as recommendations on which tools to use adn why.

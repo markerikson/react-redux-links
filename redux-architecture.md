@@ -75,6 +75,10 @@
   http://bpxl-labs.github.io/redux-handbook/  
   Black Pixel's guidelines for project/app structure and usage
   
+- **Tips for a Better Redux Architecture: Lessons for Enterprise Scale**  
+  https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f  
+  Thoughts on good patterns and approaches in a large Redux app, including use of action creators instead of `dispatch` in components, module/container file structure, using sagas for flow control, and more.
+  
   
 #### Redux Best Practices
   
@@ -127,8 +131,14 @@
   http://goshakkk.name/redux-antipattern-mapstatetoprops/  
   An analysis of a somewhat common Redux anti-pattern, where `mapStateToProps` is doing too little, shifting all the domain knowledge into the component that should not be aware of it.
 
+- **Learning and scaling a React/Redux app with a distributed team**  
+  https://devblog.xero.com/learning-and-scaling-a-react-redux-app-with-a-distributed-team-e4c397def187  
+  Lessons learned from working with a large application with many features, including use of common components, sagas, project structure, and utility libraries
+
 
 #### Encapsulation and Reusability
+
+**Related topics**: [Redux Techniques - Selectors](./redux-techniques.md#selectors-and-normalization)
 
 - **Scalable Frontend with Elm or Redux**  
   https://github.com/slorber/scalable-frontend-with-elm-or-redux  
@@ -166,6 +176,7 @@
   http://randycoulman.com//blog/2016/09/13/encapsulating-the-redux-state-tree/  
   http://randycoulman.com/blog/2016/09/20/redux-reducer-selector-asymmetry/  
   http://randycoulman.com/blog/2016/09/27/modular-reducers-and-selectors/  
+  http://randycoulman.com/blog/2016/11/29/globalizing-redux-selectors
   A blog series discussing approaches to encapsulating Redux data using selectors and other related approaches
   
 - **Redux State Keys - A predictable yet dynamic substate**  
@@ -187,6 +198,10 @@
 - **Redux Stack: Modular Redux Configuration**  
   https://medium.com/@jondot/redux-stack-modular-redux-configuration-ec96412a2262  
   Discussion of a small library that tries to make it easier to hook together different Redux addons.
+  
+- **Scoped Selectors for Redux Modules**  
+  http://www.datchley.name/scoped-selectors-for-redux-modules/  
+  A follow-on to Randy Coulman's series on local vs global selectors, discussing tradeoffs in approaches for defining and managing selectors.
 
 
 #### Variations on Redux Architectures

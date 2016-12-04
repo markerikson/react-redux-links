@@ -34,6 +34,10 @@
   https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6  
   A description of what a middleware is, and how it works in Redux
   
+- **ReactCasts #6: Redux Middleware**  
+  https://www.youtube.com/watch?v=T-qtHI1qHIg  
+  A screencast that describes how middleware fit into Redux, their uses, and how to implement a custom middleware 
+  
 
 #### Middleware Techniques
 
@@ -57,3 +61,7 @@
 - **You Aren't Using Redux Middleware Enough**  
   https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6  
   Suggestions for using middleware to solve a number of interesting use cases
+  
+- **Defining user on-boarding flows with Redux middleware**  
+  https://medium.com/@JohnRandom/defining-user-on-boarding-flows-with-redux-middlewares-217885acbafc  
+  Demonstrates implementing an on-boarding feature by implementing a Redux middleware to track user behavior and dispatch actions in response.

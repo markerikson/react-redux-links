@@ -100,3 +100,14 @@
   https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-1-83ac8fd6c1f0  
   https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-2-1edb7881870d  
   A 2-part series, demonstrating how to use Ramda and FP approaches to create validation logic
+  
+- **Form recipe: Conditionally disabling the Submit button**  
+  http://goshakkk.name/form-recipe-disable-submit-button-react/  
+  Some simple examples of validating data from controlled inputs
+  
+
+#### Other
+
+- **Creating new fields and widgets for Mozilla's react-jsonschema-form**  
+  https://jeffersonheard.github.io/2016/11/creating-new-fields-and-widgets-for-mozillas-react-jsonschema-form/  
+  Examples of working with the react-jsonschema-form library, including defining form schemas, gotchas, and customization with specific widgets and types

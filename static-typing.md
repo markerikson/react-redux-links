@@ -32,8 +32,20 @@
   https://basarat.gitbooks.io/typescript/content/  
   An online book that digs into numerous TypeScript topics
 
+  
+- **Immutable.js Records in TypeScript**  
+  https://spin.atomicobject.com/2016/11/30/immutable-js-records-in-typescript/  
+  Examples of setting up typing for custom classes based on Immutable.js's Record class.
 
 #### Flow
+
+- **The Fundamentals of Flow in 10-ish Minutes**  
+  https://www.youtube.com/watch?v=xWMuAUbXcdQ  
+  A short presentation that looks at what Flow is, benefits, and how to use it
+  
+- **Go with the Flow - A Static Type Checking Tool for Javascript**  
+  https://www.theodo.fr/blog/2016/11/go-with-the-flow-a-static-type-checking-tool-for-javascript/  
+  A quick introduction to Flow, its usage, and some comparisons with Typescript.
 
 - **Setting up Flow when you've already got Babel in place**  
   https://medium.freecodecamp.com/using-flow-with-babel-c04fdca8d14d  
