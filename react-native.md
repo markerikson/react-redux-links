@@ -18,7 +18,10 @@
 - **How to distribute React Native components backed by native code**  
   https://www.benwixen.com/articles/distributing-react-native-components-with-native-code/  
   A project layout for redistributable components with native code, that includes unit tests and supports automatic linking.
-  
+
+- **Awesome React Native Education**
+  https://github.com/hsavit1/Awesome-React-Native-Education
+  An overview of the React Native ecosystem, in a similar style to react-redux-links
   
 #### Specific aspects
 
