@@ -150,6 +150,15 @@
   https://medium.com/@TuckerConnelly/good-practices-for-testing-react-apps-3a64154fa3b1  
   Thoughts on writing end-to-end tests, unit tests, and integration tests for Reaact applications, including treating components as "black boxes".
   
+- **Testing React components with Jest and Enzyme**  
+  https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f  
+  Examples of how to use Jest's snapshot testing and Enzyme's component API to write component tests
+  
+- **Testing with Webpack 2, inject-loader, Karma, Mocha, Chai, and More**  
+  https://cafedev.org/article/2016/12/testing-with-wepack-2-inject-loader-karma-mocha-chai-and-sinon/  
+  Examples of using these tools to test some complex code, including mocking out dependencies
+  
+  
 #### General Testing, Tools, and Setup
 
 - **Javascript Testing: Unit vs Functional vs Integration**  
@@ -184,3 +193,7 @@
 - **Migrating to Jest**  
   https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e  
   Kent C. Dodds describes why and how his team at Paypal switched their test setup to use Jest instead of Ava.
+  
+- **Web Application Test Strategy**  
+  https://blog.scottnonnenberg.com/web-application-test-strategy/  
+  Thoughts on a "test pyramid" approach to testing, balancing speed and results between unit tests, integration tests, and automation.

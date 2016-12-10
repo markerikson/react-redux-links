@@ -111,3 +111,7 @@
 - **Creating new fields and widgets for Mozilla's react-jsonschema-form**  
   https://jeffersonheard.github.io/2016/11/creating-new-fields-and-widgets-for-mozillas-react-jsonschema-form/  
   Examples of working with the react-jsonschema-form library, including defining form schemas, gotchas, and customization with specific widgets and types
+  
+- **List or Form, why not both? Making a list with a built in editor in React**  
+  http://thereactionary.net/list-or-form-why-not-both-making-a-list-with-a-built-in-editor-in-react/  
+  Builds an example of a list with the ability to do inline editing of items.

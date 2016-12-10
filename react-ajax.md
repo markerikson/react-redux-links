@@ -35,3 +35,7 @@
 - **Handling AJAX In Your React Application with Agility**  
   https://hackernoon.com/handling-ajax-in-your-react-application-with-agility-413f1f21fc70  
   Describes three approaches to fetching data in a React app: within a React component, using the Relay GraphQL library, and using Redux middleware
+  
+- **React-Redux issue #210: "dispatching in componentWillMount?"**  
+  https://github.com/reactjs/react-redux/issues/210#issuecomment-244774674  
+  Some valuable extended discussion about how managing requests and data really involves several distinct possible states.

@@ -75,6 +75,14 @@
   https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7  
   Suggestions for ways to approach writing components, particularly using React's functional component syntax
   
+- **Why React is Awesome at Scale**  
+  https://medium.com/@cowi4030/why-react-is-awesome-at-scale-acfd9ce53c23  
+  Examples of how React's use of declarative rendering simplifies the need to think about imperative state transitions.
+  
+- **"What are the biggest 'aha' moments you had while learning React?"**  
+  https://www.reddit.com/r/reactjs/comments/5gmywc/what_were_the_biggest_aha_moments_you_had_while/  
+  Some great discussion of important concepts and things to understand about React.
+  
 
 #### React Best Practices
 
@@ -142,3 +150,7 @@
 - **Writing a good React Component**  
   https://medium.com/thoughts-from-travelperk/writing-a-good-react-component-59624ed40b8e  
   Some very good best practices for writing components.
+  
+- **The Top 5 [Tips] of Effective React**  
+  https://code.kiwi.com/the-top-5-of-effective-react-984e54cceac3  
+  Tips include using container/presentational components, keeping components simple, and more.

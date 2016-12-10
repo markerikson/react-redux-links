@@ -37,6 +37,13 @@
 - **Testing React and MobX**  
   https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest  
   A look at ways to test React components and MobX logic
+  
+
+#### Other
+
+- **One awkward thing about MobX: Complex Models**  
+  https://swizec.com/blog/awkward-thing-mobx-complex-models/swizec/7260  
+  Discussion of potential issues when handling complex models, and some possible workarounds.
 
 
 #### MobX and Redux Comparisons
@@ -57,3 +64,7 @@ A great video to understand the differences between MobX and Redux.
 - **"How does MobX compare with Redux, and which is better for React app development?"**  
   https://hashnode.com/post/how-does-mobx-compare-with-redux-and-which-one-is-better-for-react-app-development-cisrch8eh0030g5532qeds1ja/answer/citq8rptk010cus530wdzdg69  
   An excellent answer comparing the two libraries and their philosophies
+  
+- **Redux vs MobX**  
+  https://medium.com/@himrc/redux-vs-mobx-a42c8950f3  
+  Some quick pros and cons of each, links to other discussions, and thoughts on when to use them.

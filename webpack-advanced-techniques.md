@@ -100,6 +100,14 @@
   http://odetocode.com/blogs/scott/archive/2016/12/01/building-vendor-and-feature-bundles-with-webpack.aspx  
   Demonstrates using DllPlugin to build a vendor bundle, and generating multiple bundles for different features by dynamically building up multiple entry points.
   
+- **Unlocking a Mystery: Visualizing the Common Webpack Bundles**  
+  https://www.redfin.com/blog/2016/12/unlocking-a-mystery-visualizing-the-common-webpack-bundles.html  
+  A recap of some previous tools used to analyze Webpack bundle sizes, and description of a new tool they built to provide better bundle visualization
+  
+- **Analysing and minimising the size of client side bundle with Webpack and source-map-explorer**  
+  https://medium.com/@nimgrg/analysing-and-minimising-the-size-of-client-side-bundle-with-webpack-and-source-map-explorer-41096559beca  
+  Tips on using source-map-explorer to check the size of code included in a minified bundle, and removing unneeded polyfills
+  
   
 #### Hot Module Replacement
 

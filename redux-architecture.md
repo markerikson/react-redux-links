@@ -1,5 +1,9 @@
 ### Redux Architecture and Best Practices
 
+**Related Topics**:
+- [Redux addons catalog - Apps and Examples](https://github.com/markerikson/redux-ecosystem-links/blob/master/apps-and-examples.md): Links to various projects built with Redux, both purpose-built-examples and "real" applications, as well as several Redux usage stories
+
+
 #### When Should You Use Redux?
 
 - **You Might Not Need Redux**  
@@ -134,6 +138,14 @@
 - **Learning and scaling a React/Redux app with a distributed team**  
   https://devblog.xero.com/learning-and-scaling-a-react-redux-app-with-a-distributed-team-e4c397def187  
   Lessons learned from working with a large application with many features, including use of common components, sagas, project structure, and utility libraries
+  
+- **Redux at Knewton**  
+  https://tech.knewton.com/blog/2016/11/redux-at-knewton/  
+  Discussion of how Redux helped Knewton improve their app, including dev middleware to catch accidental mutations, normalization to help with caching, and other tradeoffs.
+  
+- **4 Things for Efficient Redux**  
+  https://blog.spacelab.team/4-things-for-efficient-redux-17e87b4cd6cb  
+  Suggestions for improved Redux apps based on experience, including using Immutable.js, use of `combineReducers`, listening for actions in multiple reducers, and "aliasing" actions.
 
 
 #### Encapsulation and Reusability
@@ -210,10 +222,6 @@
   https://medium.com/@totaldis/redux-saga-in-action-s-f7d11cffa35a  
   Some interesting thoughts on ways to organize the majority of your app's logic using redux-saga
   
-- **Scalable Single-Page Application Architecture with Redux and Angular 2**  
-  http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
-  An in-depth article covering how to architect an application using Redux, Angular 2, and RxJS.  
-  
 - **redux-scuttlebutt; eventually consistent shared state among peers**  
   https://medium.com/@grrowl/redux-scuttlebutt-eventually-consistent-shared-state-among-peers-191d48102079  
   Describes how to use the Redux-Scuttlebutt library to sync actions and updates between multiple instances of a Redux application
@@ -233,3 +241,7 @@
 - **Using React(-Native) with Redux and Redux Saga**  
   https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f  
   Description of a decoupled saga-based app structure, similar to that described in "Redux Saga in Action"
+  
+- **Minimal Redux Setup**  
+  https://medium.com/@benevolentNinja/minimal-redux-setup-e6a10fcbcb68  
+  Thoughts on using a single reducer and a single "UPDATE" action type

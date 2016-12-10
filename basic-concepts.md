@@ -47,7 +47,7 @@
   https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a  
   An overview of what packages and package managers are, some related terms, and how these tools work.
   
-  
+
 #### Suggested Learning Approaches
 
 - **A Study Plan to Cure Javascript Fatigue**  
@@ -74,6 +74,10 @@
 - **Front-End Developer Handbook**  
   https://www.frontendhandbook.com/  
   A guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
+  
+- **Top Javascript Frameworks and Topics to Learn in 2017**  
+  https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711  
+  Eric Elliott gives some solid advice on what concepts, tools, and technologies are most valuable to learn today, as well as what related technologies are useful but optional.
 
 
 #### General Suggestions for Learning

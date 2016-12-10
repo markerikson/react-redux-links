@@ -16,3 +16,7 @@
 - **React is gaining ground as a universal server side templating system**  
   https://medium.com/@velmu/react-is-gaining-ground-as-a-universal-server-side-templating-system-26fe02eebe12  
   Some thoughts on using React as a template rendering engine, integrated into various server-side language stacks.
+  
+- **Server Side React**  
+  https://remysharp.com/2016/12/07/server-side-react  
+  A well-written article detailing lessons learned trying to use React to render on the server, including tools used, bumps in the road and links to further resources

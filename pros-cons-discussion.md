@@ -1,5 +1,9 @@
 ### React/Flux/Redux Pros, Cons, and Discussion
 
+**Related Topics**:
+- [Redux addons catalog - Apps and Examples](https://github.com/markerikson/redux-ecosystem-links/blob/master/apps-and-examples.md): Links to various projects built with Redux, both purpose-built-examples and "real" applications, as well as several Redux usage stories
+- [Redux Architecture and Best Practices](./redux-architecture.md): many "lessons learned"-type articles after having used Redux
+
 
 #### High-Level Comparisons and Business Cases
 
@@ -82,9 +86,10 @@
   Discussion of some of the actual practical advantages of using Redux, with some thoughts on
 similar structures in ClojureScript.
 
-- **"React Tutorial: Cloning Yelp"**
+- **"React Tutorial: Cloning Yelp"**  
+  https://news.ycombinator.com/item?id=11778663  
   https://news.ycombinator.com/item?id=11782234  
-  A great quote on the inherent complexity of developing any application (from yet another "Javascript Fatigue"-type discussion thread
+  Around 250 comments on React, dependency management, tutorial writing, and library churn.  Also a great quote on the inherent complexity of developing any application.
   
 - **"9 things every ReactJS beginner should know"**  
   https://www.reddit.com/r/javascript/comments/42fo3m/9_things_every_reactjs_beginner_should_know/  
@@ -128,10 +133,6 @@ similar structures in ClojureScript.
   https://news.ycombinator.com/item?id=11890229  
   Includes an extended discussion on use of Redux with forms
   
-- **"React Tutorial: Cloning Yelp"**  
-  https://news.ycombinator.com/item?id=11778663  
-  Around 250 comments on React, dependency management, tutorial writing, and library churn.
-  
 - **"Why Learning Angular 2 was Excruciating"**  
   https://news.ycombinator.com/item?id=12534296  
   https://news.ycombinator.com/item?id=12536634  
@@ -150,6 +151,11 @@ similar structures in ClojureScript.
 - **"Youtube is being rebuilt on Web Components"**  
   https://www.reddit.com/r/javascript/comments/59ax4f/youtube_is_being_rebuilt_on_web_components_and/d97rsdd/  
   Some interesting thoughts on how various frameworks have approached composition, and how React helps make it more approachable.
+  
+- **"Modern JS developer workflow makes me sad"**  
+  https://www.reddit.com/r/javascript/comments/5fphiw/modern_js_developer_workflow_makes_me_sad/  
+  A fairly well-written rant about problems a dev was experiencing due to complexity of build tools.  There's extended discussion with some excellent suggestions and advice, and ultimately the author was able to resolve some of the complaints about build times and sourcemaps.
+  
   
 #### React's PATENTS License
 

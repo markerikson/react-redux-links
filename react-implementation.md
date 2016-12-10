@@ -94,6 +94,10 @@
   https://www.youtube.com/watch?v=VVxQAoNK_XQ  
   A talk exploring how a React renderer works, and how to implement a tiny renderer
   
+- **Making custom renderers for React**  
+  http://goshakkk.name/react-custom-renderers/  
+  Describes techniques for building custom rendering components that bridge between normal rendering and something like a canvas
+  
 
 #### React Fiber
   

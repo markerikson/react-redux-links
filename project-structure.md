@@ -2,6 +2,7 @@
 
 
 **Related topics**:
+- [Boilerplates and Starter Kits](./boilerplate-and-starter-kits.md)
 - [React Component Patterns](./react-component-patterns.md)
 - [React State Management](./react-state-management.md)
 - [React and Forms](./react-forms.md)
@@ -18,7 +19,8 @@
   
 - **How to Scale React Applications**  
   https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/  
-  Max Stoiber, creator of the popular "React-Boilerplate" starter kit, describes the approaches they use to lay out projects based on features.
+  https://twitter.com/dan_abramov/status/773912160896421889  
+  Max Stoiber, creator of the popular "React-Boilerplate" starter kit, describes the approaches they use to lay out projects based on features.  The Twitter thread has discussion on some tradeoffs, including understand that Redux actions are "global", not scoped.
 
 - **Organizing Large React Applications**  
   http://engineering.kapost.com/2016/01/organizing-large-react-applications/  
@@ -63,25 +65,17 @@
 - **How to Structure real world Redux/React Applications**  
   https://medium.com/@yiquanzhou/how-to-structure-real-world-redux-react-application-d61e66a7dd36  
   Another look at structuring code, based on business logic, data domains, and reusability.
-
-
-#### React Integration
-
-- **How to Write a Google Maps React Component**  
-  https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/  
-  Demonstrates how to wrap a third-party component that has an imperative API, lazy-loading the dependencies, and more.
   
-- **Building SVG Maps with React**  
-  https://blog.komand.com/building-svg-maps-with-react  
-  Demonstrates building a component that zooms and pans SVG graphics based on user input.
-  
-- **How to Sprinkle ReactJS into an Existing Web Application**  
-  https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application  
-  Looks at how to incrementally add some React-based functionality into an existing app.
-  
-- **Making custom renderers for React**  
-  http://goshakkk.name/react-custom-renderers/  
-  Describes techniques for building custom rendering components that bridge between normal rendering and something like a canvas
-  
+- **When a good plan comes together: React project structure for scaling**  
+  http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/  
+  More discussion of tradeoffs in various structure approaches.
 
   
+#### Project Setup
+
+- **Setting up a Front-End Project**  
+  https://medium.com/@Torwori/setting-up-a-front-end-project-part-1-d7fbaaaa5e14  
+  https://medium.com/@Torwori/setting-up-a-front-end-project-part-2-cbbae56ffd15  
+  https://medium.com/@Torwori/setting-up-a-front-end-project-part-3-38f1681d310b  
+  https://medium.com/@Torwori/setting-up-a-front-end-project-part-4-b6fe32e58e5  
+  An in-depth tutorial series covering setup and configuration of many tools, including Git, Webpack, Babel, ESLint, and Typescript.

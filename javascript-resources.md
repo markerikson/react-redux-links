@@ -47,7 +47,7 @@ While this list is primarily focused on learning React and Redux, and generally 
   
 
 
-#### Tutorials and Books
+#### Tutorials, Books, and Courses
 
 - **Eloquent Javascript**  
   http://eloquentjavascript.net/  
@@ -57,9 +57,9 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://github.com/getify/You-Dont-Know-JS  
   An online book series intended to teach all aspects of Javascript, including the "tougher" parts.
   
-- **Speaking Javascript**  
-  http://speakingjs.com/es5/index.html  
-  A free online book on Javascript from Dr. Axel Rauschmayer.
+- **Exploring Javascript**  
+  http://exploringjs.com/  
+  Multiple free online books from Dr. Axel Rauschmayer.  "Speaking Javascript" covers all of Javascript through ES5; "Exploring ES6" covers ES6 in depth; and other books look at versions of Javascript after ES6 and how to set up an ES6+ development environment.
   
 - **23 Free Javascript Books**  
   https://hackerlists.com/free-javascript-books/  
@@ -83,6 +83,14 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **DOM Enlightenment**  
   http://domenlightenment.com/  
   A deep look at how to interact with the DOM from Javascript, without using a library or a framework.
+  
+- **Javascript30**  
+  https://javascript30.com/  
+  A free course from Wes Bos that teaches how to build 30 different interesting projects, using only "vanilla" Javascript.
+  
+- **Javascript; The Core**  
+  http://dmitrysoshnikov.com/ecmascript/javascript-the-core/  
+  A dive into core concepts of how Javascript objects behave: prototypes, constructors, scopes, closures, and `this`.
   
   
 #### Interactive Exercises
@@ -120,6 +128,14 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Understanding Javascript Function Invocation and `this`**  
   http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/  
   An excellent explanation of how function calls and the `this` keyword work
+  
+- **When 'not' to use arrow functions**  
+  http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/  
+  An in-depth look at when you should stick with standard JS functions instead of arrow functions
+  
+- **Do ES6 Arrow Functions Really Solve "this" in Javascript?**  
+  https://derickbailey.com/2015/09/28/do-es6-arrow-functions-really-solve-this-in-javascript/  
+  A dive into how `this` works inside of arrow functions, and some places when they may not be appropriate for use.
 
 - **Grokking Scope in Javascript**  
   https://code.tutsplus.com/tutorials/grokking-scope-in-javascript--cms-26259  

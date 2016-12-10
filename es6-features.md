@@ -71,9 +71,8 @@
   http://appendto.com/2016/06/why-do-es6-classes-exist-and-why-now/  
   Digs into some of the intricacies of ES6 classes, and some of the pros and cons around using them
   
-- **When 'not' to use arrow functions**  
-  http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/  
-  An in-depth look at when you should stick with standard JS functions instead of arrow functions
+
+  
   
 #### Specific Features
 
@@ -107,8 +106,6 @@
   https://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm  
   A dive into how generators work, and how they can be used to handle async behavior
   
-
-  
 - **A Practical Introduction to ES6 Generator Functions**  
   http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html  
   Some practical examples discussing what generator functions are, how they work, and what they can be used for.
@@ -116,6 +113,14 @@
 - **3 cases where JavaScript generators rock (+ understanding them)**  
   http://goshakkk.name/javascript-generators-understanding-sample-use-cases/  
   A simple thinking pattern for easily understanding generators, plus 3 practical applications.
+  
+- **My New Favorite ES6 Toy: Destructured Objects as Parameters**  
+  https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/  
+  An example of using objects and destructuring to act like named parameters
+  
+- **Extract Nested Data from Arrays and Objects with Destructuring Assignment**  
+  https://angulartoreact.com/es6-destructuring/  
+  Examples of how destructuring can make it easy to create new variables from other data.
   
 
 #### Promises

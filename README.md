@@ -52,6 +52,7 @@ You might also want to check out my categorized list of Redux-related addons, li
   - [Redux Middleware](./redux-middleware.md)
   - [Redux Side Effects](redux-side-effects.md)
   - [Redux Tips and Techniques](redux-techniques.md)
+  - [Using Redux Without React](./redux-without-react.md)
 - **Other**
   - [Webpack Advanced Techniques](webpack-advanced-techniques.md)
   - [Static Typing](./static-typing.md)

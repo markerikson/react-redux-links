@@ -104,6 +104,10 @@
   https://docs.google.com/presentation/d/19DaabQG8CB4INKGpaHao0hIXcB7zmETg4IHOZkF7MPM  
   A slideshow from Lee Byron, one of React's early team members, giving an overview of what React is, how it works, and how it can fit into applications.
   
+- **Kick-Start React Projects with Create-React-App**  
+  https://www.sitepoint.com/create-react-app/  
+  Some quick tips on how to use Create-React-App to create a new React project and tweak the setup.
+  
 
 #### Project-Based Tutorials
 
@@ -228,6 +232,7 @@
 - **Create an Instagram-like App with Node.js, React, and Redux**  
   http://www.eloquentwebapp.com/instagram-app-node-react-redux/  
   An in-depth tutorial that demonstrates several advanced React concepts, including routing, hot loading, use of Redux and redux-saga, and more.
+  
   
 #### Paid Courses and Books
 

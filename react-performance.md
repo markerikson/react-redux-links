@@ -158,6 +158,13 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   A comment discussing a number of potential negative tradeoffs when using Immutable.js, including both performance anti-patterns and API issues
   
   
+- **Persistent data structures and structural sharing: a reason to use Immutable.js**  
+  https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2  
+  https://www.reddit.com/r/reactjs/comments/5h7pqz/persistent_data_structures_and_structural_sharing/  
+  https://twitter.com/acemarke/status/806933658204372992  
+  An excellent article that describes how Immutable.js's implementation can improve performance while updating large objects, with benchmarks.  There's further good discussion on Reddit, and in the Twitter thread, Immutable.js author Lee Byron confirms that calling `toJS()` is _very_ expensive and should definitely not be used in a Redux `mapState` function.
+  
+  
 #### Redux Performance
   
 - **High Performance Redux**  
@@ -199,3 +206,9 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **React/Redux Performance Tuning Tips**  
   https://medium.com/@arikmaor/react-redux-performance-tuning-tips-cef1a6c50759  
   A number of suggestions for improved performance with Redux
+  
+- **An artificial example where MobX really shines and Redux is not really suited**  
+  https://medium.com/@dtinth/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70  
+  https://www.reddit.com/r/reactjs/comments/5hf4d4/an_artificial_example_where_mobx_really_shines/  
+  https://github.com/dtinth/pixelpaint/pull/1  
+  An excellent in-depth article that sets up a specific benchmark example, and compares the performance of a MobX implementation vs several different Redux-based implementations.  There's valuable discussion in the Reddit comments, and Dan Abramov submitted a PR to the sample project that demonstrates some fairly simple changes that result in improved Redux performance.

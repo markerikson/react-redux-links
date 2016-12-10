@@ -192,6 +192,37 @@
   https://www.okgrow.com/posts/compose-react-sphoc  
   Thoughts and examples of composing multiple small focused HOCs together into a final combined HOC
   
+
+#### Wrapping Non-React Code
+
+- **React and third-party libraries**  
+  http://krasimirtsonev.com/blog/article/react-third-party-library-integration  
+  Demonstrates how to build a React component that wraps up non-React code like a jQuery UI plugin
+  
+- **Using React and jQuery Together**  
+  http://tech.oyster.com/using-react-and-jquery-together/  
+  Examples of how to use jQuery inside a React component, and React inside jQuery-controlled elements
+  
+- **Using React and PixiJS**  
+  http://www.rinconstrategies.io/using-react-and-pixijs.html  
+  Demonstrates how to use React's component lifecycle methods to control the imperative PixiJS API
+  
+- **Mapping declarative React components to imperative external APIs**  
+  http://reactkungfu.com/2016/02/mapping-declarative-react-components-to-imperative-external-api/  
+  A quick example of using `componentWillReceiveProps` to pass updates to an imperative API
+  
+- **How to Write a Google Maps React Component**  
+  https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/  
+  Demonstrates how to wrap a third-party component that has an imperative API, lazy-loading the dependencies, and more.
+  
+- **Building SVG Maps with React**  
+  https://blog.komand.com/building-svg-maps-with-react  
+  Demonstrates building a component that zooms and pans SVG graphics based on user input.
+  
+- **How to Sprinkle ReactJS into an Existing Web Application**  
+  https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application  
+  Looks at how to incrementally add some React-based functionality into an existing app, including interaction with jQuery.
+  
   
 #### Other Component Patterns
 
@@ -222,7 +253,15 @@
 - **"What is the ideal way to pass data to a callback prop?**  
   https://gist.github.com/jazlalli/fdee443405680f96d19211daa15d1d38  
   Discussion and examples of various ways to pass data to callbacks between children and parents
-
-- **React and third-party libraries**  
-  http://krasimirtsonev.com/blog/article/react-third-party-library-integration  
-  Demonstrates how to build a React component that wraps up non-React code like a jQuery UI plugin
+  
+- **How to Render Components Outside the Main React App**  
+  https://blog.komand.com/how-to-render-components-outside-the-main-react-app  
+  An example of a technique that's also know as the "portal" approach, commonly used for rendering modals on top of the rest of an application. 
+  
+- **Modals in React**  
+  https://medium.com/@david.gilbertson/modals-in-react-f6c3ff9f4701  
+  A demonstration of building a reusable modal component using the "portals" technique
+  
+- **On Privacy with React Context**  
+  https://medium.com/@amireh/on-privacy-with-react-context-aa77ffd08509  
+  Thoughts on some potential issues with various component/state patterns (globals, Redux, Flux, Ember), and a sketch of a notional approach that might help solve some of those issues.

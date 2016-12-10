@@ -1,6 +1,18 @@
 ### Static Typing
 
 
+#### Pros and Cons
+
+- **The Shocking Secret about Static Types / You Might Not Need Typescript (or Static Types)**  
+  https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3  
+  https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b  Eric Elliott argues against use of static types in Javascript, on the grounds that the tradeoffs aren't worth it and that TDD and code review provide more benefit in reducing bugs.
+  
+- **Why use static types in Javascript?**  
+  https://dev.to/iampeekay/why-use-static-types-in-javascript-part-1  
+  Part 1 of a 4-part series on static typing: intro to Flow syntax, advantages and disadvantages of static types, and whether they should be used with Javascript.
+  
+
+
 #### React PropTypes
 
 - **React Docs: Typechecking With PropTypes**  
@@ -22,8 +34,6 @@
 - **React: Validating Children**  
   http://www.mattzabriskie.com/blog/react-validating-children  
   Examples of using PropTypes to enforce what children can be passed to a component
-  
-
 
 
 #### TypeScript
@@ -31,13 +41,21 @@
 - **TypeScript Deep Dive**  
   https://basarat.gitbooks.io/typescript/content/  
   An online book that digs into numerous TypeScript topics
-
   
 - **Immutable.js Records in TypeScript**  
   https://spin.atomicobject.com/2016/11/30/immutable-js-records-in-typescript/  
   Examples of setting up typing for custom classes based on Immutable.js's Record class.
 
-#### Flow
+- **Strongly Typing Injected React Props**  
+  https://medium.com/@prashaantt/strongly-typing-injected-react-props-635a6828acaf  
+  A demonstration of using TypeScript to define prop types for a React component, and enforcing behavior based on that.
+
+- **Hybrid Types in TypeScript**  
+  https://turbomack.github.io/posts/2016-12-07-hybrid-types-in-typescript.html  
+  Examples of adding type checking to some dynamic code that uses d3 for visualization.
+
+
+#### Flow Tutorials
 
 - **The Fundamentals of Flow in 10-ish Minutes**  
   https://www.youtube.com/watch?v=xWMuAUbXcdQ  
@@ -67,14 +85,13 @@
   http://jaysoo.ca/2016/08/23/why-you-need-types/  
   Some thoughts on how static typing can help development, with examples using Flow.
 
-- **Runtime Introspection of Flow Types**  
-  https://medium.com/@joe_stant/runtime-introspection-of-flow-types-ddb7e5b042a5  
-  A look at some ways to potentially use Flow types for further analysis using various tooling
+- **Better docs and static analysis**  
+  https://blog.scottnonnenberg.com/better-docs-and-static-analysis/  
+  A walk through setting up Flow, some possible problems you might encounter, and ways to customize and improve the typing process.
 
-- **Phantom Types with Flow**  
-  https://medium.com/@gcanti/phantom-types-with-flow-828aff73232b  
-  Description of an advanced technique for tracking data flow using types
-  
+
+#### Redux and Static Types
+
 - **Checking React and Redux Code with Flow**  
   http://djcordhose.github.io/react-intro-live-coding/2016_jsunconf.html#/  
   A slideshow that shows the basics of adding type information to Redux-based code 
@@ -90,17 +107,28 @@
 - **Redux Flow Tutorial**  
   http://dchambers.github.io/articles/redux-flow-tutorial/  
   Covers how to set up Flow for type-checking a Redux application
-  
-- **Exhaustive switch in Flow**  
-  https://ouicar.github.io/2016/08/08/exhaustive-switch.html  
-  A trick to help catch missing case errors in switch statements.
-  
+
 - **Typed Redux**  
   https://blog.callstack.io/typed-redux-2aa8bff926ff  
   Examples of how to use Flow to add typing to Redux apps
 
 
-#### Comparisons
+#### Advancing Typing Techniques
+
+- **Runtime Introspection of Flow Types**  
+  https://medium.com/@joe_stant/runtime-introspection-of-flow-types-ddb7e5b042a5  
+  A look at some ways to potentially use Flow types for further analysis using various tooling
+
+- **Phantom Types with Flow**  
+  https://medium.com/@gcanti/phantom-types-with-flow-828aff73232b  
+  Description of an advanced technique for tracking data flow using types
+
+- **Exhaustive switch in Flow**  
+  https://ouicar.github.io/2016/08/08/exhaustive-switch.html  
+  A trick to help catch missing case errors in switch statements.
+  
+
+#### Tool Comparisons
 
 - **Flow as a replacement for PropTypes**  
   http://blog.rstankov.com/flow-as-replacement-for-proptype/  
@@ -113,3 +141,5 @@
 - **Typescript vs Flow**  
   https://gist.github.com/voltrevo/ecb5b7292707d29b13ae453ae0b529d9  
   A comparison of common features, advantages in either system, missing features, and other aspects.
+  
+- 

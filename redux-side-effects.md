@@ -39,6 +39,10 @@
   https://twitter.com/intelligibabble/status/800103510624727040  
   https://twitter.com/dan_abramov/status/800310164792414208  
   Some discussion on the pros and cons of redux-thunk's flexibility and usage, as well as possible issues with multiple dispatches in a row.
+  
+- **A simplified approach to calling APIs with Redux**  
+  http://www.sohamkamani.com/blog/2016/06/05/redux-apis/  
+  A well-written example of creating a "data service" middleware that handles API requests, as well as examples of handling some request status state.
 
 #### Sagas
 
@@ -99,8 +103,12 @@
   Examples of how Xero's async logic for their dashboard evolved over team, from nested callbacks to promises to Redux with sagas
   
   
-#### Observables
+#### Other Side Effect Approaches
 
 - **Epic Middleware in Redux**  
   https://medium.com/@kevinsalter/epic-middleware-in-redux-e4385b6ff7c6  
   Discussion and examples of using Redux-Observable and RxJS to create "epics" which can transform actions.
+  
+- **Better async Redux**  
+  https://blog.scottnonnenberg.com/better-async-redux-i18n-and-node-js-versions/  
+  Comparisons and examples of using Redux-Loop for declarative side effects

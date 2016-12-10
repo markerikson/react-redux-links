@@ -32,6 +32,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack: The Missing Guide**  
   http://www.eloquentwebapp.com/webpack-missing-guide/  
   An intro to what Webpack is, what it can do, and how to use it.
+  
+- **What is Webpack and what can it do for you?**  
+  http://x-team.com/2016/09/webpack-can-absolute-beginners/  
+  A plain-English explanation of what Webpack is and what problems it can help solve.
 
 
 #### Basic Tutorials
@@ -171,3 +175,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   https://github.com/chrisvfritz/maintainable-webpack-config  
   An experiment to make Webpack configs testable and maintainable
   
+- **webpack-blocks**  
+  https://github.com/andywer/webpack-blocks  
+  Functional building blocks for the webpack config. Compose it using feature middlewares like Babel, PostCSS, HMR (Hot Module Replacement), …
+  
+- **webpack-flow**  
+  https://github.com/webpack-flow/webpack-flow  
+  A set of utilities to manage sharable webpack configs and make them reusable.

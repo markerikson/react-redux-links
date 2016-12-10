@@ -27,8 +27,6 @@
   https://medium.com/@justintulk/react-anti-patterns-props-in-initial-state-28687846cc2e  
   Discussion of why using props to initialize a component's state may or may not be a bad idea.
   
-
-  
 - **Best Practices for Component State in React**  
   http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html  
   Some excellent suggestions and approaches for state handling and structure.
@@ -36,6 +34,10 @@
 - **A Visual Guide to State in React**  
   https://daveceddia.com/visual-guide-to-state-in-react/  
   Describes what "state" is, what kinds of data should be included into React state, and how state flow relates to component updates.
+  
+- **ReactJS: Props vs State**  
+  http://lucybain.com/blog/2016/react-state-vs-pros/  
+  Explains that "props" are data passed in to a component, while "state" is data managed inside a component.
 
 
 #### Using `setState`

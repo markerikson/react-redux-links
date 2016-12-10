@@ -30,7 +30,10 @@
 - **Improve your development workflow with the Redux DevTools Extension**  
   https://medium.com/@zalmoxis/improve-your-development-workflow-with-redux-devtools-extension-f0379227ff83  
   The author of the Redux DevTools extension describes new features, including "pause/locking" for iteration on behavior, and some changes needed to add it to the store.
-
+  
+- **Time Travel in React Redux apps using the Redux DevTools**  
+  https://onsen.io/blog/react-redux-devtools-with-time-travel/  
+  Examples of configuring a Redux store to use the DevTools enhancers, and using both the DevTools components and the browser extension for debugging.
 
 #### Reducers
 
