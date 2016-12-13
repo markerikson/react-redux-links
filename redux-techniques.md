@@ -51,7 +51,7 @@
 
 #### Selectors and Normalization
 
-**Related topics**: [Redux Architecture - Encapsulation](./redux-architecture.md#encapsulation-and-reusability]
+**Related topics**: [Redux Architecture - Encapsulation](./redux-architecture.md#encapsulation-and-reusability)
 
 - **Querying a Redux Store**  
   https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
