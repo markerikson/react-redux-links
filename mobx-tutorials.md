@@ -49,9 +49,13 @@
 #### MobX and Redux Comparisons
 
 - **Comparing MobX and Redux - Video**  
-  https://www.youtube.com/watch?v=83v8cdvGfeA
+  https://www.youtube.com/watch?v=83v8cdvGfeA  
 A great video to understand the differences between MobX and Redux.
 
+- **"Confused: Redux or MobX?**  
+  https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/  
+  An in-depth thread comparing the two libraries. Includes comments from both Dan Abramov of Redux and Michel Weststrate of MobX describing their libraries, as well a number of other good comparisons.
+  
 - **Redux or MobX: An attempt to dissolve the confusion**  
   http://www.robinwieruch.de/redux-mobx-confusion/  
   An in-depth comparison of the ideas, concepts, approaches, and use cases for the two state management libraries
