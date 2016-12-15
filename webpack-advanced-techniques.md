@@ -108,6 +108,9 @@
   https://medium.com/@nimgrg/analysing-and-minimising-the-size-of-client-side-bundle-with-webpack-and-source-map-explorer-41096559beca  
   Tips on using source-map-explorer to check the size of code included in a minified bundle, and removing unneeded polyfills
   
+- **How to use source-map-explorer with Webpack**  
+  https://www.sivadass.in/using-source-map-explorer-with-webpack/  
+  Examples of using the source-map-explorer tool to visualize the contents of a bundle
   
 #### Hot Module Replacement
 
@@ -215,3 +218,7 @@
 - **Webpack Bundle Analyzer**  
   https://github.com/th0r/webpack-bundle-analyzer  
   Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap, and can parse minified bundles to show true minified (and gzipped) sizes
+
+- **source-map-explorer**  
+  https://github.com/danvk/source-map-explorer  
+  Analyze and debug JavaScript (or Sass or LESS) code bloat through source maps.  Help determine which file each byte in your minified code came from.
