@@ -4,7 +4,7 @@
 #### Debugging
 
 - **Hot reloading and time travel debugging: what are they?**  
-  https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35
+  https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35  
   A short but informative article describing these concepts and why they're useful.
 
 - **Debugging is in Flux**  
@@ -45,7 +45,7 @@
   https://www.reddit.com/r/javascript/comments/42ey9e/redux_reducer_composition_without_slicing_state/  
   Discussion of ways to organize actions and reducer logic
 
-- **Taking Advantage of `combineReducers**  
+- **Taking Advantage of `combineReducers`**  
   http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/  
   Examples of using `combineReducers` multiple times to produce a state tree, and some thoughts on tradeoffs in various approaches to reducer logic.
 
