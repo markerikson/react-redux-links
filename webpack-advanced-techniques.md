@@ -1,7 +1,5 @@
 ### Webpack Advanced Techniques
 
-#### General Articles and Slideshows
-
 #### Build Optimization
 
 - **Webpack: Build Performance**  
@@ -14,11 +12,7 @@
   
 - **Advanced Frontend Optimization with Webpack**  
   http://sokra.github.io/slides/frontend-optimize  
-  Slides by Sokra describing ways to improve Webpack builds.  
-  
-- **React-Router and Webpack in Production**  
-  https://reactjsnews.com/webpack-in-production  
-  Tips on dynamically loading route views and optimizing chunk sizes
+  Slides by Webpack's original author, describing ways to improve Webpack builds.  
   
 - **Fixing annoying imports in React Projects**  
   https://medium.com/datawallet-tech/fixing-annoying-imports-in-react-projects-895a6ad24c24  
@@ -27,10 +21,6 @@
 - **Webpack Plugins we been keeping on the DLL**  
   https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7  
   An overview of Webpack's DllPlugin, and how it can be used for faster dev builds.
-  
-- **Webpack Async Bundle Loading**  
-  http://jilles.me/webpack-async-bundle-loading/  
-  A quick look at how to delay-load some portion of your app's code.
   
 - **DllPlugin usage summary**  
   https://github.com/erikras/react-redux-universal-hot-example/issues/616#issuecomment-228956242  
@@ -48,10 +38,6 @@
   https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44  
   Tips for cutting down bundle sizes by removing duplicate library instances and fine-tuning usage of various libraries.
   
-- **Chat discussion - summary of process.env.NODE_ENV and its use with Webpack**  
-  https://gist.github.com/markerikson/6776848172c33aaa4db882627c689e18  
-  An overview of how the `process.env.NODE_ENV` variable is often used to define optimizations for Webpack production builds
-  
 - **Tips for faster Webpack builds**  
   https://www.reddit.com/r/javascript/comments/4xuknm/webpack_dashboard/d6jdl8z  
   A Reddit comment with several useful tips to follow when trying to speed up builds
@@ -59,30 +45,33 @@
 - **Formidable Playbook**  
   https://formidable.com/open-source/playbook/  
   Formidable Labs describes their preferred approaches for configuring Webpack, including optimization approaches.
+
+- **Webpack Performance: The Comprehensive Guide**  
+  https://github.com/lcxfs1991/blog/issues/15  
+  An in-depth look at the parts that go into a Webpack build, and how each piece can be optimized for a faster build.
+  
+- **Speeding up Webpack performance with parallel builds**  
+  http://tech.trivago.com/2015/12/15/parallel-webpack/  
+  Describes a tool called `parallel-webpack`, which can build multiple entry points in multiple formats in parallel.
+
+  
+#### Code Splitting and Chunking
+
+- **React-Router and Webpack in Production**  
+  https://reactjsnews.com/webpack-in-production  
+  Tips on dynamically loading route views and optimizing chunk sizes
+
+- **Webpack Async Bundle Loading**  
+  http://jilles.me/webpack-async-bundle-loading/  
+  A quick look at how to delay-load some portion of your app's code.
   
 - **Code Chunking with Webpack**  
   https://medium.com/react-weekly/code-chunking-with-webpack-a-pragmatic-approach-e17e8bcc6453  
   Covers how to configure chunked bundles and dynamic bundle loading with Webpack and React-Router.
   
-- **Lazily Load Code Declaratively in React and Webpack**  
-  https://gist.github.com/iammerrick/f3f9edfbf5dc279af775f73020193dcc  
-  Demonstrates one way to request and render components on demand, using Webpack's bundle-loader
-  
-- **Webpack Bloat**  
-  http://www.jamesonnetworks.com/entry/webpack-bloat  
-  Discussion of how to improve production configurations for smaller bundle sizes
-  
 - **Dynamic Vendor Bundling in Webpack**  
   https://medium.com/jeremy-gayed/dynamic-vendor-bundling-in-webpack-528993e48aab  
   An approach to dynamically adding anything from `node_modules` to a "vendor" bundle
-
-- **"Vector.im bundle is too big - analysis"**  
-  https://github.com/vector-im/vector-web/issues/2498  
-  Web perf expert Nolan Lawson analyzes why the JS bundle for the Vector.im web app is too big, and ways it could potentially be improved using code splitting and app structure changes.  A good example of ways to improve bundle sizes.
-  
-- **Webpack Performance: The Comprehensive Guide**  
-  https://github.com/lcxfs1991/blog/issues/15  
-  An in-depth look at the parts that go into a Webpack build, and how each piece can be optimized for a faster build.
   
 - **Webpack Config: Commons Chunk Plugin part 1**  
   https://www.youtube.com/watch?v=-xzWMKuiS2o  
@@ -92,13 +81,32 @@
   http://brotzky.co/blog/a-beginners-step-by-step-guide-to-code-splitting-with-webpack-2-and-react-router/  
   An excellent guide to concepts and configuration needed for code splitting.
   
-- **Speeding up Webpack performance with parallel builds**  
-  http://tech.trivago.com/2015/12/15/parallel-webpack/  
-  Describes a tool called `parallel-webpack`, which can build multiple entry points in multiple formats in parallel.
+- **Lazily Load Code Declaratively in React and Webpack**  
+  https://gist.github.com/iammerrick/f3f9edfbf5dc279af775f73020193dcc  
+  Demonstrates one way to request and render components on demand, using Webpack's bundle-loader
   
 - **Building Vendor and Feature Bundles with Webpack**  
   http://odetocode.com/blogs/scott/archive/2016/12/01/building-vendor-and-feature-bundles-with-webpack.aspx  
   Demonstrates using DllPlugin to build a vendor bundle, and generating multiple bundles for different features by dynamically building up multiple entry points.
+  
+  
+#### Bundle Sizes and Visualization
+
+- **Building Better Bundles**
+  http://blog.isquaredsoftware.com/2016/11/posts-on-packtpub-generic-redux-modals-and-building-better-bundles/  
+  An article describing what `process.env.NODE_ENV` means, and how it is used as part of a production build process to optimize build sizes
+
+- **Chat discussion - summary of process.env.NODE_ENV and its use with Webpack**  
+  https://gist.github.com/markerikson/6776848172c33aaa4db882627c689e18  
+  An overview of how the `process.env.NODE_ENV` variable is often used to define optimizations for Webpack production builds
+
+- **Webpack Bloat**  
+  http://www.jamesonnetworks.com/entry/webpack-bloat  
+  Discussion of how to improve production configurations for smaller bundle sizes
+
+- **"Vector.im bundle is too big - analysis"**  
+  https://github.com/vector-im/vector-web/issues/2498  
+  Web perf expert Nolan Lawson analyzes why the JS bundle for the Vector.im web app is too big, and ways it could potentially be improved using code splitting and app structure changes.  A good example of ways to improve bundle sizes.
   
 - **Unlocking a Mystery: Visualizing the Common Webpack Bundles**  
   https://www.redfin.com/blog/2016/12/unlocking-a-mystery-visualizing-the-common-webpack-bundles.html  
@@ -111,6 +119,8 @@
 - **How to use source-map-explorer with Webpack**  
   https://www.sivadass.in/using-source-map-explorer-with-webpack/  
   Examples of using the source-map-explorer tool to visualize the contents of a bundle
+  
+  
   
 #### Hot Module Replacement
 
