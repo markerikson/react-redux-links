@@ -43,6 +43,10 @@
 - **A simplified approach to calling APIs with Redux**  
   http://www.sohamkamani.com/blog/2016/06/05/redux-apis/  
   A well-written example of creating a "data service" middleware that handles API requests, as well as examples of handling some request status state.
+  
+- **The Evolution of Redux Action Creators**  
+  https://medium.com/@northerneyes/the-evolution-of-redux-action-creators-2973018bf2ae  
+  A comparison of ways to make action creation testable, looking at redux-thunk, a custom thunk-like middleware, and redux-saga 
 
 #### Sagas
 
