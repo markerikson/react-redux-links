@@ -45,7 +45,9 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225  
   Extensive suggestions for resources to use when learning Javascript
   
-
+- **Array iteration methods summarized**  
+  https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff  
+  An explanation of all the different Array methods that loop over the array, what they do, and when they should be used
 
 #### Tutorials, Books, and Courses
 

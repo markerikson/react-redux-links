@@ -108,6 +108,10 @@
   https://www.sitepoint.com/create-react-app/  
   Some quick tips on how to use Create-React-App to create a new React project and tweak the setup.
   
+- **Events in React**  
+  https://www.kirupa.com/react/events_in_react.htm  
+  An introduction to React's event handling system, including useful tips and some gotchas
+  
 
 #### Project-Based Tutorials
 
@@ -233,6 +237,10 @@
   http://www.eloquentwebapp.com/instagram-app-node-react-redux/  
   An in-depth tutorial that demonstrates several advanced React concepts, including routing, hot loading, use of Redux and redux-saga, and more.
   
+- **Building a chat component in React and ES6**  
+  http://www.zsoltnagy.eu/building-a-chat-component-in-react-and-es6/  
+  An introduction to React by building a small chat app
+  
   
 #### Paid Courses and Books
 
@@ -258,4 +266,8 @@ Also see the course sites listed in the [Community Resources](community-resource
   **appendTo Instructor-led React Courses**  
   https://appendto.com/courses/react-training/  
   appendTo offers instructor-led, hands-on React training courses on React, Redux, React Native, ES6, and Webpack.
+  
+- **The Road to Learn React**  
+  http://www.robinwieruch.de/the-road-to-learn-react/  
+  A pay-what-you-want ebook that teaches a good foundation for React itself, including React component patterns, working with data (fetching, sorting, and filtering), unit testing, and more.  The author's blog posts are excellent, and this book is definitely recommended.
   

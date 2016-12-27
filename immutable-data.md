@@ -86,3 +86,7 @@
 - **Immutable.js: An Introduction with examples written for humans**  
   http://untangled.io/immutable-js-an-introduction-with-examples-written-for-humans/  
   A detailed series of tutorials explaining how to use Immutable.js's API
+  
+- **Seamless-Immutable: An Alternative to Immutable.js**  
+  https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577  
+  Examples of how to use the Seamless-Immutable library, and how it compares to Immutable.js

@@ -19,6 +19,10 @@
   https://facebook.github.io/react/blog/2016/09/28/our-first-50000-stars.html  
   A post celebrating React's progress, including a history of how React's concepts came together over time
   
+- **React Elements vs React Components**  
+  https://tylermcginnis.com/react-elements-vs-react-components/  
+  An explanation of how elements represent DOM nodes, what `createElement` does, and how components and rendering relate to elements
+  
 
 #### Miniature React Implementations
 
@@ -50,6 +54,7 @@
 - **Write Your Own React.js!**  
   https://medium.com/@calebmer/write-your-own-react-js-776dbef98b8  
   Some thoughts on why and how you might want to try writing your own React-alike, and some of the tradeoffs involved in writing something like React.
+  
   
   
 #### Implementation and Internals
@@ -98,6 +103,10 @@
   http://goshakkk.name/react-custom-renderers/  
   Describes techniques for building custom rendering components that bridge between normal rendering and something like a canvas
   
+- **The Inner Workings of Virtual DOM**  
+  https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf  
+  An in-depth article that digs into how a Virtual DOM implementation works, using Preact as an example.  Includes some detailed flowcharts of their behavior.
+
 
 #### React Fiber
   
@@ -112,3 +121,7 @@
 - **React Fiber Resources**  
   https://github.com/koba04/react-fiber-resources  
   Links and info on the new React Fiber algorithm
+  
+- **Why, What, and How of React Fiber**  
+  https://www.youtube.com/watch?v=crM1iRVGpGQ  
+  Kent C Dodds interviews Dan Abramov and Andrew Clark about what React Fiber is intended to do, how it works, and what it means for the React codebase.

@@ -146,6 +146,10 @@
 - **4 Things for Efficient Redux**  
   https://blog.spacelab.team/4-things-for-efficient-redux-17e87b4cd6cb  
   Suggestions for improved Redux apps based on experience, including using Immutable.js, use of `combineReducers`, listening for actions in multiple reducers, and "aliasing" actions.
+  
+- **Seven Months Into Redux: Two Things My Team Learned Along the Way**  
+  https://medium.com/@benipsen/seven-months-into-redux-two-things-my-team-learned-along-the-way-5d979c25ea61  
+  A couple useful suggestions on use of RxJS for managing action updates and handling derived data in selectors.
 
 
 #### Encapsulation and Reusability
@@ -214,6 +218,10 @@
 - **Scoped Selectors for Redux Modules**  
   http://www.datchley.name/scoped-selectors-for-redux-modules/  
   A follow-on to Randy Coulman's series on local vs global selectors, discussing tradeoffs in approaches for defining and managing selectors.
+  
+- **Scaling React and Redux at IOOF**  
+  http://www.slideshare.net/VivianFarrell/scaling-react-and-redux-at-ioof  
+  A slideshow discussing creation of enterprise-scale Redux apps built with "micro-frontends" that can be composed together, and a look at a "Redux-Subspace" library to help with that
 
 
 #### Variations on Redux Architectures

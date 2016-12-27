@@ -2,6 +2,8 @@
 
 **Related topics**:
 - [Thinking in React](./thinking-in-react-and-flux.md): Articles discussing ways to think about React applications and component structure
+- **React Implementation and Concepts**: Includes articles that explain the differences between "components", "elements", and "instances"
+
 
 #### Terms and Concepts
 
@@ -124,6 +126,14 @@
   https://medium.com/@delveeng/react-and-flux-in-production-best-practices-c87766c57cb6  
   Delve's practice of describing components as "containers", "smart", and "dumb"
   
+- **Content vs Container**  
+  https://hackernoon.com/content-vs-container-e0a1ada681c1  
+  General advice for determining component responsibilities in terms of content, layout, and logic
+  
+- **The React + Redux Container Pattern**  
+  http://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/  
+  Explanation and examples of "container" and "presentational" components and their responsibilities.  Uses Redux for the examples, but the principles apply to "just" React as well.
+  
   
 #### Higher-Order Components
 
@@ -192,6 +202,10 @@
   https://www.okgrow.com/posts/compose-react-sphoc  
   Thoughts and examples of composing multiple small focused HOCs together into a final combined HOC
   
+- **What are Higher Order Components?**  
+  https://benmccormick.org/2016/12/14/what-are-higher-order-components/  
+  A short, simple explanation of what an HOC is, and how they can be used
+  
 
 #### Wrapping Non-React Code
 
@@ -224,6 +238,21 @@
   Looks at how to incrementally add some React-based functionality into an existing app, including interaction with jQuery.
   
   
+#### Modal Dialogs
+  
+- **How to Render Components Outside the Main React App**  
+  https://blog.komand.com/how-to-render-components-outside-the-main-react-app  
+  An example of a technique that's also know as the "portal" approach, commonly used for rendering modals on top of the rest of an application. 
+  
+- **Modals in React**  
+  https://medium.com/@david.gilbertson/modals-in-react-f6c3ff9f4701  
+  A demonstration of building a reusable modal component using the "portals" technique
+
+- **Modal Dialogs in React**  
+  https://daveceddia.com/open-modal-in-react/  
+  An excellent example of how to approach rendering modals in React, by controlling them with props
+  
+  
 #### Other Component Patterns
 
 - **Dynamically Rendering React Components**  
@@ -253,14 +282,7 @@
 - **"What is the ideal way to pass data to a callback prop?**  
   https://gist.github.com/jazlalli/fdee443405680f96d19211daa15d1d38  
   Discussion and examples of various ways to pass data to callbacks between children and parents
-  
-- **How to Render Components Outside the Main React App**  
-  https://blog.komand.com/how-to-render-components-outside-the-main-react-app  
-  An example of a technique that's also know as the "portal" approach, commonly used for rendering modals on top of the rest of an application. 
-  
-- **Modals in React**  
-  https://medium.com/@david.gilbertson/modals-in-react-f6c3ff9f4701  
-  A demonstration of building a reusable modal component using the "portals" technique
+
   
 - **On Privacy with React Context**  
   https://medium.com/@amireh/on-privacy-with-react-context-aa77ffd08509  

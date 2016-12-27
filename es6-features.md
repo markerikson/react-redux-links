@@ -75,10 +75,6 @@
   
   
 #### Specific Features
-
-- **Powering Javascript with Generators**  
-  http://appendto.com/2016/06/powering-javascript-with-generators  
-  A useful introduction to the generators feature in ES6.
   
 - **Metaprogramming in ES6: Symbols, Reflection, and Proxies**  
   https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/  
@@ -102,6 +98,29 @@
   http://untangled.io/in-depth-es6-destructuring-with-assembled-avengers/  
   A thorough set of examples for ES6's destructuring feature
   
+- **My New Favorite ES6 Toy: Destructured Objects as Parameters**  
+  https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/  
+  An example of using objects and destructuring to act like named parameters
+  
+- **Extract Nested Data from Arrays and Objects with Destructuring Assignment**  
+  https://angulartoreact.com/es6-destructuring/  
+  Examples of how destructuring can make it easy to create new variables from other data.
+  
+- **The Reflect API of ES6**  
+  http://www.zsoltnagy.eu/the-reflect-api-of-es6/  
+  An overview of the Reflect API, which allows some complex metaprogramming capabilities.
+  
+  
+#### Generators
+
+- **Javascript Generators**  
+  https://blog.ragnarson.com/2016/12/15/javascript-generators.html  
+  A nice readable introduction to what generator functions are and how to use them
+
+- **Powering Javascript with Generators**  
+  http://appendto.com/2016/06/powering-javascript-with-generators  
+  A useful introduction to the generators feature in ES6.
+
 - **Using ES6 Generators and Yield to Implement Async Workflows**  
   https://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm  
   A dive into how generators work, and how they can be used to handle async behavior
@@ -114,13 +133,6 @@
   http://goshakkk.name/javascript-generators-understanding-sample-use-cases/  
   A simple thinking pattern for easily understanding generators, plus 3 practical applications.
   
-- **My New Favorite ES6 Toy: Destructured Objects as Parameters**  
-  https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/  
-  An example of using objects and destructuring to act like named parameters
-  
-- **Extract Nested Data from Arrays and Objects with Destructuring Assignment**  
-  https://angulartoreact.com/es6-destructuring/  
-  Examples of how destructuring can make it easy to create new variables from other data.
   
 
 #### Promises

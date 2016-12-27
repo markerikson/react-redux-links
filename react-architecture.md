@@ -83,6 +83,10 @@
   https://www.reddit.com/r/reactjs/comments/5gmywc/what_were_the_biggest_aha_moments_you_had_while/  
   Some great discussion of important concepts and things to understand about React.
   
+- **React "aha" moments**  
+  https://tylermcginnis.com/react-aha-moments/  
+  Tyler McGinnis shares some of his own "aha" moments in thinking about React
+  
 
 #### React Best Practices
 
@@ -154,3 +158,11 @@
 - **The Top 5 [Tips] of Effective React**  
   https://code.kiwi.com/the-top-5-of-effective-react-984e54cceac3  
   Tips include using container/presentational components, keeping components simple, and more.
+  
+- **Advice on large scale React apps - rebuilding the social publishing platform for Latam**  
+  https://medium.com/taringa-on-publishing/advice-on-large-scale-react-js-apps-rebuilding-the-biggest-social-publishing-platform-for-latam-1f4c8fa35a4f  
+  Lessons learned from migrating a PHP application to a universal React/Redux/Webpack application, including introducing React to a team, documentation, types, and more.
+  
+- **11 lessons learned as a React contractor**  
+  https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf  
+  A number of useful tips, including using multiple small components instead of one customizable one, migrating build processes, keeping things simple, and more.

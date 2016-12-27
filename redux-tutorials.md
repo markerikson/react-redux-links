@@ -88,10 +88,13 @@
 - **Redux for the Very Beginner**  
   http://toranbillups.com/blog/archive/2016/01/22/redux-for-the-very-beginner/  
   A beginner-friendly screencast that introduces Redux
+  
+- **React, Redux, and React-Redux**  
+  http://jilles.me/react-redux-and-react-redux/  
+  Comparison and examples of implementing a filterable list with just React, with "manual" React code reading from Redux, and using the official React-Redux library
 
 
 #### Project-Based Tutorials
-
 
 - **Managing Data Flow on the Client Side**  
   http://blog.madewithlove.be/post/redux/  
@@ -174,6 +177,10 @@
 - **A Practical Guide to Redux**  
   http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/  
   A tutorial that introduces the key concepts and usage of Redux through the code in a small sample app.
+  
+- **Building a Simple CRUD App with React + Redux**  
+  http://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/  
+  A nifty 8-part series that demonstrates building a CRUD app, including routing, AJAX calls, and the various CRUD aspects.  Very well written, with some useful diagrams as well.
 
 
 
@@ -222,6 +229,10 @@
   https://hashnode.com/ama/with-redux-cisteui6p005gzx53fstg8t6l  
   https://blog.hashnode.com/the-story-of-redux-and-more/  
   Dan Abramov and Andrew Clark answer questions about Redux, and describe the history of its original development.  Second link is a summary of answers in the AMA.
+  
+- **Rebuilding Redux**  
+  https://www.spencerdixon.com/blog/rebuilding-redux/  
+  A short screencast that demonstrates building a mini-Redux from scratch
 
 
 #### Paid Courses and Books

@@ -20,3 +20,7 @@
 - **Server Side React**  
   https://remysharp.com/2016/12/07/server-side-react  
   A well-written article detailing lessons learned trying to use React to render on the server, including tools used, bumps in the road and links to further resources
+  
+- **Universal React Rendering: How We Rebuilt SitePoint**  
+  https://www.sitepoint.com/universal-react-rendering-sitepoint/  
+  The SitePoint team explains how they added server-rendered React content into their existing Wordpress application

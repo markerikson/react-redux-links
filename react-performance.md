@@ -103,7 +103,9 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - **React Snippets: Debug Component performance with ES7 Annotations**  
   https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html  Demonstrates using a custom decorator to wrap components and log information on when and why components re-rendered
   
-  
+- **How to Benchmark React Components: The Quick and Dirty Guide**  
+  https://medium.com/code-life/how-to-benchmark-react-components-the-quick-and-dirty-guide-f595baf1014c  
+  Suggestions for using React's Perf API to benchmark component rendering, and use of shouldComponentUpdate to cut down on unnecessary renders.
   
   
 #### Code Splitting and Progressive Apps

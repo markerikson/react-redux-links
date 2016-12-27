@@ -38,6 +38,10 @@
 
 #### TypeScript
 
+- **TypeScript: the Missing Introduction**  
+  https://toddmotto.com/typescript-the-missing-introduction  
+  An introduction to TypeScript's concepts, with explanations of a number of terms related to compilers and static typing.
+  
 - **TypeScript Deep Dive**  
   https://basarat.gitbooks.io/typescript/content/  
   An online book that digs into numerous TypeScript topics
@@ -53,6 +57,10 @@
 - **Hybrid Types in TypeScript**  
   https://turbomack.github.io/posts/2016-12-07-hybrid-types-in-typescript.html  
   Examples of adding type checking to some dynamic code that uses d3 for visualization.
+  
+- **A Typed pluck: exploring TypeScript 2.1's mapped types**  
+  https://medium.com/@danvdk/a-typed-pluck-exploring-typescript-2-1s-mapped-types-c15f72bf4ca8  
+  Detailed explanation of how the "mapped types" feature in TS 2.1 can be used to add typing to functions that map over data
 
 
 #### Flow Tutorials

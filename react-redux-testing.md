@@ -158,6 +158,10 @@
   https://cafedev.org/article/2016/12/testing-with-wepack-2-inject-loader-karma-mocha-chai-and-sinon/  
   Examples of using these tools to test some complex code, including mocking out dependencies
   
+- **Best practices for testing React components using Mocha, Chai, and Enzyme**  
+  https://reflect.io/blog/js-testing-mocha-chai-enzyme/  
+  A number of useful tips for improving component tests, including use of shallow rendering, avoiding errors while testing, and making test code consistent
+  
   
 #### General Testing, Tools, and Setup
 

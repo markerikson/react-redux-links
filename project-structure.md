@@ -32,6 +32,8 @@
 
 - **Rules for Structuring (Redux) Applications**  
   http://jaysoo.ca/2016/02/28/organizing-redux-application/  
+  http://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code/  
+  http://jaysoo.ca/2016/12/12/additional-guidelines-for-project-structure/  
   Gives several useful rules for structuring code, with examples.
   
 - **A Better File Structure for React/Redux Applications**  

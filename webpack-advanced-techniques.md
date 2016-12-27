@@ -89,6 +89,10 @@
   http://odetocode.com/blogs/scott/archive/2016/12/01/building-vendor-and-feature-bundles-with-webpack.aspx  
   Demonstrates using DllPlugin to build a vendor bundle, and generating multiple bundles for different features by dynamically building up multiple entry points.
   
+- **Components a la carte**  
+  http://darrennewton.com/2016/12/21/components-a-la-carte/  
+  Describes a technique for dynamically loading only certain features that a user should see
+  
   
 #### Bundle Sizes and Visualization
 
@@ -213,6 +217,10 @@
 - **Webpack Map Entity Loader**  
   http://drhayes.io/secret-game/map-entity-loader.html  
   A small example of writing a custom Webpack loader for game data
+  
+- **Webpack Tricks**  
+  https://github.com/rstacruz/webpack-tricks  
+  A useful list of tips for improving Webpack usage
   
   
 #### Webpack Tools

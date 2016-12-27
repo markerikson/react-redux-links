@@ -48,6 +48,10 @@
 - **Controllable React Components**  
   https://speakerdeck.com/lettertwo/controllable-react-components  
   A slideshow discussing how React components can themselves either be controlled or uncontrolled, and introducing a library to help make components controllable.
+  
+- **Collecting data from a wizard form**  
+  https://goshakkk.name/wizard-form-collect-info/  
+  Examples of how to handle data management for a multi-step form
 
 
 #### Form Tutorials and Usage

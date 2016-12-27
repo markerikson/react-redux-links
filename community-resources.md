@@ -43,6 +43,10 @@
   https://github.com/mightyCrow/awesome-react-talks  
   A curated list of talks about React or topics related to React.
   
+- **230 Curated Resources and Tools for Building Apps with React**  
+  https://appendto.com/2016/12/230-resources-and-tools-for-building-apps-with-react-js/  
+  A useful list of articles, libraries, and tools that cover the range of React development.
+  
 
 #### People
 

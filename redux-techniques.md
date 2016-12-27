@@ -90,6 +90,9 @@
   https://www.reddit.com/r/reactjs/comments/5dxasp/any_deepdiveadvanced_tutorials_on_reselect/  
   Discussion on passing arguments to Reselect selectors, and how to use "factory functions" to define per-component selectors for Redux `mapState` functions
 
+- **ReactCasts #8: Selectors in Redux**  
+  https://www.youtube.com/watch?v=frT3to2ACCw  
+  A great overview of why and how to use selector functions to retrieve data from the store, and derive additional data from store values
 
 
 #### UI and Widget Implementations
@@ -162,6 +165,14 @@
 - **Secure file uploads with redux-plupload**  
   http://engineering.tes.com/post/secure-file-uploads/  
   Some examples of how to use Redux-Plupload to manage file uploads
+  
+- **Redux: Perils of Time**  
+  http://redux-perils-of-time.surge.sh/#/?presenter  
+  A slideshow with some intriguing thoughts on how to manage offline experiences, cached data, and optimistic UI in a Redux app.
+  
+- **{Persist}ence is Key: Using Redux-Persist to Store Your State in LocalStorage**  
+  https://medium.com/@clrksanford/persist-ence-is-key-using-redux-persist-to-store-your-state-in-localstorage-ac6a000aee63  
+  A quick introduction to using redux-persist to reuse store state between page refreshes
   
   
 #### Network Management

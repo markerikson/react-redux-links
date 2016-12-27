@@ -1,5 +1,7 @@
 ### React and Routing
 
+#### Routing
+
 - **Routing React Apps: The Complete Guide**  
   https://scotch.io/tutorials/routing-react-apps-the-complete-guide  
   An in-depth article covering use of React-Router (v2)
@@ -26,3 +28,15 @@
 - **How to Handle Routing in React**  
   https://code.tutsplus.com/tutorials/understanding-how-to-handle-routing-in-react--cms-27355  
   A quick example of using React-Router v2 in a small React app
+  
+  
+  
+#### Authentication
+
+- **How to Build a React Application with User Login and Authentication**  
+  https://stormpath.com/blog/build-a-react-app-with-user-authentication  
+  Builds a small React app from the ground up, with use of React-Router for routing and the Stormpath SDK to handle authentication and authorization.
+
+- **JWT Authentication with React + Redux**  
+  http://www.thegreatcodeadventure.com/jwt-authentication-with-react-redux/  
+  Demonstrates handling sign-in flow, including a dynamic login/logout link, and implementing routes that can only be seen by logged-in users.

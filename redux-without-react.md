@@ -23,3 +23,7 @@
 - **Using ember-changeset with ember-redux**  
   https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a  
   Examples of using a tool called ember-changeset to handle in-progress form edits in conjunction with the ember-redux bindings.
+  
+- **The Easiest Way to Start Using Redux Today**  
+  https://viktorfonic.com/start-using-redux/  
+  A useful tutorial that introduces Redux and demonstrates using it with a jQuery-based UI

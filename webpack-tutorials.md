@@ -117,6 +117,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Migrating to Webpack 2**  
   http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/  
   Tips for migration an existing Webpack config to work properly with Webpack 2
+  
+- **Webpack 101**  
+  https://github.com/brunoscopelliti/webpack-101  
+  A tutorial that builds up a Webpack config step-by-step, explaining why and how each change is made.
+
 
 #### Configuration Terms and Concepts
 
@@ -152,6 +157,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack devtool source map options**  
   http://cheng.logdown.com/posts/2016/03/25/679045  
   A list of the available values for the `devtool` option in a Webpack config
+  
+- **Webpack and the Public Path Config**  
+  http://tomasalabes.me/blog/_site/web-development/2016/12/10/Webpack-and-the-public-path.html  
+  Looks at how to configure URLs for resources that are not part of the final output bundle, such as images on CDNs
+  
   
 #### Webpack Configuration Utilities
 
