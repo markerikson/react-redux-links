@@ -38,3 +38,11 @@
 - **Rapid cross-platform development with React Native**  
   https://robots.thoughtbot.com/rapid-cross-platform-mobile-development-with-react-native  
   Thoughts on how React Native enables code reuse and iteration, and a look at using the flexbox-based layout system on various platforms.
+  
+- **Debugging React Native Applications**  
+  https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375  
+  A useful description of tools and techniques that can be used to help debug RN apps.
+  
+- **Under the hood of React Native**  
+  https://speakerdeck.com/mkonicek/under-the-hood-of-react-native  
+  A slideset digging into the guts of how React Native works

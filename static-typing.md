@@ -150,4 +150,6 @@
   https://gist.github.com/voltrevo/ecb5b7292707d29b13ae453ae0b529d9  
   A comparison of common features, advantages in either system, missing features, and other aspects.
   
-- 
+- **TypeScript vs Flow**  
+  https://github.com/niieani/typescript-vs-flowtype  
+  An in-depth, unbiased comparison of differences and similarities between TypeScript and Flow

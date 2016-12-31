@@ -42,6 +42,26 @@
   http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux  
   Another good post from Redux's author comparing Redux and Flux
   
+  
+#### Other Comparisons
+  
+- **Flux is the new WndProc**  
+  https://bitquabit.com/post/the-more-things-change/  
+  https://news.ycombinator.com/item?id=10381015  
+  An intriguing comparison between a React + a Flux-type architecture, and the classic Win32 WndProc message switch handling approach.  Plenty of good discussion in the comments.
+  
+- **I'm Sticking with React (For Now)**  
+  https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d  
+  Some thoughts on the differences between React and other similar libs like Preact and Inferno, and why there's value in staying with React.
+  
+- **My experience with Redux**  
+  https://medium.com/@ajchambeaud/my-experience-with-redux-90e4e4a31518  
+  A look at Redux's influences, some experience using Redux, Dan Abramov's involvement with the community, and some other libs that may be interesting to look at.
+  
+- **What's good about Redux**  
+  http://danielearwicker.github.io/What_s_good_about_Redux.html  
+  Some thoughts on Redux's core "what-if?" questions, and some of the potential implications of those decisions.
+  
 
 #### Comment Threads and Discussions
 

@@ -139,6 +139,10 @@
 - **Should you store your form state in Redux?**  
   http://goshakkk.name/should-i-put-form-state-into-redux/  
   Thoughts on the tradeoffs involved in storing form data in component state vs Redux, and different potential use cases.
+  
+- **Writing maintainable forms with Redux**  
+  https://medium.com/@SBoudrias/writing-maintainable-forms-with-redux-2ef30b5d0e35  
+  Some basic examples for handling validation, loading initial data, and change tracking in forms.
 
   
 #### Other  
@@ -173,6 +177,13 @@
 - **{Persist}ence is Key: Using Redux-Persist to Store Your State in LocalStorage**  
   https://medium.com/@clrksanford/persist-ence-is-key-using-redux-persist-to-store-your-state-in-localstorage-ac6a000aee63  
   A quick introduction to using redux-persist to reuse store state between page refreshes
+  
+- **Immuto: Strongly Typed Redux Composition**  
+  http://danielearwicker.github.io/Immuto_Strongly_Typed_Redux_Composition.html  
+  http://danielearwicker.github.io/Immuto_Working_with_React_An_Example_.html  
+  http://danielearwicker.github.io/Immuto_Radical_Unification.html  
+  http://danielearwicker.github.io/Immuto_Epilogue.html  
+  An interesting series of experiments in adding typed cursor-like behavior to Redux.  The author appears to give up on the idea in the end, but the writing and thought process are informative.
   
   
 #### Network Management

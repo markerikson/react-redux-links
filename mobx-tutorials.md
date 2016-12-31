@@ -45,6 +45,10 @@
   https://swizec.com/blog/awkward-thing-mobx-complex-models/swizec/7260  
   Discussion of potential issues when handling complex models, and some possible workarounds.
 
+- **MobX - Like React, but for Data**  
+  http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html  
+  Thoughts on MobX's core concepts, and how they relate to immutability, derived data, and observables.
+  
 
 #### MobX and Redux Comparisons
 

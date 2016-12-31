@@ -87,6 +87,10 @@
   https://tylermcginnis.com/react-aha-moments/  
   Tyler McGinnis shares some of his own "aha" moments in thinking about React
   
+- **From Backbone to React: How to write great code**  
+  https://frontendne.co.uk/talks/from-backbone-to-react-how-to-write-great-code  
+  A talk that looks at a number of key ideas that React helps you understand, and uses some comparisons between Backbone and React to illustrate them.
+  
 
 #### React Best Practices
 

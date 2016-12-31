@@ -29,6 +29,10 @@
   https://code.tutsplus.com/tutorials/understanding-how-to-handle-routing-in-react--cms-27355  
   A quick example of using React-Router v2 in a small React app
   
+- **React-router alternative: switch**  
+  https://medium.com/@daveford/react-router-alternative-switch-acd7961f08db  
+  Some examples of simply using switch statements and the history API for routing
+  
   
   
 #### Authentication

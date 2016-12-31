@@ -183,6 +183,10 @@
   A nifty 8-part series that demonstrates building a CRUD app, including routing, AJAX calls, and the various CRUD aspects.  Very well written, with some useful diagrams as well.
 
 
+- **A comprehensive React-Redux tutorial**  
+  https://spapas.github.io/2016/03/02/react-redux-tutorial/  
+  A very long, detailed article that digs into Redux's concepts, and builds a book management application in the process.
+
 
 #### Using Redux with non-React Frameworks
 

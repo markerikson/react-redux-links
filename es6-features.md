@@ -165,6 +165,9 @@
   http://www.datchley.name/promise-patterns-anti-patterns/  
   Some advice for good usage of Promises
 
+- **Broken Promises**  
+  https://mockbrian.com/blog/2016/12/29/broken-promises/  
+  Some useful tips for dealing with promises.
   
   
 #### Techniques

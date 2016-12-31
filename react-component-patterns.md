@@ -2,7 +2,7 @@
 
 **Related topics**:
 - [Thinking in React](./thinking-in-react-and-flux.md): Articles discussing ways to think about React applications and component structure
-- **React Implementation and Concepts**: Includes articles that explain the differences between "components", "elements", and "instances"
+- **[React Implementation and Concepts](./react-implemenation.md)**: Includes articles that explain the differences between "components", "elements", and "instances"
 
 
 #### Terms and Concepts
@@ -77,6 +77,10 @@
 - **How to communicate between React components**  
   http://ctheu.com/2015/02/12/how-to-communicate-between-react-components/  
   Another good list of component communication strategies
+  
+- **How React Components Communicate**  
+  http://react.tips/how-reactjs-components-communicate/  
+  A careful tutorial-based explanation of how to communicate between parent and child components.
   
 - **How to handle React context in a reliable way**  
   https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc  
