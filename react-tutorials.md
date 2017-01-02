@@ -241,6 +241,13 @@
   http://www.zsoltnagy.eu/building-a-chat-component-in-react-and-es6/  
   An introduction to React by building a small chat app
   
+- **Learning React with Create-React-App**  
+  https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc  
+  https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-2-3ad99f38b48d  
+  https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-3-322447d14192  
+  https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-4-9f843c8c1ccc  
+  A tutorial series that introduces React's concepts, using the Create-React-App tool to handle starting the project.
+  
   
 #### Paid Courses and Books
 

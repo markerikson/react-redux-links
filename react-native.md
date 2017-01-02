@@ -46,3 +46,7 @@
 - **Under the hood of React Native**  
   https://speakerdeck.com/mkonicek/under-the-hood-of-react-native  
   A slideset digging into the guts of how React Native works
+  
+- **What I learned from building my first React Native App**  
+  http://cmichel.io/lessons-from-building-first-react-native-app/  
+  A number of informative lessons learned building an app using RN and Redux, including components, performance, workflow, and use of Redux.

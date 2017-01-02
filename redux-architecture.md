@@ -222,6 +222,14 @@
 - **Scaling React and Redux at IOOF**  
   http://www.slideshare.net/VivianFarrell/scaling-react-and-redux-at-ioof  
   A slideshow discussing creation of enterprise-scale Redux apps built with "micro-frontends" that can be composed together, and a look at a "Redux-Subspace" library to help with that
+  
+- **Structuring Redux Selectors**  
+  http://cmichel.io/redux-selectors-structure/  
+  Another article on "globalizing" selector functions, with references to the articles by Randy Coulman and Dave Atchley.
+  
+- **Instance Reducers**  
+  http://www.thesoftwaresimpleton.com/blog/2016/12/20/instance-reducers/  
+  An interesting approach to the "multiple instances of a connected component" problem.
 
 
 #### Variations on Redux Architectures

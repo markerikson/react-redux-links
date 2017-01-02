@@ -48,10 +48,18 @@
 - **Taking Advantage of `combineReducers`**  
   http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/  
   Examples of using `combineReducers` multiple times to produce a state tree, and some thoughts on tradeoffs in various approaches to reducer logic.
+  
+- **Modifying a Leaf of the Redux State Tree**  
+  http://cmichel.io/modifying-a-leaf-of-the-redux-state-tree/  
+  Some useful observations on how to properly do deep immutable updates.
+  
 
 #### Selectors and Normalization
 
-**Related topics**: [Redux Architecture - Encapsulation](./redux-architecture.md#encapsulation-and-reusability)
+**Related topics**: 
+- [Redux Architecture - Encapsulation](./redux-architecture.md#encapsulation-and-reusability)
+- [Redux Performance](./react-performance.md#redux-performance)
+
 
 - **Querying a Redux Store**  
   https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f  
@@ -184,6 +192,10 @@
   http://danielearwicker.github.io/Immuto_Radical_Unification.html  
   http://danielearwicker.github.io/Immuto_Epilogue.html  
   An interesting series of experiments in adding typed cursor-like behavior to Redux.  The author appears to give up on the idea in the end, but the writing and thought process are informative.
+  
+- **Using Actions in Redux the Correct Way**  
+  http://cmichel.io/using-actions-in-redux-the-correct-way/  
+  An interesting trick using ES6 proxies to ensure wrong action types aren't accidentally used.
   
   
 #### Network Management

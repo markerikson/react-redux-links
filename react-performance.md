@@ -214,3 +214,7 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   https://www.reddit.com/r/reactjs/comments/5hf4d4/an_artificial_example_where_mobx_really_shines/  
   https://github.com/dtinth/pixelpaint/pull/1  
   An excellent in-depth article that sets up a specific benchmark example, and compares the performance of a MobX implementation vs several different Redux-based implementations.  There's valuable discussion in the Reddit comments, and Dan Abramov submitted a PR to the sample project that demonstrates some fairly simple changes that result in improved Redux performance.
+  
+- **Performance Optimizations in Redux's `mapStateToProps`**  
+  http://cmichel.io/performance-optimizations-in-redux-mapstatetoprops/  
+  Some quick tips on how to properly cache and memoize selectors for use in `mapState` functions

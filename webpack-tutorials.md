@@ -36,6 +36,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **What is Webpack and what can it do for you?**  
   http://x-team.com/2016/09/webpack-can-absolute-beginners/  
   A plain-English explanation of what Webpack is and what problems it can help solve.
+  
+- **Seamless client side Javascript with Webpack**  
+  https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin/  
+  A talk by Jack Franklin, talking about what problems Webpack solves
 
 
 #### Basic Tutorials
