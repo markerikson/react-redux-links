@@ -38,6 +38,10 @@
 - **ReactJS: Props vs State**  
   http://lucybain.com/blog/2016/react-state-vs-pros/  
   Explains that "props" are data passed in to a component, while "state" is data managed inside a component.
+  
+- **React state management patterns**  
+  http://vijayt.com/post/react-state-management-patterns/  
+  Useful summaries of some common patterns for managing state (encapsulated vs uni-directional flow, single store or multiple stores, shared state between components).
 
 
 #### Using `setState`
@@ -61,3 +65,7 @@
 - **A case for setState**  
   https://medium.com/@zackargyle/a-case-for-setstate-1f1c47cd3f73  
   An article arguing that React component state still has a number of uses.
+  
+- **Using a function in `setState` instead of an object**  
+  https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1  
+  An introduction to a lesser-known feature of `setState`: the ability to pass a callback function to update the state.  Useful for ensuring proper updates.

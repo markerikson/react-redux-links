@@ -80,10 +80,6 @@
   https://github.com/jesstelford/react-workshop  
   A self-directed set of workshop lessons that teach React basics.
   
-- **React Cheat Sheet**  
-  http://reactcheatsheet.com/  
-  A filterable list of React's APIs and concepts
-  
 - **How React Do?**  
   http://blog.jfo.click/how-react-do/  
   A tutorial written by someone as they learned React, stepping up through a series of React concepts.
@@ -111,6 +107,31 @@
 - **Events in React**  
   https://www.kirupa.com/react/events_in_react.htm  
   An introduction to React's event handling system, including useful tips and some gotchas
+  
+  
+
+#### React Concept Overviews
+  
+- **React's Five Fingers of Death: Master these concepts to master React**  
+  https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3  
+  A humorously-titled quick introduction to some of React's basic concepts
+  
+- **13 Things you need to know about React**  
+  http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/  
+  A list of useful key concepts to understand if you want to "speak React"
+  
+- **React Interview Questions**  
+  https://tylermcginnis.com/react-interview-questions/  
+  Assorted questions and answers that come up while learning React
+  
+- **React Cheat Sheet**  
+  http://reactcheatsheet.com/  
+  A filterable list of React's APIs and concepts
+  
+- **React Cheat Sheet**  
+  https://ihatetomatoes.net/react-cheat-sheet-pdf/  
+  A downloadable PDF with snippets demonstrating uses of React's syntax and APIs
+  
   
 
 #### Project-Based Tutorials

@@ -67,6 +67,10 @@
   http://exploringjs.com/es6/index.html  
   A full online book covering every aspect of ES6 in fine detail  
   
+- **Understanding ES6**  
+  https://leanpub.com/understandinges6/read  
+  An online book that covers all the changes and features involved in ES6
+  
 - **Why Do ES6 Classes Exist, and Why Now?**  
   http://appendto.com/2016/06/why-do-es6-classes-exist-and-why-now/  
   Digs into some of the intricacies of ES6 classes, and some of the pros and cons around using them

@@ -1,6 +1,13 @@
 ### React Implementation and Concepts
 
 
+#### Resources
+
+- **React Team core Notes**  
+  https://github.com/reactjs/core-notes  
+  Notes from the React team's weekly-ish meetings
+  
+
 #### Core Concepts
 
 - **React Components, Elements, and Instances**  

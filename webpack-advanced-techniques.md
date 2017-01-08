@@ -222,6 +222,10 @@
   https://github.com/rstacruz/webpack-tricks  
   A useful list of tips for improving Webpack usage
   
+- **Useful Webpack DefinePlugin Usage**  
+  http://tomasalabes.me/blog/_site/web-development/2017/01/03/Useful-Webpack-Define-Plugin-Usages.html  
+  Several useful tips and use cases for using the Webpack DefinePlugin, including logging, feature flags, and handling multiple environments
+  
   
 #### Webpack Tools
 

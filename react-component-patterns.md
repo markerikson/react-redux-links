@@ -210,6 +210,10 @@
   https://benmccormick.org/2016/12/14/what-are-higher-order-components/  
   A short, simple explanation of what an HOC is, and how they can be used
   
+- **Higher Order What?**  
+  https://dev.to/kayis/higher-order-what  
+  A quick introduction to the concept of Higher Order Functions and Components
+  
 
 #### Wrapping Non-React Code
 

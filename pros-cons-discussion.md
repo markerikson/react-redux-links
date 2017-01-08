@@ -62,6 +62,10 @@
   http://danielearwicker.github.io/What_s_good_about_Redux.html  
   Some thoughts on Redux's core "what-if?" questions, and some of the potential implications of those decisions.
   
+- **Use Redux before it's too late**  
+  https://medium.com/@ian.mundy/use-redux-before-its-too-late-a73d837a06aa  
+  A response to the "you may not need Redux" discussions, suggesting that it's worth using Redux because it changes how you think about your data.
+  
 
 #### Comment Threads and Discussions
 

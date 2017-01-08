@@ -34,19 +34,39 @@
 - **What the heck is a "thunk"?**  
   https://daveceddia.com/what-is-a-thunk/  
   A quick explanation for what the word "thunk" means in general, and for Redux specifically..
-
+  
+  
+#### Side Effect Approach Comparisons
+  
+- **Redux side effects and you**  
+  https://medium.com/javascript-and-opinions/redux-side-effects-and-you-66f2e0842fc3  
+  Thoughts on the proliferation of new side effect libs for Redux, and some comparisons of the commonly used approaches.
+  
 - **"Controversial opinion: redux-thunk is too powerful"**  
   https://twitter.com/intelligibabble/status/800103510624727040  
   https://twitter.com/dan_abramov/status/800310164792414208  
   Some discussion on the pros and cons of redux-thunk's flexibility and usage, as well as possible issues with multiple dispatches in a row.
   
-- **A simplified approach to calling APIs with Redux**  
-  http://www.sohamkamani.com/blog/2016/06/05/redux-apis/  
-  A well-written example of creating a "data service" middleware that handles API requests, as well as examples of handling some request status state.
+- **Idiomatic Redux: Thoughts on Thunks, Sagas, Abstractions, and Reusability**  
+  http://blog.isquaredsoftware.com/2017/01/idiomatic-redux-thoughts-on-thunks-sagas-abstraction-and-reusability/  
+  A response to several "thunks are bad" concerns, arguing that thunks (and sagas) are still a valid approach for managing complex sync logic and async side effects.
+  
+- **What are the benefits, pros, and cons of redux-thunk over redux-saga?**
+  https://hashnode.com/post/what-are-the-benefits-of-redux-thunk-over-redux-saga-what-pros-and-cons-do-they-have-over-each-other-ciqvyydh7065w3g53ffalif61  
+  An excellent discussion of where side effects belong in a Redux app, and how thunks and sagas can be used to handle async logic.
+  
+- **Keeping Redux in check**  
+  https://medium.com/@georgeleeme/keeping-redux-in-check-78534504b215  
+  Some tips on use of the Flux Standard Actions convention, and comparison of using redux-thunk vs redux-promise.
+  
+- **"Argument: We should switch from thunks to sagas"**  
+  http://en.arguman.org/we-should-switch-from-redux-thunk-to-redux-saga  
+  An debate flowchart with arguments for and against using thunks and sagas
   
 - **The Evolution of Redux Action Creators**  
   https://medium.com/@northerneyes/the-evolution-of-redux-action-creators-2973018bf2ae  
   A comparison of ways to make action creation testable, looking at redux-thunk, a custom thunk-like middleware, and redux-saga 
+  
 
 #### Sagas
 
@@ -106,6 +126,10 @@
   https://devblog.xero.com/a-saga-that-led-xero-to-redux-aa1361b9a800  
   Examples of how Xero's async logic for their dashboard evolved over team, from nested callbacks to promises to Redux with sagas
   
+- **The Three 'R's: Refactoring, React, and Redux for robust async JS**  
+  https://devblog.xero.com/the-three-rs-refactoring-react-and-redux-for-robust-async-js-252648a8632f  
+  More information from Xero on how they have used sagas for async workflows, including splitting code up into smaller sagas that can be composed.
+  
   
 #### Other Side Effect Approaches
 
@@ -116,3 +140,11 @@
 - **Better async Redux**  
   https://blog.scottnonnenberg.com/better-async-redux-i18n-and-node-js-versions/  
   Comparisons and examples of using Redux-Loop for declarative side effects
+  
+- **Action Streams and Redux**  
+  https://medium.com/@markusctz/action-streams-and-redux-77f8ac99c2e9  
+  Examples of how Redux-Observable can simplify complex async logic
+  
+- **A simplified approach to calling APIs with Redux**  
+  http://www.sohamkamani.com/blog/2016/06/05/redux-apis/  
+  A well-written example of creating a "data service" middleware that handles API requests, as well as examples of handling some request status state.

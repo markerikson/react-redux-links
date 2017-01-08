@@ -119,6 +119,10 @@
 - **Typed Redux**  
   https://blog.callstack.io/typed-redux-2aa8bff926ff  
   Examples of how to use Flow to add typing to Redux apps
+  
+- **Tagged Unions, React, and Redux**  
+  https://hackernoon.com/tagged-unions-react-and-redux-55e262e4d0ea  
+  Examples of using Flow union types to define component props
 
 
 #### Advancing Typing Techniques
@@ -134,6 +138,10 @@
 - **Exhaustive switch in Flow**  
   https://ouicar.github.io/2016/08/08/exhaustive-switch.html  
   A trick to help catch missing case errors in switch statements.
+  
+- **Flow Cookbook**  
+  http://sitr.us/2016/12/20/flow-cookbook.html  
+  Assorted useful techniques for using Flow types
   
 
 #### Tool Comparisons

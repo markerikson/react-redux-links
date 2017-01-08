@@ -91,6 +91,10 @@
   https://frontendne.co.uk/talks/from-backbone-to-react-how-to-write-great-code  
   A talk that looks at a number of key ideas that React helps you understand, and uses some comparisons between Backbone and React to illustrate them.
   
+- **Thinking Statefully**  
+  https://daveceddia.com/thinking-statefully/  
+  Some great examples of how to think in declarative/stateful terms (such as passing an `isOpen` prop to a modal instead of calling `open()` ).
+  
 
 #### React Best Practices
 
@@ -169,4 +173,5 @@
   
 - **11 lessons learned as a React contractor**  
   https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf  
-  A number of useful tips, including using multiple small components instead of one customizable one, migrating build processes, keeping things simple, and more.
+  https://news.ycombinator.com/item?id=13332138  
+  A number of useful tips, including using multiple small components instead of one customizable one, migrating build processes, keeping things simple, and more.  Extended discussion in the HN comments.

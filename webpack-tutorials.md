@@ -40,6 +40,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Seamless client side Javascript with Webpack**  
   https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin/  
   A talk by Jack Franklin, talking about what problems Webpack solves
+  
+- **4 Key Concepts of Webpack**  
+  https://www.netlify.com/blog/2017/01/03/4-key-concepts-of-webpack/  
+  A recorded presentation by Webpack core team member Sean Larkin, explaining Webpack's core concepts and future goals.
 
 
 #### Basic Tutorials

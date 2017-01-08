@@ -27,3 +27,8 @@
 - **The Easiest Way to Start Using Redux Today**  
   https://viktorfonic.com/start-using-redux/  
   A useful tutorial that introduces Redux and demonstrates using it with a jQuery-based UI
+  
+- **Building a Redux Application with Angular 2**  
+  https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-1  
+  https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-2  
+  A tutorial that teaches how to use Redux and Angular 2 together, by building a small finance app

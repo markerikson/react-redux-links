@@ -79,3 +79,7 @@
 - **The magic behind styled-components**  
   http://mxstbr.blog/2016/11/styled-components-magic-explained/  
   A look at how the styled-components library uses the new ES6 "tagged template literals" feature to interpolate arguments and build up CSS
+  
+- **Orthogonality and CSS in JS**  
+  https://benmccormick.org/2017/01/03/orthogonality-and-css-in-js/  
+  Some thoughts on the "separation of concerns" concept, and how that relates to defining modular code and components (including styling).

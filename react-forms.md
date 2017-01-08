@@ -109,6 +109,10 @@
   http://goshakkk.name/form-recipe-disable-submit-button-react/  
   Some simple examples of validating data from controlled inputs
   
+- **Instant form field validation with React's controlled inputs**  
+  https://goshakkk.name/instant-form-fields-validation-react/  
+  Examples of how to perform validation during rendering, and immediately show which inputs are invalid
+  
 
 #### Other
 
