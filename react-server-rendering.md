@@ -1,7 +1,7 @@
 ### React Server Rendering
 
 - **React for Beginers: Creating an Isomorphic React App**  
-  https://codingbox.io/react-for-beginners-creating-isomorphic-react-redux-app-and-deploying-it-on-heroku-6a313f8f3693  
+  https://medium.com/codingbox/react-for-beginners-creating-isomorphic-react-redux-app-and-deploying-it-on-heroku-6a313f8f3693  
   An in-depth article describing an isomorphic project configuration and deployment
   
 - **React.js: Server side rendering**  
