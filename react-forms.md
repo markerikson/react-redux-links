@@ -65,7 +65,7 @@
   Demonstrates building a simple set of wrapper components to manage forms using React and Redux
   
 - **Not-so-simple Forms with React**  
-  http://www.randseay.com/articles/forms-with-react/  
+  http://www.randseay.com/articles/forms-with-react  
   Explains how to set up more advanced form scenarios such as optional or repeatable sections.
   
 - **Using React's state to manage data entry**  
