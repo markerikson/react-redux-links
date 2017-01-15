@@ -83,6 +83,10 @@
   https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f  
   Thoughts on good patterns and approaches in a large Redux app, including use of action creators instead of `dispatch` in components, module/container file structure, using sagas for flow control, and more.
   
+- **Thinking in Redux (when all you've known is MVC)**  
+  https://hackernoon.com/thinking-in-redux-when-all-youve-known-is-mvc-c78a74d35133  
+  Some useful mental comparisons for understanding Redux when coming from an MVC architecture background
+  
   
 #### Redux Best Practices
   
@@ -150,6 +154,14 @@
 - **Seven Months Into Redux: Two Things My Team Learned Along the Way**  
   https://medium.com/@benipsen/seven-months-into-redux-two-things-my-team-learned-along-the-way-5d979c25ea61  
   A couple useful suggestions on use of RxJS for managing action updates and handling derived data in selectors.
+  
+- **A Year of Development with Redux**  
+  https://blog.shakacode.com/a-year-of-development-with-redux-part-i-a5791e124a7d  
+  Some quick tips for working with Redux and structuring data
+  
+- **Avoiding False Cause**  
+  http://sebinsua.com/avoiding-false-cause/  
+  Some high-level general thoughts on cargo-culting, dogma, and best practices, followed by some specific examples of problematic Redux code (unclear reducer state shape, managing "editing" mode data, applying arbitrary value updates)
 
 
 #### Encapsulation and Reusability

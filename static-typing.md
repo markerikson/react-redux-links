@@ -161,3 +161,11 @@
 - **TypeScript vs Flow**  
   https://github.com/niieani/typescript-vs-flowtype  
   An in-depth, unbiased comparison of differences and similarities between TypeScript and Flow
+  
+- **TypeScript vs Flow**  
+  https://blog.mariusschulz.com/2017/01/13/typescript-vs-flow  
+  Some quick thoughts on both Flow and TS being "non-standard JS", with good discussion in the comments.
+  
+- **TypeScript, Flow, and the Importance of Toolchains over Tools**  
+  https://dzone.com/articles/typescript-flow-and-the-importance-of-toolchains-o  
+  Some thoughts on why type checkers are important, how they differ, and what considerations go into selecting a type checking tool

@@ -101,6 +101,10 @@
 - **ReactCasts #8: Selectors in Redux**  
   https://www.youtube.com/watch?v=frT3to2ACCw  
   A great overview of why and how to use selector functions to retrieve data from the store, and derive additional data from store values
+  
+- **GraphQL is not only for Backend**  
+  https://riad.blog/2017/01/07/graphql-is-not-only-for-backend-react-redux/  
+  A look at how to use GraphQL to query into a Redux store
 
 
 #### UI and Widget Implementations

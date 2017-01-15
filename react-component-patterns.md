@@ -32,6 +32,17 @@
   https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30  
   A look at stateless functional components in React, and why they might be useful or should be considered in the first place.
   
+- **React Stateless Functional Components: Nine Wins You Might Have Overlooked**  
+  https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc  
+  Thoughts on reasons why you might want to write more components using the functional syntax.
+
+- **How to declare React Components in 2017**  
+  https://medium.com/@npverni/how-to-declare-react-components-in-2017-2a90d9f7984c  
+  A quick overview of the three ways to declare React components, and which ones should be preferred.
+  
+  
+#### React Component Children
+  
 - **Ownership and Children in React**  
   http://ctheu.com/2015/02/10/ownership-and-children-in-reactjs/  
   Discusses the difference between "parent" and "owner" relationships, and what the "children" prop can look like.
@@ -40,10 +51,14 @@
   https://www.youtube.com/watch?v=DJ53-G8EbxE  
   A screencast demonstrating how the "children" prop to compose components together
   
-- **React Stateless Functional Components: Nine Wins You Might Have Overlooked**  
-  https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc  
-  Thoughts on reasons why you might want to write more components using the functional syntax.
-
+- **React.Children and the React Top-Level API**  
+  http://callahan.io/blog/2016/09/16/react-dot-children-and-the-react-top-level-api/  
+  Overviews and examples of the `React.Children` APIs, and how they can be used to manipulate component children
+  
+- **Send Props to Children in React**  
+  http://jaketrent.com/post/send-props-to-children-react/  
+  Examples of how to pass new props to child components using `React.Children`
+  
   
 #### React Component Lifecycle
 
@@ -66,6 +81,10 @@
 - **React In-Depth: The React Life Cycle**  
   https://developmentarc.gitbooks.io/react-indepth/content/  
   A deep dive into the lifecycle methods, and various techniques for using them.
+  
+- **React Lifecycle Cheatsheet**  
+  https://gist.github.com/bvaughn/923dffb2cd9504ee440791fade8db5f9  
+  A table listing the lifecycle methods, when they're called, whether each method allows side effects or state updates, and examples uses for each method
   
   
 #### Component Communication
@@ -98,6 +117,14 @@
   https://www.youtube.com/watch?v=lxq938kqIss  
   https://www.youtube.com/watch?v=mwYHDXS6uSc
   A two-part series explaining what React's `context` feature can be used for, and some potential concerns to be aware of when using it.    
+  
+- **React Context and Component Coupling**  
+  https://medium.com/differential/react-context-and-component-coupling-86e535e2d599  
+  Discussion on the pros and cons of using `context` to pass data between components, and some examples of how to do so
+  
+- **Higher Order With Context**  
+  https://dev.to/kayis/higher-order-with-context  
+  Examples of using Higher Order Components to pass data to nested components using `context`
   
   
 #### Component Categories
@@ -244,6 +271,14 @@
 - **How to Sprinkle ReactJS into an Existing Web Application**  
   https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application  
   Looks at how to incrementally add some React-based functionality into an existing app, including interaction with jQuery.
+  
+- **How to Use jQuery Libraries in the React Ecosystem**  
+  https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0  
+  Some excellent examples of using React components to wrap up jQuery plugins: creating the plugin instance, updating the plugin from React props, and destroying the plugin on unmount.
+  
+- **Introducing React into an Existing Application**  
+  https://medium.com/nthrive-analytics/introducing-react-into-an-existing-application-17490841796e  
+  Some examples of how to progressively add React components into an existing jQuery-based application and keep them in sync with the rest of the app.
   
   
 #### Modal Dialogs

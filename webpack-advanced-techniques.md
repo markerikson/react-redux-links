@@ -53,6 +53,10 @@
 - **Speeding up Webpack performance with parallel builds**  
   http://tech.trivago.com/2015/12/15/parallel-webpack/  
   Describes a tool called `parallel-webpack`, which can build multiple entry points in multiple formats in parallel.
+  
+- **A React + Webpack Optimization Case**  
+  https://medium.com/@kudochien/a-react-webpack-optimization-case-27da392fb3ec  
+  Several useful examples of how to profile and optimize a Webpack-based project, including checking bundle contents, specific imports from libraries, ignoring Moment locales, and more.
 
   
 #### Code Splitting and Chunking

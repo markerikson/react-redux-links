@@ -107,6 +107,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/code-life/how-to-benchmark-react-components-the-quick-and-dirty-guide-f595baf1014c  
   Suggestions for using React's Perf API to benchmark component rendering, and use of shouldComponentUpdate to cut down on unnecessary renders.
   
+- **Why and How to Use PureComponent in React**  
+  https://60devs.com/pure-component-in-react.html  
+  A look into what React.PureComponent is, how it works, and how it can be used to improve performance
+  
   
 #### Code Splitting and Progressive Apps
 

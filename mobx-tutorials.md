@@ -31,6 +31,11 @@
 - **A MobX introduction and case study**  
   https://blog.wearewizards.io/a-mobx-introduction-and-case-study  
   An introduction to MobX, with examples showing how it works in a real app with Typescript
+  
+- **MobX First Impressions**  
+  https://benmccormick.org/2017/01/09/mobx-first-impressions/  
+  A quick introduction to MobX's basic concepts and how it works
+  
 
 #### Testing
 
@@ -48,6 +53,10 @@
 - **MobX - Like React, but for Data**  
   http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html  
   Thoughts on MobX's core concepts, and how they relate to immutability, derived data, and observables.
+  
+- **The Fundamental Principles Behind MobX**  
+  https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8  
+  MobX creator Michel Weststrate discusses MobX's key concepts, including running all updates synchronously, and potential use of Proxies as a future improvement.
   
 
 #### MobX and Redux Comparisons

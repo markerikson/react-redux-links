@@ -85,6 +85,10 @@
   http://react.tips/checkboxes-in-react/  
   Tutorials on managing various inputs in forms with React
   
+- **Building a Multi-Step Registration Form with React**  
+  https://www.viget.com/articles/building-a-multi-step-registration-form-with-react  
+  A form example that shows how to track the current form step, render the right form component, and store all the necessary form data
+  
   
 #### Form Validation
 

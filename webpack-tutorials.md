@@ -44,6 +44,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **4 Key Concepts of Webpack**  
   https://www.netlify.com/blog/2017/01/03/4-key-concepts-of-webpack/  
   A recorded presentation by Webpack core team member Sean Larkin, explaining Webpack's core concepts and future goals.
+  
+- **Module Bundling and Webpack in Simple Terms**  
+  http://arianv.com/post/Module-Bundling-and-Webpack-in-Simple-Terms/  
+  An informative high level overview that explains what Webpack does and how it works.
 
 
 #### Basic Tutorials
@@ -129,6 +133,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack 101**  
   https://github.com/brunoscopelliti/webpack-101  
   A tutorial that builds up a Webpack config step-by-step, explaining why and how each change is made.
+  
+- **Migration to Webpack@2**  
+  https://blog.shakacode.com/migration-to-webpack-2-c9803871b931  
+  Some tips for updating a Webpack 1 config to work with Webpack 2
 
 
 #### Configuration Terms and Concepts

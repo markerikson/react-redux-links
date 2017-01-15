@@ -175,3 +175,7 @@
   https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf  
   https://news.ycombinator.com/item?id=13332138  
   A number of useful tips, including using multiple small components instead of one customizable one, migrating build processes, keeping things simple, and more.  Extended discussion in the HN comments.
+  
+- **Tips to Learn React + Redux**  
+  https://www.robinwieruch.de/tips-to-learn-react-redux/  
+  An extensive and excellent list of suggestions to follow when learning and using React and Redux.  Tips include when to use different component patterns, when to bring in a state management library, Redux state structuring, and much more.
