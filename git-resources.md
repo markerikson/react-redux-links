@@ -158,22 +158,22 @@
   
 #### Desktop GUI Clients
 
-- **SourceTree** (Win, Mac)  
+- **SourceTree** (Win, Mac; free)  
   https://www.sourcetreeapp.com/  
   A solid Git client, with a good variety of features.  Includes UI for interactive rebase, which makes that task much easier to do.  Note that a recent release (1.8 for Windows, 2.2 for Mac) drastically changed the UI appearance, added required accounts, has had a number of performance issues, and is generally seen as a step backwards.  You may want to download the earlier versions instead ([1.6.25 for Windows](https://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.6.25.exe), [2.1 for Mac](https://downloads.atlassian.com/software/sourcetree/SourceTree_2.1.dmg) ).
   
-- **Git Extensions** (Win)  
+- **Git Extensions** (Win; free)  
   http://gitextensions.github.io/  
   A Windows client with Windows Explorer and Visual Studio integration
   
-- **Git Tower** (Mac)  
+- **Git Tower** (Mac, Win; commercial)  
   https://www.git-tower.com/  
-  A well-designed Git client for Mac
+  A well-designed commercial Git client for Mac and Windows
   
-- **SmartGit** (Win, Mac, Linux)  
+- **SmartGit** (Win, Mac, Linux; commercial)  
   http://www.syntevo.com/smartgit/  
   A cross-platform Git client aimed at professionals
   
-- **GitKraken**  (Win, Mac, Linux)  
+- **GitKraken**  (Win, Mac, Linux; semi-commercial)  
   http://www.gitkraken.com/  
-  A cross-platform Git client, currently in beta
+  A cross-platform Git client
