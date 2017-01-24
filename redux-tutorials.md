@@ -170,7 +170,7 @@
   A two-part tutorial that builds an image and video display and preview app
   
 - **Practical Redux**  
-  http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/
+  http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/  
   http://blog.isquaredsoftware.com/2016/11/practical-redux-part-3-project-planning-and-setup/  
   An ongoing series of posts intended to demonstrate a number of specific Redux techniques by building a sample application, based on the MekHQ application for managing Battletech campaigns.
   
