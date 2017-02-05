@@ -36,6 +36,10 @@
   https://benmccormick.org/2017/01/09/mobx-first-impressions/  
   A quick introduction to MobX's basic concepts and how it works
   
+- **How to Manage your JavaScript Application State with MobX**  
+  https://www.sitepoint.com/manage-javascript-application-state-mobx/  
+  A detailed tutorial that introduces basic MobX usage, using only jQuery for the UI updates
+  
 
 #### Testing
 

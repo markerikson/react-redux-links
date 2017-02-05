@@ -53,6 +53,10 @@
   http://cmichel.io/modifying-a-leaf-of-the-redux-state-tree/  
   Some useful observations on how to properly do deep immutable updates.
   
+- **"How to dynamically load reducers for code splitting in a Redux application?"**  
+  http://stackoverflow.com/questions/32968016/how-to-dynamically-load-reducers-for-code-splitting-in-a-redux-application  
+  Dan Abramov gives a basic exapmle of how to rebuild and replace the root reducer function at runtime
+  
 
 #### Selectors and Normalization
 
@@ -133,6 +137,10 @@
   https://medium.com/swizec-a-geek-with-a-hat/animating-with-react-redux-and-d3-80852153a25b  
   Explanation and examples of drawing animated particles using D3 to calculate new positions, Redux to store the state, and React to render them.
   
+- **Open Sourcing a Redux Component**  
+  https://medium.com/@itsBenCripps/open-sourcing-a-redux-component-bb82f260ff62  
+  Details how the author developed a complex React+Redux grid component, including HTML structure, proper use of Immutable.js for good perf, and lib exports.
+  
   
 #### Redux and Forms
 
@@ -155,6 +163,10 @@
 - **Writing maintainable forms with Redux**  
   https://medium.com/@SBoudrias/writing-maintainable-forms-with-redux-2ef30b5d0e35  
   Some basic examples for handling validation, loading initial data, and change tracking in forms.
+  
+- **Using forms in React-Redux: Tips and Tricks**  
+  https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6  
+  Some helpful suggestions for using Redux-Form to manage forms in a Redux app
 
   
 #### Other  

@@ -113,6 +113,10 @@
 - **The Inner Workings of Virtual DOM**  
   https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf  
   An in-depth article that digs into how a Virtual DOM implementation works, using Preact as an example.  Includes some detailed flowcharts of their behavior.
+  
+- **React Internals**  
+  https://zackargyle.github.io/react-internals-slides/#/  
+  An informative slideshow that walks through many aspects of React's implementation and behavior, including rendering, reconciliation, setState, Fiber, and more, with helpful visualizations.
 
 
 #### React Fiber

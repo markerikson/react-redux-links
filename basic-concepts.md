@@ -47,6 +47,13 @@
   https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a  
   An overview of what packages and package managers are, some related terms, and how these tools work.
   
+- **2016 Javascript Rising Stars**  
+  https://risingstars2016.js.org/  
+  A summary of which JS projects gained the most popularity in 2016, based on new Github stars. Serves as a useful overview of tool categories and popular tools
+  
+- **A Brief History of Javascript**  
+  https://auth0.com/blog/a-brief-history-of-javascript/  
+  Despite the name, it's actually an extended, in-depth history of Javascript's creation and evolution over time.
 
 #### Suggested Learning Approaches
 

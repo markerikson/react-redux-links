@@ -47,6 +47,10 @@
   https://appendto.com/2016/12/230-resources-and-tools-for-building-apps-with-react-js/  
   A useful list of articles, libraries, and tools that cover the range of React development.
   
+- **Awesome Create-React-App**  
+  https://github.com/tuchk4/awesome-create-react-app  
+  A collection of articles, links, issues, and information on how to use and customize the Create-React-App tool.
+  
 
 #### People
 

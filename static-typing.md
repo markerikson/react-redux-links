@@ -98,7 +98,7 @@
   A walk through setting up Flow, some possible problems you might encounter, and ways to customize and improve the typing process.
 
 
-#### Redux and Static Types
+#### React, Redux, and Static Types
 
 - **Checking React and Redux Code with Flow**  
   http://djcordhose.github.io/react-intro-live-coding/2016_jsunconf.html#/  
@@ -123,6 +123,10 @@
 - **Tagged Unions, React, and Redux**  
   https://hackernoon.com/tagged-unions-react-and-redux-55e262e4d0ea  
   Examples of using Flow union types to define component props
+  
+- **Typing React Components**  
+  https://datarockets.com/blog/typing-react-components  
+  Examples of migrating from React PropTypes to Flow, as well as typing Redux usage 
 
 
 #### Advancing Typing Techniques

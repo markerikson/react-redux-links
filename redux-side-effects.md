@@ -35,6 +35,10 @@
   https://daveceddia.com/what-is-a-thunk/  
   A quick explanation for what the word "thunk" means in general, and for Redux specifically..
   
+- **Understanding how redux-thunk works**  
+  https://medium.com/@gethylgeorge/understanding-how-redux-thunk-works-72de3bdebc50  
+  An attempt to explain both redux-thunk and Redux's applyMiddleware enhancer, by rewriting the original implementations to add logging and rework names for ease of understanding.
+  
   
 #### Side Effect Approach Comparisons
   
@@ -129,6 +133,10 @@
 - **The Three 'R's: Refactoring, React, and Redux for robust async JS**  
   https://devblog.xero.com/the-three-rs-refactoring-react-and-redux-for-robust-async-js-252648a8632f  
   More information from Xero on how they have used sagas for async workflows, including splitting code up into smaller sagas that can be composed.
+  
+- **4 Quick Tips for Managing Many Sagas in a React-Redux-Saga App**  
+  https://decembersoft.com/posts/4-tips-for-managing-many-sagas-in-a-react-redux-saga-app/  
+  Some useful suggestions for structuring and organizing sagas
   
   
 #### Other Side Effect Approaches

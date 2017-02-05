@@ -32,3 +32,7 @@
   https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-1  
   https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-2  
   A tutorial that teaches how to use Redux and Angular 2 together, by building a small finance app
+  
+- **Build a Better Angular 2 Application with Redux and ngrx**  
+  http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/  
+  An extended article that demonstrates how to build a Redux-based Angular 2 app using the ngrx store implementation.  Some interesting discussion in the comments.

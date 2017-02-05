@@ -24,3 +24,7 @@
 - **Universal React Rendering: How We Rebuilt SitePoint**  
   https://www.sitepoint.com/universal-react-rendering-sitepoint/  
   The SitePoint team explains how they added server-rendered React content into their existing Wordpress application
+
+- **React on the Server for Beginners: Build a Universal React and Node App**  
+  https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app  
+  Details building a React app that renders on both the client and the server

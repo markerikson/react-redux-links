@@ -89,6 +89,10 @@
   https://www.viget.com/articles/building-a-multi-step-registration-form-with-react  
   A form example that shows how to track the current form step, render the right form component, and store all the necessary form data
   
+- **Making dynamic form inputs with React**  
+  https://goshakkk.name/array-form-inputs/  
+  Covers how to build a form that can add and remove entries dynamically, with examples.
+  
   
 #### Form Validation
 

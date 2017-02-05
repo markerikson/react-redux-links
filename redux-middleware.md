@@ -38,6 +38,10 @@
   https://www.youtube.com/watch?v=T-qtHI1qHIg  
   A screencast that describes how middleware fit into Redux, their uses, and how to implement a custom middleware 
   
+- **Redux Middleware**  
+  https://vmayakumar.wordpress.com/2016/12/27/redux-middleware/  
+  Some analogies for understanding middleware in terms of the OOP "Decorator Pattern" vs  Functional Programming composition
+  
 
 #### Middleware Techniques
 

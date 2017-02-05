@@ -69,3 +69,7 @@
 - **Using a function in `setState` instead of an object**  
   https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1  
   An introduction to a lesser-known feature of `setState`: the ability to pass a callback function to update the state.  Useful for ensuring proper updates.
+  
+- **"Best kept React secret: declare state changes separately from component classes"**  
+  https://twitter.com/dan_abramov/status/824308413559668744  
+  Dan Abramov shows some screenshots that demonstrate how to define state update functions outside a component, then pass them to `setState`

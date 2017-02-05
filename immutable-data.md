@@ -42,6 +42,10 @@
 - **Immutability is Not Enough**  
   https://codewords.recurse.com/issues/six/immutability-is-not-enough  
   A look at how using an immutable data approach doesn't magically prevent all bugs.
+  
+- **Javascript Array Methods: Mutating vs Non-Mutating**  
+  http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/  
+  An overview of how to accomplish add/remove/replace operations on JS arrays, comparing mutable vs immutable approaches to each.
 
 
 

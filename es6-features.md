@@ -177,6 +177,10 @@
   https://mockbrian.com/blog/2016/12/29/broken-promises/  
   Some useful tips for dealing with promises.
   
+- **JS: Promises/A+, jQuery Deferreds, and errors**  
+  http://lucybain.com/blog/2017/js-promises-errors-a-plus-vs-deferreds/  
+  A comparison of the two most common Promise definitions, and how they differ in behavior
+  
   
 #### Techniques
 
@@ -223,3 +227,8 @@
 - **Understanding the State of Javascript Modules**  
   http://georgemauer.net/2016/11/25/how-js-modules-work.html  
   A look at the major differences in module loading approaches, and why tools like Webpack or Browserify are needed to help, as well as recommendations on which tools to use adn why.
+  
+- **Native ECMAScript Modules: Overview and New Features**  
+  https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview  
+  https://blog.hospodarets.com/native-ecmascript-modules-new-features  
+  An in-depth look at existing module formats, how ES modules work, and how ES modules relate to bundlers like Webpack

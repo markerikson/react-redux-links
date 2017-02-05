@@ -162,6 +162,10 @@
   https://reflect.io/blog/js-testing-mocha-chai-enzyme/  
   A number of useful tips for improving component tests, including use of shallow rendering, avoiding errors while testing, and making test code consistent
   
+- **The Right Way to Test React Components**  
+  https://medium.com/@suchipi/the-right-way-to-test-react-components-548a4736ab22  
+  Excellent advice on how to determine a component's "contract", what aspects of that are worth testing, and how to approach testing that contract.
+  
   
 #### General Testing, Tools, and Setup
 

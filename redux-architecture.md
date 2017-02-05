@@ -87,6 +87,10 @@
   https://hackernoon.com/thinking-in-redux-when-all-youve-known-is-mvc-c78a74d35133  
   Some useful mental comparisons for understanding Redux when coming from an MVC architecture background
   
+- **React + Redux: Architecture Overview**  
+  https://medium.com/mofed/react-redux-architecture-overview-7b3e52004b6e  
+  A look at the common pieces that make up a Redux application, with some very useful diagrams to illustrate what they are and how they fit together.
+  
   
 #### Redux Best Practices
   
@@ -151,17 +155,18 @@
   https://blog.spacelab.team/4-things-for-efficient-redux-17e87b4cd6cb  
   Suggestions for improved Redux apps based on experience, including using Immutable.js, use of `combineReducers`, listening for actions in multiple reducers, and "aliasing" actions.
   
-- **Seven Months Into Redux: Two Things My Team Learned Along the Way**  
-  https://medium.com/@benipsen/seven-months-into-redux-two-things-my-team-learned-along-the-way-5d979c25ea61  
-  A couple useful suggestions on use of RxJS for managing action updates and handling derived data in selectors.
-  
 - **A Year of Development with Redux**  
   https://blog.shakacode.com/a-year-of-development-with-redux-part-i-a5791e124a7d  
-  Some quick tips for working with Redux and structuring data
+  https://blog.shakacode.com/a-year-of-development-with-redux-part-ii-3035ff0b1781  
+  Some quick tips for working with Redux, structuring data, and encapsulation of components
   
 - **Avoiding False Cause**  
   http://sebinsua.com/avoiding-false-cause/  
   Some high-level general thoughts on cargo-culting, dogma, and best practices, followed by some specific examples of problematic Redux code (unclear reducer state shape, managing "editing" mode data, applying arbitrary value updates)
+  
+- **Isn't our code just the BEST**  
+  https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9  
+  A quirkily-written look at how a dev team rewrote their project using React and Redux, including examples of project structure, component usage, and data normalization
 
 
 #### Encapsulation and Reusability

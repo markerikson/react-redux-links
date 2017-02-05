@@ -92,7 +92,20 @@
 - **React, Redux, and React-Redux**  
   http://jilles.me/react-redux-and-react-redux/  
   Comparison and examples of implementing a filterable list with just React, with "manual" React code reading from Redux, and using the official React-Redux library
+  
+- **Redux's Mysterious Connect Function**  
+  https://medium.com/mofed/reduxs-mysterious-connect-function-526efe1122e4  
+  An overview of how to use React-Redux's `connect` function to glue together a Redux store and React components
+  
+- **Why You Should Use Redux to Manage Immutability**  
+  https://www.toptal.com/javascript/immutability-in-javascript-using-redux  
+  An introduction to several aspects of Redux, including immutability concepts, use of immutable data libraries, using middleware for side effects, and connecting React to Redux
 
+- **An Introduction to Redux / Redux: Would you like to know more?**  
+  https://c3-tko.github.io/introduction-to-redux/#/  
+  https://c3-tko.github.io/redux-would-you-like-to-know-more/#/  
+  A pair of HTML slideshows that discuss some of the problems of storing application state, how Redux can help solve those problems, and several tradeoffs and benefits of using Redux.
+  
 
 #### Project-Based Tutorials
 

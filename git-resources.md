@@ -48,6 +48,10 @@
 - **Git for Humans**  
   https://speakerdeck.com/alicebartlett/git-for-humans  
   A slideshow introducing Git concepts without complex terminology
+  
+- **Getting Git**  
+  https://gettinggit.com/  
+  A paid video tutorial series that covers Git commands in detail, as well as everyday scenarios you might encounter while using Git
 
 #### Tips and Useful Info
 

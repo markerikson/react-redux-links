@@ -83,3 +83,11 @@
 - **Orthogonality and CSS in JS**  
   https://benmccormick.org/2017/01/03/orthogonality-and-css-in-js/  
   Some thoughts on the "separation of concerns" concept, and how that relates to defining modular code and components (including styling).
+  
+- **Styled-Components: Enforcing Best Practices**  
+  https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/  
+  A look at some best practices for writing styles for reusable components, and how the styled-components library can help enforce those principles.
+
+- **CSS-in-JS comparisons**  
+  https://github.com/MicheleBertoli/css-in-js  
+  A repository that contains implementation comparisons between many different CSS-in-JS libraries

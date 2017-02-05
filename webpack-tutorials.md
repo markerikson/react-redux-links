@@ -48,6 +48,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Module Bundling and Webpack in Simple Terms**  
   http://arianv.com/post/Module-Bundling-and-Webpack-in-Simple-Terms/  
   An informative high level overview that explains what Webpack does and how it works.
+  
+- **Webpack: It's Not Magic**  
+  https://naomiajacobs.github.io/WebpackTalk/    
+  An excellent HTML slideshow that explains how Webpack allows you to use code that is nice to write, and transforms it into code that the browser fully understands.  Also looks at how Webpack works conceptually.
 
 
 #### Basic Tutorials
@@ -137,6 +141,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Migration to Webpack@2**  
   https://blog.shakacode.com/migration-to-webpack-2-c9803871b931  
   Some tips for updating a Webpack 1 config to work with Webpack 2
+  
+- **A Beginner's Guide to Webpack 2 and Module Bundling**  
+  https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/  
+  An extended tutorial that covers many Webpack concepts, including basic setup, loaders, plugin, code splitting, and the Webpack Dev Server
 
 
 #### Configuration Terms and Concepts
@@ -145,7 +153,6 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9  
   A great simplification and breakdown of the different pieces that make up a Webpack configuration: dev vs prod, CLI vs dev-server, the "entry" option, the "output" option / "path" vs "publicPath", loaders and configuration, Babel, plugins, and path resolving.
   
-
 - **Webpack Series Part 1: Some Configs Explained**  
   http://tomasalabes.me/blog/_site/web-development/2016/04/30/Webpack-Series-Part-1.html  
   Describes a number of Webpack config options, including "noParse", "libraryTarget", and "externals"
@@ -177,6 +184,18 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack and the Public Path Config**  
   http://tomasalabes.me/blog/_site/web-development/2016/12/10/Webpack-and-the-public-path.html  
   Looks at how to configure URLs for resources that are not part of the final output bundle, such as images on CDNs
+  
+- **Source Maps with Webpack in Chrome**  
+  http://erikaybar.name/webpack-source-maps-in-chrome/  
+  Tips for proper configuration of sourcemaps, including some gotchas and differences between `devtool` config values.
+  
+- **Conditional Build with Webpack**  
+  https://medium.com/tech-angels-publications/conditional-build-with-webpack-72c36b51abbc  
+  Suggestions for creating shared configs that can be used across multiple apps, with certain values replaced at build time.
+  
+- **The Fine Art of the Webpack 2 Config**  
+  https://blog.flennik.com/the-fine-art-of-the-webpack-2-config-dc4d19d7f172  
+  Explains some of the changes in Webpack 2 configuration, and discusses some approaches for handling dev/prod configuration environments.
   
   
 #### Webpack Configuration Utilities

@@ -57,7 +57,19 @@
 - **A React + Webpack Optimization Case**  
   https://medium.com/@kudochien/a-react-webpack-optimization-case-27da392fb3ec  
   Several useful examples of how to profile and optimize a Webpack-based project, including checking bundle contents, specific imports from libraries, ignoring Moment locales, and more.
+  
+- **Optimizing Wepback build times and improving caching with DLL bundles**  
+  https://robertknight.github.io/posts/webpack-dll-plugins/  
+  Explains the benefits of using DllPlugin for generating library bundles, shows how to configure it, and compares with other chunking methods.
 
+- **Tree-shaking ES6 Modules in Webpack 2**  
+  https://medium.freecodecamp.com/tree-shaking-es6-modules-in-webpack-2-1add6672f31b  
+  A look at the concept of tree-shaking to reduce output size, how it relates to module formats, and how to configure Webpack to properly allow for tree-shaking
+  
+- **Webpack tree-shaking**  
+  https://medium.com/@johnstew/webpack-tree-shaking-20914b7a9ca5  
+  An explanation of what tree-shaking is, how to configure Webpack to apply it, and how it works.
+  
   
 #### Code Splitting and Chunking
 
@@ -97,6 +109,10 @@
   http://darrennewton.com/2016/12/21/components-a-la-carte/  
   Describes a technique for dynamically loading only certain features that a user should see
   
+- **Dynamic Imports with Webpack 2**  
+  https://dev.to/kayis/dynamic-imports-with-webpack-2  
+  A quick example of how to use dynamic imports to load pages or components at runtime
+  
   
 #### Bundle Sizes and Visualization
 
@@ -128,6 +144,9 @@
   https://www.sivadass.in/using-source-map-explorer-with-webpack/  
   Examples of using the source-map-explorer tool to visualize the contents of a bundle
   
+- **Analyzing and optimizing your Webpack bundle**  
+  https://medium.com/@ahmedelgabri/analyzing-optimizing-your-webpack-bundle-8590818af4df  
+  Some quick suggestions for using CLI flags to show sizes of bundled chunks, and using webpack-bundle-analyzer and IgnorePlugin to exclude unneeded files.
   
   
 #### Hot Module Replacement
@@ -229,6 +248,14 @@
 - **Useful Webpack DefinePlugin Usage**  
   http://tomasalabes.me/blog/_site/web-development/2017/01/03/Useful-Webpack-Define-Plugin-Usages.html  
   Several useful tips and use cases for using the Webpack DefinePlugin, including logging, feature flags, and handling multiple environments
+  
+- **Artsy Webpack Tour**  
+  https://github.com/TheLarkInn/artsy-webpack-tour  
+  Sean Larkin of the Webpack core team gives a visually annotated tour of the Webpack 2 source code
+  
+- **Squeezing Webpack into backend frameworks**  
+  https://infinum.co/the-capsized-eight/squeezing-webpack-into-backend-frameworks  
+  Covers how to use Webpack to replace the Rails asset pipeline
   
   
 #### Webpack Tools

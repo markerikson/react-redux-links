@@ -108,6 +108,9 @@
   https://www.kirupa.com/react/events_in_react.htm  
   An introduction to React's event handling system, including useful tips and some gotchas
   
+- **React 101: Condensed**  
+  http://erikaybar.name/react-101-medium-and-slides/  
+  Links to an HTML slideshow and accompanying blog post that introduce just enough info to give you a taste of what React is about.
   
 
 #### React Concept Overviews
@@ -173,6 +176,10 @@
   http://btholt.github.io/complete-intro-to-react/  
   An online workshop intended to get you up to speed on modern development and give you an idea what it's like to develop an app in the React ecosystem.
   
+- **React+Redux Workshop**  
+  https://github.com/btholt/react-redux-workshop  
+  An online workshop that gets you up to speed on using React and Redux
+  
 - **React Tutorial: Build a Yelp Clone**  
   https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/  
   A full-length walkthrough of how to build an app that uses routing, Google Maps integration, and more.
@@ -207,10 +214,6 @@
 - **Building Your First Real-World React Application**  
   http://academy.plot.ly/#react  
   Max Stoiber's full-size tutorial on building an app using React.  Includes an intro to React, project setup, using external libraries, data management with Redux, use of Immutable.js, and testing with Jest.
-  
-- **React on the Server for Beginners: Build a Universal React App**  
-  https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app  
-  Details building a React app that renders on both the client and the server
   
 - **React 101**  
   https://blog.tighten.co/react-101-building-a-gif-search-engine  
@@ -299,3 +302,6 @@ Also see the course sites listed in the [Community Resources](community-resource
   http://www.robinwieruch.de/the-road-to-learn-react/  
   A pay-what-you-want ebook that teaches a good foundation for React itself, including React component patterns, working with data (fetching, sorting, and filtering), unit testing, and more.  The author's blog posts are excellent, and this book is definitely recommended.
   
+- **Learn Pure React**  
+  https://daveceddia.com/learn-pure-react/  
+  A paid ebook that lays out a guided step-by-step process for learning React quickly and in the right order, with a focus on the fundamentals of React.

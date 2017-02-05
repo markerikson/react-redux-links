@@ -45,11 +45,11 @@
   
 - **Ownership and Children in React**  
   http://ctheu.com/2015/02/10/ownership-and-children-in-reactjs/  
-  Discusses the difference between "parent" and "owner" relationships, and what the "children" prop can look like.
+  Discusses the difference between "parent" and "owner" relationships, and what the `children` prop can look like.
   
 - **ReactCasts #3: React's Children API**  
   https://www.youtube.com/watch?v=DJ53-G8EbxE  
-  A screencast demonstrating how the "children" prop to compose components together
+  A screencast demonstrating how the `children` prop to compose components together
   
 - **React.Children and the React Top-Level API**  
   http://callahan.io/blog/2016/09/16/react-dot-children-and-the-react-top-level-api/  
@@ -58,6 +58,10 @@
 - **Send Props to Children in React**  
   http://jaketrent.com/post/send-props-to-children-react/  
   Examples of how to pass new props to child components using `React.Children`
+  
+- **A deep dive into children in React**  
+  http://mxstbr.blog/2017/02/react-children-deepdive/  
+  An in-depth look at the power and capabilities of React's `children` prop, and how children can be reused and modified.  Includes several examples and demos.
   
   
 #### React Component Lifecycle
@@ -124,6 +128,7 @@
   
 - **Higher Order With Context**  
   https://dev.to/kayis/higher-order-with-context  
+  https://dev.to/kayis/higher-order-components-and-context-example 
   Examples of using Higher Order Components to pass data to nested components using `context`
   
   
@@ -164,6 +169,10 @@
 - **The React + Redux Container Pattern**  
   http://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/  
   Explanation and examples of "container" and "presentational" components and their responsibilities.  Uses Redux for the examples, but the principles apply to "just" React as well.
+  
+- **Refactoring React - Extracting Layout Components**  
+  http://erikaybar.name/refactoring-react-extracting-layout-components/  
+  Demonstrates creating reusable components that manage some aspects of styling and layout, such as a button with multiple sizes and colors.
   
   
 #### Higher-Order Components
@@ -325,8 +334,11 @@
 - **"What is the ideal way to pass data to a callback prop?**  
   https://gist.github.com/jazlalli/fdee443405680f96d19211daa15d1d38  
   Discussion and examples of various ways to pass data to callbacks between children and parents
-
   
 - **On Privacy with React Context**  
   https://medium.com/@amireh/on-privacy-with-react-context-aa77ffd08509  
   Thoughts on some potential issues with various component/state patterns (globals, Redux, Flux, Ember), and a sketch of a notional approach that might help solve some of those issues.
+  
+- **Internationalizing React Apps**  
+  https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/  
+  An extended investigation of server and client aspects needed for internationalization.

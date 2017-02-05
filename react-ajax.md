@@ -14,6 +14,14 @@
   http://andrewhfarmer.com/ajax-libraries/  
   A useful overview of the most popular AJAX libraries, including platform support and feature comparisons.
   
+- **Loading data from APIs in React**  
+  http://javascriptplayground.com/blog/2017/01/http-requests-reactjs/  
+  A 10-minute screencast that demonstrates how to create a component that fetches data from an API and renders it in a page.  Covers how to use the React lifecycle to make requests, using the `fetch` API, and dealing with response successes and failures.
+  
+- **3 Libraries and 3 Ways to handle AJAX in React Apps**  
+  https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps/  
+  Demonstrates three approaches to structuring AJAX calls (root component, containers, and via Redux middleware), and lists three of the most popular AJAX libraries.
+  
 
 #### Request Implementation Examples
   

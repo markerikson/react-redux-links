@@ -44,3 +44,11 @@
 - **JWT Authentication with React + Redux**  
   http://www.thegreatcodeadventure.com/jwt-authentication-with-react-redux/  
   Demonstrates handling sign-in flow, including a dynamic login/logout link, and implementing routes that can only be seen by logged-in users.
+  
+- **Role-based authorization using React-Router**  
+  http://frontendinsights.com/role-based-authorization-using-react-router/  
+  A look at some ways to control component routes based on user roles
+  
+- **Role based authorization in React**  
+  https://hackernoon.com/role-based-authorization-in-react-c70bb7641db4  
+  Some alternative approaches to the previous post, using React component patterns like Higher Order Components to control authorization and rendering

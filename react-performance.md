@@ -111,6 +111,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://60devs.com/pure-component-in-react.html  
   A look into what React.PureComponent is, how it works, and how it can be used to improve performance
   
+- **React at 60FPS**  
+  https://hackernoon.com/react-at-60fps-4e36b8189a4c  
+  A look at several useful techniques for benchmarking and improving React application performance
+  
   
 #### Code Splitting and Progressive Apps
 
