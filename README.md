@@ -198,6 +198,8 @@ If you are new to React, try reading these articles in order.
     Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of managing data immutably. While the title refers to React, most of the writing just deals with plain Javascript concepts.
   - [Javascript and Immutability](http://t4d.io/javascript-and-immutability/)  
     A description of how to properly immutably update objects and arrays using functions like assign and slice
+  - [Redux Docs: Structuring Reducers - Immutable Update Patterns](http://redux.js.org/docs/recipes/reducers/ImmutableUpdatePatterns.html)  
+    Useful examples for doing proper immutable updates, including common mistakes, proper updates of nested data, updates for arrays, and more.  (Helpful for Redux, but not Redux-specific.)
     
 ### Functional Programming
   - [The Little Idea of Functional Programming](http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/)  
