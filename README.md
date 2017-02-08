@@ -230,7 +230,7 @@ If you are new to React, try reading these articles in order.
   - [Getting Started with Redux - Video Series](https://egghead.io/series/getting-started-with-redux)  
     [Getting Started with Redux - Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes)  
     Dan Abramov, the creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos. The linked Github repo contains notes and transcriptions of the videos.
-  - [Building React Applications with Idiomatic Redux - Video Series](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+  - [Building React Applications with Idiomatic Redux - Video Series](https://egghead.io/series/building-react-applications-with-idiomatic-redux)  
     [Building React Applications with Idiomatic Redux - Course Notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes)  
     Dan Abramov's second video tutorial series, continuing directly after the first. Includes lessons on store initial state, using Redux with React Router, using "selector" functions, normalizing state, use of Redux middleware, async action creators, and more. The linked Github repo contains notes and transcriptions of the videos.
   - [A Cartoon Guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)  
