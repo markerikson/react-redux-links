@@ -127,6 +127,10 @@
 - **Typing React Components**  
   https://datarockets.com/blog/typing-react-components  
   Examples of migrating from React PropTypes to Flow, as well as typing Redux usage 
+  
+- **Type-Checking React and Redux with Flow**  
+  https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-1-ad12de935c36  
+  Examples of how to define Flow types for React components.  (Part 2 will cover Redux.)
 
 
 #### Advancing Typing Techniques
@@ -146,6 +150,10 @@
 - **Flow Cookbook**  
   http://sitr.us/2016/12/20/flow-cookbook.html  
   Assorted useful techniques for using Flow types
+  
+- **Secret Flow Types**  
+  https://medium.com/@raxwunter/secret-flow-types-86b2ebb30951  
+  A list of "advanced" Flow type declarations, such as Keys, Diff, and Shape.
   
 
 #### Tool Comparisons
@@ -173,3 +181,7 @@
 - **TypeScript, Flow, and the Importance of Toolchains over Tools**  
   https://dzone.com/articles/typescript-flow-and-the-importance-of-toolchains-o  
   Some thoughts on why type checkers are important, how they differ, and what considerations go into selecting a type checking tool
+  
+- **Refactoring 30000 Lines of JS with types**  
+  https://www.reaktor.com/blog/refactoring-30000-lines-js-types/  
+  A description of the Reaktor team's approach to adding types to their project, their experience with both Typescript and Flow, and why they chose Typescript.

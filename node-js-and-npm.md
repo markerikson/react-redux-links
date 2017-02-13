@@ -39,3 +39,7 @@ NPM 3.7 or later, as that fixes a bug with the progress bar that drastically slo
 - **Understanding NPM**  
   https://unpm.nodesource.com/  
   An interactive visualization that is intended to help you understand the role and scope of NPM.
+  
+- **NPM for Beginners: A Guide for Front-End Developers**  
+  https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/  
+  An excellent introduction to what NPM is, and how to use it for installing and managing package dependencies.

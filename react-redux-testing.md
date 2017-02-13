@@ -166,6 +166,14 @@
   https://medium.com/@suchipi/the-right-way-to-test-react-components-548a4736ab22  
   Excellent advice on how to determine a component's "contract", what aspects of that are worth testing, and how to approach testing that contract.
   
+- **Workship Slides: React and Redux Testing**  
+  http://www.slideshare.net/visualengin/workshop-23-reactjs-react-redux-testing  
+  A slideshow that gives a helpful overview of the React Test Utilities and Enzyme to test React components
+  
+- **Testing React Applications with Jest**  
+  https://auth0.com/blog/testing-react-applications-with-jest/  
+  An in-depth explanation of how to use Jest for React testing, including setup, basic test structure, using Enzyme for rendering React components, mocking, and more.
+  
   
 #### General Testing, Tools, and Setup
 

@@ -71,6 +71,10 @@
 - **When a good plan comes together: React project structure for scaling**  
   http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/  
   More discussion of tradeoffs in various structure approaches.
+  
+- **Structuring and Organizing the React Components Directory**  
+  http://noah-prince-tech-blog.ghost.io/structuring-and-organizing-the-react-components-directory/  
+  Some useful suggestions for folder layout, folder naming, and import handling.
 
   
 #### Project Setup

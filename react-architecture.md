@@ -94,7 +94,7 @@
 - **Thinking Statefully**  
   https://daveceddia.com/thinking-statefully/  
   Some great examples of how to think in declarative/stateful terms (such as passing an `isOpen` prop to a modal instead of calling `open()` ).
-  
+
 
 #### React Best Practices
 
@@ -179,3 +179,15 @@
 - **Tips to Learn React + Redux**  
   https://www.robinwieruch.de/tips-to-learn-react-redux/  
   An extensive and excellent list of suggestions to follow when learning and using React and Redux.  Tips include when to use different component patterns, when to bring in a state management library, Redux state structuring, and much more.
+  
+- **10 Reasons why I moved from Angular to React**  
+  https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react/  
+  Robin Wieruch gives some good thoughts why he chose to focus on React.  A nice overview of some of React's benefits.
+  
+- **Our journey migrating 100K lines of code from AngularJS to React**  
+  https://tech.small-improvements.com/2017/01/25/how-to-migrate-an-angularjs-1-app-to-react/  
+  The Small Improvements team describes how they implemented an Angular>React migration, starting from the bottom up.
+  
+- **Our Best Practices for Writing React Components**  
+  https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8  
+  A description of the MuseFind team's approaches for writing components

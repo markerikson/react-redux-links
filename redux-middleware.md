@@ -42,6 +42,10 @@
   https://vmayakumar.wordpress.com/2016/12/27/redux-middleware/  
   Some analogies for understanding middleware in terms of the OOP "Decorator Pattern" vs  Functional Programming composition
   
+- **Workshop Slides: Redux Middleware**  
+  http://www.slideshare.net/visualengin/workshop-22-reactredux-m  
+  A slideshow that explains how Redux middleware work, with several helpful visualizations
+  
 
 #### Middleware Techniques
 

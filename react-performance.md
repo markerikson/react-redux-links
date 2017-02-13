@@ -115,6 +115,14 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://hackernoon.com/react-at-60fps-4e36b8189a4c  
   A look at several useful techniques for benchmarking and improving React application performance
   
+- **React is Slow, React is Fast: Optimizing React Apps in Practice**  
+  https://medium.com/@francoisz/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba  
+  Some excellent advice on improving React performance.  Covers using React's new Component Profiling capabilities, ways to optimize re-renders, use of Recompose and Reselect, gotchas with JSX and object literals, and more.
+  
+- **Optimizing the Performance of Your React Application**  
+  https://auth0.com/blog/optimizing-react/  
+  Covers several ways to improve perf, including profiling with the React Perf Addons, using correct keys for lists, and use of `shouldComponentUpdate` and `PureComponent`.
+  
   
 #### Code Splitting and Progressive Apps
 
@@ -135,6 +143,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   https://medium.com/front-end-hacking/performance-optimizing-a-react-single-page-app-a68985fa72cc  
   https://medium.com/@ryancollinsio/performance-optimizing-a-react-single-page-app-part-2-92a0f0c83202  
   A series of articles looking at various performance-related topics, including server rendering, asset optimization, code splitting, memoization, and immutable data.
+
+- **Javascript Start-up Performance**  
+  https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201  
+  Addy Osmani digs into the issues involved in parsing and compiling JS scripts on load, discusses how to measure performance, and gives advice for lower parse times.
   
   
 #### Immutable Data

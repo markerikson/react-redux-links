@@ -83,6 +83,13 @@
   https://medium.com/@zlobin/advanced-git-advice-27087a7fbb29  
   A variety of useful tips and commands.
   
+- **A Note about Git Commit Messages**  
+  http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html  
+  Some quick explanations of how to format Git commit messages, and commands where message formatting matters
+  
+- **Git Commit Good Practices**  
+  https://wiki.openstack.org/wiki/GitCommitMessages  
+  A number of good practices to follow when making commits and writing commit messages
   
 ## Specific Techniques
   

@@ -113,6 +113,10 @@
   https://dev.to/kayis/dynamic-imports-with-webpack-2  
   A quick example of how to use dynamic imports to load pages or components at runtime
   
+- **Lazy Loaded React Components with Webpack 2**  
+  https://dev.to/kayis/lazy-loaded-react-components-with-webpack-2  
+  A follow-on to the previous article, showing how to extend the dynamic imports approach to lazily load and render components
+  
   
 #### Bundle Sizes and Visualization
 
@@ -256,6 +260,10 @@
 - **Squeezing Webpack into backend frameworks**  
   https://infinum.co/the-capsized-eight/squeezing-webpack-into-backend-frameworks  
   Covers how to use Webpack to replace the Rails asset pipeline
+  
+- **Easy Offline First Apps with Webpack's Offline Plugin**  
+  https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin  
+  A look at how to use the OfflinePlugin to cache Webpack-generated assets for offline use.
   
   
 #### Webpack Tools

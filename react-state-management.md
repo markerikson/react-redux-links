@@ -42,6 +42,10 @@
 - **React state management patterns**  
   http://vijayt.com/post/react-state-management-patterns/  
   Useful summaries of some common patterns for managing state (encapsulated vs uni-directional flow, single store or multiple stores, shared state between components).
+  
+- **Watch Out for Undefined State**  
+  https://daveceddia.com/watch-out-for-undefined-state/  
+  Discusses the common mistake of making data requests and not having data fields initialized for use in the initial render, and looks at several ways to handle the issue.
 
 
 #### Using `setState`

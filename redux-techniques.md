@@ -109,6 +109,10 @@
 - **GraphQL is not only for Backend**  
   https://riad.blog/2017/01/07/graphql-is-not-only-for-backend-react-redux/  
   A look at how to use GraphQL to query into a Redux store
+  
+- **Dissecting Twitter's Redux Store**  
+  https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1  
+  An informative look at the contents of the Redux store for Twitter's new mobile site
 
 
 #### UI and Widget Implementations
@@ -213,6 +217,13 @@
   http://cmichel.io/using-actions-in-redux-the-correct-way/  
   An interesting trick using ES6 proxies to ensure wrong action types aren't accidentally used.
   
+- **Object Oriented Functional Programming, or, How You Can Use Classes as Redux Reducers**  
+  https://medium.com/@ustunozgur/object-oriented-functional-programming-or-how-can-you-use-classes-as-redux-reducers-23462a5cae85  
+  An exploration of how to use Immutable.js Record classes with methods as Redux reducers.  This is a very non-idiomatic approach, but the article is reasonably informative.
+  
+- **Exploring Interaction History with Redux-DAG-History**  
+  https://blog.atsid.com/exploring-interaction-history-d09a52a7d186  
+  The Microsoft Research group describes a library they built to implement a "branching" approach to application history and undo/redo capabilities.
   
 #### Network Management
 

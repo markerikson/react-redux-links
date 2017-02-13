@@ -174,6 +174,10 @@
   http://erikaybar.name/refactoring-react-extracting-layout-components/  
   Demonstrates creating reusable components that manage some aspects of styling and layout, such as a button with multiple sizes and colors.
   
+- **Share Code between React and React Apps**  
+  https://hackernoon.com/code-reuse-using-higher-order-hoc-and-stateless-functional-components-in-react-and-react-native-6eeb503c665  
+  An exploration of how to refactor code to extract functional components and higher-order components for improved code reuse,  including reusing the same components in both React and React Native apps.
+  
   
 #### Higher-Order Components
 
@@ -288,6 +292,10 @@
 - **Introducing React into an Existing Application**  
   https://medium.com/nthrive-analytics/introducing-react-into-an-existing-application-17490841796e  
   Some examples of how to progressively add React components into an existing jQuery-based application and keep them in sync with the rest of the app.
+  
+- **How to use D3.js in React**  
+  http://cmichel.io/how-to-use-d3js-in-react/  
+  An overview of three ways to integrate D3 into a React app: using React to render, using D3 to render, and a hybrid approach.
   
   
 #### Modal Dialogs

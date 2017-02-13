@@ -79,7 +79,7 @@
   A collection of links to help answer your questions about React, including how to get started
   
 - **Front-End Developer Handbook**  
-  https://www.frontendhandbook.com/  
+  https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/  
   A guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
   
 - **Top Javascript Frameworks and Topics to Learn in 2017**  

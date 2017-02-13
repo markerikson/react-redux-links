@@ -91,6 +91,10 @@
   https://medium.com/mofed/react-redux-architecture-overview-7b3e52004b6e  
   A look at the common pieces that make up a Redux application, with some very useful diagrams to illustrate what they are and how they fit together.
   
+- **React Redux Architecture**  
+  https://github.com/hirviid/react-redux-architecture  
+  Some notes on an opinionated architecture for large React/Redux applications
+  
   
 #### Redux Best Practices
   
@@ -167,6 +171,10 @@
 - **Isn't our code just the BEST**  
   https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9  
   A quirkily-written look at how a dev team rewrote their project using React and Redux, including examples of project structure, component usage, and data normalization
+  
+- **When to Define Action Creators in Redux**  
+  https://daveceddia.com/redux-action-creators/  
+  An excellent overview of why action creators exist, why they’re worth using, and when you can skip them
 
 
 #### Encapsulation and Reusability
@@ -278,3 +286,7 @@
 - **Minimal Redux Setup**  
   https://medium.com/@benevolentNinja/minimal-redux-setup-e6a10fcbcb68  
   Thoughts on using a single reducer and a single "UPDATE" action type
+  
+- **Scaling your Redux App with Ducks**  
+  https://medium.freecodecamp.com/scaling-your-redux-app-with-ducks-6115955638be  
+  An overview of a modified version of the "ducks" architecture, with the contents for a given feature in a folder instead of a single file.

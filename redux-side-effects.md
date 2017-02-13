@@ -71,6 +71,10 @@
   https://medium.com/@northerneyes/the-evolution-of-redux-action-creators-2973018bf2ae  
   A comparison of ways to make action creation testable, looking at redux-thunk, a custom thunk-like middleware, and redux-saga 
   
+- **What is the right way to do asynchronous operations in Redux?**  
+  https://decembersoft.com/posts/what-is-the-right-way-to-do-asynchronous-operations-in-redux/  
+  An excellent look at the most popular libraries for Redux side effects, with comparisons of how each one works.
+  
 
 #### Sagas
 

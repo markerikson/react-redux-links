@@ -28,3 +28,7 @@
 - **React on the Server for Beginners: Build a Universal React and Node App**  
   https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app  
   Details building a React app that renders on both the client and the server
+  
+- **Going Isomorphic with Python and React**  
+  https://dev.to/__amol__/going-isomorphic-with-python-and-react  
+  A look at how to use DukPy and React together to write an isomorphic web application with Python without even installing Node.js.

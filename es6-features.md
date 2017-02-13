@@ -118,6 +118,10 @@
   http://www.zsoltnagy.eu/the-reflect-api-of-es6/  
   An overview of the Reflect API, which allows some complex metaprogramming capabilities.
   
+- **Advanced ES6 Destructuring Techniques**  
+  http://untangled.io/advanced-es6-destructuring-techniques/  
+  Examples of advanced ways to use ES6's destructuring capabilities
+  
   
 #### Generators
 

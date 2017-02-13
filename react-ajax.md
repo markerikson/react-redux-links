@@ -56,5 +56,10 @@
   http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html  
   https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a  
   https://medium.com/@gcanti/slaying-a-ui-antipattern-with-flow-5eed0cfb627b  
-  Three articles by different authors that demonstrate how to handle the common "loading/no data/data" issue with various static typing approaches and FP principles.
+  https://medium.com/@marsbergen/nice-pattern-for-redux-state-b8641b6ff9d1 
+  Articles by different authors that demonstrate how to handle the common "loading/no data/data" issue with various static typing approaches and FP principles.
+  
+- **Better data fetching with RemoteDataJS**  
+  http://javascriptplayground.com/blog/2016/06/remote-data-js/  
+  Examples of how to use the author's RemoteDataJS library to manage request state.  Helpful to see the list of states it tracks, even if you don't use the library.
   

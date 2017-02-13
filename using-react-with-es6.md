@@ -53,6 +53,10 @@
 - **Do you even need that bind?**  
   https://swizec.com/blog/do-you-even-need-that-bind/swizec/7247  
   A dive through React's implementation of event handling, and why callback binding is needed
+  
+- **React without `this`**  
+  https://medium.com/@baronmaximilianwilleford/react-without-this-39a76b8f2160  
+  Examples of how to write components in a style that does not require the `this` keyword.  Not the common approach, but an interesting idea.
 
 #### Method Binding Utilities
 
