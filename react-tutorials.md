@@ -305,3 +305,7 @@ Also see the course sites listed in the [Community Resources](community-resource
 - **Learn Pure React**  
   https://daveceddia.com/learn-pure-react/  
   A paid ebook that lays out a guided step-by-step process for learning React quickly and in the right order, with a focus on the fundamentals of React.
+  
+- **Best ReactJS Books in 2017**  
+  https://reactdom.com/blog/reactjs-books  
+  A list of available React-related books, with some quick reviews.

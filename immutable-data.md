@@ -46,6 +46,10 @@
 - **Javascript Array Methods: Mutating vs Non-Mutating**  
   http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/  
   An overview of how to accomplish add/remove/replace operations on JS arrays, comparing mutable vs immutable approaches to each.
+  
+- **Redux Docs: Immutable Update Patterns**  
+  http://redux.js.org/docs/recipes/reducers/ImmutableUpdatePatterns.html  
+  Some useful examples for correctly updating data immutably, including nested objects, inserting and removing items in arrays, and updating items in arrays, as well as some common mistakes that occur.  Important to know when using Redux, but the info is not Redux-specific.
 
 
 

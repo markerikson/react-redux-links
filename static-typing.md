@@ -131,6 +131,10 @@
 - **Type-Checking React and Redux with Flow**  
   https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-1-ad12de935c36  
   Examples of how to define Flow types for React components.  (Part 2 will cover Redux.)
+  
+- **How the Debugger got into the Flow**  
+  http://jasonlaster.github.io/devtools/js/2017/01/20/typing-the-debugger.html  
+  A look at how the Firefox DevTools team uses Flow to help type their React and Redux code for improved maintainability
 
 
 #### Advancing Typing Techniques
@@ -185,3 +189,7 @@
 - **Refactoring 30000 Lines of JS with types**  
   https://www.reaktor.com/blog/refactoring-30000-lines-js-types/  
   A description of the Reaktor team's approach to adding types to their project, their experience with both Typescript and Flow, and why they chose Typescript.
+  
+- **How we migrated a 200K+ LOC Project to TypeScript**  
+  https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb  
+  The Coherent Labs team discusses the tradeoffs in using static typing for JS code, why they chose TypeScript, and how they approached migrating their codebase to TypeScript.

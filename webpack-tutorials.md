@@ -52,6 +52,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack: It's Not Magic**  
   https://naomiajacobs.github.io/WebpackTalk/    
   An excellent HTML slideshow that explains how Webpack allows you to use code that is nice to write, and transforms it into code that the browser fully understands.  Also looks at how Webpack works conceptually.
+  
+- **Webpack 2**  
+  http://sokra.github.io/slides/webpack2/#3  
+  A slideshow from Webpack's original author.  Describes the basics of Webpack, how it can be used to build Progressive Web Apps, and improve speed and reliability through bundling.
 
 
 #### Basic Tutorials
@@ -145,6 +149,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **A Beginner's Guide to Webpack 2 and Module Bundling**  
   https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/  
   An extended tutorial that covers many Webpack concepts, including basic setup, loaders, plugin, code splitting, and the Webpack Dev Server
+  
+- **From zero to Webpack, one error at a time**  
+  http://www.jumoel.com/2017/zero-to-webpack.html  
+  A tutorial that builds a working Webpack config step-by-step, with explanations of how and why each piece is added.
 
 
 #### Configuration Terms and Concepts

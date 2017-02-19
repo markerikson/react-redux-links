@@ -199,6 +199,10 @@
 - **A comprehensive React-Redux tutorial**  
   https://spapas.github.io/2016/03/02/react-redux-tutorial/  
   A very long, detailed article that digs into Redux's concepts, and builds a book management application in the process.
+  
+- **React and Redux Sagas Authentication App Tutorial**  
+  http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial/  
+  A 3-part tutorial that builds a reasonably complex app, using Redux-Saga, Redux-Form and React-Router, with an emphasis on practical aspects of putting things together.
 
 
 #### Using Redux with non-React Frameworks
@@ -250,6 +254,10 @@
 - **Rebuilding Redux**  
   https://www.spencerdixon.com/blog/rebuilding-redux/  
   A short screencast that demonstrates building a mini-Redux from scratch
+  
+- **Build Alterdux: A Redux-Compatible Library From Scratch**  
+  https://antjanus.com/blog/web-development-tutorials/front-end-development/build-alterdux-redux-like-redux-compatible-library-scratch/  
+  A useful example of building a mini-Redux from the ground up, with explanations of some of the ideas that Redux uses.
 
 
 #### Paid Courses and Books

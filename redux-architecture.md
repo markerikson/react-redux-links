@@ -26,6 +26,10 @@
   http://jaysoo.ca/2015/06/02/why-you-should-care-about-flux/  
   Describes the value in separating "reads" from "writes", and eliminating local state.  Applies to Redux as well.
   
+- **Redux and Why It's Good For You**  
+  https://www.fullstackreact.com/articles/redux-with-mark-erikson/  
+  An introduction to some benefits that Redux can give you when used in a React app, including multiple views of the same data and improved development with hot reloading.
+  
   
 #### Redux Architecture
 

@@ -142,6 +142,10 @@
   https://decembersoft.com/posts/4-tips-for-managing-many-sagas-in-a-react-redux-saga-app/  
   Some useful suggestions for structuring and organizing sagas
   
+- **Implementing feature flags using React and Redux Saga**  
+  http://blog.launchdarkly.com/implementing-feature-flags-in-single-page-apps-using-react-and-redux-saga/  
+  A quick example of how to use sagas to manage feature flag API requests
+  
   
 #### Other Side Effect Approaches
 

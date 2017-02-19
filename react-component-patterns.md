@@ -131,6 +131,10 @@
   https://dev.to/kayis/higher-order-components-and-context-example 
   Examples of using Higher Order Components to pass data to nested components using `context`
   
+- **Context in React Applications**  
+  http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/  
+  An overview of what `context` is, how it works, and when you should use it for passing data
+  
   
 #### Component Categories
 

@@ -27,6 +27,10 @@
   https://github.com/cht8687/React-ES5-To-ES6-Checklist  
   A checklist of steps and changes to refactor your ES5-based React code to use ES6 features
   
+- **React `createClass` vs ES6 Class Components**  
+  https://www.fullstackreact.com/articles/react-create-class-vs-es6-class-components/  
+  A comparison of the different ways to create class components in React, and some of the differences between how they behave (including method binding)
+  
 
 #### Methods and Instance Binding
 

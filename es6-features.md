@@ -56,6 +56,10 @@
   https://auth0.com/blog/a-rundown-of-es6-features/  
   An overview of the features in ES6 and how they can be used.
   
+- **ES6 Summary**  
+  https://github.com/zsolt-nagy/es6-summary  
+  A list of ES6 features and their ES5 equivalents
+  
 
 #### In-Depth Details
 
@@ -121,6 +125,10 @@
 - **Advanced ES6 Destructuring Techniques**  
   http://untangled.io/advanced-es6-destructuring-techniques/  
   Examples of advanced ways to use ES6's destructuring capabilities
+  
+- **ES6 Proxies in Practice**  
+  http://www.zsoltnagy.eu/es6-proxies-in-practice/  
+  An overview of how to use ES6 proxies for advanced use cases, with examples
   
   
 #### Generators
@@ -236,3 +244,7 @@
   https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview  
   https://blog.hospodarets.com/native-ecmascript-modules-new-features  
   An in-depth look at existing module formats, how ES modules work, and how ES modules relate to bundlers like Webpack
+  
+- **Native ECMAScript Modules: dynamic import()**  
+  https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import  
+  Details on how the in-progress `import()` operator will allow dynamic loading of modules.

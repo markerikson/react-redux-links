@@ -31,6 +31,10 @@
   https://medium.com/opengov-developers/how-react-helped-us-scale-a-large-web-app-d89f96c4790a  
   A look at how React has been used to scale the OpenGov app architecture in terms of both users and developers.
   
+- **The Other Reasons We Chose React**  
+  https://wheniwork.engineering/the-other-reasons-we-chose-react-fbb37e570999  
+  A summary of how When I Work evaluated several different frameworks for future development, and the reasons why they picked React
+  
   
 #### Redux/Flux Comparisons
   
@@ -179,6 +183,10 @@ similar structures in ClojureScript.
 - **"Modern JS developer workflow makes me sad"**  
   https://www.reddit.com/r/javascript/comments/5fphiw/modern_js_developer_workflow_makes_me_sad/  
   A fairly well-written rant about problems a dev was experiencing due to complexity of build tools.  There's extended discussion with some excellent suggestions and advice, and ultimately the author was able to resolve some of the complaints about build times and sourcemaps.
+  
+- **"Create an Instagram-like App with React, Node, and Redux"**  
+  https://www.reddit.com/r/javascript/comments/5pyeni/tutorial_create_an_instagramlike_app_with_react/dcvlvzw/  
+  A humorous comment summarizing the benefits of using React over jQuery, and Redux/MobX along with plain React.
   
   
 #### React's PATENTS License

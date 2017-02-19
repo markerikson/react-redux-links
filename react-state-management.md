@@ -46,6 +46,10 @@
 - **Watch Out for Undefined State**  
   https://daveceddia.com/watch-out-for-undefined-state/  
   Discusses the common mistake of making data requests and not having data fields initialized for use in the initial render, and looks at several ways to handle the issue.
+  
+- **How to Work with and Manipulate State in React**  
+  https://www.sitepoint.com/work-with-and-manipulate-state-in-react/  
+  Covers how to access and update state in components, the difference between state and props, and working with stateless components.
 
 
 #### Using `setState`

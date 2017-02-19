@@ -54,6 +54,10 @@
 - **A Brief History of Javascript**  
   https://auth0.com/blog/a-brief-history-of-javascript/  
   Despite the name, it's actually an extended, in-depth history of Javascript's creation and evolution over time.
+  
+- **Glossary of Modern Javascript Concepts: Part 1**  
+  https://auth0.com/blog/glossary-of-modern-javascript-concepts/  
+  An excellent overview and introduction to a number of concepts that are used in modern applications, such as "purity", "state", "immutability", "functional programming", "observables", and more.
 
 #### Suggested Learning Approaches
 

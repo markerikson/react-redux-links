@@ -108,6 +108,10 @@
 - **Git Rebasing and Clean Pull Requests**  
   https://www.jungledisk.com/blog/2016/11/21/git-rebasing-and-clean-prs/  
   Some best practices for cleaning up branches and producing readable commits.
+  
+- **A closer look at git rebase**  
+  https://dev.to/gonedark/a-closer-look-at-git-rebase  
+  An explanation of what "rebasing" is, with some helpful graphics
 
 
 #### E-Books

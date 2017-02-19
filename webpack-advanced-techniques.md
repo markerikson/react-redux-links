@@ -265,6 +265,10 @@
   https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin  
   A look at how to use the OfflinePlugin to cache Webpack-generated assets for offline use.
   
+- **Working with Fonts with Webpack**  
+  https://shellmonger.com/2016/01/22/working-with-fonts-with-webpack/  
+  Explains how to configure Webpack to use external font files.
+  
   
 #### Webpack Tools
 

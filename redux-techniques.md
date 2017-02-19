@@ -145,6 +145,10 @@
   https://medium.com/@itsBenCripps/open-sourcing-a-redux-component-bb82f260ff62  
   Details how the author developed a complex React+Redux grid component, including HTML structure, proper use of Immutable.js for good perf, and lib exports.
   
+- **Scalable Modals with React and Redux**  
+  https://codersmind.com/scalable-modals-react-redux/  
+  Demonstrates implementing the basic Redux modal manager technique described by Dan Abramov in his Stack Overflow answer.
+  
   
 #### Redux and Forms
 
