@@ -2,7 +2,7 @@
 
 
 **Related topics**:
-- [Boilerplates and Starter Kits](./boilerplate-and-starter-kits.md)
+- [Boilerplates and Starter Kits](./boilerplates-and-starter-kits.md)
 - [React Component Patterns](./react-component-patterns.md)
 - [React State Management](./react-state-management.md)
 - [React and Forms](./react-forms.md)
