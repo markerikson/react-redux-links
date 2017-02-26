@@ -51,6 +51,10 @@
   http://redux.js.org/docs/recipes/reducers/ImmutableUpdatePatterns.html  
   Some useful examples for correctly updating data immutably, including nested objects, inserting and removing items in arrays, and updating items in arrays, as well as some common mistakes that occur.  Important to know when using Redux, but the info is not Redux-specific.
 
+- **Immutably setting a value in a JS array (or how an array is also an object)**  
+  https://medium.com/@giltayar/immutably-setting-a-value-in-a-js-array-or-how-an-array-is-also-an-object-55337f4d6702  
+  An example of how `Object.assign` can be used to immutably update an array
+  
 
 
 #### Immutability and React
@@ -67,7 +71,10 @@
   https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c  
   Talks about the issues with mutation, and some ways to update immutably
 
-
+- **Comparing and Modifying Objects in React**  
+  https://blog.komand.com/object-comparison-in-react-js-components  
+  Some examples of comparing objects inside of React's lifecycle methods, and how to update them properly.
+  
 
 #### Immutable Data Libraries
 

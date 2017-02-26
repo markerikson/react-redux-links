@@ -41,6 +41,30 @@
   A quick overview of the three ways to declare React components, and which ones should be preferred.
   
   
+ 
+#### Component Rendering Logic
+  
+- **Dynamically Rendering React Components**  
+  https://wail.es/dynamically-rendering-react-components/  
+  Examples of how to dynamically determine which React component to render
+  
+- **Loading State Trick for Stateless Functional Components in React**  
+  http://kyleshevlin.com/loading-state-trick-for-stateless-functional-components-in-react/  
+  An example of conditionally rendering a spinner component if a list of items is empty
+  
+- **How to Dynamically Render React Components**  
+  http://kyleshevlin.com/how-to-dynamically-render-react-components/  
+  A quick example of how to dynamically decide which component type to render
+  
+- **All the Conditional Renderings in React**  
+  https://www.robinwieruch.de/conditional-rendering-react/  
+  Examples of all the possible ways to conditionally render components
+  
+- **"React render function organization"**  
+  https://gist.github.com/markerikson/47fff93c92286db72b22bab5b02e2da3  
+  My suggested approach for organizing render function logic for clarity and readability
+  
+  
 #### React Component Children
   
 - **Ownership and Children in React**  
@@ -301,6 +325,10 @@
   http://cmichel.io/how-to-use-d3js-in-react/  
   An overview of three ways to integrate D3 into a React app: using React to render, using D3 to render, and a hybrid approach.
   
+- **Renderless Components, or How Logic Doesn't Always Need a UI**  
+  http://kyleshevlin.com/renderless-components/  
+  Shows how you can create components that return null from `render`, and use React's lifecycle methods to drive imperative logic rather than rendering UI.
+  
   
 #### Modal Dialogs
   
@@ -316,13 +344,11 @@
   https://daveceddia.com/open-modal-in-react/  
   An excellent example of how to approach rendering modals in React, by controlling them with props
   
+
+  
   
 #### Other Component Patterns
 
-- **Dynamically Rendering React Components**  
-  https://wail.es/dynamically-rendering-react-components/  
-  Examples of how to dynamically determine which React component to render
-  
 - **The React Controller View Pattern**  
   http://blog.andrewray.me/the-reactjs-controller-view-pattern/  
   Describes using top-level components to hold state and pass it to children as props
@@ -354,3 +380,4 @@
 - **Internationalizing React Apps**  
   https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/  
   An extended investigation of server and client aspects needed for internationalization.
+  

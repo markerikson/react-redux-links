@@ -189,6 +189,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   
 #### Redux Performance
   
+- **Practical Redux, Part 6: Connected Lists, Forms, and Performance**  
+  http://blog.isquaredsoftware.com/2017/01/practical-redux-part-6-connected-lists-forms-and-performance/  
+  Discusses the key considerations for performance in Redux apps, with some examples and pointers to further information.
+  
 - **High Performance Redux**  
   http://somebody32.github.io/high-performance-redux/  
   A detailed HTML slideshow that digs down into React Redux to show how `connect()`'s optimizations work, and has interactive demos to show various approaches.  (Note: the code-related slides advance using the down arrow to step through different lines of code - don't miss that info!)
@@ -238,3 +242,4 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Performance Optimizations in Redux's `mapStateToProps`**  
   http://cmichel.io/performance-optimizations-in-redux-mapstatetoprops/  
   Some quick tips on how to properly cache and memoize selectors for use in `mapState` functions
+  

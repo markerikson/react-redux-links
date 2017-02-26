@@ -56,7 +56,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack 2**  
   http://sokra.github.io/slides/webpack2/#3  
   A slideshow from Webpack's original author.  Describes the basics of Webpack, how it can be used to build Progressive Web Apps, and improve speed and reliability through bundling.
-
+  
 
 #### Basic Tutorials
 
@@ -153,6 +153,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **From zero to Webpack, one error at a time**  
   http://www.jumoel.com/2017/zero-to-webpack.html  
   A tutorial that builds a working Webpack config step-by-step, with explanations of how and why each piece is added.
+  
+- **A Detailed Introduction to Webpack**  
+  https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/  
+  A solid introduction to Webpack's basic concepts and usage, including CLI usage, config file setup, use of loaders and plugins, and chunking for lazy-loading
+
 
 
 #### Configuration Terms and Concepts

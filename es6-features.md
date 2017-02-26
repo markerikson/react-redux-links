@@ -248,3 +248,7 @@
 - **Native ECMAScript Modules: dynamic import()**  
   https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import  
   Details on how the in-progress `import()` operator will allow dynamic loading of modules.
+  
+- **A 10-Minute Primer to JS Module Formats, Loaders, and Bundlers**  
+  http://jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/  
+  A useful introduction to the various module formats and module tools

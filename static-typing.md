@@ -193,3 +193,8 @@
 - **How we migrated a 200K+ LOC Project to TypeScript**  
   https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb  
   The Coherent Labs team discusses the tradeoffs in using static typing for JS code, why they chose TypeScript, and how they approached migrating their codebase to TypeScript.
+  
+- **Why I was looking forward to Flow, and then I wasn't**  
+  https://medium.com/@ckoster22/why-i-was-looking-forward-to-flow-and-then-i-wasnt-7c0a86f2d603  
+  Some useful thoughts on the tradeoffs involved in using Flow
+  

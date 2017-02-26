@@ -15,6 +15,10 @@
   https://egghead.io/series/building-react-applications-with-idiomatic-redux  
   https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes  
   Dan Abramov's second video tutorial series, continuing directly after the first.  Includes lessons on store initial state, using Redux with React Router, using "selector" functions, normalizing state, use of Redux middleware, async action creators, and more.  The linked Github repo contains notes and transcriptions of the videos.
+  
+- **Modern Web Development with React and Redux**  
+  http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/  
+  An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
 
 - **Single State Tree + Flux**  
   http://merrickchristensen.com/articles/single-state-tree.html  
@@ -195,33 +199,18 @@
   http://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/  
   A nifty 8-part series that demonstrates building a CRUD app, including routing, AJAX calls, and the various CRUD aspects.  Very well written, with some useful diagrams as well.
 
-
 - **A comprehensive React-Redux tutorial**  
   https://spapas.github.io/2016/03/02/react-redux-tutorial/  
   A very long, detailed article that digs into Redux's concepts, and builds a book management application in the process.
   
 - **React and Redux Sagas Authentication App Tutorial**  
   http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial/  
+  http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial-part-2/  
   A 3-part tutorial that builds a reasonably complex app, using Redux-Saga, Redux-Form and React-Router, with an emphasis on practical aspects of putting things together.
-
-
-#### Using Redux with non-React Frameworks
-
-- **Redux without React - State Management in Vanilla Javascript**  
-  https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/  
-  A tutorial teaching Redux usage with a plain JS UI layer on top
-
-- **An Adventure in Redux: building redux-adventure**  
-  http://csharperimage.jeremylikness.com/2016/07/an-adventure-in-redux-building-redux.html  
-  Builds a small randomized dungeon game using Redux, TypeScript, and Angular 2
-
-- **Building Redux in TypeScript with Angular 2**  
-  http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/  
-  An extended tutorial that builds up a mini-Redux in TypeScript, then transitions to building an application
-
-- **Managing State in Aurelia: How to Use Aurelia with Redux**  
-  https://www.sitepoint.com/managing-state-aurelia-with-redux/  
-  A tutorial that builds a small Markdown editor three ways: pure Aurelia with data binding, Aurelia with Redux to manage state, and then implementation of undo/redo on top.
+  
+- **Get familiar with React, Redux, and basic personal finance**  
+  https://medium.com/@ryanjyost/react-redux-react-router-and-rainy-day-fund-tutorial-e589f0803306  
+  A tutorial that builds a small financial savings calculation app.
 
 
 #### Redux Implementation Walkthroughs

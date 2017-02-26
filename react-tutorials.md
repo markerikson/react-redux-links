@@ -7,10 +7,14 @@
   https://facebook.github.io/react/docs/hello-world.html  
   https://facebook.github.io/react/tutorial/tutorial.html  
   The official React documentation, recently rewritten with an excellent set of tutorials, explanations, and API information.
+  
+- **Modern Web Development with React and Redux**  
+  http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/  
+  An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
 
 - **React to the Future**  
   http://elijahmanor.com/talks/react-to-the-future/dist/#/  
-  A fantastic HTML slideshow describing what React is, what makes it special, and how to work with it
+  A well-written HTML slideshow describing what React is, what makes it special, and how to work with it
 
 - **React: Getting Started and Concepts**  
   https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
@@ -112,6 +116,10 @@
   http://erikaybar.name/react-101-medium-and-slides/  
   Links to an HTML slideshow and accompanying blog post that introduce just enough info to give you a taste of what React is about.
   
+- **JSX In Depth - an interactive tutorial**  
+  http://blog.klipse.tech/javascript/2016/12/14/jsx.html  
+  An interactive version of the "JSX in Depth" tutorial from the React docs
+  
 
 #### React Concept Overviews
   
@@ -134,6 +142,10 @@
 - **React Cheat Sheet**  
   https://ihatetomatoes.net/react-cheat-sheet-pdf/  
   A downloadable PDF with snippets demonstrating uses of React's syntax and APIs
+  
+- **The philosophy of React**  
+  https://medium.com/@malinnaleach/the-philosophy-of-react-e2c126c61af3  
+  Some high-level overviews of React's concepts, like state, props, and control flow
   
   
 
@@ -271,6 +283,10 @@
   https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-3-322447d14192  
   https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-4-9f843c8c1ccc  
   A tutorial series that introduces React's concepts, using the Create-React-App tool to handle starting the project.
+  
+- **Retrogames Library with Node, React, and Redux: Server API and React Frontend**  
+  https://scotch.io/tutorials/retrogames-library-with-node-react-and-redux-1-server-api-and-react-frontend  
+  Part 1 of a series building an application using Node, React, Redux, and MongoDB with Mongoose.  
   
   
 #### Paid Courses and Books

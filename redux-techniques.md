@@ -35,6 +35,7 @@
   https://onsen.io/blog/react-redux-devtools-with-time-travel/  
   Examples of configuring a Redux store to use the DevTools enhancers, and using both the DevTools components and the browser extension for debugging.
 
+
 #### Reducers
 
 - **Redux Docs: Structuring Reducers**  
@@ -56,6 +57,14 @@
 - **"How to dynamically load reducers for code splitting in a Redux application?"**  
   http://stackoverflow.com/questions/32968016/how-to-dynamically-load-reducers-for-code-splitting-in-a-redux-application  
   Dan Abramov gives a basic exapmle of how to rebuild and replace the root reducer function at runtime
+  
+- **Inject reducer arbitrarily rather than top level for Redux store to replace reducer**  
+  https://medium.com/@jimmy_shen/inject-reducer-arbitrarily-rather-than-top-level-for-redux-store-to-replace-reducer-fdc1060a6a7  
+  A quick example of the basic approach to injecting additional reducers at runtime
+  
+- **State Snapshots in Redux**  
+  http://kyleshevlin.com/state-snapshots-in-redux/  
+  Describes a useful technique for saving copies of state slices on command, and re-applying those copies at a later point to ensure a known starting point for further actions.
   
 
 #### Selectors and Normalization
@@ -152,6 +161,14 @@
   
 #### Redux and Forms
 
+- **Practical Redux, Part 7: Form Change Handling, Data Editing, and Feature Reducers**  
+  http://blog.isquaredsoftware.com/2017/01/practical-redux-part-7-forms-editing-reducers/  
+  Demonstrates how to use a custom form wrapper component to buffer input change events
+  
+- **Practical Redux, Part 8: Form Draft Data Management**  
+  http://blog.isquaredsoftware.com/2017/01/practical-redux-part-8-form-draft-data-management/  
+  Discusses how to implement logic to handle "draft/work-in-progress" data while editing items
+  
 - **Abstracted Form State with Redux-Form**  
   https://speakerdeck.com/erikras/abstracted-form-state-with-redux-form  
   Slides by the author of Redux-Form, discussing how forms work in plain HTML/Javascript, in React, and how the Redux-Form library can integrate them into Redux.
@@ -175,6 +192,10 @@
 - **Using forms in React-Redux: Tips and Tricks**  
   https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6  
   Some helpful suggestions for using Redux-Form to manage forms in a Redux app
+  
+- **Dealing with forms in React/Redux - A simple pattern**  
+  https://medium.com/@jonasjensen/dealing-with-forms-in-react-redux-a-simple-pattern-7b94b393eb26  
+  Helpful examples for writing some simple generic form-handling reducers and action creators
 
   
 #### Other  
@@ -228,6 +249,7 @@
 - **Exploring Interaction History with Redux-DAG-History**  
   https://blog.atsid.com/exploring-interaction-history-d09a52a7d186  
   The Microsoft Research group describes a library they built to implement a "branching" approach to application history and undo/redo capabilities.
+
   
 #### Network Management
 

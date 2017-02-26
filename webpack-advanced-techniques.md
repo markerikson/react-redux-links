@@ -70,6 +70,10 @@
   https://medium.com/@johnstew/webpack-tree-shaking-20914b7a9ca5  
   An explanation of what tree-shaking is, how to configure Webpack to apply it, and how it works.
   
+- **How to optimize Moment.js with Webpack**  
+  https://github.com/jmblog/how-to-optimize-momentjs-with-webpack  
+  Tips on using IgnorePlugin and ContextReplacementPlugin to strip out uneeded locales from Moment
+  
   
 #### Code Splitting and Chunking
 
@@ -117,6 +121,10 @@
   https://dev.to/kayis/lazy-loaded-react-components-with-webpack-2  
   A follow-on to the previous article, showing how to extend the dynamic imports approach to lazily load and render components
   
+- **Vendor and code splitting in Webpack 2**  
+  https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923  
+  An excellent dive into multiple aspects of code splitting, including basic setup, advanced config, and some Webpack gotchas/tips.
+  
   
 #### Bundle Sizes and Visualization
 
@@ -151,6 +159,10 @@
 - **Analyzing and optimizing your Webpack bundle**  
   https://medium.com/@ahmedelgabri/analyzing-optimizing-your-webpack-bundle-8590818af4df  
   Some quick suggestions for using CLI flags to show sizes of bundled chunks, and using webpack-bundle-analyzer and IgnorePlugin to exclude unneeded files.
+  
+- **Avoid Webpack bloat: Optimize your dependencies**  
+  https://www.zillow.com/engineering/webpack-optimize-dependencies/  
+  Tips for tracking bundle sizes and managing dependency handling
   
   
 #### Hot Module Replacement

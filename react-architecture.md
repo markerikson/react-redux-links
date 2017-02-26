@@ -191,3 +191,11 @@
 - **Our Best Practices for Writing React Components**  
   https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8  
   A description of the MuseFind team's approaches for writing components
+  
+- **Lessons Learnt Rewriting a React Library from Scratch**  
+  https://www.codecks.io/blog/2017/lessons-learnt-rewriting-react-lib/  
+  Some suggestions for use of context, embracing components, and writing documentation
+  
+- **10 React mini-patterns**  
+  https://hackernoon.com/10-react-mini-patterns-c1da92f068c5  
+  A collection of simple but useful patterns for writing React code, from basic top-down data flow via props to formatting text for display.

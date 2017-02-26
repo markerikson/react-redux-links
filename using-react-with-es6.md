@@ -61,6 +61,11 @@
 - **React without `this`**  
   https://medium.com/@baronmaximilianwilleford/react-without-this-39a76b8f2160  
   Examples of how to write components in a style that does not require the `this` keyword.  Not the common approach, but an interesting idea.
+  
+- **Use Property Initializers for Cleaner React Components**  
+  https://www.fullstackreact.com/articles/use-property-initializers-for-cleaner-react-components/  
+  A look at how the "Class Properties"/"Property Initializer" syntax allows much cleaner definition of method binding, and how to configure Babel to use that syntax
+  
 
 #### Method Binding Utilities
 

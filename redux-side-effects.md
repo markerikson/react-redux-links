@@ -75,6 +75,18 @@
   https://decembersoft.com/posts/what-is-the-right-way-to-do-asynchronous-operations-in-redux/  
   An excellent look at the most popular libraries for Redux side effects, with comparisons of how each one works.
   
+- **Redux 4 Ways**  
+  https://medium.com/react-native-training/redux-4-ways-95a130da0cdc  
+  Side-by-side comparisons of implementing some basic data fetching using thunks, sagas, observables, and a promise middleware
+  
+- **3 Common Approaches to Side-Effects in Redux**  
+  https://goshakkk.name/redux-side-effect-approaches/  
+  An overview of what "side effects" are, how they relate to Redux, and the most common ways to handle side effects in a Redux app
+  
+- **Redux: Thunk vs Saga**  
+  http://blog.jakegardner.me/redux-thunk-vs-saga/  
+  A couple quick examples showing how to use thunks and sagas for the same task
+  
 
 #### Sagas
 
