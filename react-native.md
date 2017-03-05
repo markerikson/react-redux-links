@@ -27,6 +27,10 @@
   https://www.benwixen.com/articles/distributing-react-native-components-with-native-code/  
   A project layout for redistributable components with native code, that includes unit tests and supports automatic linking.
   
+- **Build an Imgur Client with React Native and MobX**  
+  https://medium.com/react-native-development/build-an-imgur-client-with-react-native-and-mobx-react-native-school-53146d648250  
+  A tutorial that demonstrates build an RN app with MobX for state management, use of RESTful APIs, full-screen images in a ListView, and detection of device orientation
+  
 
   
 #### Specific aspects
@@ -50,3 +54,10 @@
 - **What I learned from building my first React Native App**  
   http://cmichel.io/lessons-from-building-first-react-native-app/  
   A number of informative lessons learned building an app using RN and Redux, including components, performance, workflow, and use of Redux.
+  
+- **Understanding React Native flexbox layout**  
+  https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4  A helpful visual guide to how Flexbox works, both in general and specific to React Native
+  
+- **How to Create An Authentication System and a Persistent User Session with React Native**  
+  http://www.theodo.fr/blog/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/  
+  Demonstrates how to build an app that uses JWT authentication, and persist the token in storage to keep the user logged in

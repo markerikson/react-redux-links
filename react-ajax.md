@@ -63,3 +63,7 @@
   http://javascriptplayground.com/blog/2016/06/remote-data-js/  
   Examples of how to use the author's RemoteDataJS library to manage request state.  Helpful to see the list of states it tracks, even if you don't use the library.
   
+- **Dealing with APIs in React with ReactRemoteData**  
+  http://javascriptplayground.com/blog/2017/03/remote-data-react-components/  
+  The author of the RemoteDataJS libraries shows a small React wrapper he created and how to use it
+  

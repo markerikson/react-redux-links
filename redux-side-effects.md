@@ -176,3 +176,7 @@
 - **A simplified approach to calling APIs with Redux**  
   http://www.sohamkamani.com/blog/2016/06/05/redux-apis/  
   A well-written example of creating a "data service" middleware that handles API requests, as well as examples of handling some request status state.
+  
+- **Elm Architecture with Redux**  
+  https://smallbusinessforum.co/elm-architecture-with-react-redux-redux-loop-645a67070b1a  
+  A short look at how Elm handles side effects, and how Redux-Loop can help implement a similar approach in Redux

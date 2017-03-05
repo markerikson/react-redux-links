@@ -94,6 +94,10 @@
 - **Thinking Statefully**  
   https://daveceddia.com/thinking-statefully/  
   Some great examples of how to think in declarative/stateful terms (such as passing an `isOpen` prop to a modal instead of calling `open()` ).
+  
+- **Just Write Components**  
+  https://medium.com/lystable-product-engineering/just-write-components-75bd7875223e  
+  The Lystable team discusses how consistently writing encapsulated components leads to scalability in application development
 
 
 #### React Best Practices

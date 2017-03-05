@@ -81,3 +81,7 @@
 - **"Best kept React secret: declare state changes separately from component classes"**  
   https://twitter.com/dan_abramov/status/824308413559668744  
   Dan Abramov shows some screenshots that demonstrate how to define state update functions outside a component, then pass them to `setState`
+  
+- **Functional `setState` is the future of React**  
+  https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b  
+  Discusses passing a function to `setState` to perform updates, why that approach is useful, and how that pattern can be used to separate state update logic from component definition

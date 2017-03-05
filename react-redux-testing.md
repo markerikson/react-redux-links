@@ -174,6 +174,14 @@
   https://auth0.com/blog/testing-react-applications-with-jest/  
   An in-depth explanation of how to use Jest for React testing, including setup, basic test structure, using Enzyme for rendering React components, mocking, and more.
   
+- **Never render in React testing again**  
+  https://medium.com/@planttheidea/never-render-in-react-testing-again-fc4bcfc2f71d  
+  Some examples of using higher-order functions to simplify test logic
+  
+- **Low effort, high value: Integration tests in Redux apps**  
+  https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5  
+  A discussion of the benefits of unit tests vs integration tests, with examples of how to test the various aspects of a Redux app
+  
   
 #### General Testing, Tools, and Setup
 

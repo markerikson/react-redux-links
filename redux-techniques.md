@@ -158,6 +158,9 @@
   https://codersmind.com/scalable-modals-react-redux/  
   Demonstrates implementing the basic Redux modal manager technique described by Dan Abramov in his Stack Overflow answer.
   
+- **A Redux-Saga Implementation of Modal Confirmation Dialogs in React**  
+  https://decembersoft.com/posts/a-redux-saga-implementation-of-modal-confirmation-dialogs-in-react-redux/  
+  Some examples of using sagas for controlling flow of async calls and dialog management
   
 #### Redux and Forms
 

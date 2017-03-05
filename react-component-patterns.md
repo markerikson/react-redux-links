@@ -5,7 +5,7 @@
 - **[React Implementation and Concepts](./react-implemenation.md)**: Includes articles that explain the differences between "components", "elements", and "instances"
 
 
-#### Terms and Concepts
+#### Component Terms, Concepts, and Types
 
 - **React Patterns**  
   http://reactpatterns.com/  
@@ -39,6 +39,10 @@
 - **How to declare React Components in 2017**  
   https://medium.com/@npverni/how-to-declare-react-components-in-2017-2a90d9f7984c  
   A quick overview of the three ways to declare React components, and which ones should be preferred.
+  
+- **Building User Interfaces with Pure Functions and Function Composition in React**  
+  https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/  
+  A look at the idea of composing together UIs with simple components, with comparisons to the idea of combining functions together.
   
   
  

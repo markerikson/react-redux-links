@@ -123,6 +123,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://auth0.com/blog/optimizing-react/  
   Covers several ways to improve perf, including profiling with the React Perf Addons, using correct keys for lists, and use of `shouldComponentUpdate` and `PureComponent`.
   
+- **Why Did This React Component Re-Render?**  
+  http://ericlathrop.com/2017/02/why-did-this-react-component-rerender/  
+  A reminder that passing a style object in `render` will usually cause shallow-equality checks to fail, even if the style values are identical
+  
   
 #### Code Splitting and Progressive Apps
 
@@ -147,6 +151,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Javascript Start-up Performance**  
   https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201  
   Addy Osmani digs into the issues involved in parsing and compiling JS scripts on load, discusses how to measure performance, and gives advice for lower parse times.
+  
+- **Improving first load time of a Production React App**  
+  https://hackernoon.com/improving-first-time-load-of-a-production-react-app-part-1-of-2-e7494a7c7ab0  
+  A detailed look at the various approaches used by UrbanClap to improve their load time, including file chunking, on-demand loading, dropping non-critical libraries, and more
   
   
 #### Immutable Data

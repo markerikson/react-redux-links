@@ -206,6 +206,7 @@
 - **React and Redux Sagas Authentication App Tutorial**  
   http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial/  
   http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial-part-2/  
+  http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial-part-3/  
   A 3-part tutorial that builds a reasonably complex app, using Redux-Saga, Redux-Form and React-Router, with an emphasis on practical aspects of putting things together.
   
 - **Get familiar with React, Redux, and basic personal finance**  
