@@ -7,7 +7,7 @@
   https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/  
   A tutorial teaching Redux usage with a plain JS UI layer on top
   
- - **The Easiest Way to Start Using Redux Today**  
+- **The Easiest Way to Start Using Redux Today**  
   https://viktorfonic.com/start-using-redux/  
   A useful tutorial that introduces Redux and demonstrates using it with a jQuery-based UI
    
