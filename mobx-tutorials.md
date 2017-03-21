@@ -89,3 +89,11 @@ A great video to understand the differences between MobX and Redux.
 - **Redux vs MobX**  
   https://medium.com/@himrc/redux-vs-mobx-a42c8950f3  
   Some quick pros and cons of each, links to other discussions, and thoughts on when to use them.
+
+- **ReactConf 2017: MobX vs Redux: Comparing the Opposing Paradigms**  
+  https://www.youtube.com/watch?v=76FRrbY18Bs&index=8&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0  
+  A fantastic presentation by Preethi Kasireddy.  She compares several aspects of Redux and MobX, the general principles behind each, and discusses the pros/cons/tradeoffs in using them.
+  
+- **Redux or MobX: What I learned after refactoring a medium-sized React app**  
+  https://dannyherran.com/2017/03/react-redux-mobx-takeaways/  
+  A useful list of takeaways, pros and cons of each library and the impact on an existing React application.

@@ -50,3 +50,6 @@
   https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a  
   Examples of using a tool called ember-changeset to handle in-progress form edits in conjunction with the ember-redux bindings.
   
+- **Explorations in Adapting Redux to C#**  
+  https://spin.atomicobject.com/2017/03/13/adapting-redux-c-sharp-xamarin/  
+  An informative look at how AtomicObject has a Redux variant in C#

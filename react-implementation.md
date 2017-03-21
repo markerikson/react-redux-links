@@ -117,7 +117,12 @@
 - **React Internals**  
   https://zackargyle.github.io/react-internals-slides/#/  
   An informative slideshow that walks through many aspects of React's implementation and behavior, including rendering, reconciliation, setState, Fiber, and more, with helpful visualizations.
-
+  
+ - **Preact Internals**  
+   https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205  
+   https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b  
+   A series of posts that walk through the Preact codebase and explain its implementation, as well as the component model.
+   
 
 #### React Fiber
   
@@ -136,3 +141,7 @@
 - **Why, What, and How of React Fiber**  
   https://www.youtube.com/watch?v=crM1iRVGpGQ  
   Kent C Dodds interviews Dan Abramov and Andrew Clark about what React Fiber is intended to do, how it works, and what it means for the React codebase.
+  
+- **ReactConf 2017: A Cartoon Intro to Fiber**  
+  https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0  
+  A fantastic presentation by Lin Clark, explaining the core concepts and implementation of React Fiber with cartoon illustrations.

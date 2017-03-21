@@ -93,6 +93,10 @@
   https://goshakkk.name/array-form-inputs/  
   Covers how to build a form that can add and remove entries dynamically, with examples.
   
+- **How to handle forms with just React**  
+  https://medium.com/@everdimension/how-to-handle-forms-with-just-react-ac066c48bd4f  
+  Describes a different approach for reading and managing form data, besides the usual "controlled inputs" pattern, based on the Javascript FormData object.
+  
   
 #### Form Validation
 

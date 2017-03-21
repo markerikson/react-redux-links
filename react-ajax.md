@@ -5,6 +5,10 @@
 - **AJAX Requests in React: How and Where to Fetch Data**  
   https://daveceddia.com/ajax-requests-in-react/  
   An overview of where AJAX requests fit into React usage.
+  
+- **How to make AJAX requests in React?**  
+  https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1  
+  A helpful introduction to making AJAX requests, including libraries to use, where to run requests, and a couple examples of handling "loading..." status.
 
 - **React AJAX Best Practices**  
   http://andrewhfarmer.com/react-ajax-best-practices/  
@@ -21,6 +25,8 @@
 - **3 Libraries and 3 Ways to handle AJAX in React Apps**  
   https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps/  
   Demonstrates three approaches to structuring AJAX calls (root component, containers, and via Redux middleware), and lists three of the most popular AJAX libraries.
+  
+
   
 
 #### Request Implementation Examples

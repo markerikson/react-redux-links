@@ -74,6 +74,10 @@
   https://github.com/jmblog/how-to-optimize-momentjs-with-webpack  
   Tips on using IgnorePlugin and ContextReplacementPlugin to strip out uneeded locales from Moment
   
+- **Declaratively Rendering Earth in 3D, Part 1: Building a Cesium + React App with Webpack**  
+  http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/  
+  Shows how to configure Webpack to load the Cesium 3D globe library, and how to set up a Webpack config that uses DllPlugin to build a separate bundle for Cesium.
+  
   
 #### Code Splitting and Chunking
 
@@ -217,6 +221,10 @@
 - **"Difference between Webpack HMR and React-Hot-Loader?"**  
   https://github.com/facebookincubator/create-react-app/issues/1063#issuecomment-261788083  
   Dan Abramov clarifies that HMR is the API and capability that Webpack gives you, while React-Hot-Loader is a specialized tool that uses the HMR API to automatically add HMR handling to React code.
+  
+- **Hot reload all the things!**  
+  https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0  
+  A tutorial that shows how to use Webpack and HMR to hot-reload both front-end and back-end code for faster development.
 
 
 #### Other Tips and Examples

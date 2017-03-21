@@ -252,3 +252,7 @@
 - **A 10-Minute Primer to JS Module Formats, Loaders, and Bundlers**  
   http://jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/  
   A useful introduction to the various module formats and module tools
+  
+- **History of Javascript: Evolution of JS Modularity**  
+  https://github.com/myshov/history_of_javascript/tree/master/4_evolution_of_js_modularity  
+  A well-researched article that recounts the history and development of Javascript module definition approaches

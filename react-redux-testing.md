@@ -182,6 +182,14 @@
   https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5  
   A discussion of the benefits of unit tests vs integration tests, with examples of how to test the various aspects of a Redux app
   
+- **Testing React/Redux Applications**  
+  https://github.com/leocristofani/testing-react-redux-applications  
+  Several useful resources for testing, including tips/guidelines, a sample application with tests, and links to more resources.
+  
+- **React + TDD = Love**  
+  https://medium.com/@admm/test-driven-development-in-react-is-easy-178c9c520f2f  
+  A tutorial that walks through a TDD-based approach to building components in an application.
+  
   
 #### General Testing, Tools, and Setup
 

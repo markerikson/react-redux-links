@@ -96,6 +96,10 @@
 - **Better docs and static analysis**  
   https://blog.scottnonnenberg.com/better-docs-and-static-analysis/  
   A walk through setting up Flow, some possible problems you might encounter, and ways to customize and improve the typing process.
+  
+- **Flow type cheat sheet**  
+  http://www.saltycrane.com/blog/2016/06/flow-type-cheat-sheet/  
+  A comprehensive list of built-in Flow types
 
 
 #### React, Redux, and Static Types

@@ -251,3 +251,6 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   http://cmichel.io/performance-optimizations-in-redux-mapstatetoprops/  
   Some quick tips on how to properly cache and memoize selectors for use in `mapState` functions
   
+- **Surprising polymorphism in React applications**  
+  https://medium.com/@bmeurer/surprising-polymorphism-in-react-applications-63015b50abc  
+  A Chrome V8 engine developer digs into the nitty-gritty details of how common Redux reducer patterns result in less-optimized behavior from the JS engine running the code.

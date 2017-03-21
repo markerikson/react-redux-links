@@ -41,10 +41,6 @@
   https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71  
   Describes some useful practices for organizing Redux actions, reducers, and selectors.
   
-- **How we reduced boilerplate and handled asynchronous actions with Redux**  
-  https://blog.algolia.com/how-we-reduced-boilerplate-and-handled-asynchronous-actions-with-redux/  
-  A look at conventions that have helped the Algolia team write Redux apps.
-  
 - **10 Tips for Better Redux Architecture**  
   https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44  
   A great article covering when and why to use Redux, benefits, and several tips for a better application architecture.
@@ -310,3 +306,11 @@
 - **Scaling your Redux App with Ducks**  
   https://medium.freecodecamp.com/scaling-your-redux-app-with-ducks-6115955638be  
   An overview of a modified version of the "ducks" architecture, with the contents for a given feature in a folder instead of a single file.
+  
+- **Implementing Redux is tedious. But it doesn't have to be.**  
+  https://medium.com/@jeswin/implementing-redux-is-tedious-but-it-doesnt-have-to-be-33702a1fb1dd  
+  Describes another "minimal Redux" variation.  Definitely not "idiomatic Redux" usage, but a technically valid implementation.  Some discussion of tradeoffs in the comments.
+  
+- **How we reduced boilerplate and handled asynchronous actions with Redux**  
+  https://blog.algolia.com/how-we-reduced-boilerplate-and-handled-asynchronous-actions-with-redux/  
+  A look at conventions that have helped the Algolia team write Redux apps.

@@ -66,6 +66,14 @@
   http://kyleshevlin.com/state-snapshots-in-redux/  
   Describes a useful technique for saving copies of state slices on command, and re-applying those copies at a later point to ensure a known starting point for further actions.
   
+- **"Problems with Flux"**  
+  http://www.code-experience.com/problems-with-flux/  
+  Discusses the idea of having all state updates for an action listed in one place, vs spread throughout the store.  Written shortly after the release of Redux, but definitely relevant.
+  
+- **Redux Tree**  
+  https://blog.shakacode.com/redux-tree-efc9e3d22d6e  
+  Looks at structuring a reducer/state tree as "branches" and "leaves", and introduces the idea of an "interaction" to encapsulate all related state changes for a given action, with a library to implement the idea.
+  
 
 #### Selectors and Normalization
 
@@ -122,6 +130,10 @@
 - **Dissecting Twitter's Redux Store**  
   https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1  
   An informative look at the contents of the Redux store for Twitter's new mobile site
+  
+- **Advanced Redux Entity Normalization**  
+  https://medium.com/@dcousineau/advanced-redux-entity-normalization-f5f1fe2aefc5  
+  Describes a "keyWindow" concept for tracking subsets of entities in state, similar to an SQL "view".  A useful extension to the idea of normalized data.
 
 
 #### UI and Widget Implementations

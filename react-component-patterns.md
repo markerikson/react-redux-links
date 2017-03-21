@@ -68,6 +68,10 @@
   https://gist.github.com/markerikson/47fff93c92286db72b22bab5b02e2da3  
   My suggested approach for organizing render function logic for clarity and readability
   
+- **Simplify complex React components with generators**  
+  https://nvbn.github.io/2017/03/14/react-generators/  
+  An interesting alternative to the usual if/else-type logic for conditionally rendering components, by using ES6 generators to yield the right pieces to render.
+  
   
 #### React Component Children
   
@@ -90,6 +94,15 @@
 - **A deep dive into children in React**  
   http://mxstbr.blog/2017/02/react-children-deepdive/  
   An in-depth look at the power and capabilities of React's `children` prop, and how children can be reused and modified.  Includes several examples and demos.
+  
+- **The "Forwarded Refs" pattern**  
+  https://github.com/reactjs/react-redux/pull/270#issuecomment-175217424  
+  An example of the "forwarded refs" pattern, where a parent component passes a callback through one or more layers of children, it's used as a `ref` callback, and the parent receives the nested DOM element reference directly.
+  
+- **React component composition cheatsheet**  
+  https://github.com/xat/react-component-composition-cheatsheet  
+  A useful list of ways to combine components together
+  
   
   
 #### React Component Lifecycle
@@ -348,7 +361,9 @@
   https://daveceddia.com/open-modal-in-react/  
   An excellent example of how to approach rendering modals in React, by controlling them with props
   
-
+- **Modal window in React from scratch**  
+  https://peteris.rocks/blog/modal-window-in-react-from-scratch/  
+  Walks through creating a Modal component with styling and display logic
   
   
 #### Other Component Patterns
@@ -372,6 +387,10 @@
 - **Functional Components with React stateless functions and Ramda**  
   https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b  
   Examples of using Ramda functions to compose together components
+  
+- **Composing React Components with Ramda**  
+  https://medium.com/let-s-learn/lets-learn-composing-react-components-with-ramda-5db457997554  
+  Another set of examples showing how to use composition of small functional components to create a larger set of behaviors.
   
 - **"What is the ideal way to pass data to a callback prop?**  
   https://gist.github.com/jazlalli/fdee443405680f96d19211daa15d1d38  

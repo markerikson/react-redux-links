@@ -210,6 +210,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   https://blog.flennik.com/the-fine-art-of-the-webpack-2-config-dc4d19d7f172  
   Explains some of the changes in Webpack 2 configuration, and discusses some approaches for handling dev/prod configuration environments.
   
+- **Webpack 2 Loader Variations**  
+  http://andrewhfarmer.com/webpack-2-loader-variations/  
+  A clear and informative overview of the various equivalent ways to write the loader-related parts of a Webpack 2 config file.
+  
   
 #### Webpack Configuration Utilities
 

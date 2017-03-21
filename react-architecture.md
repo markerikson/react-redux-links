@@ -203,3 +203,13 @@
 - **10 React mini-patterns**  
   https://hackernoon.com/10-react-mini-patterns-c1da92f068c5  
   A collection of simple but useful patterns for writing React code, from basic top-down data flow via props to formatting text for display.
+  
+  
+  
+#### React Architecture
+
+- **State Architecture Patterns in React**  
+  https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-a-review-df02c1e193c6  
+  https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-2-the-top-heavy-architecture-flux-and-performance-a388b928ce89  
+  https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-3-articulation-points-zine-and-an-overall-strategy-cf076f906391  
+  A multi-part series that discusses several variations on component and state architecture in detail, with thoughts on the pros and cons of each.
