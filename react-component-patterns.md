@@ -44,6 +44,10 @@
   https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/  
   A look at the idea of composing together UIs with simple components, with comparisons to the idea of combining functions together.
   
+- **React Bits: React patterns, techniques, tips, and tricks**  
+  https://github.com/vasanthk/react-bits  
+  An extensive list of terms, concepts, patterns, and techniques for writing React components, with explanations and examples.  A few of the descriptions are overly opinionated and some items are not things the React team would recommend, but overall an excellent resource.
+  
   
  
 #### Component Rendering Logic
@@ -131,6 +135,10 @@
   https://gist.github.com/bvaughn/923dffb2cd9504ee440791fade8db5f9  
   A table listing the lifecycle methods, when they're called, whether each method allows side effects or state updates, and examples uses for each method
   
+- **React Lifecycle Methods - how and when to use them**  
+  https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1  
+  A helpful description of the major component lifecycle methods, including descriptions of common use cases for each one, and whether you can call `setState` inside.
+  
   
 #### Component Communication
 
@@ -175,6 +183,10 @@
 - **Context in React Applications**  
   http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/  
   An overview of what `context` is, how it works, and when you should use it for passing data
+  
+- **Callback functions in React**  
+  https://medium.com/@thejasonfile/callback-functions-in-react-e822ebede766  
+  Some basic explanations of how a React app uses callback functions to communicate from children to parents
   
   
 #### Component Categories
@@ -299,12 +311,28 @@
   https://dev.to/kayis/higher-order-what  
   A quick introduction to the concept of Higher Order Functions and Components
   
+- **Reusable State with Higher Order Components**  
+  https://daveceddia.com/extract-state-with-higher-order-components/  
+  An easy-to-read explanation of how HOCs work, and examples of how to extract common logic into a reusable HOC
+  
+- **React Patterns - Render Callback**  
+  http://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback  
+  An explanation of the "render callback" or "function as child" pattern, including concepts and example uses
+  
 
 #### Wrapping Non-React Code
 
 - **React and third-party libraries**  
   http://krasimirtsonev.com/blog/article/react-third-party-library-integration  
   Demonstrates how to build a React component that wraps up non-React code like a jQuery UI plugin
+  
+- **Declaratively Rendering Earth in 3D, Part 2: Controlling Cesium with React**  
+  http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-2-cesium-react/  
+  A detailed description of how to create React components that wrap up a 3D globe library, including use of lifecycle methods for controlling imperative non-React APIs.
+  
+- **When to use Ref on a DOM Node in React**  
+  https://www.robinwieruch.de/react-ref-attribute-dom-node/  
+  An explanation of the `ref` property, how to use it to access real DOM nodes, and when you should use it.
   
 - **Using React and jQuery Together**  
   http://tech.oyster.com/using-react-and-jquery-together/  
@@ -345,6 +373,10 @@
 - **Renderless Components, or How Logic Doesn't Always Need a UI**  
   http://kyleshevlin.com/renderless-components/  
   Shows how you can create components that return null from `render`, and use React's lifecycle methods to drive imperative logic rather than rendering UI.
+  
+- **Getting Started with React and Leaflet**  
+  https://www.azavea.com/blog/2016/12/05/getting-started-with-react-and-leaflet/  
+  Examples of how to create React components that interact with the Leaflet maps library.
   
   
 #### Modal Dialogs
@@ -404,3 +436,6 @@
   https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/  
   An extended investigation of server and client aspects needed for internationalization.
   
+- **Creating a cross-domain React component with xcomponent**  
+  https://medium.com/@bluepnume/creating-a-cross-domain-react-component-with-xcomponent-fbcccc4778fd  
+  A look at how to wrap a React component using the xcomponent library, so that it can be rendered and used across domains.

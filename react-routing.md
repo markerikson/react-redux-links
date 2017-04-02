@@ -33,6 +33,10 @@
   https://medium.com/@daveford/react-router-alternative-switch-acd7961f08db  
   Some examples of simply using switch statements and the history API for routing
   
+- **Routing in React, the uncomplicated way**  
+  https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997  
+  Examples of how to implement a custom routing approach, with minimal external dependencies.
+  
   
   
 #### Authentication
@@ -52,3 +56,7 @@
 - **Role based authorization in React**  
   https://hackernoon.com/role-based-authorization-in-react-c70bb7641db4  
   Some alternative approaches to the previous post, using React component patterns like Higher Order Components to control authorization and rendering
+  
+- **Dealing with Authentication in React**  
+  https://medium.com/@nesbtesh/dealing-with-authentication-in-react-cadb679fbc0f  
+  Some short examples of saving an authentication token, writing queries to use and update that token, and checking the token when rendering components.

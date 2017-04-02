@@ -9,6 +9,10 @@
 - **How to make AJAX requests in React?**  
   https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1  
   A helpful introduction to making AJAX requests, including libraries to use, where to run requests, and a couple examples of handling "loading..." status.
+  
+- **Where to fetch Data: componentWillMount vs componentDidMount**  
+  https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/  
+  A quick comparison of when these two lifecycle methods are called, and why AJAX calls should generally be done in `componentDidMount`
 
 - **React AJAX Best Practices**  
   http://andrewhfarmer.com/react-ajax-best-practices/  
@@ -50,6 +54,10 @@
 - **Handling AJAX In Your React Application with Agility**  
   https://hackernoon.com/handling-ajax-in-your-react-application-with-agility-413f1f21fc70  
   Describes three approaches to fetching data in a React app: within a React component, using the Relay GraphQL library, and using Redux middleware
+  
+- **You don't need a fancy framework to use GraphQL with React**  
+  https://edgecoders.com/you-dont-need-a-fancy-framework-to-use-graphql-with-react-b47b436626fb  
+  A detailed explanation of how to construct GraphQL queries in a client and load the data into React components, without using any complicated libraries.
   
 
 #### Handling Request Status with State

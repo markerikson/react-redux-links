@@ -11,6 +11,14 @@
 - **Modern Web Development with React and Redux**  
   http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/  
   An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
+  
+- **30 Days of React**  
+  https://www.fullstackreact.com/30-days-of-react/  
+  A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
+  
+- **Learn Raw React**  
+  http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/  
+  A ground-up React tutorial that leaves out any other related "modern" technologies,  Very recommended if you want to skip the buzzwords and acronyms.
 
 - **React to the Future**  
   http://elijahmanor.com/talks/react-to-the-future/dist/#/  
@@ -23,10 +31,6 @@
 - **React.js for Stupid People**  
   http://blog.andrewray.me/reactjs-for-stupid-people/  
   A high-level overview of what React is, and some pros and cons
-
-- **Learn Raw React**  
-  http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/  
-  A ground-up React tutorial that leaves out any other related "modern" technologies,  Very recommended if you want to skip the buzzwords and acronyms.
 
 - **React.js Tutorial and Guide to the Gotchas**  
   https://zapier.com/engineering/react-js-tutorial-guide-gotchas/  
@@ -47,10 +51,6 @@
 - **Survive.js Training**  
   https://survivejs.github.io/training/#/0  
   An interactive presentation that goes through quick intros to Babel and Webpack before covering React basics, type checking, state management with Redux and MobX, async data, routing, performance, testing, and structuring applications.  
-
-- **Taming the React Setup**  
-  http://developer.telerik.com/featured/taming-react-setup/  
-  Describes seven different setups for writing React code, from simple (plain react.js loaded into the browser), to complex (use of Babel with Webpack or JSPM).
   
 - **React From Zero**  
   https://github.com/kay-is/react-from-zero  
@@ -60,13 +60,9 @@
   https://gist.github.com/danawoodman/9cfddb1a0c934a35f31a  
   A one-page set of simple snippets demonstrating usage of React
   
-- **I Learned How to be Productve in React in a Week and You Can, Too**  
+- **I Learned How to be Productive in React in a Week and You Can, Too**  
   https://css-tricks.com/productive-in-react/  
   A solid article written by a React newcomer, covering the basics, some gotchas, and important takeaways.  Aimed at general web devs who are curious about React.
-  
-- **Getting Started with React the Easy Way**  
-  http://codeutopia.net/blog/2016/01/10/getting-started-with-react-the-easy-way/  
-  Shows the simplest way to load React into a web page and start using it
   
 - **React Enlightenment**  
   http://www.reactenlightenment.com/  
@@ -92,10 +88,6 @@
   https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA  
   A set of video tutorials introducing React concepts
   
-- **How to get Create-React-App to work with your API**  
-  https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/  
-  An example of how to set up a server to work with Create-React-App
-  
 - **A Walk Through My "Just Enough React To Get You Into Trouble" Presentation**  
   http://www.globalnerdy.com/2016/07/22/a-walk-through-my-just-enough-react-to-get-you-into-trouble-presentation-at-tampa-code-camp-2016/  
   A blog post version of a talk introducing React's core concepts, and demoing them in JSFiddle
@@ -103,10 +95,6 @@
 - **React Intro**  
   https://docs.google.com/presentation/d/19DaabQG8CB4INKGpaHao0hIXcB7zmETg4IHOZkF7MPM  
   A slideshow from Lee Byron, one of React's early team members, giving an overview of what React is, how it works, and how it can fit into applications.
-  
-- **Kick-Start React Projects with Create-React-App**  
-  https://www.sitepoint.com/create-react-app/  
-  Some quick tips on how to use Create-React-App to create a new React project and tweak the setup.
   
 - **Events in React**  
   https://www.kirupa.com/react/events_in_react.htm  
@@ -119,6 +107,37 @@
 - **JSX In Depth - an interactive tutorial**  
   http://blog.klipse.tech/javascript/2016/12/14/jsx.html  
   An interactive version of the "JSX in Depth" tutorial from the React docs
+  
+- **React events in depth**  
+  https://www.youtube.com/watch?v=dRo_egw7tBc  
+  A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
+  
+  
+#### React Project Setup
+
+- **Simple React Development in 2017**  
+  https://hackernoon.com/simple-react-development-in-2017-113bd563691f  
+  An excellent set of instructions for setting up a React project with minimal fuss and effort needed.  Includes links to some useful resources, and info on deploying the app to production.
+  
+- **Taming the React Setup**  
+  http://developer.telerik.com/featured/taming-react-setup/  
+  Describes seven different setups for writing React code, from simple (plain react.js loaded into the browser), to complex (use of Babel with Webpack or JSPM).
+  
+- **Kick-Start React Projects with Create-React-App**  
+  https://www.sitepoint.com/create-react-app/  
+  Some quick tips on how to use Create-React-App to create a new React project and tweak the setup.
+  
+- **Getting Started with React the Easy Way**  
+  http://codeutopia.net/blog/2016/01/10/getting-started-with-react-the-easy-way/  
+  Shows the simplest way to load React into a web page and start using it
+  
+- **The Minimal React Webpack Babel Setup**  
+  https://www.robinwieruch.de/minimal-react-webpack-babel-setup/  
+  A clear walkthrough for the key steps needed to set up a useful Webpack+Babel config from scratch for a productive React dev environment.  Very helpful if you choose not to use Create-React-App.
+  
+- **How to get Create-React-App to work with your API**  
+  https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/  
+  An example of how to set up a server to work with Create-React-App
   
 
 #### React Concept Overviews
@@ -265,9 +284,7 @@
   http://react.tips/from-react-to-flux-to-redux/  
   Four implementations of a shopping list application, built with varying approaches to help you see the differences: React/ES5, React/ES6, React/Flux/ES5, React/Redux/ES6.
 
-- **30 Days of React**  
-  https://www.fullstackreact.com/30-days-of-react/  
-  A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
+
   
 - **Create an Instagram-like App with Node.js, React, and Redux**  
   http://www.eloquentwebapp.com/instagram-app-node-react-redux/  

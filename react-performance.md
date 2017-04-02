@@ -127,6 +127,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   http://ericlathrop.com/2017/02/why-did-this-react-component-rerender/  
   A reminder that passing a style object in `render` will usually cause shallow-equality checks to fail, even if the style values are identical
   
+- **React is Slow, React is Fast: Optimizing React Apps in Practice**  
+  https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba  
+  A clear and informative explanation covering multiple aspects of performance, including use of the Chrome DevTools flame graph for visualizing perf, extracting components and implementing `shouldComponentUpdate`, connecting to Redux, and use of Recompose and Reselect to improve performance.
+  
   
 #### Code Splitting and Progressive Apps
 

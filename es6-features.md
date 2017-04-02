@@ -130,6 +130,10 @@
   http://www.zsoltnagy.eu/es6-proxies-in-practice/  
   An overview of how to use ES6 proxies for advanced use cases, with examples
   
+- **ES6 Features - 10 Use Cases for Proxy**  
+  http://dealwithjs.io/es6-features-10-use-cases-for-proxy/  
+  Lists a variety of ways that ES6 proxies can be used, with links to examples
+  
   
 #### Generators
 

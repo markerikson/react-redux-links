@@ -168,6 +168,14 @@
   https://www.zillow.com/engineering/webpack-optimize-dependencies/  
   Tips for tracking bundle sizes and managing dependency handling
   
+- **Webpack bits: getting the most out of the CommonsChunkPlugin**  
+  https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318  
+  Sean Larkin of the core Webpack team shares examples of common bundle size problems, and how to use the CommonsChunkPlugin to extract heavily used libraries into a separate bundle.
+  
+- **Weeding Out Your ES6 Webpack Bundle Sizes**  
+  https://medium.com/lendingtree-engineering/weeding-out-your-es6-webpack-bundle-sizes-62cbc5a62a30  
+  A recap of how adding a couple libraries to a production app resulted in much larger bundles, and some practical steps that can be taken to investigate and improve bundle sizes
+  
   
 #### Hot Module Replacement
 
@@ -288,6 +296,10 @@
 - **Working with Fonts with Webpack**  
   https://shellmonger.com/2016/01/22/working-with-fonts-with-webpack/  
   Explains how to configure Webpack to use external font files.
+  
+- **Working on OkCupid "in production" with Webpack and localhost**  
+  https://tech.okcupid.com/working-on-okcupid-in-production-with-webpack-and-localhost/  
+  Describes setting up Webpack-Dev-Server to serve local files during development in a distributed build system.
   
   
 #### Webpack Tools

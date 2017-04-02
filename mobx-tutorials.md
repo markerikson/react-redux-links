@@ -62,6 +62,10 @@
   https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8  
   MobX creator Michel Weststrate discusses MobX's key concepts, including running all updates synchronously, and potential use of Proxies as a future improvement.
   
+- **Creating a reusable popver system with React and MobX**  
+  https://medium.com/@enitoni/creating-a-reusable-popover-system-with-react-and-mobx-7f47cc3b270d  
+  A useful tutorial on implementing a React modal system driven by MobX state
+  
 
 #### MobX and Redux Comparisons
 
@@ -76,6 +80,10 @@ A great video to understand the differences between MobX and Redux.
 - **Redux or MobX: An attempt to dissolve the confusion**  
   http://www.robinwieruch.de/redux-mobx-confusion/  
   An in-depth comparison of the ideas, concepts, approaches, and use cases for the two state management libraries
+  
+- **MobX vs Redux: Comparing the Opposing Paradigms**  
+  https://www.youtube.com/watch?v=76FRrbY18Bs&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0&index=8  
+  A fantastic presentation by Preethi Kasireddy at ReactConf 2017, comparing the philosophies, concepts, tradeoffs, and use cases for Redux and MobX.
   
 - **Redux vs MobX by example**  
   https://hashnode.com/post/redux-vs-mobx-by-example-part-i-intro-and-exploring-redux-cito5m0nn0sssxi53c7zq7jpr  

@@ -248,7 +248,11 @@
 - **Build Alterdux: A Redux-Compatible Library From Scratch**  
   https://antjanus.com/blog/web-development-tutorials/front-end-development/build-alterdux-redux-like-redux-compatible-library-scratch/  
   A useful example of building a mini-Redux from the ground up, with explanations of some of the ideas that Redux uses.
-
+  
+- **Code your own Redux**  
+  http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/  
+  http://blog.jakoblind.no/2017/03/20/learn-react-redux-by-coding-the-connect-function-yourself/  
+  Another "build a mini-Redux" series, including an explanation of how React-Redux's `connect` function works
 
 #### Paid Courses and Books
 

@@ -40,6 +40,10 @@
   https://blog.realworldfullstack.io/real-world-angular-part-5-light-my-fire-34b0bcb351a8  
   An Angular 2 tutorial that builds an app using Redux and Firebase
   
+- **UI State management with Redux in Angular 2**  
+  https://www.pluralsight.com/guides/front-end-javascript/ui-state-management-with-redux-in-angular-2  
+  An extended article that discusses the benefits of using Redux to manage state, and build an example app that uses Redux to control modals and sidebars.
+  
 #### Other
 
 - **Managing State in Aurelia: How to Use Aurelia with Redux**  

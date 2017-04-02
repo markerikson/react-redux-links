@@ -134,11 +134,20 @@
   
 - **Type-Checking React and Redux with Flow**  
   https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-1-ad12de935c36  
-  Examples of how to define Flow types for React components.  (Part 2 will cover Redux.)
+  https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-2-206ce5f6e705  
+  Examples of how to define Flow types for React components and Redux functions
   
 - **How the Debugger got into the Flow**  
   http://jasonlaster.github.io/devtools/js/2017/01/20/typing-the-debugger.html  
   A look at how the Firefox DevTools team uses Flow to help type their React and Redux code for improved maintainability
+  
+- **Typed Redux: Redux Revisited**  
+  https://www.ajostrow.me/articles/redux-revisited  
+  A follow-up to an earlier post by the author, giving an updated set of thoughts on use of TypeScript with Redux
+  
+- **Type-safe Flux Standard Actions in React**  
+  https://www.triplet.fi/blog/type-safe-flux-standard-actions-fsa-in-react-using-typescript-fsa/  
+  Describes the "Flux Standard Action" concept, and how the TypeScript FSA library can be used to help generate FSAs in a type-safe way.
 
 
 #### Advancing Typing Techniques

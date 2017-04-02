@@ -3,6 +3,11 @@
 (Note: the "linked state mixin" and "two-way binding" approaches described in some of these articles are still valid, but _mostly_ discouraged at this point.  The more idiomatic approach is "one-way data flow" with "controlled inputs".)
 
 
+**Related topics**:
+
+- [Redux Techniques: Redux and Forms](redux-techniques.md#redux-and-forms)
+
+
 #### "Controlled" and "Uncontrolled Inputs
 
 - **React Docs: Forms**  
@@ -96,6 +101,14 @@
 - **How to handle forms with just React**  
   https://medium.com/@everdimension/how-to-handle-forms-with-just-react-ac066c48bd4f  
   Describes a different approach for reading and managing form data, besides the usual "controlled inputs" pattern, based on the Javascript FormData object.
+  
+- **Should a form for editing update the underlying model?**  
+  https://goshakkk.name/react-forms-for-editing/  
+  Some quick thoughts on ways to handle tracking data in a form - whether it should be fully controlled by a parent, or accept the initial values and report them when it's submitted.
+  
+- **Modeling form state in React**  
+  http://beautifulcode.1stdibs.com/2017/03/23/react-form-state/  
+  Examples of how to structure form state to handle values and validation.  Applicable no matter what state management approach is being used.
   
   
 #### Form Validation

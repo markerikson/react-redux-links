@@ -74,6 +74,10 @@
   https://blog.shakacode.com/redux-tree-efc9e3d22d6e  
   Looks at structuring a reducer/state tree as "branches" and "leaves", and introduces the idea of an "interaction" to encapsulate all related state changes for a given action, with a library to implement the idea.
   
+- **Reducer composition with Higher Order Reducers**  
+  https://medium.com/@mange_vibration/reducer-composition-with-higher-order-reducers-35c3977ed08f  
+  Some great examples of writing small functions that can be composed together to perform larger specific reducer tasks, such as providing initial state, filtering, updating specific keys, and more.
+  
 
 #### Selectors and Normalization
 
@@ -129,11 +133,20 @@
   
 - **Dissecting Twitter's Redux Store**  
   https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1  
-  An informative look at the contents of the Redux store for Twitter's new mobile site
+  https://medium.com/@nuncamind/diving-deeper-into-twitters-redux-store-adventures-in-minified-vendor-javascript-67fbac5dc219  
+  An informative look at the contents of the Redux store for Twitter's new mobile site.  The second article shows how to dig through the minified JS to enable use of the Redux DevTools against a production site.
   
 - **Advanced Redux Entity Normalization**  
   https://medium.com/@dcousineau/advanced-redux-entity-normalization-f5f1fe2aefc5  
   Describes a "keyWindow" concept for tracking subsets of entities in state, similar to an SQL "view".  A useful extension to the idea of normalized data.
+  
+- **"Why are you supposed to normalize data in Redux?"**  
+  https://twitter.com/AdamRackis/status/847883670950219776  
+  A Twitter thread with some excellent discussion, explaining why use of normalized data is encouraged with Redux.
+  
+- **Redux Clerk: Reusable action creators and reducers for async CRUD**  
+  https://inside.getambassador.com/redux-clerk-reusable-action-creators-and-reducers-for-async-crud-b0b6954f7056  
+  Discussion of a library that tries to reduce the repetitive nature of async CRUD work in Redux
 
 
 #### UI and Widget Implementations
@@ -173,6 +186,7 @@
 - **A Redux-Saga Implementation of Modal Confirmation Dialogs in React**  
   https://decembersoft.com/posts/a-redux-saga-implementation-of-modal-confirmation-dialogs-in-react-redux/  
   Some examples of using sagas for controlling flow of async calls and dialog management
+  
   
 #### Redux and Forms
 
@@ -277,4 +291,7 @@
   https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9  
   Examples for combining Firebase into a Redux application
   
+- **Introducing Redux Offline: Offline-First Architecture for Progresive Web Applications**  
+  https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0  
+  An excellent blog post explaining the need for better offline behavior in web apps, and introducing a new Redux-based library that helps manage that behavior.
   

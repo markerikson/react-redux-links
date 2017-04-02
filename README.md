@@ -143,6 +143,8 @@ If you are new to React, try reading these articles in order.
     The official React documentation, recently rewritten with an excellent set of tutorials, explanations, and API information.
   - [Create-React-App](https://github.com/facebookincubator/create-react-app)  
     The official project creation tool from the React team.  Allows you to set up a new React project, with no configuration work required.
+  - [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)  
+    An excellent set of instructions for setting up a React project with minimal fuss and effort needed.  Includes links to some useful resources, and info on deploying the app to production.
   - [Modern Web Development with React and Redux](http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/)    
     An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
   - [Learn Raw React](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)  

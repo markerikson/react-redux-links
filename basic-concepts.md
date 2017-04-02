@@ -130,3 +130,7 @@
 - **How to avoid Javascript fatigue and sleep well at night**  
   https://www.javascriptfatigue.club/blog/2016/11/29/how-to-avoid-javascript-fatigue-and-sleep-well-at-night  
   A talk giving suggestions for dealing with learning tools and techologies, including knowing when to stop reading, following specific experts, learning patterns, and focusing on what the real problem is you're trying to solve
+  
+- **How to Manage Javascript Fatigue**  
+  https://auth0.com/blog/how-to-manage-javascript-fatigue/  
+  A description of what "JS fatigue" means in practice, and advice for managing it, including "picking battles", "make something interesting", and "be aware of common concepts".

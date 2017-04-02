@@ -190,6 +190,14 @@
   https://medium.com/@admm/test-driven-development-in-react-is-easy-178c9c520f2f  
   A tutorial that walks through a TDD-based approach to building components in an application.
   
+- **Testing React Applications**  
+  https://blog.logrocket.com/testing-react-applications-part-1-of-3-ebd8397917f3  
+  Describes several types of unit tests that can be written in a React app (component tests, component tests, storybook tests), and the intent and benefits of each.
+  
+- **How to test React and Redux with Redux-Saga and ReactDND**  
+  https://medium.freecodecamp.com/testing-react-and-redux-with-redux-saga-and-reactdnd-whew-dedebcbd78dd  
+  In-depth examples of testing React components using the Teaspoon library, as well as setting up tests for Redux-connected components, Redux-Saga functions, and uses of ReactDND.
+  
   
 #### General Testing, Tools, and Setup
 
