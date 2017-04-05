@@ -11,7 +11,7 @@ You might also want to check out my categorized list of Redux-related addons, li
 #### Getting Started
 - [Basic Concepts and Overviews](basic-concepts.md)
 - [Community Resources](community-resources.md)
-- [Javascript Resources](javascript-resources.md)
+- [JavaScript Resources](javascript-resources.md)
 - [Git Resources and Tutorials](git-resources.md)
 - [Node.js and NPM](node-js-and-npm.md)
 - [Webpack Tutorials](webpack-tutorials.md)
@@ -71,17 +71,17 @@ All of the links in this collection are worth reading, but there's obviously a L
 
 ## Basic Concepts and Learning Approaches
 
-### Overviews of Javascript Tools and Concepts
-  - [State of the Javascript Landscape in 2016](http://www.infoq.com/articles/state-of-javascript-2016)  
-    A very high-level summary of the important terms and technologies that are used in modern Javascript development.
+### Overviews of JavaScript Tools and Concepts
+  - [State of the JavaScript Landscape in 2016](http://www.infoq.com/articles/state-of-javascript-2016)  
+    A very high-level summary of the important terms and technologies that are used in modern JavaScript development.
   - [The \(R\)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/)  
     A slideshow giving an overview of web dev history and modern web dev tools, technologies, and trends.
-  - [Javascript Package Managers 101](https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a)  
+  - [JavaScript Package Managers 101](https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a)  
     An overview of what packages and package managers are, some related terms, and how these tools work.
     
 ### Suggested Learning Approaches
-  - [A Study Plan to Cure Javascript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)  
-    The author of the "State of JS 2016" survey gives an excellent step-by-step study plan to use when learning the Javascript ecosystem.
+  - [A Study Plan to Cure JavaScript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)  
+    The author of the "State of JS 2016" survey gives an excellent step-by-step study plan to use when learning the JavaScript ecosystem.
   - [React How-To](https://github.com/petehunt/react-howto)  
     Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
   - [Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)  
@@ -93,25 +93,25 @@ All of the links in this collection are worth reading, but there's obviously a L
     An extensive and excellent list of suggestions to follow when learning and using React and Redux.  Tips include when to use different component patterns, when to bring in a state management library, Redux state structuring, unit testing, and much more.
 
 
-## Learning Core Javascript (ES5)
+## Learning Core JavaScript (ES5)
 
 ### General Resources
-  - [Mozilla Developer Network: Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-    [Mozilla Developer Network: A Re-Introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)  
-    Mozilla maintains a fantastic set of developer resources for Web technologies, including a comprehensive reference to the Javascript language and a number of associated tutorials. Their "reintroduction to Javascript" article is a great overview of what the language looks like.
-  - [Eric Elliott's Javascript Resource Lists](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)  
-    [Eric Elliott's Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)  
-    Eric Elliott is a strong proponent of Javascript, has written numerous articles about learning and understanding Javascript, and assembled some very useful lists of numerous Javascript resources. (Strong opinions, but has useful info.)
-  - [Wes Bos's Javascript Resource List](http://wesbos.com/learn-javascript)  
-    Speaker and teacher Wes Bos gives links to a number of resources for learning Javascript
+  - [Mozilla Developer Network: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+    [Mozilla Developer Network: A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)  
+    Mozilla maintains a fantastic set of developer resources for Web technologies, including a comprehensive reference to the JavaScript language and a number of associated tutorials. Their "reintroduction to JavaScript" article is a great overview of what the language looks like.
+  - [Eric Elliott's JavaScript Resource Lists](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)  
+    [Eric Elliott's Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)  
+    Eric Elliott is a strong proponent of JavaScript, has written numerous articles about learning and understanding JavaScript, and assembled some very useful lists of numerous JavaScript resources. (Strong opinions, but has useful info.)
+  - [Wes Bos's JavaScript Resource List](http://wesbos.com/learn-javascript)  
+    Speaker and teacher Wes Bos gives links to a number of resources for learning JavaScript
     
 ### Books
-  - [Eloquent Javascript](http://eloquentjavascript.net/)  
-    A full online book teaching Javascript from the ground up. Very recommended.
-  - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)  
-    An online book series intended to teach all aspects of Javascript, including the "tougher" parts.
-  - [Exploring Javascript](http://exploringjs.com/)  
-    Multiple free online books from Dr. Axel Rauschmayer. "Speaking Javascript" covers all of Javascript through ES5; "Exploring ES6" covers ES6 in depth; and other books look at versions of Javascript after ES6 and how to set up an ES6+ development environment.
+  - [Eloquent JavaScript](http://eloquentjavascript.net/)  
+    A full online book teaching JavaScript from the ground up. Very recommended.
+  - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)  
+    An online book series intended to teach all aspects of JavaScript, including the "tougher" parts.
+  - [Exploring JavaScript](http://exploringjs.com/)  
+    Multiple free online books from Dr. Axel Rauschmayer. "Speaking JavaScript" covers all of JavaScript through ES5; "Exploring ES6" covers ES6 in depth; and other books look at versions of JavaScript after ES6 and how to set up an ES6+ development environment.
 
 
 ## Learning Current Javascript (ES6+)
@@ -123,7 +123,7 @@ All of the links in this collection are worth reading, but there's obviously a L
     Code snippets comparing ES6 features with their ES5 equivalents
   - [ES6 - The Bits You'll Actually Use](http://jamesknelson.com/es6-the-bits-youll-actually-use/)  
     A quick tour through some of the more useful features in ES6
-  - [A Rundown of Javascript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)  
+  - [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)  
     An overview of the features in ES6 and how they can be used.
     
 ### In-Depth Details
@@ -177,10 +177,10 @@ If you are new to React, try reading these articles in order.
     Another fantastic HTML slideshow describing the three principles of React: "functional over OOP", "stateless over stateful", "clarity over brevity" (use arrow keys to advance slides)
     
 ### Function Binding and `this`
-  - [Gentle Explanation of `this` keyword in Javascript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)  
+  - [Gentle Explanation of `this` keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)  
     A long and in-depth explanation of the various ways that the `this`  keyword can be defined
-  - [The Inner Workings of Javascript's `this` keyword](https://www.sitepoint.com/inner-workings-javascripts-this-keyword/)  
-    [Mastering Javascript's `this` keyword](https://www.sitepoint.com/mastering-javascripts-this-keyword/)  
+  - [The Inner Workings of JavaScript's `this` keyword](https://www.sitepoint.com/inner-workings-javascripts-this-keyword/)  
+    [Mastering JavaScript's `this` keyword](https://www.sitepoint.com/mastering-javascripts-this-keyword/)  
     A two-part article on the ins and outs of `this`.
   - [Why and How to Bind Methods in your React Component Classes](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)  
     A good look at function binding in JS, and how it works with React
@@ -198,7 +198,7 @@ If you are new to React, try reading these articles in order.
 ### Immutable Data
   - [Pros and Cons of Using Immutability With React](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)  
     Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of managing data immutably. While the title refers to React, most of the writing just deals with plain Javascript concepts.
-  - [Javascript and Immutability](http://t4d.io/javascript-and-immutability/)  
+  - [JavaScript and Immutability](http://t4d.io/javascript-and-immutability/)  
     A description of how to properly immutably update objects and arrays using functions like assign and slice
   - [Redux Docs: Structuring Reducers - Immutable Update Patterns](http://redux.js.org/docs/recipes/reducers/ImmutableUpdatePatterns.html)  
     Useful examples for doing proper immutable updates, including common mistakes, proper updates of nested data, updates for arrays, and more.  (Helpful for Redux, but not Redux-specific.)
