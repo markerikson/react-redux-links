@@ -149,6 +149,10 @@
   https://www.triplet.fi/blog/type-safe-flux-standard-actions-fsa-in-react-using-typescript-fsa/  
   Describes the "Flux Standard Action" concept, and how the TypeScript FSA library can be used to help generate FSAs in a type-safe way.
 
+- **React & Redux in TypeScript - Static Typing Guide**  
+  https://github.com/piotrwitek/react-redux-typescript-guide  
+  A comprehensive guide to static typing "React & Redux" apps using TypeScript
+
 
 #### Advancing Typing Techniques
 
