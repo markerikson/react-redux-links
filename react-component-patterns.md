@@ -319,6 +319,10 @@
   http://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback  
   An explanation of the "render callback" or "function as child" pattern, including concepts and example uses
   
+- **Simplifying life with React render callbacks**  
+  https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55  
+  An overview of several different ways to wrap up components, including cloning children, HOCs, and render callbacks.
+  
 
 #### Wrapping Non-React Code
 

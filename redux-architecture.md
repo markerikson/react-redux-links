@@ -30,6 +30,10 @@
   https://www.fullstackreact.com/articles/redux-with-mark-erikson/  
   An introduction to some benefits that Redux can give you when used in a React app, including multiple views of the same data and improved development with hot reloading.
   
+- **When to use Redux**  
+  https://medium.com/@fastphrase/when-to-use-redux-f0aa70b5b1e2  
+  Some helpful thoughts on when you should use Redux: same app state needed in multiple components, global components that need to be accessed anywhere, too much prop passing, and more.
+  
   
 #### Redux Architecture
 
@@ -314,3 +318,7 @@
 - **How we reduced boilerplate and handled asynchronous actions with Redux**  
   https://blog.algolia.com/how-we-reduced-boilerplate-and-handled-asynchronous-actions-with-redux/  
   A look at conventions that have helped the Algolia team write Redux apps.
+  
+- **Ducks++: Redux Reducer Bundles**  
+  https://medium.com/@DjamelH/ducks-redux-reducer-bundles-44267f080d22  
+  Describes an enhancement to the original "ducks" proposal, adding a string constant to help define where the state is kept in the store.

@@ -110,6 +110,14 @@
   https://c3-tko.github.io/redux-would-you-like-to-know-more/#/  
   A pair of HTML slideshows that discuss some of the problems of storing application state, how Redux can help solve those problems, and several tradeoffs and benefits of using Redux.
   
+- **DevGuides: Introduction to Redux**  
+  http://devguides.io/redux/  
+  A tutorial that covers several aspects of Redux, including actions, reducers, usage with React, and middleware.
+  
+- **React-Redux `connect` explained**  
+  https://www.sohamkamani.com/blog/2017/03/31/react-redux-connect-explained/  
+  A short but clear explanation of what the React-Redux library does, and how its `connect` function works to interact between React components and a Redux store (including several helpful diagrams).
+  
 
 #### Project-Based Tutorials
 
@@ -253,6 +261,14 @@
   http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/  
   http://blog.jakoblind.no/2017/03/20/learn-react-redux-by-coding-the-connect-function-yourself/  
   Another "build a mini-Redux" series, including an explanation of how React-Redux's `connect` function works
+  
+- **Dissecting Redux**  
+  https://medium.com/@jankjr_/dissecting-redux-864039c6cf59  
+  A dive through the source code of Redux looking at the parts that really matter, with discussion of the design decisions and patterns used and what consequences they have.
+  
+- **"Redux without the sanity checks in a single file**  
+  https://gist.github.com/gaearon/ffd88b0e4f00b22c3159  
+  A gist from Dan Abramov, showing how Redux's core logic fits into <100 LOC.
 
 #### Paid Courses and Books
 

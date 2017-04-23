@@ -54,6 +54,10 @@
 - **Lowest Common Ancestor**  
   https://blog.embermap.com/lowest-common-ancestor-fbf5d5313a1  
   An article that discusses the principle of keeping shared state at the "lowest common ancestor" of the components that need it.  Actually talks about Ember, but the concepts are completely applicable to React as well.
+  
+- **Understanding State and Props in React**  
+  https://hackernoon.com/understanding-state-and-props-in-react-94bc09232b9c  
+  A helpful explanation of the difference between "props" and "state".
 
 
 #### Using `setState`
@@ -94,3 +98,11 @@
   https://twitter.com/i/moments/842710066826530816  
   https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82  
   Eric Elliott recently posted a tweet saying that `setState` is bad for learners, and advanced devs have learned to avoid it.  That spawned a large Twitter thread arguing the idea.  Elliott later posted an article explaining his concerns in detail.  Some excellent reading and points to consider all around - the "Moments" link includes a few of the tweets, but the whole thread is worth reading.
+  
+- **Understanding ReactJS: `setState`**  
+  https://medium.com/@baphemot/understanding-reactjs-setstate-a4640451865b  
+  Several helpful tips and concepts for understanding how component state and `setState` work, including how to initialize component state, ways to call `setState`, and common errors.
+  
+- **Stack Overflow: "Do I need to use `setState(function) overload?"**  
+  http://stackoverflow.com/questions/43428456/do-i-need-to-use-setstatefunction-overload-in-this-case/43440790#43440790  
+  Dan Abramov gives a great in-depth answer explaining when and why to pass an updater function to `setState` instead of passing an object

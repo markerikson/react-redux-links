@@ -237,3 +237,7 @@
 - **Web Application Test Strategy**  
   https://blog.scottnonnenberg.com/web-application-test-strategy/  
   Thoughts on a "test pyramid" approach to testing, balancing speed and results between unit tests, integration tests, and automation.
+  
+- **Enzyme vs Unexpected-React**  
+  https://medium.com/@bruderstein/enzyme-vs-unexpected-react-ee9cb099d12b  
+  A comparison of how Enzyme and Unexpected-React are used in testing React components, with arguments in favor of Unexpected-React

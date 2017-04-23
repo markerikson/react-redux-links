@@ -35,6 +35,10 @@
   https://wheniwork.engineering/the-other-reasons-we-chose-react-fbb37e570999  
   A summary of how When I Work evaluated several different frameworks for future development, and the reasons why they picked React
   
+- **When Does a Project Need React?**  
+  https://css-tricks.com/project-need-react/  
+  Some useful thoughts on when it makes sense to use React: when there's lots of state, spaghetti code, or lots of DOM management.
+  
   
 #### Redux/Flux Comparisons
   
@@ -69,6 +73,10 @@
 - **Use Redux before it's too late**  
   https://medium.com/@ian.mundy/use-redux-before-its-too-late-a73d837a06aa  
   A response to the "you may not need Redux" discussions, suggesting that it's worth using Redux because it changes how you think about your data.
+  
+- **The Post-MVC Age**  
+  https://news.realm.io/news/the-post-mvc-age/  
+  A conference talk (video and transcription) that discusses how building apps with components works, how to communicate between them, and how Flux/Redux and Reactive Programming differ from traditional MVC, 
   
 
 #### Comment Threads and Discussions
@@ -187,6 +195,11 @@ similar structures in ClojureScript.
 - **"Create an Instagram-like App with React, Node, and Redux"**  
   https://www.reddit.com/r/javascript/comments/5pyeni/tutorial_create_an_instagramlike_app_with_react/dcvlvzw/  
   A humorous comment summarizing the benefits of using React over jQuery, and Redux/MobX along with plain React.
+  
+- **"Is it a good practice to use Create-React-App for learning?"**  
+  https://news.ycombinator.com/item?id=13944449  
+  https://www.reddit.com/r/reactjs/comments/60vurv/is_using_create_react_app_bad_practice/  
+  My comments addressing why CRA exists, and why it's a good idea to use it when learning React (especially in comparison to a "learn Webpack+Babel first" approach).
   
   
 #### React's PATENTS License

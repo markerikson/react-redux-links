@@ -56,6 +56,10 @@
   https://github.com/chibicode/react-functional-css-protips  
   An essay describing the "functional CSS" approach, pros and cons of using it, and tips for using that approach with React.
   
+- **How we made our product more personalized with CSS Variables and React**  
+  https://medium.com/geckoboard-under-the-hood/how-we-made-our-product-more-personalized-with-css-variables-and-react-b29298fde608  
+  A walkthrough of how to build a themeable application using React components that update CSS variables for dynamic styles
+  
   
 #### JS-Based Approaches
   
@@ -86,6 +90,10 @@
 - **Comparing CSS in JS Solutions**  
   http://ludovf.net/blog/comparing-css-in-js-solutions/  
   An overview of the various CSS-in-JS libraries and how their implementations differ.
+  
+- **CSS in React Comparison Examples**  
+  https://github.com/joeshub/css-in-react  
+  A repo that demonstrates the basics of several different React CSS approaches and libraries.
   
   
 #### Style Libraries

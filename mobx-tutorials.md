@@ -66,6 +66,10 @@
   https://medium.com/@enitoni/creating-a-reusable-popover-system-with-react-and-mobx-7f47cc3b270d  
   A useful tutorial on implementing a React modal system driven by MobX state
   
+- **7 Tips for Using MobX**  
+  https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc  
+  Some helpful tips for using MobX, including using the right reactions, using reactions with names, using strict mode, and more.
+  
 
 #### MobX and Redux Comparisons
 
@@ -105,3 +109,7 @@ A great video to understand the differences between MobX and Redux.
 - **Redux or MobX: What I learned after refactoring a medium-sized React app**  
   https://dannyherran.com/2017/03/react-redux-mobx-takeaways/  
   A useful list of takeaways, pros and cons of each library and the impact on an existing React application.
+  
+- **Comparing Redux and MobX with two CTOs**  
+  https://youtu.be/ZGVwMkrL2n0  
+  A recorded presentation of two CTOs comparing several major aspects of React state management with `setState`, MobX, and Redux
