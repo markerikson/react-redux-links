@@ -100,11 +100,7 @@
   https://gist.github.com/joshdover/235714771d94509a83609b16d232014a  
   https://news.ycombinator.com/item?id=12087437  
   Several useful patterns for testing React components, with discussion on HN.
- 
-- **A Step-by-Step TDD Approach on Testing React Components using Enzyme**  
-  http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/  
-  An excellent article covering TDD, React, and Enzyme.
- 
+  
 - **How to Test React Components Using Jest**  
   https://www.sitepoint.com/test-react-components-jest/  
   An in-depth look at how to set up and use Jest for testing
