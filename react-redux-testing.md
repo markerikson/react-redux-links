@@ -119,7 +119,7 @@
   Some quick tips on switching your testing config to use Jest
   
 - **React UI Testing with Storybook**  
-  https://getstorybook.io/docs/testing/react-ui-testing  
+  https://storybooks.js.org/docs/react-storybook/testing/react-ui-testing
   Looks at using the React Storybook component editor to do UI testing
   
 - **Testing React Components with mocha-webpack**  
