@@ -47,15 +47,19 @@
 - **Testing React Components with Teaspoon and Unexpected**  
   http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/  
   A short but useful look at a couple testing libraries and ways to use them.
-
-- **Unit Testing React Components and Redux Reducers**  
-  http://pebblecode.com/blog/react-redux-unit-testing/  
-  Some basic examples for testing reducers and components.
   
+- **Unit Testing React Components and Redux Reducers**  
+￼  https://web.archive.org/web/20161028043905/http://pebblecode.com/blog/react-redux-unit-testing/  
+￼  Some basic examples for testing reducers and components.
+
 - **Getting Started with TDD in React**  
   https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react  
   Covers a typical Mocha+Chai+JSDOM+Enzyme setup, talks about why/how/what to test, and walks through several examples.
   
+- **Unit Testing Redux Container Components**  
+  https://web.archive.org/web/20161105110913/http://pebblecode.com/blog/testing-redux-containers/  
+  Demonstrates techniques for properly testing Redux-connected React components using a mock store.
+
 - **Testing React Applications**  
   https://youtu.be/KBhHsYlF4mQ  
   A fantastic talk that goes through many important details of trying to test React components under JSDOM.
@@ -71,10 +75,6 @@
 - **Testing React Applications Examples**  
   https://github.com/mxstbr/react-testing  
   A repo showcasing how to test various parts of a common React/Redux app using Mocha, expect and enzyme
-  
-- **Unit Testing Redux Container Components**  
-  http://pebblecode.com/blog/testing-redux-containers/  
-  Demonstrates techniques for properly testing Redux-connected React components using a mock store.
   
 - **React TDD Guide**  
   https://github.com/zpratt/react-tdd-guide  
@@ -100,11 +100,11 @@
   https://gist.github.com/joshdover/235714771d94509a83609b16d232014a  
   https://news.ycombinator.com/item?id=12087437  
   Several useful patterns for testing React components, with discussion on HN.
- 
+
 - **A Step-by-Step TDD Approach on Testing React Components using Enzyme**  
-  http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/  
+  https://web.archive.org/web/20161002211902/http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/  
   An excellent article covering TDD, React, and Enzyme.
- 
+  
 - **How to Test React Components Using Jest**  
   https://www.sitepoint.com/test-react-components-jest/  
   An in-depth look at how to set up and use Jest for testing
@@ -123,7 +123,7 @@
   Some quick tips on switching your testing config to use Jest
   
 - **React UI Testing with Storybook**  
-  https://getstorybook.io/docs/testing/react-ui-testing  
+  https://storybooks.js.org/docs/react-storybook/testing/react-ui-testing
   Looks at using the React Storybook component editor to do UI testing
   
 - **Testing React Components with mocha-webpack**  
