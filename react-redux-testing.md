@@ -47,10 +47,6 @@
 - **Testing React Components with Teaspoon and Unexpected**  
   http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/  
   A short but useful look at a couple testing libraries and ways to use them.
-
-- **Unit Testing React Components and Redux Reducers**  
-  http://pebblecode.com/blog/react-redux-unit-testing/  
-  Some basic examples for testing reducers and components.
   
 - **Getting Started with TDD in React**  
   https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react  
@@ -71,10 +67,6 @@
 - **Testing React Applications Examples**  
   https://github.com/mxstbr/react-testing  
   A repo showcasing how to test various parts of a common React/Redux app using Mocha, expect and enzyme
-  
-- **Unit Testing Redux Container Components**  
-  http://pebblecode.com/blog/testing-redux-containers/  
-  Demonstrates techniques for properly testing Redux-connected React components using a mock store.
   
 - **React TDD Guide**  
   https://github.com/zpratt/react-tdd-guide  
