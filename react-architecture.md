@@ -204,6 +204,14 @@
   https://hackernoon.com/10-react-mini-patterns-c1da92f068c5  
   A collection of simple but useful patterns for writing React code, from basic top-down data flow via props to formatting text for display.
   
+- **8 Tips for Dealing with Large React Codebases**  
+  https://medium.com/@l_e/8-tips-for-dealing-with-large-react-codebases-aed6235500a4  
+  Several useful suggestions, including using guard clauses when rendering, writing descriptive component names, simplifying form change handlers, and more.
+  
+- **How to Organize a Large React Application and Make It Scale**  
+  https://www.sitepoint.com/organize-large-react-application/  
+  A number of practical suggestions for managing large codebases, including build config to simplify imports, folder structures, file naming, Redux, tests, and more.
+  
   
   
 #### React Architecture

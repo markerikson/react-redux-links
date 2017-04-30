@@ -134,3 +134,7 @@
 - **How to Manage Javascript Fatigue**  
   https://auth0.com/blog/how-to-manage-javascript-fatigue/  
   A description of what "JS fatigue" means in practice, and advice for managing it, including "picking battles", "make something interesting", and "be aware of common concepts".
+  
+- **Javascript is a buffet, not the enemy**  
+  https://scriptconf.org/blog/javascript-is-a-buffet-not-the-enemy-chris-heilmann/  
+  An excellent presentation from long-time browser developer Chris Heilmann, offering suggestions for dealing with the modern Javascript world using a buffet as a metaphor.

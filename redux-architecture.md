@@ -322,3 +322,7 @@
 - **Ducks++: Redux Reducer Bundles**  
   https://medium.com/@DjamelH/ducks-redux-reducer-bundles-44267f080d22  
   Describes an enhancement to the original "ducks" proposal, adding a string constant to help define where the state is kept in the store.
+  
+- **Isomorphic Redux**  
+  https://medium.com/@ellisande_poet/isomorphic-redux-fdaadea13bb5  
+  Walks through an implementation of keeping two Redux stores in sync via distributed actions over websockets.

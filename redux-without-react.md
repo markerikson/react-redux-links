@@ -57,3 +57,7 @@
 - **Explorations in Adapting Redux to C#**  
   https://spin.atomicobject.com/2017/03/13/adapting-redux-c-sharp-xamarin/  
   An informative look at how AtomicObject has a Redux variant in C#
+  
+- **Something Useless - Redux Implemented in Elixir**  
+  http://hostiledeveloper.com/2017/04/18/something-useless-redux-implemented-in-elixir.html  
+  An Elixir developor walks through implementing Redux in Elixir

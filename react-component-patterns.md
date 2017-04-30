@@ -323,6 +323,10 @@
   https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55  
   An overview of several different ways to wrap up components, including cloning children, HOCs, and render callbacks.
   
+- **Why you should keep your React components pure by using HOCs**  
+  https://medium.com/@DjamelH/why-you-should-keep-your-react-components-pure-by-using-hocs-67e5c7f80c81  
+  Walks through extracting stateful behavior into an HOC so that it's more reusable and the wrapped components are simpler.
+  
 
 #### Wrapping Non-React Code
 

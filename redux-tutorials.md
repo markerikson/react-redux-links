@@ -232,6 +232,10 @@
   https://gist.github.com/gaearon/1d19088790e70ac32ea636c025ba424e  
   A very simplified version of React Redux's `connect()` function that illustrates the basic implementation
   
+- **Build Yourself a Redux**  
+  https://zapier.com/engineering/how-to-build-redux/  
+  An excellent in-depth "build a mini-Redux" article, which covers not only Redux's core, but also `connect` and middleware as well.
+  
 - **Let's Write Redux!**  
   http://www.jamasoftware.com/blog/lets-write-redux/  
   Walks through writing a miniature version of Redux step-by-step, to help explain the concepts and implementation.

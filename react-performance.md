@@ -198,6 +198,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   https://twitter.com/acemarke/status/806933658204372992  
   An excellent article that describes how Immutable.js's implementation can improve performance while updating large objects, with benchmarks.  There's further good discussion on Reddit, and in the Twitter thread, Immutable.js author Lee Byron confirms that calling `toJS()` is _very_ expensive and should definitely not be used in a Redux `mapState` function.
   
+- **Should I use Immutable.js with Redux?**  
+  https://medium.com/@fastphrase/should-i-use-immutablejs-with-redux-58f88d6fd81e  
+  A well-written comparison of several pros and cons for using Immutable.js, including perf benefits, perf negatives, enforced immutability, and overhead of use.
+  
   
 #### Redux Performance
   
