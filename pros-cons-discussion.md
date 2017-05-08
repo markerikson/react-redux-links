@@ -39,6 +39,10 @@
   https://css-tricks.com/project-need-react/  
   Some useful thoughts on when it makes sense to use React: when there's lots of state, spaghetti code, or lots of DOM management.
   
+- **Which Projects Need React?  All of Them!**  
+  https://css-tricks.com/projects-need-react/  
+  A response to the previous article, suggesting that React has benefits across a wide variety of applications.
+  
   
 #### Redux/Flux Comparisons
   

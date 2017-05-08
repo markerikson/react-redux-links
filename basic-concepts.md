@@ -57,7 +57,8 @@
   
 - **Glossary of Modern Javascript Concepts: Part 1**  
   https://auth0.com/blog/glossary-of-modern-javascript-concepts/  
-  An excellent overview and introduction to a number of concepts that are used in modern applications, such as "purity", "state", "immutability", "functional programming", "observables", and more.
+  https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/  
+  An excellent overview and introduction to a number of concepts that are used in modern applications.  Part 1 covers topics like "purity", "state", "immutability", "functional programming", and "observables".  Part 2 looks at ideas like "1-way data flow vs 2-way binding", "scope", "components", "JIT/AOT compilation", and more.
   
 - **The Tools of the JS Trade**  
   https://dev.to/kayis/the-tools-of-the-js-trade  

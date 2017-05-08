@@ -61,3 +61,11 @@
 - **How to Create An Authentication System and a Persistent User Session with React Native**  
   http://www.theodo.fr/blog/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/  
   Demonstrates how to build an app that uses JWT authentication, and persist the token in storage to keep the user logged in
+  
+- **React Native Effective Patterns**  
+  https://medium.com/the-poli/react-native-effective-patterns-3e0c9db6c32c  
+  Some useful suggestions for writing React Native apps, including use of callbacks, separating navigation from views, use of Redux, and more.
+  
+- **React Native Layout Tricks**  
+  https://www.theodo.fr/blog/2017/04/react-native-layout-tricks/  
+  Helpful examples for achieving specific UI layouts using RN's Flexbox implementation

@@ -131,6 +131,14 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba  
   A clear and informative explanation covering multiple aspects of performance, including use of the Chrome DevTools flame graph for visualizing perf, extracting components and implementing `shouldComponentUpdate`, connecting to Redux, and use of Recompose and Reselect to improve performance.
   
+- **Optimizing React Performance with Stateless Components**  
+  https://www.sitepoint.com/optimizing-react-performance-stateless-components/  
+  Shows the basics of using functional components, discusses why `shouldComponentUpdate` is needed for perf improvements, and demonstrates use of `PureComponent` and the Recompose library as other possible approaches.
+  
+- **Twitter Lite and High Performance React Progressive Web Apps at Scale**  
+  https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3  
+  Excellent advice and information from the Twitter Lite dev team on how they optimized their app, including code splitting, ways to avoid "jank", optimizing React rendering, optimizing Redux usage, and more.
+  
   
 #### Code Splitting and Progressive Apps
 
@@ -201,6 +209,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Should I use Immutable.js with Redux?**  
   https://medium.com/@fastphrase/should-i-use-immutablejs-with-redux-58f88d6fd81e  
   A well-written comparison of several pros and cons for using Immutable.js, including perf benefits, perf negatives, enforced immutability, and overhead of use.
+  
+- **"Performance of immutable data updates"**  
+  https://www.reddit.com/r/javascript/comments/699d6i/whats_a_transducer/dh5nzad/?context=3  
+  Some Reddit comments pointing out that there is always a cost to updating data immutably, but that it's worth considering that cost in the context of the application.
   
   
 #### Redux Performance

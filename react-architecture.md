@@ -222,3 +222,8 @@
   https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-3-articulation-points-zine-and-an-overall-strategy-cf076f906391  
   https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-4-purity-flux-duality-and-dataflow-d06016b3379a  
   A multi-part series that discusses several variations on component and state architecture in detail, with thoughts on the pros and cons of each.
+  
+  
+- **Three Example React Stacks**  
+  http://andrewhfarmer.com/three-example-react-stacks/  
+  Descriptions of three different application/deployment scenarios, and example React library+tool stacks that would be appropriate for each.

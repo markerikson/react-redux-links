@@ -176,6 +176,14 @@
   https://medium.com/lendingtree-engineering/weeding-out-your-es6-webpack-bundle-sizes-62cbc5a62a30  
   A recap of how adding a couple libraries to a production app resulted in much larger bundles, and some practical steps that can be taken to investigate and improve bundle sizes
   
+- **How Webpack's ContextReplacementPlugin works**  
+  https://iamakulov.com/notes/all/webpack-contextreplacementplugin/  
+  An explanation of how ContextReplacementPlugin can be used to alter what files Webpack loads into a bundle.
+  
+- **How to do proper tree-shaking in Webpack 2**  
+  https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21  
+  Explains several important concepts related to tree shaking, and how to configure Webpack and other tools to ensure it happens correctly.
+  
   
 #### Hot Module Replacement
 
@@ -301,6 +309,7 @@
   https://tech.okcupid.com/working-on-okcupid-in-production-with-webpack-and-localhost/  
   Describes setting up Webpack-Dev-Server to serve local files during development in a distributed build system.
   
+
   
 #### Webpack Tools
 

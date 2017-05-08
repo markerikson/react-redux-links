@@ -274,6 +274,14 @@
 - **Exploring Interaction History with Redux-DAG-History**  
   https://blog.atsid.com/exploring-interaction-history-d09a52a7d186  
   The Microsoft Research group describes a library they built to implement a "branching" approach to application history and undo/redo capabilities.
+  
+- **Roll the Dice: Random Numbers in Redux**  
+  https://daveceddia.com/random-numbers-in-redux/  
+  Some excellent examples of how "impure values" like random numbers should fit into a Redux application.
+  
+- **Random in Redux**  
+  https://blog.ohlman.io/random-in-redux-b6b9932ad061  
+  Another quick example of how to use seed values to safely generate random numbers in Redux.
 
   
 #### Network Management

@@ -198,6 +198,15 @@
   https://medium.freecodecamp.com/testing-react-and-redux-with-redux-saga-and-reactdnd-whew-dedebcbd78dd  
   In-depth examples of testing React components using the Teaspoon library, as well as setting up tests for Redux-connected components, Redux-Saga functions, and uses of ReactDND.
   
+- **Simplify your Redux unit testing using Tape**  
+  https://medium.com/@kilkelly/simplify-your-redux-unit-tests-using-tape-ad391aecf446  
+  https://github.com/kilkelly/tape-redux-unit-testing  
+  Some quick examples of using the Tape library to test Redux reducers, with an accompanying example repo
+  
+- **Snapshot Testing React with Jest**  
+  https://daveceddia.com/snapshot-testing-react-with-jest/  
+  An excellent explanation of what "snapshot testing" is, and how to apply it to test React components using Jest
+  
   
 #### General Testing, Tools, and Setup
 
@@ -241,3 +250,7 @@
 - **Enzyme vs Unexpected-React**  
   https://medium.com/@bruderstein/enzyme-vs-unexpected-react-ee9cb099d12b  
   A comparison of how Enzyme and Unexpected-React are used in testing React components, with arguments in favor of Unexpected-React
+  
+- **Jest vs Mocha for React Testing**  
+  https://spin.atomicobject.com/2017/05/02/react-testing-jest-vs-mocha/  
+  A comparison of the strengths and weaknesses of the Jest and Mocha testing frameworks

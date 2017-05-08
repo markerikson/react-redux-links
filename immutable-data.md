@@ -105,3 +105,7 @@
 - **Seamless-Immutable: An Alternative to Immutable.js**  
   https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577  
   Examples of how to use the Seamless-Immutable library, and how it compares to Immutable.js
+  
+- **Using Ramda's `evolve` in Redux reducers to create new state**  
+  https://www.jernejsila.com/2017/02/25/using-ramda-evolve-redux-reducers-creating-new-state/  
+  Some quick examples of how Ramda's API can be used for applying immutable data updates

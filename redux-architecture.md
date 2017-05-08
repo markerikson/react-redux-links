@@ -99,6 +99,10 @@
   https://github.com/hirviid/react-redux-architecture  
   Some notes on an opinionated architecture for large React/Redux applications
   
+- **Redux for state management in large web apps**  
+  https://www.mapbox.com/blog/redux-for-state-management-in-large-web-apps/  
+  Excellent discussion and examples of idiomatic Redux architecture, and how Mapbox applies those approaches to their Mapbox Studio application.
+  
   
 #### Redux Best Practices
   
@@ -187,6 +191,10 @@
 - **3 Things I Learned about Working with Data in Redux**  
   https://dev.bleacherreport.com/3-things-i-learned-about-working-with-data-in-redux-5fa0d5f89c8b  
   Good practices for keeping UI state in components, using Higher-Order Components for reusability, and connecting multiple components at lower levels of the application
+  
+- **Some tips for getting started with Redux**  
+  https://medium.com/@dave.draper20/some-tips-for-getting-started-with-redux-187fa949c0e8  
+  Some excellent suggestions for getting into Redux, including not using it until you need it, use of `connect`, and making sure to call functions that were passed down as props.
 
 
 #### Encapsulation and Reusability

@@ -386,6 +386,10 @@
   https://www.azavea.com/blog/2016/12/05/getting-started-with-react-and-leaflet/  
   Examples of how to create React components that interact with the Leaflet maps library.
   
+- **How (and why) to use D3 with React**  
+  https://hackernoon.com/how-and-why-to-use-d3-with-react-d239eb1ea274  
+  A good overview of some of the libraries and approaches you can make use of to use D3 in a React app
+  
   
 #### Modal Dialogs
   
@@ -405,24 +409,17 @@
   https://peteris.rocks/blog/modal-window-in-react-from-scratch/  
   Walks through creating a Modal component with styling and display logic
   
+- **React Modals**  
+  https://medium.com/@danparkk/react-modals-scalable-customizable-neat-components-f2088d60f3d3  
+  An extended discussion of what concepts are involved in creating modals in web pages, why this can become complex, and how to implement them in a scalable way using React and Redux.
   
-#### Other Component Patterns
-
-- **The React Controller View Pattern**  
-  http://blog.andrewray.me/the-reactjs-controller-view-pattern/  
-  Describes using top-level components to hold state and pass it to children as props
+  
+#### Composing Components with Functional Programming
+  
   
 - **Functional React Series - Part 1: Get your App outta my Component**  
   https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25  
   Part 1 in a series about writing React applications by treating components as functions, not templates.
-  
-- **Make Your React Components Pretty**  
-  https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e  
-  Techniques for making your components easier to read, including using functional components, using JSX spread for props, and use of destructuring.
-  
-- **Component Factories in React.js**  
-  https://github.com/szabototo89/create-it/blob/master/docs/article-full.md  
-  A variation on Dependency Injection for React components
   
 - **Functional Components with React stateless functions and Ramda**  
   https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b  
@@ -431,6 +428,29 @@
 - **Composing React Components with Ramda**  
   https://medium.com/let-s-learn/lets-learn-composing-react-components-with-ramda-5db457997554  
   Another set of examples showing how to use composition of small functional components to create a larger set of behaviors.
+  
+- **Deconstructing the React Component: A Functional Approach to Building React Apps**  
+  https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/  
+  An excellent series that shows how to apply advanced Functional Programming techniques towards combining and composing React components together.
+  
+- **How to add state to functional components using Recompose**  
+  http://blog.jakoblind.no/2017/04/03/how-to-add-state-to-functional-components-using-recompose/  
+  Some quick examples of using the Recompose library to wrap components with additional behavior.
+  
+  
+#### Other Component Patterns
+
+- **The React Controller View Pattern**  
+  http://blog.andrewray.me/the-reactjs-controller-view-pattern/  
+  Describes using top-level components to hold state and pass it to children as props
+
+- **Make Your React Components Pretty**  
+  https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e  
+  Techniques for making your components easier to read, including using functional components, using JSX spread for props, and use of destructuring.
+  
+- **Component Factories in React.js**  
+  https://github.com/szabototo89/create-it/blob/master/docs/article-full.md  
+  A variation on Dependency Injection for React components
   
 - **"What is the ideal way to pass data to a callback prop?**  
   https://gist.github.com/jazlalli/fdee443405680f96d19211daa15d1d38  
@@ -447,3 +467,4 @@
 - **Creating a cross-domain React component with xcomponent**  
   https://medium.com/@bluepnume/creating-a-cross-domain-react-component-with-xcomponent-fbcccc4778fd  
   A look at how to wrap a React component using the xcomponent library, so that it can be rendered and used across domains.
+  

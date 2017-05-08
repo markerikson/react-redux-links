@@ -220,6 +220,10 @@
 - **Get familiar with React, Redux, and basic personal finance**  
   https://medium.com/@ryanjyost/react-redux-react-router-and-rainy-day-fund-tutorial-e589f0803306  
   A tutorial that builds a small financial savings calculation app.
+  
+- **Build a CRUD App Using React, Redux, and FeathersJS**  
+  https://www.sitepoint.com/crud-app-react-redux-feathersjs/  
+  Walks through building a client-server application that uses FeathersJS to set up the server API.
 
 
 #### Redux Implementation Walkthroughs
@@ -273,6 +277,10 @@
 - **"Redux without the sanity checks in a single file**  
   https://gist.github.com/gaearon/ffd88b0e4f00b22c3159  
   A gist from Dan Abramov, showing how Redux's core logic fits into <100 LOC.
+  
+- **Reading Redux: `createStore`**  
+  https://engineering.universe.com/reading-redux-ca160163867e  
+  A guided walkthrough of the code for Redux's `createStore` function
 
 #### Paid Courses and Books
 

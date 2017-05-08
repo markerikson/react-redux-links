@@ -62,6 +62,12 @@
   https://medium.com/@calebmer/write-your-own-react-js-776dbef98b8  
   Some thoughts on why and how you might want to try writing your own React-alike, and some of the tradeoffs involved in writing something like React.
   
+- **Didact: Learning how React works by building it from scratch**  
+  https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5  
+  https://engineering.hexacta.com/didact-element-creation-and-jsx-d05171c55c56  
+  https://engineering.hexacta.com/didact-rendering-dom-elements-91c9aa08323b  
+  An ongoing series of articles showing how to build parts of React's API and implementation, like `createElement`.
+  
   
   
 #### Implementation and Internals
@@ -123,6 +129,10 @@
    https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b  
    A series of posts that walk through the Preact codebase and explain its implementation, as well as the component model.
    
+- **The React Source Code: A Beginner's Walkthrough**  
+  https://medium.com/@ericchurchill/the-react-source-code-a-beginners-walkthrough-i-7240e86f3030  
+  A long, detailed walkthrough of large parts of the React codebase
+   
 
 #### React Fiber
   
@@ -145,3 +155,7 @@
 - **ReactConf 2017: A Cartoon Intro to Fiber**  
   https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0  
   A fantastic presentation by Lin Clark, explaining the core concepts and implementation of React Fiber with cartoon illustrations.
+  
+- **React Fiber: A Closer Look at the New Engine of React**  
+  https://www.infoq.com/news/2017/05/react-fiber-closer-look  
+  A useful summary of the goals and implementation approach for the new React Fiber algorithm
