@@ -103,6 +103,6 @@
   https://medium.com/@baphemot/understanding-reactjs-setstate-a4640451865b  
   Several helpful tips and concepts for understanding how component state and `setState` work, including how to initialize component state, ways to call `setState`, and common errors.
   
-- **Stack Overflow: "Do I need to use `setState(function) overload?"**  
+- **Stack Overflow: "Do I need to use `setState(function)` overload?"**  
   http://stackoverflow.com/questions/43428456/do-i-need-to-use-setstatefunction-overload-in-this-case/43440790#43440790  
   Dan Abramov gives a great in-depth answer explaining when and why to pass an updater function to `setState` instead of passing an object
