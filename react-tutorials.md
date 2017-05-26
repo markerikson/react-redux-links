@@ -20,10 +20,6 @@
   http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/  
   A ground-up React tutorial that leaves out any other related "modern" technologies,  Very recommended if you want to skip the buzzwords and acronyms.
   
-- **Modern Web Development with React and Redux**  
-  http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/  
-  An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
-  
 - **React Fundamentals**  
   https://reacttraining.com/online/react-fundamentals  
   A free online course from the React Training company.  Covers key aspects of Javascript, React concepts as of React 15.5, React Router v4, and building and deploying an application.
