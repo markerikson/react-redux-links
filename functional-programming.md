@@ -142,3 +142,7 @@
 - **Imperative vs Declarative Programming**  
   https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea  
   Metaphors, examples, and explanations for the terms "declarative" and "imperative", and how those relate to Functional Programming
+  
+- **Higher-order functions in Lodash**  
+  http://pragmatists.pl/blog/2017/05/higher-order-functions-in-lodash/  
+  An explanation of several FP concepts like partial application and currying, and how Lodash offers utility functions to help make use of those concepts.

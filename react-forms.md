@@ -110,6 +110,10 @@
   http://beautifulcode.1stdibs.com/2017/03/23/react-form-state/  
   Examples of how to structure form state to handle values and validation.  Applicable no matter what state management approach is being used.
   
+- **Better Form Management**  
+  https://medium.com/@robbiedelavictoria/better-form-management-37c994095b1c  
+  A couple useful examples of approaches for simplifying React form handling logic. 
+  
   
 #### Form Validation
 
@@ -137,6 +141,10 @@
 - **Instant form field validation with React's controlled inputs**  
   https://goshakkk.name/instant-form-fields-validation-react/  
   Examples of how to perform validation during rendering, and immediately show which inputs are invalid
+  
+- **Really Dumb Form Validation**  
+  https://medium.com/@l_e/really-dumb-form-validations-739611d2ffcd  
+  Some quick examples of simple but effective form validation handling inside of React components.
   
 
 #### Other

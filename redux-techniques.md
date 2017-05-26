@@ -78,6 +78,10 @@
   https://medium.com/@mange_vibration/reducer-composition-with-higher-order-reducers-35c3977ed08f  
   Some great examples of writing small functions that can be composed together to perform larger specific reducer tasks, such as providing initial state, filtering, updating specific keys, and more.
   
+- **Using Currying to Compose Reducers**  
+  http://www.guyzissman.com/posts/pipe-reducers/  
+  Some short but helpful examples of how currying functions can be used to reuse reducer logic for similar use cases.
+  
 
 #### Selectors and Normalization
 
@@ -147,6 +151,14 @@
 - **Redux Clerk: Reusable action creators and reducers for async CRUD**  
   https://inside.getambassador.com/redux-clerk-reusable-action-creators-and-reducers-for-async-crud-b0b6954f7056  
   Discussion of a library that tries to reduce the repetitive nature of async CRUD work in Redux
+  
+- **json-api-normalizer: An Easy Way To Integrate the JSON API and Redux**  
+  https://www.smashingmagazine.com/2017/05/json-api-normalizer-redux/  
+  An in-depth article discussing why normalization of data is a good practice with Redux, and how use of the JSON API format can make normalized data easier to work with.
+  
+- **How I Stumbled Upon Normalizing Redux State**  
+  http://kyleshevlin.com/how-i-stumbled-upon-normalizing-redux-state/  
+  A short summary of the benefits and concept behind normalizing state
 
 
 #### UI and Widget Implementations
@@ -282,6 +294,15 @@
 - **Random in Redux**  
   https://blog.ohlman.io/random-in-redux-b6b9932ad061  
   Another quick example of how to use seed values to safely generate random numbers in Redux.
+  
+- **Things I learned about Redux: Don't Dispatch from React Lifecycle Methods**  
+  https://github.com/carlsverre/talk-react-redux-learnings  
+  https://docs.google.com/presentation/d/1J82fXkgUKL6-k17ADVtozXMRfMGXnx5R6r5UnOm8z8g/edit?usp=sharing  
+  Resources from an excellent presentation on potential timing issues that result from dispatching Redux actions in React lifecycle methods.  Repo includes sample code demonstrating the issues, and a link to the video of the meetup talk.
+  
+- **Let the Buyer Beware: React Redux Rerender Gotcha**  
+  https://www.nathanl.in/posts/let-the-buyer-beware-react-redux-rerender-gotcha  
+  An article describing some similar concerns regarding timing of Redux actions and React lifecycle methods, especially in regards to tracking loading state.
 
   
 #### Network Management

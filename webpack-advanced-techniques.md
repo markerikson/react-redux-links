@@ -309,6 +309,14 @@
   https://tech.okcupid.com/working-on-okcupid-in-production-with-webpack-and-localhost/  
   Describes setting up Webpack-Dev-Server to serve local files during development in a distributed build system.
   
+- **Predictable long term caching with Webpack**  
+  https://medium.com/@schnibl/predictable-long-term-caching-with-webpack-d3eee1d3fa31  
+  A detailed look at issues that cause caching problems, and how to configure Webpack to get consistent chunk definitions for good caching results
+  
+- **Environment based application configuration using Webpack**  
+  https://kostasbariotis.com/environment-based-application-configuration-using-webpack/  
+  An explanation of how environment-based configuration is useful, and a couple examples of ways to handle config files for varying environments.
+  
 
   
 #### Webpack Tools

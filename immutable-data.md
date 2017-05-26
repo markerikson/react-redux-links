@@ -109,3 +109,7 @@
 - **Using Ramda's `evolve` in Redux reducers to create new state**  
   https://www.jernejsila.com/2017/02/25/using-ramda-evolve-redux-reducers-creating-new-state/  
   Some quick examples of how Ramda's API can be used for applying immutable data updates
+  
+- **How to Use Immutable.js in a React Redux Application**  
+  https://codebrahma.com/how-to-use-immutable-js-in-a-react-redux-application/  
+  Answers to six common questions about why and how to use Immutable.js in a React/Redux app, including whether to keep everything as Immutable.js objects, whether to use it inside of components, and potential benefits of using Immutable.js

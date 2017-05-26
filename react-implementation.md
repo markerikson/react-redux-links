@@ -132,6 +132,10 @@
 - **The React Source Code: A Beginner's Walkthrough**  
   https://medium.com/@ericchurchill/the-react-source-code-a-beginners-walkthrough-i-7240e86f3030  
   A long, detailed walkthrough of large parts of the React codebase
+  
+- **Preact: Into the void 0**  
+  https://youtu.be/LY6y3HbDVmg  
+  A talk by Jason Miller, author of Preact, covering some of the core implementation concepts behind Preact (and other virtual DOM/component libraries), as well as some important aspects for DOM manipulation performance.
    
 
 #### React Fiber

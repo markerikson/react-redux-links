@@ -69,3 +69,7 @@
 - **React Native Layout Tricks**  
   https://www.theodo.fr/blog/2017/04/react-native-layout-tricks/  
   Helpful examples for achieving specific UI layouts using RN's Flexbox implementation
+  
+- **Where does authentication fit in a React Native app?**  
+  https://goshakkk.name/auth-in-react-native-apps/  
+  Some quick thoughts on what authentication involves and how to handle it in an RN app

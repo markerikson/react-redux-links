@@ -431,6 +431,7 @@
   
 - **Deconstructing the React Component: A Functional Approach to Building React Apps**  
   https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/  
+  https://jaysoo.ca/2017/05/10/learn-fp-with-react-part-2/  
   An excellent series that shows how to apply advanced Functional Programming techniques towards combining and composing React components together.
   
 - **How to add state to functional components using Recompose**  

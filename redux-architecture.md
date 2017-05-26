@@ -190,6 +190,7 @@
   
 - **3 Things I Learned about Working with Data in Redux**  
   https://dev.bleacherreport.com/3-things-i-learned-about-working-with-data-in-redux-5fa0d5f89c8b  
+  https://www.reddit.com/r/reactjs/comments/5wgh9a/3_things_i_learned_about_working_with_data_in/  
   Good practices for keeping UI state in components, using Higher-Order Components for reusability, and connecting multiple components at lower levels of the application
   
 - **Some tips for getting started with Redux**  

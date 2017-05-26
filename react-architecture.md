@@ -98,6 +98,10 @@
 - **Just Write Components**  
   https://medium.com/lystable-product-engineering/just-write-components-75bd7875223e  
   The Lystable team discusses how consistently writing encapsulated components leads to scalability in application development
+  
+- **"Thinking in React" - A paradox statement**  
+  https://medium.com/@nimelrian/thinking-in-react-a-paradox-statement-33c19e2eb9e2  
+  Some thoughts on the recent "Flux architecture hampered React innovation" Twitter discussion, including a list of three principles for React components, and tradeoffs of data flow handling.
 
 
 #### React Best Practices
@@ -211,6 +215,10 @@
 - **How to Organize a Large React Application and Make It Scale**  
   https://www.sitepoint.com/organize-large-react-application/  
   A number of practical suggestions for managing large codebases, including build config to simplify imports, folder structures, file naming, Redux, tests, and more.
+  
+- **React Properly**  
+  http://www.benmvp.com/slides/2017/oscon/react-properly.html#/  
+  A presentation by Ben Ilegbodu of Eventbrite, listing several useful best practices like use of ESLint, good structure for render functions, and more.
   
   
   

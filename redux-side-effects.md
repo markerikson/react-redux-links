@@ -91,6 +91,14 @@
   http://blog.jakegardner.me/redux-thunk-vs-saga/  
   A couple quick examples showing how to use thunks and sagas for the same task
   
+- **ReactCasts #10: Redux Thunk Tricks**  
+  https://www.youtube.com/watch?v=xihoZZU0gao  
+  An excellent screencast that covers three useful tips for use of redux-thunk: thunk return values, multi-dispatch, and when to use `getState`
+  
+- **Redux Thunks Dispatching Other Thunks - Discussion and Best Practices**  
+  https://medium.com/@talkol/redux-thunks-dispatching-other-thunks-discussion-and-best-practices-dd6c2b695ecf  
+  Some excellent thoughts on when it's okay to have a thunk dispatch another thunk, and other possible approaches.
+  
 
 #### Sagas
 
@@ -161,6 +169,15 @@
 - **Implementing feature flags using React and Redux Saga**  
   http://blog.launchdarkly.com/implementing-feature-flags-in-single-page-apps-using-react-and-redux-saga/  
   A quick example of how to use sagas to manage feature flag API requests
+  
+- **Javascript Power Tools: Redux-Saga**  
+  http://formidable.com/blog/2017/javascript-power-tools-redux-saga/  
+  http://formidable.com/blog/2017/composition-patterns-in-redux-saga/  
+  A fantastic series that the concepts, implementation, and benefits behind Redux-Saga, including how ES6 generators are used to control function flow, and how sagas can be composed together to accomplish concurrency.
+  
+- **Managing Side Effects with Redux Saga: A Primer**  
+  https://www.sigient.com/blog/managing-side-effects-with-redux-saga-a-primer-1  
+  Looks at how side effects complicate testing, and how sagas use descriptions of side effects to make testing easier.  Also looks at how sagas fit into a Redux application architecture.
   
   
 #### Other Side Effect Approaches

@@ -224,6 +224,10 @@
 - **Build a CRUD App Using React, Redux, and FeathersJS**  
   https://www.sitepoint.com/crud-app-react-redux-feathersjs/  
   Walks through building a client-server application that uses FeathersJS to set up the server API.
+  
+- **Nathan's Guide to Building a React/Redux Application**  
+  https://www.nathanl.in/posts/nathans-guide-to-building-kick-ass-react-applications-part-i  
+  A tutorial intended to bridge the gap between "hello world" tutorials and "real-world" boilerplates.  Covers building a server-rendered React application using Webpack 2, React Router 4, Redux, and ES6.
 
 
 #### Redux Implementation Walkthroughs

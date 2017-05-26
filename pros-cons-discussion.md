@@ -205,6 +205,9 @@ similar structures in ClojureScript.
   https://www.reddit.com/r/reactjs/comments/60vurv/is_using_create_react_app_bad_practice/  
   My comments addressing why CRA exists, and why it's a good idea to use it when learning React (especially in comparison to a "learn Webpack+Babel first" approach).
   
+- **"React/Redux or Angular 2 better for big enterprise project?"**  
+  https://www.reddit.com/r/javascript/comments/5wixxc/reactredux_or_angular_2_better_for_big_enterprise/  
+  Some good discussion on what "enterprise" means, and the relative merits of various frameworks for building enterprise apps.
   
 #### React's PATENTS License
 
