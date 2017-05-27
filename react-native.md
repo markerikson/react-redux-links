@@ -31,6 +31,9 @@
   https://medium.com/react-native-development/build-an-imgur-client-with-react-native-and-mobx-react-native-school-53146d648250  
   A tutorial that demonstrates build an RN app with MobX for state management, use of RESTful APIs, full-screen images in a ListView, and detection of device orientation
   
+- **Mario Diez React Native Spanish**  
+  https://www.youtube.com/c/mariodiezoficial  
+  Tutorials about React Native and complete open source aplications.
 
   
 #### Specific aspects
