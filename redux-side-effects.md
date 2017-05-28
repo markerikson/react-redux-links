@@ -183,6 +183,10 @@
   https://www.sigient.com/blog/managing-side-effects-with-redux-saga-a-primer-1  
   Looks at how side effects complicate testing, and how sagas use descriptions of side effects to make testing easier.  Also looks at how sagas fit into a Redux application architecture.
   
+- **Exploring Redux Sagas**  
+  https://medium.com/onfido-tech/exploring-redux-sagas-cc1fca2015ee  
+  An excellent article that explores how to use sagas to provide a glue layer to implement decoupled business logic in a Redux application.
+  
   
 #### Other Side Effect Approaches
 
