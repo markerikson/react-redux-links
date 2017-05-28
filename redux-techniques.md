@@ -34,6 +34,11 @@
 - **Time Travel in React Redux apps using the Redux DevTools**  
   https://onsen.io/blog/react-redux-devtools-with-time-travel/  
   Examples of configuring a Redux store to use the DevTools enhancers, and using both the DevTools components and the browser extension for debugging.
+  
+- **Redux Logging in Production / Maximizing Debuggability in Redux**  
+  https://blog.logrocket.com/redux-logging-in-production-3b2a4816b713  
+  https://blog.logrocket.com/maximizing-debuggability-with-redux-79b2ad07b64c  
+  A pair of articles discussing a variety of aspects and approaches for debugging Redux apps.  Includes several mentions of the LogRocket service, but also covers other tools and approaches, including building your own analytics pipeline.
 
 
 #### Reducers
@@ -159,6 +164,10 @@
 - **How I Stumbled Upon Normalizing Redux State**  
   http://kyleshevlin.com/how-i-stumbled-upon-normalizing-redux-state/  
   A short summary of the benefits and concept behind normalizing state
+  
+- **React, Reselect, and Redux**  
+  https://medium.com/@parkerdan/react-reselect-and-redux-b34017f8194c  
+  An explanation of how Reselect's memoized selector functions are useful in Redux apps, and how to create unique selector instances for each component instance.
 
 
 #### UI and Widget Implementations

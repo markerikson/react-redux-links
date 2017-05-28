@@ -55,7 +55,9 @@
   https://medium.com/@giltayar/immutably-setting-a-value-in-a-js-array-or-how-an-array-is-also-an-object-55337f4d6702  
   An example of how `Object.assign` can be used to immutably update an array
   
-
+- **ReactCasts #9: Immutability in Javascript**  
+  https://www.youtube.com/watch?v=4LzcQyZ9JOU  
+  A screencast discussing why immutability is important and its benefits.  Compares Javascript's lack of built-in immutability with other languages, and shows how to do immutable operations in plain Javascript.
 
 #### Immutability and React
 
@@ -113,3 +115,7 @@
 - **How to Use Immutable.js in a React Redux Application**  
   https://codebrahma.com/how-to-use-immutable-js-in-a-react-redux-application/  
   Answers to six common questions about why and how to use Immutable.js in a React/Redux app, including whether to keep everything as Immutable.js objects, whether to use it inside of components, and potential benefits of using Immutable.js
+  
+- **Immutable Deep State Updates in React with Ramda.js**  
+  https://vanslaars.io/post/setstate-lenses/  
+  Some excellent examples of how to use Ramda's "lens" functions to define immutable state update logic

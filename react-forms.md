@@ -57,6 +57,10 @@
 - **Collecting data from a wizard form**  
   https://goshakkk.name/wizard-form-collect-info/  
   Examples of how to handle data management for a multi-step form
+  
+- **React Forms: Using Refs**  
+  https://css-tricks.com/react-forms-using-refs/  
+  A quick recap of what "controlled components" are, and some excellent examples of how to use refs to directly access values for different types of inputs in forms
 
 
 #### Form Tutorials and Usage
@@ -113,6 +117,10 @@
 - **Better Form Management**  
   https://medium.com/@robbiedelavictoria/better-form-management-37c994095b1c  
   A couple useful examples of approaches for simplifying React form handling logic. 
+  
+- **Forms in React**  
+  http://presentations.survivejs.com/forms-in-react/#/  
+  Slides for a workshop on approaches for managing forms in React.  Includes summaries of the various major approaches for managing forms, and links to several useful form-related libraries.
   
   
 #### Form Validation

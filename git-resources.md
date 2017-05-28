@@ -91,6 +91,10 @@
   https://wiki.openstack.org/wiki/GitCommitMessages  
   A number of good practices to follow when making commits and writing commit messages
   
+- **Life-Saving Git Tips**  
+  https://www.cuttlesoft.com/life-saving-git-tips/  
+  A variety of useful tips, including use of cherry-picking, local pulling and testing, and use of aliases to simplify tasks
+  
 ## Specific Techniques
   
 - **Git's Patch Mode All the Way**  

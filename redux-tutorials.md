@@ -227,6 +227,7 @@
   
 - **Nathan's Guide to Building a React/Redux Application**  
   https://www.nathanl.in/posts/nathans-guide-to-building-kick-ass-react-applications-part-i  
+  https://www.nathanl.in/posts/building-kickass-react-applications-with-nathan-part-ii-adding-redux  
   A tutorial intended to bridge the gap between "hello world" tutorials and "real-world" boilerplates.  Covers building a server-rendered React application using Webpack 2, React Router 4, Redux, and ES6.
 
 

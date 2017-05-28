@@ -139,6 +139,18 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3  
   Excellent advice and information from the Twitter Lite dev team on how they optimized their app, including code splitting, ways to avoid "jank", optimizing React rendering, optimizing Redux usage, and more.
   
+- **Optimizing React Rendering**  
+  https://flexport.engineering/optimizing-react-rendering-part-1-9634469dca02  
+  Discusses several aspects of improving React rendering performance, including tips for ensuring your codebase is ready to use `PureComponent`.  Has a link to further discussion on HN.
+  
+- **Introducing react-wastage-monitor**  
+  https://blog.listium.com/introducing-react-wastage-monitor-404565d679b2  
+  Describes a number of common perf issues in React apps, and how the react-wastage-monitor library can be used to detect them
+  
+- **Infinite List and React**  
+  http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html  
+  A Twitter developer describes some of the challenges they faced in building a performant infinite scrolling list component
+  
   
 #### Code Splitting and Progressive Apps
 

@@ -18,6 +18,10 @@
   https://speakerdeck.com/alexlande/components-a-styling-odyssey  
   Slideshow discussing pros and cons of various approaches to managing styles for components
   
+- **A Unified Styling Language**  
+  https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660  
+  A fantastic article that reviews why people might want to write their styles in Javascript, explores possible benefits of doing so, and looks at how the "CSS" and "JS" communites can work together going forward.
+  
 
 #### Components and Styling
   
@@ -40,6 +44,10 @@
 - **Orthogonality and CSS in JS**  
   https://benmccormick.org/2017/01/03/orthogonality-and-css-in-js/  
   Some thoughts on the "separation of concerns" concept, and how that relates to defining modular code and components (including styling).
+  
+- **James Kyle's thoughts on styling and components**  
+  https://twitter.com/i/moments/861549552901468160  
+  A Twitter thread from James Kyle, discussing how many of the arguments about styling and components are a result of people building different kinds of applications
   
   
 #### CSS-Based Approaches

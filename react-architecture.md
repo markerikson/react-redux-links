@@ -220,6 +220,10 @@
   http://www.benmvp.com/slides/2017/oscon/react-properly.html#/  
   A presentation by Ben Ilegbodu of Eventbrite, listing several useful best practices like use of ESLint, good structure for render functions, and more.
   
+- **You Can Spread Props in JSX, But Should You?**  
+  https://medium.com/@kylpo/you-can-spread-props-in-jsx-but-should-you-6cc3e766e281  
+  Some thoughts on the pros and cons of using JSX's object spread operator, including examples of how it is compiled via Babel
+  
   
   
 #### React Architecture

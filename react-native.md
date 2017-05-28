@@ -31,6 +31,9 @@
   https://medium.com/react-native-development/build-an-imgur-client-with-react-native-and-mobx-react-native-school-53146d648250  
   A tutorial that demonstrates build an RN app with MobX for state management, use of RESTful APIs, full-screen images in a ListView, and detection of device orientation
   
+- **Offline-First Apps with React Native and Redux**  
+  http://rationalappdev.com/offline-first-apps-with-react-native-and-redux/  
+  A tutorial that builds out a cat GIF app using React Native, Redux, Node, and Express, and includes offline support.
 
   
 #### Specific aspects

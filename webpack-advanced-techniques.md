@@ -184,6 +184,10 @@
   https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21  
   Explains several important concepts related to tree shaking, and how to configure Webpack and other tools to ensure it happens correctly.
   
+- **3 ways to reduce Webpack bundle size**  
+  http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/  
+  A quick summary of some possible approaches to optimize bundle sizes, with links to more information
+  
   
 #### Hot Module Replacement
 
@@ -316,6 +320,10 @@
 - **Environment based application configuration using Webpack**  
   https://kostasbariotis.com/environment-based-application-configuration-using-webpack/  
   An explanation of how environment-based configuration is useful, and a couple examples of ways to handle config files for varying environments.
+  
+- **From Grunt and Bower to Webpack, Babel, and Yarn - Migrating a legacy front-end build system**  
+  https://medium.com/appifycanada/migrate-to-webpack-from-grunt-bower-legacy-build-system-344526f47873  
+  A recap of the steps needed to migrate an Angular app's build system to Webpack, including managing imports, handling global variables, and code splitting.
   
 
   

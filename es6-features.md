@@ -197,6 +197,10 @@
   http://lucybain.com/blog/2017/js-promises-errors-a-plus-vs-deferreds/  
   A comparison of the two most common Promise definitions, and how they differ in behavior
   
+- **Practical Promises**  
+  http://trycatchfail.com/blog/?tag=/promises  
+  An excellent series of articles describing the basics of promises, and listing a variety of useful techniques for using promises to solve problems.
+  
   
 #### Techniques
 
@@ -260,3 +264,7 @@
 - **History of Javascript: Evolution of JS Modularity**  
   https://github.com/myshov/history_of_javascript/tree/master/4_evolution_of_js_modularity  
   A well-researched article that recounts the history and development of Javascript module definition approaches
+  
+- **The State of Javascript Modules**  
+  https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358  
+  An extended article summarizing the state of ES module implementations, how the transition to modules relates to the Node ecosystem, and what the changes will mean for Webpack users and module authors.

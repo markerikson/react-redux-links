@@ -222,6 +222,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   http://andrewhfarmer.com/webpack-2-loader-variations/  
   A clear and informative overview of the various equivalent ways to write the loader-related parts of a Webpack 2 config file.
   
+- **Stages of Learning Webpack, Part 2 - The Config**  
+  https://dev.to/nitishdayal/stages-of-learning-webpack-pt-2---the-config  
+  Explains what Webpack is by explaining some of the problems it attempts to solve, and looks at the basics of a Webpack configuration.
+  
   
 #### Webpack Configuration Utilities
 

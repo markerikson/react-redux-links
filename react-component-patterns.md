@@ -327,6 +327,10 @@
   https://medium.com/@DjamelH/why-you-should-keep-your-react-components-pure-by-using-hocs-67e5c7f80c81  
   Walks through extracting stateful behavior into an HOC so that it's more reusable and the wrapped components are simpler.
   
+- **A gentle introduction to Higher Order Components**  
+  https://www.robinwieruch.de/gentle-introduction-higher-order-components/  
+  An excellent article demonstrating several ways to use HOCs to manage conditional rendering logic in a reusable way.
+  
 
 #### Wrapping Non-React Code
 
@@ -390,6 +394,10 @@
   https://hackernoon.com/how-and-why-to-use-d3-with-react-d239eb1ea274  
   A good overview of some of the libraries and approaches you can make use of to use D3 in a React app
   
+- **Integrating React with an Existing jQuery Web Application**  
+  http://www.primaryobjects.com/2017/05/08/integrating-react-with-an-existing-jquery-web-application/  
+  Covers 3 methods for methods for integrating React and jQuery: referencing jQuery from within React, using a helper class passed to React, and using a pub-sub model passed to React.
+  
   
 #### Modal Dialogs
   
@@ -437,6 +445,10 @@
 - **How to add state to functional components using Recompose**  
   http://blog.jakoblind.no/2017/04/03/how-to-add-state-to-functional-components-using-recompose/  
   Some quick examples of using the Recompose library to wrap components with additional behavior.
+  
+- **Top 5 Recompose HOCs**  
+  https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566  
+  A list of 5 useful HOCs provided by the Recompose library, including `branch` and `withHandlers`.
   
   
 #### Other Component Patterns

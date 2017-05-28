@@ -196,6 +196,22 @@
 - **Some tips for getting started with Redux**  
   https://medium.com/@dave.draper20/some-tips-for-getting-started-with-redux-187fa949c0e8  
   Some excellent suggestions for getting into Redux, including not using it until you need it, use of `connect`, and making sure to call functions that were passed down as props.
+  
+- **Quick Redux tips for connecting your React components**  
+  https://medium.com/dailyjs/quick-redux-tips-for-connecting-your-react-components-e08da72f5b3  
+  A couple quick suggestions for use of `connect`, including connecting lower in the tree and using the `renderCountProp` option
+  
+- **Dispatch Redux actions as events, not commands!**  
+  https://hackernoon.com/dispatch-redux-actions-as-events-not-commands-4de8a92b1ea5  
+  Some opinionated thoughts on naming and intent for Redux actions, and why actions should be treated similar to event sourcing
+  
+- **Don't Overcomplicate Javascript, #0: Redux Action Constants**  
+  https://bits.ristic.io/dont-overcomplicate-javascript-0  
+  Some thoughts on the pros and cons of defining action constants for reuse in Redux apps, and whether it's a good idea to use libraries to help define those constants.
+  
+- **Is using a mix of Redux state and React local component state ok?**  
+  http://blog.jakoblind.no/2017/02/08/is-using-a-mix-of-redux-state-and-react-local-component-state-ok/  
+  A short article expanding on the rules of thumb for when to use Redux state given in the Redux FAQ, with some examples for each rule of thumb.
 
 
 #### Encapsulation and Reusability

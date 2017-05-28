@@ -139,3 +139,7 @@
 - **Javascript is a buffet, not the enemy**  
   https://scriptconf.org/blog/javascript-is-a-buffet-not-the-enemy-chris-heilmann/  
   An excellent presentation from long-time browser developer Chris Heilmann, offering suggestions for dealing with the modern Javascript world using a buffet as a metaphor.
+  
+- **Are we making the web too complicated?**  
+  http://seldo.com/weblog/2017/05/21/are_we_making_the_web_too_complicated  
+  Fantastic thoughts from Laurie Voss on why modern web development appears to be complicated: expectations for web usage have changed, and developers are trying to adapt.

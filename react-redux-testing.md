@@ -194,6 +194,14 @@
 - **Unit Testing Redux Container Components, Part 1**  
   http://www.wsbrunson.com/react/redux/test/2016/05/08/testing-redux-containers.html  
   Some useful tips for setting up tests for Redux-connected components
+  
+- **Code Review: SPA testing with React and Redux**  
+  https://b3ntly.github.io/blog/code-review-spa-testing-with-react-and-redux-long/  
+  A variety of useful observations and suggestions for testing React+Redux code, including good practices for structuring test setup
+  
+- **Test Your Redux Container with Enzyme**  
+  https://medium.com/@visualskyrim/test-your-redux-container-with-enzyme-a0e10c0574ec  
+  Examples for using Enzyme to test Redux-connected components, including passing in a mock store, use of shallow rendering, and testing `mapDispatch`.
 
   
   
@@ -266,4 +274,6 @@
   https://spin.atomicobject.com/2017/05/02/react-testing-jest-vs-mocha/  
   A comparison of the strengths and weaknesses of the Jest and Mocha testing frameworks
   
-  
+- **Javascript unit testing frameworks: Comparing Jasmine, Mocha, AVA, Tape, and Jest**  
+  https://raygun.com/blog/javascript-unit-testing-frameworks/  
+  A useful comparison and summary of the major unit testing frameworks available

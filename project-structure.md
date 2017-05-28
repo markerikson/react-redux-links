@@ -80,6 +80,10 @@
   https://tech.okcupid.com/how-okcupid-organizes-its-multi-page-react-app/  
   https://www.reddit.com/r/reactjs/comments/5widfg/how_okcupid_organizes_its_multipage_react_app/  
   The OkCupid team discusses their approach for a multi-page app, including bundles, use of the Ducks pattern, and folder structures.  Some good follow-up discussion in the Reddit comments.
+  
+- **React Project Structure**  
+  https://daveceddia.com/react-project-structure/  
+  An excellent article that gives practical advice for structuring the source of a React app, especially if you're a beginner or using `create-react-app`.
 
   
 #### Project Setup

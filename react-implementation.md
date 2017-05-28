@@ -66,7 +66,13 @@
   https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5  
   https://engineering.hexacta.com/didact-element-creation-and-jsx-d05171c55c56  
   https://engineering.hexacta.com/didact-rendering-dom-elements-91c9aa08323b  
+  https://engineering.hexacta.com/didact-instances-reconciliation-and-virtual-dom-9316d650f1d0  
+  https://engineering.hexacta.com/didact-components-and-state-53ab4c900e37  
   An ongoing series of articles showing how to build parts of React's API and implementation, like `createElement`.
+  
+- **deact: React under the hood**  
+  https://github.com/lukebelliveau/deact  
+  A repository for learning about how React works internally.  Has a link to a slide set that explains the concepts, and has branches for the various lessons.
   
   
   
