@@ -168,6 +168,10 @@
 - **React, Reselect, and Redux**  
   https://medium.com/@parkerdan/react-reselect-and-redux-b34017f8194c  
   An explanation of how Reselect's memoized selector functions are useful in Redux apps, and how to create unique selector instances for each component instance.
+  
+- **Use Selectors in Redux for Great Good**  
+  https://medium.com/@TomasEhrlich/use-selectors-in-redux-for-great-good-59286ce2e2a1  
+  A short article explaining the importance of selectors, with a few examples of how they benefit applications and how to use them.
 
 
 #### UI and Widget Implementations

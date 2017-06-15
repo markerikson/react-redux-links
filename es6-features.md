@@ -60,6 +60,10 @@
   https://github.com/zsolt-nagy/es6-summary  
   A list of ES6 features and their ES5 equivalents
   
+- **Introduction to commonly used ES6 features**  
+  https://zellwk.com/blog/es6/  
+  A great look at how several of the most useful ES6 features work, such as block scoping, arrow functions, and destructuring.
+  
 
 #### In-Depth Details
 

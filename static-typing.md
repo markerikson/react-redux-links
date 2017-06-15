@@ -156,6 +156,10 @@
 - **React & Redux in TypeScript - Static Typing Guide**  
   https://github.com/piotrwitek/react-redux-typescript-guide  
   A comprehensive guide to static typing "React & Redux" apps using TypeScript
+  
+- **Porting a React and Redux Application to TypeScript**  
+  https://bytesized.xyz/react-redux-typescript/  
+  Demonstrates porting an existing React+Redux sample app to use TypeScript
 
 
 #### Advancing Typing Techniques

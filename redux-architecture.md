@@ -103,6 +103,10 @@
   https://www.mapbox.com/blog/redux-for-state-management-in-large-web-apps/  
   Excellent discussion and examples of idiomatic Redux architecture, and how Mapbox applies those approaches to their Mapbox Studio application.
   
+- **Reducing our Redux Code with React Apollo**  
+  https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a  
+  Peggy Rayzis from MLS shares a detailed look at how they used the React Apollo library and GraphQL to drastically simplify their Redux application
+  
   
 #### Redux Best Practices
   
@@ -212,6 +216,18 @@
 - **Is using a mix of Redux state and React local component state ok?**  
   http://blog.jakoblind.no/2017/02/08/is-using-a-mix-of-redux-state-and-react-local-component-state-ok/  
   A short article expanding on the rules of thumb for when to use Redux state given in the Redux FAQ, with some examples for each rule of thumb.
+  
+- **Five Tips for Working with Redux in Large Applications**  
+  https://medium.com/appnexus-tech/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb  
+  Useful suggestions for architecting Redux apps, include use of indices / lookup tables, separation of state, and reuse of common reducer logic.
+  
+- **React State vs Redux State: When and Why?**  
+  https://spin.atomicobject.com/2017/06/07/react-state-vs-redux-state/  
+  Some helpful suggestions on how to categorize state into short/medium/long-term, and how to decide where that state should live
+  
+- **React Native, Redux, and Firebase for experts, by dummies**  
+  https://medium.com/rumors/react-native-redux-and-firebase-for-experts-by-dummies-6376becdd5c8  
+  The Rumors team describes how they've structured their Redux+Firebase application, and some of the things they ran into
 
 
 #### Encapsulation and Reusability
@@ -351,3 +367,7 @@
 - **Isomorphic Redux**  
   https://medium.com/@ellisande_poet/isomorphic-redux-fdaadea13bb5  
   Walks through an implementation of keeping two Redux stores in sync via distributed actions over websockets.
+  
+- **Introducing FilterBubbler: A WebExtension built using React/Redux**  
+  https://hacks.mozilla.org/2017/06/introducing-filterbubbler-a-webextension-built-using-reactredux/  
+  Describes how the authors built a browser WebExtension that uses the Redux-WebExt bridge as part of the implementation.

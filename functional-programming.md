@@ -146,3 +146,11 @@
 - **Higher-order functions in Lodash**  
   http://pragmatists.pl/blog/2017/05/higher-order-functions-in-lodash/  
   An explanation of several FP concepts like partial application and currying, and how Lodash offers utility functions to help make use of those concepts.
+  
+- **How to Draw an Owl**  
+  https://glebbahmutov.com/blog/how-to-draw-an-owl/  
+  Demonstrates refactoring some complex imperative code into a functional approach that uses concepts like pure functions, lenses, immutable data, and the Maybe monad
+  
+- **Classes, Complexity, and Functional Programming**  
+  https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747  
+  Kent C Dodds looks at pros and cons of using classes, issues with the `this` keyword in Javascript, and some ways to avoid using classes

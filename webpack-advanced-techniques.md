@@ -188,6 +188,10 @@
   http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/  
   A quick summary of some possible approaches to optimize bundle sizes, with links to more information
   
+- **Introducing Bonsai: an open source Webpack analyzer**  
+  https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984  
+  The Pinterest team describes the problems they'd encountered optimizing their Webpack bundles, and introduces a new tool to help analyze bundles and dependency trees.
+  
   
 #### Hot Module Replacement
 

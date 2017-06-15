@@ -64,3 +64,7 @@
 - **Role based routing with React and Redux**  
   http://crazysigma.com/blogs/2017/04/16/role-based-routing-react-redux/  
   A description of a fairly simple approach for defining role-based handling of routes, with sample code.
+  
+- **Preact Authentication Tutorial**  
+  https://auth0.com/blog/preact-authentication-tutorial/  
+  A tutorial that demonstrates how to build an app with Preact, including authentication, and makes some comparisons to doing so in React.

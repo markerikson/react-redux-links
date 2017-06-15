@@ -32,3 +32,11 @@
 - **Going Isomorphic with Python and React**  
   https://dev.to/__amol__/going-isomorphic-with-python-and-react  
   A look at how to use DukPy and React together to write an isomorphic web application with Python without even installing Node.js.
+  
+- **Server side rendering with React, React Router v4, React Helmet, and CSS Modules**  
+  https://blog.digitalkwarts.com/server-side-rendering-with-reactjs-react-router-v4-react-helmet-and-css-modules/  
+  A detailed tutorial demonstrating how to set up a production-ready SSR application
+  
+- **Code Cracked for Code Splitting + SSR in Reactlandia: React Loadable + Webpack Flush Chunks**  
+  https://hackernoon.com/code-cracked-for-code-splitting-ssr-in-reactlandia-react-loadable-webpack-flush-chunks-and-1a6b0112a8b8  
+  Describes some of the problems involved in properly implementing both SSR and code-splitting, and how a combination of libraries seems to help solve those problems.

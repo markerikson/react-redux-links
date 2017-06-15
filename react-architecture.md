@@ -102,6 +102,10 @@
 - **"Thinking in React" - A paradox statement**  
   https://medium.com/@nimelrian/thinking-in-react-a-paradox-statement-33c19e2eb9e2  
   Some thoughts on the recent "Flux architecture hampered React innovation" Twitter discussion, including a list of three principles for React components, and tradeoffs of data flow handling.
+  
+- **Thinking in React**  
+  https://www.codementor.io/radubrehar/thinking-in-react-8duata34n  
+  Some quick thoughts on how React's rendering approach can be applied universally, how it simplifies dealing with state transitions, and how its API helps devs build UIs naturally.
 
 
 #### React Best Practices

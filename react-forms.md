@@ -61,6 +61,10 @@
 - **React Forms: Using Refs**  
   https://css-tricks.com/react-forms-using-refs/  
   A quick recap of what "controlled components" are, and some excellent examples of how to use refs to directly access values for different types of inputs in forms
+  
+- **Understanding your options with forms in React**  
+  https://medium.com/@thegreengreek/understanding-your-options-with-forms-in-react-afedc91ebf3e  
+  A quick summary of the three major forms approachs (controlled inputs, uncontrolled inputs + refs, uncontrolled inputs + serialization), with code examples for each
 
 
 #### Form Tutorials and Usage

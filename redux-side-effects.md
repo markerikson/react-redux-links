@@ -177,7 +177,8 @@
 - **Javascript Power Tools: Redux-Saga**  
   http://formidable.com/blog/2017/javascript-power-tools-redux-saga/  
   http://formidable.com/blog/2017/composition-patterns-in-redux-saga/  
-  A fantastic series that the concepts, implementation, and benefits behind Redux-Saga, including how ES6 generators are used to control function flow, and how sagas can be composed together to accomplish concurrency.
+  http://formidable.com/blog/2017/real-world-redux-saga-patterns/  
+  A fantastic series that the concepts, implementation, and benefits behind Redux-Saga, including how ES6 generators are used to control function flow, how sagas can be composed together to accomplish concurrency, and practical use cases for sagas.
   
 - **Managing Side Effects with Redux Saga: A Primer**  
   https://www.sigient.com/blog/managing-side-effects-with-redux-saga-a-primer-1  
@@ -186,6 +187,15 @@
 - **Exploring Redux Sagas**  
   https://medium.com/onfido-tech/exploring-redux-sagas-cc1fca2015ee  
   An excellent article that explores how to use sagas to provide a glue layer to implement decoupled business logic in a Redux application.
+  
+- **Redux-Saga: put() from inside a callback / File Upload Progress**  
+  https://decembersoft.com/posts/redux-saga-put-from-inside-a-callback/  
+  https://decembersoft.com/posts/file-upload-progress-with-redux-saga/  
+  A pair of posts demonstrating how to use Redux-Saga's "event channel" feature to interact with non-Redux code
+  
+- **Effects as Data**  
+  https://gist.github.com/iammerrick/fc4a677cea11d9c896e8d3a29a184f91  
+  A small essay on the benefits of treating effects as data, and how it enables decoupling
   
   
 #### Other Side Effect Approaches

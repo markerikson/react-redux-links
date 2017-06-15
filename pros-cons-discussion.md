@@ -82,6 +82,10 @@
   https://news.realm.io/news/the-post-mvc-age/  
   A conference talk (video and transcription) that discusses how building apps with components works, how to communicate between them, and how Flux/Redux and Reactive Programming differ from traditional MVC, 
   
+- **Redux is the Pivotal Frontend Innovation**  
+  https://medium.com/@maxlynch/redux-is-the-pivotal-frontend-innovation-a406736552cb  
+  An opinionated article that says state management is even more important than components.
+  
 
 #### Comment Threads and Discussions
 
