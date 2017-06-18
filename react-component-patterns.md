@@ -288,7 +288,7 @@
   Comparisons and examples for these two component patterns
   
 - **ReactCasts: Higher Order Components**  
-  https://youtu.be/6nVxCWUAEPM  
+  https://www.youtube.com/watch?v=LTunyI2Oyzw
   A screencast that walks through the idea and usage of Higher Order Components
   
 - **ReactCasts: Function as Child Component**  
