@@ -118,6 +118,13 @@
   https://www.sohamkamani.com/blog/2017/03/31/react-redux-connect-explained/  
   A short but clear explanation of what the React-Redux library does, and how its `connect` function works to interact between React components and a Redux store (including several helpful diagrams).
   
+- **Redux by Example**  
+  https://medium.com/front-end-hacking/redux-by-example-part-1-4afca1b7bd58  
+  https://medium.com/front-end-hacking/redux-by-example-part-2-e9750574e3c1  
+  https://medium.com/front-end-hacking/redux-by-example-part-3-52e82d82d861  
+  https://medium.com/front-end-hacking/redux-by-example-part-4-474c76eec86d  
+  A 4-part series that illustrates core Redux concepts via a series of small example repos, with explanations of the source and concepts in the articles.
+  
 
 #### Project-Based Tutorials
 
@@ -287,11 +294,12 @@
   https://engineering.universe.com/reading-redux-ca160163867e  
   A guided walkthrough of the code for Redux's `createStore` function
 
+
 #### Paid Courses and Books
 
 - **The Complete Redux Book**  
   https://leanpub.com/redux-book  
-  How do I manage a large state in production? Why do I need store enhancers? What is the best way to handle form validations?  Get the answers to all these questions and many more using simple terms and sample code. Learn everything you need to use Redux to build complex and production-ready web applications.
+  How do I manage a large state in production? Why do I need store enhancers? What is the best way to handle form validations?  Get the answers to all these questions and many more using simple terms and sample code. Learn everything you need to use Redux to build complex and production-ready web applications.  (Note: now permanently free!)
 
 - **Developing a Redux Edge**  
   https://bleedingedgepress.com/developing-a-redux-edge/  

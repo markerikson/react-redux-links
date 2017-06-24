@@ -78,6 +78,10 @@
   http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/  
   Shows how to configure Webpack to load the Cesium 3D globe library, and how to set up a Webpack config that uses DllPlugin to build a separate bundle for Cesium.
   
+- **Tree shake Lodash with Webpack, Jest, and Typescript**  
+  https://medium.com/@martin_hotell/tree-shake-lodash-with-webpack-jest-and-typescript-2734fa13b5cd  
+  Walks through ways to configure Webpack and Babel to properly tree shake Lodash so that it only includes used functions.
+  
   
 #### Code Splitting and Chunking
 
@@ -128,6 +132,10 @@
 - **Vendor and code splitting in Webpack 2**  
   https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923  
   An excellent dive into multiple aspects of code splitting, including basic setup, advanced config, and some Webpack gotchas/tips.
+  
+- **How to use Webpack's new "magic comment" feature with React Universal Component + SSR**  
+  https://medium.com/webpack/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a  
+  Introduces Webpack's new "magic comments" feature for defining chunk names, and shows how to use that in association with a couple of libraries for optimized server-side rendering approaches
   
   
 #### Bundle Sizes and Visualization
@@ -328,6 +336,14 @@
 - **From Grunt and Bower to Webpack, Babel, and Yarn - Migrating a legacy front-end build system**  
   https://medium.com/appifycanada/migrate-to-webpack-from-grunt-bower-legacy-build-system-344526f47873  
   A recap of the steps needed to migrate an Angular app's build system to Webpack, including managing imports, handling global variables, and code splitting.
+  
+- **Case study: improving the Polished size for Webpack users**  
+  https://iamakulov.com/notes/polished-webpack/  
+  A detailed investigation of bundle size issues for the Polished library, and steps taken to improve the sizes for distribution.
+  
+- **Unambiguous Webpack Config with Typescript**  
+  https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7  
+  Shows how to use Typescript and type definitions to ensure correct setup of Webpack configs.
   
 
   

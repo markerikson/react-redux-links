@@ -5,13 +5,7 @@
 - **Routing React Apps: The Complete Guide**  
   https://scotch.io/tutorials/routing-react-apps-the-complete-guide  
   An in-depth article covering use of React-Router (v2)
-  
-- **Let the URL Do the Talking**  
-  http://formidable.com/blog/2016/07/11/let-the-url-do-the-talking-part-1-the-pain-of-react-router-in-redux/  
-  http://formidable.com/blog/2016/07/19/let-the-url-do-the-talking-part-2-bargaining-and-acceptance-with-redux-and-react-router/  
-  http://formidable.com/blog/2016/07/25/let-the-url-do-the-talking-part-3-empower-the-url-with-redux-little-router/  
-  http://formidable.com/blog/2016/09/13/introducing-nested-routing-in-redux-little-router/  
-  A series of articles discussing pain points when using React-Router and Redux together, and introducing a library called Redux-Little-Router as an alternative
+ 
   
 - **Do I Even Need a Routing Library?**  
   http://jamesknelson.com/even-need-routing-library/  
@@ -37,6 +31,32 @@
   https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997  
   Examples of how to implement a custom routing approach, with minimal external dependencies.
   
+  
+#### Routing with Redux
+  
+- **Let the URL Do the Talking**  
+  http://formidable.com/blog/2016/07/11/let-the-url-do-the-talking-part-1-the-pain-of-react-router-in-redux/  
+  http://formidable.com/blog/2016/07/19/let-the-url-do-the-talking-part-2-bargaining-and-acceptance-with-redux-and-react-router/  
+  http://formidable.com/blog/2016/07/25/let-the-url-do-the-talking-part-3-empower-the-url-with-redux-little-router/  
+  http://formidable.com/blog/2016/09/13/introducing-nested-routing-in-redux-little-router/  
+  A series of articles discussing pain points when using React-Router and Redux together, and introducing a library called Redux-Little-Router as an alternative
+  
+
+- **An Introduction to the Redux-First Routing Model**  
+  https://medium.freecodecamp.com/an-introduction-to-the-redux-first-routing-model-98926ebf53cb  
+  An article that argues in favor of keeping location state in Redux, updating it with actions, and syncing the browser URL based on that state.  Includes a sample implementation for the approach, and a link to the actual library the author built.
+  
+- **Pre Release: Redux-First Router - A Step Beyond Redux-Little-Router**  
+  https://medium.com/faceyspacey/pre-release-redux-first-router-a-step-beyond-redux-little-router-cd2716576aea  
+  An opinionated article that argues against the approaches used by both React-Router and Redux-Little-Router, in favor of basing routing state in Redux, with a corresponding new library.
+  
+- **Routedux - Routing the Redux way**  
+  https://cjdev.github.io/routedux/  
+  An article introducing a library that maps URLs to actions and vice versa.
+  
+- **Entering/Leaving hooks of routing for Redux apps**  
+  https://medium.com/@kuy/entering-leaving-hooks-of-routing-for-react-redux-app-22e6eea055a5  
+  Discusses use of enter/leave routing hooks for handling component data fetching needs, and how that is handled with the author's Redux-based routing library.
   
   
 #### Authentication

@@ -107,6 +107,10 @@
   https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a  
   Peggy Rayzis from MLS shares a detailed look at how they used the React Apollo library and GraphQL to drastically simplify their Redux application
   
+- **"I made a diagram of my first React app - do you see anything that's going to bite me?"**  
+  https://www.reddit.com/r/reactjs/comments/6ec4dz/i_made_a_diagram_of_the_design_of_my_first_react/  
+  A Reddit thread with some excellent discussion about how Apollo and GraphQL fit into the architecture of a Redux application.
+  
   
 #### Redux Best Practices
   
@@ -228,6 +232,14 @@
 - **React Native, Redux, and Firebase for experts, by dummies**  
   https://medium.com/rumors/react-native-redux-and-firebase-for-experts-by-dummies-6376becdd5c8  
   The Rumors team describes how they've structured their Redux+Firebase application, and some of the things they ran into
+  
+- **Redux Architecture Guidelines**  
+  http://joeellis.la/redux-architecture/  
+  Several useful tips for building a good Redux app, including planning state shape, avoiding nesting, storing plain data, and more.
+  
+- **Getting started in React with Redux**  
+  https://medium.com/@simonhfrost/getting-started-in-react-with-redux-8b2b42b66dee  
+  Some quick tips for structuring a Redux app, including several related to organizing state.
 
 
 #### Encapsulation and Reusability
@@ -371,3 +383,7 @@
 - **Introducing FilterBubbler: A WebExtension built using React/Redux**  
   https://hacks.mozilla.org/2017/06/introducing-filterbubbler-a-webextension-built-using-reactredux/  
   Describes how the authors built a browser WebExtension that uses the Redux-WebExt bridge as part of the implementation.
+  
+- **Scaling Redux for real-life applications**  
+  https://hackernoon.com/scaling-redux-for-real-life-applications-be18c731a54d  
+  Describes a variation of the "ducks" structure that divides code into "basic concepts" that contain app state and minimal logic, and "container concepts" that contain minimal data and implement most application logic.

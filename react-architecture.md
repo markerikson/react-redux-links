@@ -228,6 +228,10 @@
   https://medium.com/@kylpo/you-can-spread-props-in-jsx-but-should-you-6cc3e766e281  
   Some thoughts on the pros and cons of using JSX's object spread operator, including examples of how it is compiled via Babel
   
+- **Techniques for decomposing React components**  
+  https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da  
+  Three useful techniques for splitting up components: splitting render methods, passing React elements as props, and extracting higher-order components.
+  
   
   
 #### React Architecture

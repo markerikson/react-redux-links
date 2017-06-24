@@ -40,3 +40,7 @@
 - **Code Cracked for Code Splitting + SSR in Reactlandia: React Loadable + Webpack Flush Chunks**  
   https://hackernoon.com/code-cracked-for-code-splitting-ssr-in-reactlandia-react-loadable-webpack-flush-chunks-and-1a6b0112a8b8  
   Describes some of the problems involved in properly implementing both SSR and code-splitting, and how a combination of libraries seems to help solve those problems.
+  
+- **Server-Side React Rendering**  
+  https://css-tricks.com/server-side-react-rendering/  
+  A good tutorial that walks through the basic setup needed to start rendering React components into HTML in an Express server.

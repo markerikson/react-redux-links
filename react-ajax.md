@@ -81,3 +81,6 @@
   http://javascriptplayground.com/blog/2017/03/remote-data-react-components/  
   The author of the RemoteDataJS libraries shows a small React wrapper he created and how to use it
   
+- **A Better Way To Handle Loading State In Redux**  
+  http://nikolay.rocks/2017-06-18-better-redux-loading  
+  Discusses several ways to store "loading/success/failure" state, and tradeoffs of the approaches.  Talks about Redux, but applies to React as well.

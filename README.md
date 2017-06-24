@@ -9,27 +9,27 @@ You might also want to check out my categorized list of Redux-related addons, li
 ## Table of Contents
 
 #### Getting Started
-- [Basic Concepts and Overviews](basic-concepts.md)
-- [Community Resources](community-resources.md)
-- [Javascript Resources](javascript-resources.md)
-- [Git Resources and Tutorials](git-resources.md)
-- [Node.js and NPM](node-js-and-npm.md)
-- [Webpack Tutorials](webpack-tutorials.md)
-- [Boilerplates and Starter Kits](boilerplates-and-starter-kits.md)
+- [Basic Concepts and Overviews](./basic-concepts.md)
+- [Community Resources](./community-resources.md)
+- [Javascript Resources](./javascript-resources.md)
+- [Git Resources and Tutorials](./git-resources.md)
+- [Node.js and NPM](./node-js-and-npm.md)
+- [Webpack Tutorials](./webpack-tutorials.md)
+- [Boilerplates and Starter Kits](./boilerplates-and-starter-kits.md)
 
 #### Basic Tutorials
-- [ES6 Features and Samples](es6-features.md)
-- [React Tutorials](react-tutorials.md)
-- [Flux Tutorials](flux-tutorials.md)
-- [Redux Tutorials](redux-tutorials.md)
-- [MobX Tutorials](mobx-tutorials.md)
+- [ES6 Features and Samples](./es6-features.md)
+- [React Tutorials](./react-tutorials.md)
+- [Flux Tutorials](./flux-tutorials.md)
+- [Redux Tutorials](./redux-tutorials.md)
+- [MobX Tutorials](./mobx-tutorials.md)
 
 #### Intermediate Concepts
 
-- [Using React with ES6](using-react-with-es6.md)
-- [Functional Programming](functional-programming.md)
-- [Immutable Data](immutable-data.md)
-- [React/Redux Testing](react-redux-testing.md)
+- [Using React with ES6](./using-react-with-es6.md)
+- [Functional Programming](./functional-programming.md)
+- [Immutable Data](./immutable-data.md)
+- [React/Redux Testing](./react-redux-testing.md)
 - [React Native](./react-native.md)
 
 #### Advanced Topics
@@ -40,7 +40,8 @@ You might also want to check out my categorized list of Redux-related addons, li
   - [React State Management](./react-state-management.md)
   - [React Architecture and Best Practices](./react-architecture.md)
   - [Redux Architecture and Best Practices](./redux-architecture.md)
-  - [React/Redux Performance](react-performance.md)
+  - [React/Redux Performance](./react-performance.md)
+  - [React Deployment](./react-deployment.md)
 - **React**:
   - [React Implementation and Concepts](./react-implementation.md)
   - [React and Forms](./react-forms.md)
@@ -50,17 +51,17 @@ You might also want to check out my categorized list of Redux-related addons, li
   - [React and Routing](./react-routing.md)  
 - **Redux**
   - [Redux Middleware](./redux-middleware.md)
-  - [Redux Side Effects](redux-side-effects.md)
-  - [Redux Tips and Techniques](redux-techniques.md)
+  - [Redux Side Effects](./redux-side-effects.md)
+  - [Redux Tips and Techniques](./redux-techniques.md)
   - [Using Redux Without React](./redux-without-react.md)
 - **Other**
-  - [Webpack Advanced Techniques](webpack-advanced-techniques.md)
+  - [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   - [Static Typing](./static-typing.md)
 
 
 #### Comparisons and Discussion
-- [React/Flux/Redux Pros, Cons, and Discussion](pros-cons-discussion.md)
-- [React and Flux vs Backbone](react-vs-backbone.md)
+- [React/Flux/Redux Pros, Cons, and Discussion](./pros-cons-discussion.md)
+- [React and Flux vs Backbone](./react-vs-backbone.md)
 
 
 
@@ -82,6 +83,8 @@ All of the links in this collection are worth reading, but there's obviously a L
 ### Suggested Learning Approaches
   - [A Study Plan to Cure Javascript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)  
     The author of the "State of JS 2016" survey gives an excellent step-by-step study plan to use when learning the Javascript ecosystem.
+  - [Grab Front-End Study Guide](https://github.com/grab/front-end-guide)  
+    An excellent guide to learning front-end technologies, based on "A Study Plan to Cure Javascript Fatigue".  Includes descriptions of each topic, links to learning resources, and estimates for how much time to spend on each topic.
   - [React How-To](https://github.com/petehunt/react-howto)  
     Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
   - [Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)  

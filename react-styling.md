@@ -135,8 +135,13 @@
   The author of the Este.js boilerplate describes his investigation of various React styling libraries, and how he ended up building his own
   
   
-#### Techniques
+#### Techniques and Examples
 
 - **How to build animated microinteractions in React**  
   https://medium.freecodecamp.com/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8  Examples of various ways to create small animations to give feedback as the user interacts with components
   
+- **Create That Component**  
+  https://medium.com/taitounited/create-that-component-1-7a2267bc2833  
+  https://medium.com/taitounited/create-that-component-2-f6e6ba2e6b5a  
+  https://medium.com/taitounited/create-that-component-3-25f1f722cead  
+  A series of examples that build components for assorted concepts like toggle switches, ripple effects, and toasts, using libraries like styled-components.

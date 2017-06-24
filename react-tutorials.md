@@ -23,6 +23,10 @@
 - **React Fundamentals**  
   https://reacttraining.com/online/react-fundamentals  
   A free online course from the React Training company.  Covers key aspects of Javascript, React concepts as of React 15.5, React Router v4, and building and deploying an application.
+  
+- **React Express**  
+  http://www.react.express/  
+  An all-in-one beginner's guide to modern React application development.  Gives an opinionated walkthrough through create-react-app, npm, webpack, babel, ES2015, ES2016, JSX, React, Redux, CSS-in-JS, and more.
 
 - **React to the Future**  
   http://elijahmanor.com/talks/react-to-the-future/dist/#/  
@@ -115,6 +119,16 @@
 - **React events in depth**  
   https://www.youtube.com/watch?v=dRo_egw7tBc  
   A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
+  
+- **React by Example**  
+  https://medium.com/front-end-hacking/react-by-example-part-1-76d3e2137cf4  
+  https://medium.com/front-end-hacking/react-by-example-part-2-340582c6f552  
+  https://medium.com/@johntucker_48673/react-by-example-part-3-f825444bc1d8  
+  https://medium.com/@johntucker_48673/react-by-example-part-4-5d32168db362  
+  https://medium.com/@johntucker_48673/react-by-example-part-5-e1716e69dacc  
+  https://medium.com/@johntucker_48673/react-by-example-part-6-8c71dda057ac  
+  https://medium.com/@johntucker_48673/react-by-example-part-7-8dc97b57f668  
+  A multi-part series that illustrates core React concepts via a series of small example repos, with explanations of the source and concepts in the articles.
   
   
 #### React Project Setup
@@ -288,8 +302,6 @@
   http://react.tips/from-react-to-flux-to-redux/  
   Four implementations of a shopping list application, built with varying approaches to help you see the differences: React/ES5, React/ES6, React/Flux/ES5, React/Redux/ES6.
 
-
-  
 - **Create an Instagram-like App with Node.js, React, and Redux**  
   http://www.eloquentwebapp.com/instagram-app-node-react-redux/  
   An in-depth tutorial that demonstrates several advanced React concepts, including routing, hot loading, use of Redux and redux-saga, and more.
@@ -308,6 +320,22 @@
 - **Retrogames Library with Node, React, and Redux: Server API and React Frontend**  
   https://scotch.io/tutorials/retrogames-library-with-node-react-and-redux-1-server-api-and-react-frontend  
   Part 1 of a series building an application using Node, React, Redux, and MongoDB with Mongoose.  
+  
+- **Building a React Component Library**  
+  https://hackernoon.com/building-a-react-component-library-part-1-d8a1e248fe6c  
+  https://hackernoon.com/building-a-react-component-library-part-2-46fd4f77bb5c  
+  https://hackernoon.com/building-a-react-component-library-part-3-adb2cd0e021c  
+  A series that walks through how to build your own React component library and publish it to NPM.
+  
+- **Building Powerful List Components in React**  
+  https://www.robinwieruch.de/react-paginated-list/  
+  https://www.robinwieruch.de/react-infinite-scroll/  
+  https://www.robinwieruch.de/react-advanced-list-component/  
+  An excellent 3-part series that shows how to build real-world list components that handle pagination and infinite scrolling, using concepts like higher-order-components.
+  
+- **Accept Stripe Payments with React and Express**  
+  https://www.robinwieruch.de/react-express-stripe-payment/  
+  Demonstrates building a small app that handles payment information using the Stripe service
   
   
 #### Paid Courses and Books

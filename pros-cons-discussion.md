@@ -43,6 +43,10 @@
   https://css-tricks.com/projects-need-react/  
   A response to the previous article, suggesting that React has benefits across a wide variety of applications.
   
+- **Why I'm betting on React Native for my next Startup**  
+  https://calbucci.com/why-im-betting-on-react-native-for-my-next-startup-3b8ff5ae03e4  
+  A startup product lead gives several reasons why he's using React Native for their large app, including uniformity of experience, testing, recruiting, and scalability.
+  
   
 #### Redux/Flux Comparisons
   

@@ -64,6 +64,10 @@
   https://dev.to/kayis/the-tools-of-the-js-trade  
   A helpful overview of commonly used JS development tools, grouped by type, with short descriptions for each.
   
+- **Choosing a frontend framework in 2017**  
+  https://medium.com/this-dot-labs/building-modern-web-applications-in-2017-791d2ef2e341  
+  An excellent look at the history of the major client-side web frameworks, how they developed over the last few years, and some suggestions for when each framework might be appropriate.
+  
 
 #### Suggested Learning Approaches
 

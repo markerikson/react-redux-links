@@ -197,6 +197,10 @@
   https://gist.github.com/iammerrick/fc4a677cea11d9c896e8d3a29a184f91  
   A small essay on the benefits of treating effects as data, and how it enables decoupling
   
+- **redux-saga factories and decorators**  
+  https://medium.com/@TomasEhrlich/redux-saga-factories-and-decorators-8dd9ce074923  
+  Some quick examples of creating reusable sagas to reduce duplicate code
+  
   
 #### Other Side Effect Approaches
 

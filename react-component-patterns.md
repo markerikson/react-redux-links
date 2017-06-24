@@ -107,6 +107,10 @@
   https://github.com/xat/react-component-composition-cheatsheet  
   A useful list of ways to combine components together
   
+- **Avoiding deeply nested component trees**  
+  https://medium.com/@RubenOostinga/avoiding-deeply-nested-component-trees-973edb632991  
+  Examples of `children` to include arbitrary content inside of a component for more flexible handling of presentation and composition.
+  
   
   
 #### React Component Lifecycle
@@ -288,7 +292,7 @@
   Comparisons and examples for these two component patterns
   
 - **ReactCasts: Higher Order Components**  
-  https://www.youtube.com/watch?v=LTunyI2Oyzw
+  https://youtu.be/6nVxCWUAEPM  
   A screencast that walks through the idea and usage of Higher Order Components
   
 - **ReactCasts: Function as Child Component**  
@@ -398,6 +402,14 @@
   http://www.primaryobjects.com/2017/05/08/integrating-react-with-an-existing-jquery-web-application/  
   Covers 3 methods for methods for integrating React and jQuery: referencing jQuery from within React, using a helper class passed to React, and using a pub-sub model passed to React.
   
+- **Building D3 Components with React**  
+  https://hackernoon.com/building-d3-components-with-react-7510e4743288  
+  A detailed walk through custom integration of D3 and React without use of an additional library.
+  
+- **PixiJS Application in a React Component**  
+  https://www.protectator.ch/post/pixijs-v4-in-a-react-component  
+  A quick example of loading PixiJS and wrapping it in a React component, showing the basics for integration.
+  
   
 #### Modal Dialogs
   
@@ -449,6 +461,10 @@
 - **Top 5 Recompose HOCs**  
   https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566  
   A list of 5 useful HOCs provided by the Recompose library, including `branch` and `withHandlers`.
+  
+- **ReactCasts #11: Recompose**  
+  https://youtu.be/SQtrgiLy3Fo  
+  A screencast that introduces the Recompose library and explains some of its useful tools like `withState` and `branch`.
   
   
 #### Other Component Patterns

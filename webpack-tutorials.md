@@ -166,6 +166,13 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack - From Journeyman to Master**  
   https://presentations.survivejs.com/webpack-from-journeyman-to-master/#/
   A follow-up presentation, digging into advanced Webpack concepts, configuration, and internals
+  
+- **webpack By Example**  
+  https://medium.com/front-end-hacking/webpack-by-example-part-1-1d07bc42006a  
+  https://medium.com/front-end-hacking/webpack-by-example-part-2-ff6c75b1e20  
+  https://medium.com/front-end-hacking/webpack-by-example-part-3-a4ceaaa6299a  
+  https://medium.com/front-end-hacking/webpack-by-example-part-4-f55821016821  
+  A 4-part series that illustrates core Webpack concepts via a series of small example repos, with explanations of the source and concepts in the articles.
 
 
 #### Configuration Terms and Concepts
@@ -225,6 +232,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Stages of Learning Webpack, Part 2 - The Config**  
   https://dev.to/nitishdayal/stages-of-learning-webpack-pt-2---the-config  
   Explains what Webpack is by explaining some of the problems it attempts to solve, and looks at the basics of a Webpack configuration.
+  
+- **Stages of Learning Webpack, Part 3 - SourceMaps, Loaders, and Plugins**  
+  https://dev.to/nitishdayal/stages-of-learning-webpack-pt-3---sourcemaps-loaders--plugins  
+  Shows how to configure sourcemaps for debugging, use a loader to add TypeScript support, and add a plugin to generate an HTML index page for the bundle.
   
   
 #### Webpack Configuration Utilities

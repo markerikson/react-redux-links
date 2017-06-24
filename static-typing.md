@@ -160,6 +160,10 @@
 - **Porting a React and Redux Application to TypeScript**  
   https://bytesized.xyz/react-redux-typescript/  
   Demonstrates porting an existing React+Redux sample app to use TypeScript
+  
+- **React Higher Order Components in TypeScript made simple**  
+  https://dev.to/danhomola/react-higher-order-components-in-typescript-made-simple  
+  Demonstrates how to extract an HOC and properly define types for various groups of props
 
 
 #### Advancing Typing Techniques

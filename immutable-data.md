@@ -77,6 +77,10 @@
   https://blog.komand.com/object-comparison-in-react-js-components  
   Some examples of comparing objects inside of React's lifecycle methods, and how to update them properly.
   
+- **Handling State in React: Four Immutable Approaches to Consider**  
+  https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5  
+  A summary of four different ways to update state immutably
+  
 
 #### Immutable Data Libraries
 
@@ -119,3 +123,15 @@
 - **Immutable Deep State Updates in React with Ramda.js**  
   https://vanslaars.io/post/setstate-lenses/  
   Some excellent examples of how to use Ramda's "lens" functions to define immutable state update logic
+  
+- **Why I Don't Use Immutable.js with Redux**  
+  https://medium.com/front-end-hacking/why-i-dont-use-immutable-js-with-redux-db05004f436  
+  Thoughts on the pros and cons of using Immutable.js in a Redux app
+  
+- **Should I use Immutable.js with Redux?**  
+  https://medium.com/@fastphrase/should-i-use-immutablejs-with-redux-58f88d6fd81e  
+  A detailed list of pros and cons for using Immutable.js in a Redux app
+
+- **Practical Guide to using Immutable.js with Redux and React**  
+  https://medium.com/@fastphrase/practical-guide-to-using-immutablejs-with-redux-and-react-c5fd9c99c6b2  
+  A follow-up to the previous article, showing how to correctly set up and use Immutable.js with Redux

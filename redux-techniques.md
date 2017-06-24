@@ -39,6 +39,10 @@
   https://blog.logrocket.com/redux-logging-in-production-3b2a4816b713  
   https://blog.logrocket.com/maximizing-debuggability-with-redux-79b2ad07b64c  
   A pair of articles discussing a variety of aspects and approaches for debugging Redux apps.  Includes several mentions of the LogRocket service, but also covers other tools and approaches, including building your own analytics pipeline.
+  
+- **Redux DevTools for Dummies**  
+  https://medium.com/@tylerwclark/redux-devtools-for-dummies-74566c597d7  
+  An overview of the Redux DevTools Extension, including examples of how to properly add the DevTools when setting up a Redux store, and explanations of the various parts of the extension's UI.
 
 
 #### Reducers
@@ -180,9 +184,10 @@
   http://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions/35641680  
   Dan Abramov describes a great technique for descriptively managing React modal dialogs using Redux actions and state, by storing names of components and their props.
 
-- **"Generic Modal Dialogs with Feature-Specific Actions"**  
+- **Creating Reusable Generic Modals in React and Redux**  
+  http://blog.isquaredsoftware.com/2016/11/posts-on-packtpub-generic-redux-modals-and-building-better-bundles/  
   https://www.reddit.com/r/reactjs/comments/4wjmme/implement_a_confirm_modal_using_react_redux/d68ajcw?context=3  
-  A follow-on to Dan's technique, with a short suggestion for using generic modal components in a variety of situations by including actions as props.
+  Describes an extension to Dan's technique that allows generic "picker" dialogs such as a ColorPicker to be reused by different parts of an application while keeping the Redux state serializable.  (Blog post is based on my original comment on Reddit.)
   
 - **Implement a confirm modal using React & Redux**  
   http://jslancer.com/2016/08/07/implement-a-confirm-modal-using-react-redux/  
@@ -211,6 +216,10 @@
 - **A Redux-Saga Implementation of Modal Confirmation Dialogs in React**  
   https://decembersoft.com/posts/a-redux-saga-implementation-of-modal-confirmation-dialogs-in-react-redux/  
   Some examples of using sagas for controlling flow of async calls and dialog management
+  
+- **Practical Recursion: Implementing a File Item Tree View in React & Electron**  
+  https://codeburst.io/practical-recursion-implementing-a-file-tree-view-in-react-electron-af62e7b46d26?gi=da3b8e9bf9ee  
+  Demonstrates implementing a tree view component that shows folder structure read from the filesystem, and managing the visibility of tree nodes in Redux
   
   
 #### Redux and Forms
@@ -316,6 +325,11 @@
 - **Let the Buyer Beware: React Redux Rerender Gotcha**  
   https://www.nathanl.in/posts/let-the-buyer-beware-react-redux-rerender-gotcha  
   An article describing some similar concerns regarding timing of Redux actions and React lifecycle methods, especially in regards to tracking loading state.
+  
+- **Why I created Redux-Tiles library to deal with Redux verbosity**  
+  http://blog.bloomca.me/2017/06/02/why-i-created-redux-tiles-library.html  
+  https://news.ycombinator.com/item?id=14482215  
+  Describes several concerns with increasing verbosity and complexity in Redux apps, and how the author's library can help simplify those.
 
   
 #### Network Management
@@ -336,4 +350,3 @@
 - **Introducing Redux Offline: Offline-First Architecture for Progresive Web Applications**  
   https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0  
   An excellent blog post explaining the need for better offline behavior in web apps, and introducing a new Redux-based library that helps manage that behavior.
-  

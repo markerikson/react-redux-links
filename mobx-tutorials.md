@@ -40,6 +40,10 @@
   https://www.sitepoint.com/manage-javascript-application-state-mobx/  
   A detailed tutorial that introduces basic MobX usage, using only jQuery for the UI updates
   
+- **MobX + React Tutorial: Building your first app**  
+  http://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/  
+  A walkthrough that builds a basic list/detail application, and introduces the basics of MobX along the way.
+  
 
 #### Testing
 
