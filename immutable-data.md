@@ -135,3 +135,7 @@
 - **Practical Guide to using Immutable.js with Redux and React**  
   https://medium.com/@fastphrase/practical-guide-to-using-immutablejs-with-redux-and-react-c5fd9c99c6b2  
   A follow-up to the previous article, showing how to correctly set up and use Immutable.js with Redux
+  
+- **Qim: Select from your Immutable JavaScript Cake and Update It Symmetrically Too**  
+  https://zapier.com/engineering/qim-immutable-javascript/  
+  An in-depth look at a new lens-style immutable update utility called Qim, including what problems it helps solve and how to use it.

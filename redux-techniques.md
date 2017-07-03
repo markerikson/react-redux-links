@@ -43,6 +43,10 @@
 - **Redux DevTools for Dummies**  
   https://medium.com/@tylerwclark/redux-devtools-for-dummies-74566c597d7  
   An overview of the Redux DevTools Extension, including examples of how to properly add the DevTools when setting up a Redux store, and explanations of the various parts of the extension's UI.
+  
+- **How to treat Errors as first-class citizen in Flux (and Redux)**  
+  https://medium.com/@jamiedixon/how-to-treat-errors-as-first-class-citizens-in-flux-and-redux-fca7f3d5c02d  
+  Discusses how the FSA structure expects actions to have an optional `error` field, and how to write code that deals with that.
 
 
 #### Reducers
@@ -220,6 +224,14 @@
 - **Practical Recursion: Implementing a File Item Tree View in React & Electron**  
   https://codeburst.io/practical-recursion-implementing-a-file-tree-view-in-react-electron-af62e7b46d26?gi=da3b8e9bf9ee  
   Demonstrates implementing a tree view component that shows folder structure read from the filesystem, and managing the visibility of tree nodes in Redux
+  
+- **How To Manage UI State with Redux**  
+  https://codeburst.io/how-to-manage-ui-state-with-redux-24deb6cf0d57  
+  An informative discussion of application state vs internal component state, how "UI state" fits into app state, and how to write a UI reducer that tracks UI state.
+  
+- **Introduce Redux local state to your React App**  
+  https://medium.com/@tangbenze/introduce-redux-local-state-to-your-react-app-9f96f18d4f35  
+  Demonstrates setup and use of a addon library to manage scoped actions, reducers, and connections for isolated component state.
   
   
 #### Redux and Forms

@@ -76,3 +76,11 @@
 - **Where does authentication fit in a React Native app?**  
   https://goshakkk.name/auth-in-react-native-apps/  
   Some quick thoughts on what authentication involves and how to handle it in an RN app
+  
+- **The building blocks of React Native animations**  
+  https://goshakkk.name/react-native-animated-building-blocks/  
+  Several useful sets of guidelines for thinking through and implementation animations in React Native, including "how should this change", visual state, transitions, and interpolations, plus links to additional resources for RN animations.
+  
+- **6 Tips You Want to Know about React Native Performance**  
+  https://www.simplytechnologies.net/blog/2017/6/6/6-tips-you-want-to-know-about-react-native-performance  
+  Several useful suggestions for improving RN performance, including RN-specific suggestions like using FlatList instead of ListView, and pushing animations into native code.

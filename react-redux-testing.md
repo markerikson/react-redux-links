@@ -206,6 +206,10 @@
 - **Redux Testing Step by Step: A simple Methodology for Testing Business Logic**  
   https://hackernoon.com/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce  
   An excellent article by Tal Kol, describing how different types of tests fit together, the different kinds of Redux code that need to be tested, and how to write tests for each.
+  
+- **TDDing React + Redux**  
+  http://engineering.pivotal.io/post/tdding-react-and-redux/  
+  Helpful examples of patterns for testing various parts of a React+Redux app.
 
   
   

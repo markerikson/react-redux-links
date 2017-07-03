@@ -30,6 +30,25 @@
   https://tylermcginnis.com/react-elements-vs-react-components/  
   An explanation of how elements represent DOM nodes, what `createElement` does, and how components and rendering relate to elements
   
+  
+#### JSX and Events
+
+- **How the JSX Transform Works**  
+  https://jaketrent.com/post/how-jsx-transform-works/  
+  A helpful explanation of how JSX tags are transformed into React elements, with example snippets
+
+- **JSX In Depth - an interactive tutorial**  
+  http://blog.klipse.tech/javascript/2016/12/14/jsx.html  
+  An interactive version of the "JSX in Depth" tutorial from the React docs
+  
+- **Events in React**  
+  https://www.kirupa.com/react/events_in_react.htm  
+  An introduction to React's event handling system, including useful tips and some gotchas
+  
+- **React events in depth**  
+  https://www.youtube.com/watch?v=dRo_egw7tBc  
+  A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
+  
 
 #### Miniature React Implementations
 
@@ -142,6 +161,10 @@
 - **Preact: Into the void 0**  
   https://youtu.be/LY6y3HbDVmg  
   A talk by Jason Miller, author of Preact, covering some of the core implementation concepts behind Preact (and other virtual DOM/component libraries), as well as some important aspects for DOM manipulation performance.
+  
+- **Under the hood: ReactJS**  
+  https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/  
+  An incredibly detailed walkthrough of React's entire codebase and execution flow, with many diagrams and flowcharts illustrating things.  Very impressive. 
    
 
 #### React Fiber

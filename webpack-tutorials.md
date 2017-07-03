@@ -173,6 +173,15 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   https://medium.com/front-end-hacking/webpack-by-example-part-3-a4ceaaa6299a  
   https://medium.com/front-end-hacking/webpack-by-example-part-4-f55821016821  
   A 4-part series that illustrates core Webpack concepts via a series of small example repos, with explanations of the source and concepts in the articles.
+  
+- **How to setup Webpack 2.0 from scratch in 2017**  
+  https://medium.com/@wesharehoodies/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e  
+  https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-ii-66beb5dbccc2  
+  A detailed tutorial that walks through setting up a Webpack config piece-by-piece, and explains several Webpack concepts along the way.
+  
+- **A Webpack Setup that Makes Sense**  
+  https://medium.com/@Idan_Co/a-webpack-setup-that-makes-sense-35b4b6b8ef5f  
+  Looks at ways to define Webpack setup and tasks in a more modular, reusable manner.
 
 
 #### Configuration Terms and Concepts

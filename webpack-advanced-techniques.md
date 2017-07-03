@@ -82,6 +82,10 @@
   https://medium.com/@martin_hotell/tree-shake-lodash-with-webpack-jest-and-typescript-2734fa13b5cd  
   Walks through ways to configure Webpack and Babel to properly tree shake Lodash so that it only includes used functions.
   
+- **Webpack for real tasks: decreasing front-end size and improving caching**  
+  https://iamakulov.com/notes/webpack-front-end-size-caching/  
+  Covers a variety of ways to improve bundle sizes, including minification with Uglify, tree shaking imports, referencing external libraries, and more.
+  
   
 #### Code Splitting and Chunking
 
@@ -344,6 +348,10 @@
 - **Unambiguous Webpack Config with Typescript**  
   https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7  
   Shows how to use Typescript and type definitions to ensure correct setup of Webpack configs.
+  
+- **Webpack 2 & Semantic-UI Theming**  
+  https://medium.com/webmonkeys/webpack-2-semantic-ui-theming-a216ddf60daf  
+  Discusses how to configure Webpack to load Semantic-UI's LESS files to allow use of a custom theme.
   
 
   

@@ -76,7 +76,7 @@
   http://noah-prince-tech-blog.ghost.io/structuring-and-organizing-the-react-components-directory/  
   Some useful suggestions for folder layout, folder naming, and import handling.
   
-- **How OkCupied organizes its multi-page React App**  
+- **How OkCupid organizes its multi-page React App**  
   https://tech.okcupid.com/how-okcupid-organizes-its-multi-page-react-app/  
   https://www.reddit.com/r/reactjs/comments/5widfg/how_okcupid_organizes_its_multipage_react_app/  
   The OkCupid team discusses their approach for a multi-page app, including bundles, use of the Ducks pattern, and folder structures.  Some good follow-up discussion in the Reddit comments.
@@ -84,13 +84,6 @@
 - **React Project Structure**  
   https://daveceddia.com/react-project-structure/  
   An excellent article that gives practical advice for structuring the source of a React app, especially if you're a beginner or using `create-react-app`.
-
   
-#### Project Setup
-
-- **Setting up a Front-End Project**  
-  https://medium.com/@Torwori/setting-up-a-front-end-project-part-1-d7fbaaaa5e14  
-  https://medium.com/@Torwori/setting-up-a-front-end-project-part-2-cbbae56ffd15  
-  https://medium.com/@Torwori/setting-up-a-front-end-project-part-3-38f1681d310b  
-  https://medium.com/@Torwori/setting-up-a-front-end-project-part-4-b6fe32e58e5  
-  An in-depth tutorial series covering setup and configuration of many tools, including Git, Webpack, Babel, ESLint, and Typescript.
+- **Decoupling Hierarchies for Maintainable Code**  
+  https://medium.com/altschool-engineering/decoupling-hierarchies-for-maintainable-code-b13c24b2f047  

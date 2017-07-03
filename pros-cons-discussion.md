@@ -90,6 +90,18 @@
   https://medium.com/@maxlynch/redux-is-the-pivotal-frontend-innovation-a406736552cb  
   An opinionated article that says state management is even more important than components.
   
+- **Reflections on React**  
+  https://medium.com/@burkeholland/reflections-on-react-65d152a13d9e  
+  A former Telerik dev gives his thoughts on the current state of the React world, including how much people like it, use of standard JS syntax like classes, the variety of UI libs, and the lack of serious enterprise-class components like data grids and schedulers.  Some good discussion in the comments, too.
+  
+- **The delight of working on a React + Redux app**  
+  https://medium.com/dailyjs/the-delight-of-working-on-a-react-redux-app-affc22757e81  
+  Some interesting personal opinions on the benefits of working with React+Redux, including explicitness, traceability, and easy unit testing.
+  
+- **Don't Blame it on React or Redux**  
+  https://diessi.ca/blog/dont-blame-it-on-react-or-redux/  
+  Some short but well-written thoughts that argue in favor of React and Redux's "do it yourself" / "don't prescribe how to solve everything" approach, and that blaming them for bad app design or boilerplate is wrong.
+  
 
 #### Comment Threads and Discussions
 
@@ -216,6 +228,11 @@ similar structures in ClojureScript.
 - **"React/Redux or Angular 2 better for big enterprise project?"**  
   https://www.reddit.com/r/javascript/comments/5wixxc/reactredux_or_angular_2_better_for_big_enterprise/  
   Some good discussion on what "enterprise" means, and the relative merits of various frameworks for building enterprise apps.
+  
+- **"Redux is overused. Use setState first unless you know why you need Redux"**  
+  https://twitter.com/_jayphelps/status/846226930416345088  
+  Jay Phelps, author of redux-observable, starts a long and involved Twitter thread about when it's appropriate to use Redux - use cases, app sizes, and reasons.  Lots of interesting opinions.
+  
   
 #### React's PATENTS License
 

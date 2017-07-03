@@ -45,9 +45,14 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225  
   Extensive suggestions for resources to use when learning Javascript
   
+- **6 Quick & Proven Tips to Help You Learn JavaScript**  
+  https://blog.alexdevero.com/6-quick-proven-tips-learn-javascript/  
+  Points to a couple of suggested books to help learn JS, and gives several additional suggestions for approaches and resources to use in the process.
+  
 - **Array iteration methods summarized**  
   https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff  
   An explanation of all the different Array methods that loop over the array, what they do, and when they should be used
+  
 
 #### Tutorials, Books, and Courses
 
@@ -93,6 +98,10 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Javascript; The Core**  
   http://dmitrysoshnikov.com/ecmascript/javascript-the-core/  
   A dive into core concepts of how Javascript objects behave: prototypes, constructors, scopes, closures, and `this`.
+  
+- **The Modern Javascript Tutorial**  
+  http://javascript.info/  
+  A large tutorial series that covers all aspects of the modern Javascript language (basic syntax, data types, objects, and advanced function usage), as well as a section on using Javascript to interact with the DOM in web pages.
   
   
 #### Interactive Exercises

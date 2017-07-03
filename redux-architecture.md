@@ -240,6 +240,18 @@
 - **Getting started in React with Redux**  
   https://medium.com/@simonhfrost/getting-started-in-react-with-redux-8b2b42b66dee  
   Some quick tips for structuring a Redux app, including several related to organizing state.
+  
+- **Notes from my first React + Redux project**  
+  https://medium.com/audelabs/notes-from-my-first-react-redux-project-3f799beeb140  
+  A recap of how the author built a front end for a complex online payment site.  Doesn't really have specific suggestions, but it's well written and serves as a useful description of the common libraries and tools in a React+Redux app and how they fit together.
+  
+- **Journey of a Thousand Ducks**  
+  https://tech.iheart.com/video-journey-of-a-thousand-ducks-f0bb1a9b982c  
+  Devs from the iHeartRadio web team describe how they have approached refactoring their React app with homegrown state management to use Redux.
+  
+- **React+Redux: Tips and Best Practices for Clean, Reliable, & Maintainable Code**  https://speakerdeck.com/goopscoop/react-plus-redux-tips-and-best-practices-for-clean-reliable-and-scalable-code  
+  An excellent slideshow with a wide variety of tips and suggestions, including keeping action creators simple and data manipulation in reducers, abstracting away API calls, avoiding spreading props, and more.
+  
 
 
 #### Encapsulation and Reusability
@@ -330,6 +342,7 @@
   Discussion of ways to structure reducers, selectors, and other logic into reusable features
 
 
+
 #### Variations on Redux Architectures
 
 - **Redux Saga in Action**  
@@ -387,3 +400,7 @@
 - **Scaling Redux for real-life applications**  
   https://hackernoon.com/scaling-redux-for-real-life-applications-be18c731a54d  
   Describes a variation of the "ducks" structure that divides code into "basic concepts" that contain app state and minimal logic, and "container concepts" that contain minimal data and implement most application logic.
+  
+- **Agile Front End Enterprise Architecture with React, Redux, and Vanilla JS**  
+  https://medium.com/shiftgig-blog/agile-front-end-architectures-with-react-redux-and-vanilla-js-23f4e5626e01  
+  A description of how ShiftGig organizes their architecture, including a combination of Redux usage with sagas, and traditional OOP approaches like Model classes and Services.

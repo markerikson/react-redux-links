@@ -61,6 +61,10 @@
 - **A Typed pluck: exploring TypeScript 2.1's mapped types**  
   https://medium.com/@danvdk/a-typed-pluck-exploring-typescript-2-1s-mapped-types-c15f72bf4ca8  
   Detailed explanation of how the "mapped types" feature in TS 2.1 can be used to add typing to functions that map over data
+  
+- **Hello World with Webpack, TypeScript, and React**  
+  https://www.bennadel.com/blog/3293-hello-world-with-webpack-and-typescript-2-3-4-in-react-15-6-1.htm  
+  An example of setting up a project that uses Webpack, React, an TypeScript together.
 
 
 #### Flow Tutorials
@@ -164,6 +168,10 @@
 - **React Higher Order Components in TypeScript made simple**  
   https://dev.to/danhomola/react-higher-order-components-in-typescript-made-simple  
   Demonstrates how to extract an HOC and properly define types for various groups of props
+  
+- **React, Redux, and TypeScript: Typed Connect**  
+  https://www.silviogutierrez.com/blog/react-redux-and-typescript-typed-connect/  
+  Discusses a simpler set of typings for the `connect` function and how to use them with React.
 
 
 #### Advancing Typing Techniques
@@ -227,3 +235,6 @@
   https://medium.com/@ckoster22/why-i-was-looking-forward-to-flow-and-then-i-wasnt-7c0a86f2d603  
   Some useful thoughts on the tradeoffs involved in using Flow
   
+- **Flow: What's the verdict?**  
+  https://amplitude.engineering/flow-whats-the-verdict-9a458ecde27f  
+  Thoughts on some pros and cons of using FLow, including dealing with code that doesn't have types, and several specific use cases the Amplitude team has run into.

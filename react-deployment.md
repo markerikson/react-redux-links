@@ -28,3 +28,12 @@
 - **From React to an Electron app ready for production**  
   https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3  
   Walks through the basics of configuring a Create-React-App-based Electron app and building it for production.
+  
+- **React with Any Backend**  
+  http://andrewhfarmer.com/react-with-any-backend/  
+  Some short discussion and suggestions for project structure and deployment steps when building a React app that talks to a non-Javascript backend server.
+  
+- **Building a Full-Stack App with Serverless and React**  
+  http://serverless-stack.com/  
+  A large, well-written, in-depth tutorial that covers all aspects of building a React app with an AWS "serverless" backend: creating an AWS account, setting up the serverless backend and API, building a React app that talks to the API, and deploying the React app on AWS.
+  

@@ -433,6 +433,10 @@
   https://medium.com/@danparkk/react-modals-scalable-customizable-neat-components-f2088d60f3d3  
   An extended discussion of what concepts are involved in creating modals in web pages, why this can become complex, and how to implement them in a scalable way using React and Redux.
   
+- **Tasks and Portals in React**  
+  https://medium.com/@MoneyhubEnterpr/tasks-and-portals-in-react-1df2438cdebb  
+  Describes how MoneyHub implemented modal dialogs with wizard-like workflows that tie together multiple screens, using a combination of container components and portals.
+  
   
 #### Composing Components with Functional Programming
   

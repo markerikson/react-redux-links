@@ -58,6 +58,10 @@
 - **Understanding State and Props in React**  
   https://hackernoon.com/understanding-state-and-props-in-react-94bc09232b9c  
   A helpful explanation of the difference between "props" and "state".
+  
+- **Local Storage in React**  
+  https://www.robinwieruch.de/local-storage-react/  
+  Demonstrates how to persist state in React using local storage, how to use it as a cache, and how to make it expire.
 
 
 #### Using `setState`

@@ -44,6 +44,10 @@
   https://www.pluralsight.com/guides/front-end-javascript/ui-state-management-with-redux-in-angular-2  
   An extended article that discusses the benefits of using Redux to manage state, and build an example app that uses Redux to control modals and sidebars.
   
+- **Managing State in Angular with ngrx/store**  
+  https://auth0.com/blog/managing-state-in-angular-with-ngrx-store/  
+  A tutorial that demonstrates use of the ngrx/store variation of Redux as part of an Angular app.
+  
 #### Other
 
 - **Managing State in Aurelia: How to Use Aurelia with Redux**  

@@ -63,6 +63,10 @@
   https://www.reddit.com/r/reactjs/comments/5t8loz/what_are_your_top_reactreact_native_blogs_that/  
   Several comments listing good React-related blogs, including my own list of high-quality blogs that I subscribe to.
   
+- **Awesome MobX**  
+  https://github.com/mobxjs/awesome-mobx  
+  A collection of awesome things regarding MobX.
+  
 
 #### People
 

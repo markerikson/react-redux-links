@@ -64,6 +64,9 @@
   https://zellwk.com/blog/es6/  
   A great look at how several of the most useful ES6 features work, such as block scoping, arrow functions, and destructuring.
   
+- **ES6 Katas: Learn ES6 by doing it**  
+  http://es6katas.org/  
+  Sets of exercises to help you learn ES6 features and syntax.
 
 #### In-Depth Details
 

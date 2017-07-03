@@ -236,6 +236,10 @@
   https://www.nathanl.in/posts/nathans-guide-to-building-kick-ass-react-applications-part-i  
   https://www.nathanl.in/posts/building-kickass-react-applications-with-nathan-part-ii-adding-redux  
   A tutorial intended to bridge the gap between "hello world" tutorials and "real-world" boilerplates.  Covers building a server-rendered React application using Webpack 2, React Router 4, Redux, and ES6.
+  
+- **Building Tesla's Battery Range Calculator with React+Redux**  
+  https://medium.freecodecamp.org/building-teslas-battery-range-calculator-with-react-part-2-redux-version-2ffe29018eec  
+  Follows the "plain React" version in Part 1 by introducing basic Redux concepts, and modifying the original version to use Redux for managing state.
 
 
 #### Redux Implementation Walkthroughs

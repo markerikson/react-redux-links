@@ -93,8 +93,9 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   Discussion and examples of using the "virtualization" technique to only render list components that are currently in view.
   
 - **Creating more efficient React views with windowing**  
-  https://bvaughn.github.io/connect-tech-2016/#/  
-  An excellent slideshow on performance topics from the author of the React-Virtualized library.  Covers sources of slowness, ways to avoid re-renders, and a deep look at "windowing/virtualization" for high-performance lists.
+  https://bvaughn.github.io/forward-js-2017/#/  
+  https://youtu.be/t4tuhg7b50I  
+  An excellent talk on performance topics from Brian Vaughn, a React core team member and author of the React-Virtualized library.  Covers sources of slowness, ways to avoid re-renders, and a deep look at "windowing/virtualization" for high-performance lists.
   
 - **React Component Profiling**  
   https://blog.yld.io/2016/11/25/react-component-profiling/  
@@ -183,6 +184,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Improving first load time of a Production React App**  
   https://hackernoon.com/improving-first-time-load-of-a-production-react-app-part-1-of-2-e7494a7c7ab0  
   A detailed look at the various approaches used by UrbanClap to improve their load time, including file chunking, on-demand loading, dropping non-critical libraries, and more
+  
+- **Simple Pattern for Asynchronously Loading React Components**  
+  https://mackness.github.io/react/patterns/2017/03/20/simple-pattern-for-asynchronously-loading-react-components.html  
+  A quick example of using dynamic importing to lazy-load React components
   
   
 #### Immutable Data

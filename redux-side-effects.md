@@ -103,6 +103,10 @@
   https://medium.com/@talkol/redux-thunks-dispatching-other-thunks-discussion-and-best-practices-dd6c2b695ecf  
   Some excellent thoughts on when it's okay to have a thunk dispatch another thunk, and other possible approaches.
   
+- **Redux-Observable Epics vs Redux Sagas**  
+  https://shift.infinite.red/redux-observable-epics-vs-redux-sagas-8e53610c0eda  
+  A humorous look at how redux-observable and redux-saga compare.  It recaps their backgrounds and basic ideas, then shows comparison implementations for some small tasks and rates the approaches.
+  
 
 #### Sagas
 
@@ -201,6 +205,10 @@
   https://medium.com/@TomasEhrlich/redux-saga-factories-and-decorators-8dd9ce074923  
   Some quick examples of creating reusable sagas to reduce duplicate code
   
+- **Handling action errors in Redux-Saga using Either**  
+  https://medium.com/@jamiedixon/handling-errors-in-redux-saga-using-either-12671bc6cf90  
+  Demonstrates an approach to handling error cases in Flux Standard Actions using the functional programming "Either" concept.
+  
   
 #### Other Side Effect Approaches
 
@@ -223,3 +231,11 @@
 - **Elm Architecture with Redux**  
   https://smallbusinessforum.co/elm-architecture-with-react-redux-redux-loop-645a67070b1a  
   A short look at how Elm handles side effects, and how Redux-Loop can help implement a similar approach in Redux
+  
+- **Redux-cycles**  
+  http://nick.balestra.ch/talk/redux-cycles/#/0  
+  A slideshow that describes the basics of Cycle.js, and how the redux-cycles library can be used to handle side effects in Redux
+  
+- **How to make your React app fully functional, fully reactive, and able to handle all those crazy side effects**  
+  https://medium.freecodecamp.org/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10  
+  A lengthy look at Cycle.js and the redux-cycles library, with plenty of diagrams to illustrate how it handles data flow.

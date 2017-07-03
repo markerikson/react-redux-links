@@ -16,6 +16,9 @@
   https://www.fullstackreact.com/30-days-of-react/  
   A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
   
+- **Learn React From Your Browser: Introducing React**  
+  https://reactarmory.com/guides/learn-react-in-browser-with-animated-fractal/introducing-react  An excellent tutorial that teaches React concepts from basic principles without buzzwords or build tools, using interactive editable examples.  (This is a rewritten and improved version of the "Learn Raw React" tutorial.)  
+  
 - **Learn Raw React**  
   http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/  
   A ground-up React tutorial that leaves out any other related "modern" technologies,  Very recommended if you want to skip the buzzwords and acronyms.
@@ -104,21 +107,9 @@
   https://docs.google.com/presentation/d/19DaabQG8CB4INKGpaHao0hIXcB7zmETg4IHOZkF7MPM  
   A slideshow from Lee Byron, one of React's early team members, giving an overview of what React is, how it works, and how it can fit into applications.
   
-- **Events in React**  
-  https://www.kirupa.com/react/events_in_react.htm  
-  An introduction to React's event handling system, including useful tips and some gotchas
-  
 - **React 101: Condensed**  
   http://erikaybar.name/react-101-medium-and-slides/  
   Links to an HTML slideshow and accompanying blog post that introduce just enough info to give you a taste of what React is about.
-  
-- **JSX In Depth - an interactive tutorial**  
-  http://blog.klipse.tech/javascript/2016/12/14/jsx.html  
-  An interactive version of the "JSX in Depth" tutorial from the React docs
-  
-- **React events in depth**  
-  https://www.youtube.com/watch?v=dRo_egw7tBc  
-  A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
   
 - **React by Example**  
   https://medium.com/front-end-hacking/react-by-example-part-1-76d3e2137cf4  
@@ -130,32 +121,19 @@
   https://medium.com/@johntucker_48673/react-by-example-part-7-8dc97b57f668  
   A multi-part series that illustrates core React concepts via a series of small example repos, with explanations of the source and concepts in the articles.
   
-  
-#### React Project Setup
+- **React.js for the Visual Learner**  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-1-what-is-this-all-about-a0d28cfd33c6  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-2-what-is-react-and-why-is-it-cool-d1f9bac69a63  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-3-building-our-houses-295c43304b18  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-4-our-first-village-8b44427d4762  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-5-additions-to-our-houses-7e67ed97b62b  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-6-building-our-first-project-5429f1afde98  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-7-building-our-first-user-interface-c61e9a22be2f  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-8-implementing-react-router-6109671db576  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-9-chat-bot-demo-using-firebase-637445703c74  
+  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-10-reacting-to-what-weve-learned-633ac18469ba  
+  A 10-part series that explains React (and many web dev concepts) from the ground up, with simple terms and lots of metaphors.  Aimed at absolute beginners.
 
-- **Simple React Development in 2017**  
-  https://hackernoon.com/simple-react-development-in-2017-113bd563691f  
-  An excellent set of instructions for setting up a React project with minimal fuss and effort needed.  Includes links to some useful resources, and info on deploying the app to production.
-  
-- **Taming the React Setup**  
-  http://developer.telerik.com/featured/taming-react-setup/  
-  Describes seven different setups for writing React code, from simple (plain react.js loaded into the browser), to complex (use of Babel with Webpack or JSPM).
-  
-- **Kick-Start React Projects with Create-React-App**  
-  https://www.sitepoint.com/create-react-app/  
-  Some quick tips on how to use Create-React-App to create a new React project and tweak the setup.
-  
-- **Getting Started with React the Easy Way**  
-  http://codeutopia.net/blog/2016/01/10/getting-started-with-react-the-easy-way/  
-  Shows the simplest way to load React into a web page and start using it
-  
-- **The Minimal React Webpack Babel Setup**  
-  https://www.robinwieruch.de/minimal-react-webpack-babel-setup/  
-  A clear walkthrough for the key steps needed to set up a useful Webpack+Babel config from scratch for a productive React dev environment.  Very helpful if you choose not to use Create-React-App.
-  
-- **How to get Create-React-App to work with your API**  
-  https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/  
-  An example of how to set up a server to work with Create-React-App
   
 
 #### React Concept Overviews
@@ -336,6 +314,25 @@
 - **Accept Stripe Payments with React and Express**  
   https://www.robinwieruch.de/react-express-stripe-payment/  
   Demonstrates building a small app that handles payment information using the Stripe service
+  
+- **Let's Learn: Higher Order Components and Websockets**  
+  https://medium.com/let-s-learn/lets-learn-higher-order-components-and-websockets-83a18d36c0d1   Examples that show how to create reusable components that manage a websocket connection and subscriptions to specific events.
+  
+- **Make Your Own Charts in React Without a Charting Library**  
+  https://kyleshevlin.com/make-your-own-charts-in-react-without-a-charting-library-part-1/  
+  A series that demonstrates building your own chart rendering components.
+  
+- **Intro to React Workshop**  
+  https://github.com/ericvicenti/intro-to-react  
+  An hour-long workshop originally developed for Facebook's F8 developer conference.  Includes a workshop video and a follow-along guide to building a simple React app.
+  
+- **Building Tesla's Battery Range Calculator with React**  
+  https://medium.freecodecamp.org/building-teslas-battery-range-calculator-with-react-part-1-2cb7abd8c1ee  
+  A detailed guided walkthrough for building a React version of Tesla's battery range calculator application.  Includes lots of code samples, and instructions for deploying a working version of the app.
+  
+- **How to Build Free-Hand Drawing using React**  
+  https://pspdfkit.com/blog/2017/how-to-build-free-hand-drawing-using-react/  
+  Demonstrates building a component that listens to mouse events, saves the coordinates, and draws the resulting lines using SVG.
   
   
 #### Paid Courses and Books

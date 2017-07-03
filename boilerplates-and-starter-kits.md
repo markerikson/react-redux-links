@@ -21,13 +21,6 @@
   https://github.com/tstringer/react-laboratory  
   An absolute bare-minimum project.  One tiny Webpack config, one JS file, one component.  Pretty much the smallest possible setup to use React and JSX with Webpack.
   
-- **Hipster Boilerplate**  
-  https://github.com/Jordaanm/hipster-boilerplate  
-  A learning-oriented repo that builds up a small project config step-by-step.  Each commit adds one new feature or capability (Babel+ES6, Webpack bundling, a small Redux app, LESS styling, routing, and hot-reloading).  
-  
-- **JavaScript Stack from Scratch**  
-  https://github.com/verekia/js-stack-from-scratch  
-  This is a minimalistic and straight to the point guide to assembling a JavaScript stack. It teaches you how to set up ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, and Flow. It requires some general programming knowledge, and JavaScript basics. It focuses on wiring all these tools together and giving you the simplest possible example for each tool. You can see this tutorial as a way to write your own boilerplate from scratch.
   
   
 #### Full-Featured Starter Kits
@@ -85,3 +78,54 @@
 - **Awesome React Boilerplates**  
   http://habd.as/awesome-react-boilerplates/  
   Another good curated list of boilerplates for both React and React Native
+  
+  
+  
+#### React Project Setup
+
+- **Simple React Development in 2017**  
+  https://hackernoon.com/simple-react-development-in-2017-113bd563691f  
+  An excellent set of instructions for setting up a React project with minimal fuss and effort needed.  Includes links to some useful resources, and info on deploying the app to production.
+  
+- **Taming the React Setup**  
+  http://developer.telerik.com/featured/taming-react-setup/  
+  Describes seven different setups for writing React code, from simple (plain react.js loaded into the browser), to complex (use of Babel with Webpack or JSPM).
+  
+- **Kick-Start React Projects with Create-React-App**  
+  https://www.sitepoint.com/create-react-app/  
+  Some quick tips on how to use Create-React-App to create a new React project and tweak the setup.
+  
+- **Getting Started with React the Easy Way**  
+  http://codeutopia.net/blog/2016/01/10/getting-started-with-react-the-easy-way/  
+  Shows the simplest way to load React into a web page and start using it
+  
+- **The Minimal React Webpack Babel Setup**  
+  https://www.robinwieruch.de/minimal-react-webpack-babel-setup/  
+  A clear walkthrough for the key steps needed to set up a useful Webpack+Babel config from scratch for a productive React dev environment.  Very helpful if you choose not to use Create-React-App.
+  
+- **Hipster Boilerplate**  
+  https://github.com/Jordaanm/hipster-boilerplate  
+  A learning-oriented repo that builds up a small project config step-by-step.  Each commit adds one new feature or capability (Babel+ES6, Webpack bundling, a small Redux app, LESS styling, routing, and hot-reloading).  
+  
+- **JavaScript Stack from Scratch**  
+  https://github.com/verekia/js-stack-from-scratch  
+  This is a minimalistic and straight to the point guide to assembling a JavaScript stack. It teaches you how to set up ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, and Flow. It requires some general programming knowledge, and JavaScript basics. It focuses on wiring all these tools together and giving you the simplest possible example for each tool. You can see this tutorial as a way to write your own boilerplate from scratch.
+
+- **React Ecosystem Setup - Step-By-Step**  
+  https://codeburst.io/react-ecosystem-setup-step-by-step-walkthrough-721ff45a7fc1  
+  An in-depth walkthrough that shows to to set up Webpack and Babel, and explains why each bit of configuration is needed.
+  
+- **Always up-to-date Guide for Modern JavaScript Development**  
+  https://mvilrokx.gitbooks.io/always-up-to-date-guide-for-modern-javascript-dev/content/  
+  An opinionated guide for setting up a modern JS development environment.
+  
+- **Setup a React Environment using Webpack and Babel**  
+  https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel  
+  A tutorial that teaches how to set up a basic Webpack 2 + Babel config from scratch.
+  
+- **Setting up a Front-End Project**  
+  https://medium.com/@Torwori/setting-up-a-front-end-project-part-1-d7fbaaaa5e14  
+  https://medium.com/@Torwori/setting-up-a-front-end-project-part-2-cbbae56ffd15  
+  https://medium.com/@Torwori/setting-up-a-front-end-project-part-3-38f1681d310b  
+  https://medium.com/@Torwori/setting-up-a-front-end-project-part-4-b6fe32e58e5  
+  An in-depth tutorial series covering setup and configuration of many tools, including Git, Webpack, Babel, ESLint, and Typescript.

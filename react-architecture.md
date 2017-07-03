@@ -106,6 +106,10 @@
 - **Thinking in React**  
   https://www.codementor.io/radubrehar/thinking-in-react-8duata34n  
   Some quick thoughts on how React's rendering approach can be applied universally, how it simplifies dealing with state transitions, and how its API helps devs build UIs naturally.
+  
+- **Front End Center: Single-Responsibility Components: Object-Oriented Design in React**  
+  https://youtu.be/pSdp92Up8O8  
+  An excellent screencast that discusses how the "Single Responsibility Principle" can be applied to organizing and designing React components.
 
 
 #### React Best Practices
@@ -231,6 +235,10 @@
 - **Techniques for decomposing React components**  
   https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da  
   Three useful techniques for splitting up components: splitting render methods, passing React elements as props, and extracting higher-order components.
+  
+- **How to become a more productive React developer**  
+  https://dev.to/karljakoblind/how-to-become-a-more-productive-react-developer  
+  Quick suggestions for useful tools that increase productivity, including Prettier for formatting, ESLint for error checking, the React and Redux DevTools for debugging, and React-Hot-Loader for faster edits.
   
   
   

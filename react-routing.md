@@ -31,6 +31,10 @@
   https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997  
   Examples of how to implement a custom routing approach, with minimal external dependencies.
   
+- **Build your own React Router v4**  
+  https://tylermcginnis.com/build-your-own-react-router-v4/  
+  Tyler McGinnis, a React Training partner, walks through the process of building a miniature version of React Router v4 to help explain its concepts and implementation.
+  
   
 #### Routing with Redux
   
