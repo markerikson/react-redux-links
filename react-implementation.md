@@ -186,7 +186,7 @@
   Kent C Dodds interviews Dan Abramov and Andrew Clark about what React Fiber is intended to do, how it works, and what it means for the React codebase.
   
 - **ReactConf 2017: A Cartoon Intro to Fiber**  
-  https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0  
+  https://youtu.be/ZCuYPiUIONs  
   A fantastic presentation by Lin Clark, explaining the core concepts and implementation of React Fiber with cartoon illustrations.
   
 - **React Fiber: A Closer Look at the New Engine of React**  
