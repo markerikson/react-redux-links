@@ -169,6 +169,18 @@
 
 #### React Fiber
   
+- **ReactConf 2017: A Cartoon Intro to Fiber**  
+  https://youtu.be/ZCuYPiUIONs  
+  A fantastic presentation by Lin Clark, explaining the core concepts and implementation of React Fiber with cartoon illustrations.
+  
+- **Roadmap for React - Fiber and Beyond**  
+  https://www.youtube.com/watch?v=QW5TE4vrklU  
+  A keynote by Andrew Clark, describing the ideas behind React Fiber and the benefits it will give.
+  
+- **React Fiber: A Closer Look at the New Engine of React**  
+  https://www.infoq.com/news/2017/05/react-fiber-closer-look  
+  A useful summary of the goals and implementation approach for the new React Fiber algorithm
+  
 - **React Fiber Architecture**  
   https://github.com/acdlite/react-fiber-architecture  
   A description of React's new core algorithm, React Fiber
@@ -185,10 +197,5 @@
   https://www.youtube.com/watch?v=crM1iRVGpGQ  
   Kent C Dodds interviews Dan Abramov and Andrew Clark about what React Fiber is intended to do, how it works, and what it means for the React codebase.
   
-- **ReactConf 2017: A Cartoon Intro to Fiber**  
-  https://youtu.be/ZCuYPiUIONs  
-  A fantastic presentation by Lin Clark, explaining the core concepts and implementation of React Fiber with cartoon illustrations.
+
   
-- **React Fiber: A Closer Look at the New Engine of React**  
-  https://www.infoq.com/news/2017/05/react-fiber-closer-look  
-  A useful summary of the goals and implementation approach for the new React Fiber algorithm

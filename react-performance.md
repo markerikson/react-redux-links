@@ -295,3 +295,7 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Surprising polymorphism in React applications**  
   https://medium.com/@bmeurer/surprising-polymorphism-in-react-applications-63015b50abc  
   A Chrome V8 engine developer digs into the nitty-gritty details of how common Redux reducer patterns result in less-optimized behavior from the JS engine running the code.
+  
+- **Redux isn't slow, you're just doing it wrong - an optimization guide for React-Redux**  
+  http://reactrocket.com/post/react-redux-optimization/  
+  An excellent summary of the basic steps for good performance with React-Redux

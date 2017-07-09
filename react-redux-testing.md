@@ -210,6 +210,10 @@
 - **TDDing React + Redux**  
   http://engineering.pivotal.io/post/tdding-react-and-redux/  
   Helpful examples of patterns for testing various parts of a React+Redux app.
+  
+- **Testing Redux: Async Action Creators**  
+  http://joeellis.la/testing-redux-actions/  
+  Describes approaches for testing async action creators, particularly thunks that make AJAX calls.
 
   
   

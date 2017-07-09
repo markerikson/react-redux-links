@@ -62,6 +62,10 @@
   https://medium.com/@kuy/entering-leaving-hooks-of-routing-for-react-redux-app-22e6eea055a5  
   Discusses use of enter/leave routing hooks for handling component data fetching needs, and how that is handled with the author's Redux-based routing library.
   
+- **Routes as State in React**  
+  https://blog.boon.gl/2017/06/29/routes-as-state-in-react.html  
+  Some thoughts on why tracking route data as state might make sense, and some examples of how to approach that.
+  
   
 #### Authentication
 

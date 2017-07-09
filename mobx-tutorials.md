@@ -90,7 +90,7 @@ A great video to understand the differences between MobX and Redux.
   An in-depth comparison of the ideas, concepts, approaches, and use cases for the two state management libraries
   
 - **MobX vs Redux: Comparing the Opposing Paradigms**  
-  https://www.youtube.com/watch?v=76FRrbY18Bs&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0&index=8  
+  https://youtu.be/76FRrbY18Bs  
   A fantastic presentation by Preethi Kasireddy at ReactConf 2017, comparing the philosophies, concepts, tradeoffs, and use cases for Redux and MobX.
   
 - **Redux vs MobX by example**  

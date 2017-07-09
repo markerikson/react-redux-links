@@ -410,6 +410,10 @@
   https://www.protectator.ch/post/pixijs-v4-in-a-react-component  
   A quick example of loading PixiJS and wrapping it in a React component, showing the basics for integration.
   
+- **React components as jQuery plugins**  
+  https://swizec.com/blog/using-react-in-the-real-world/swizec/6710  
+  Demonstrates how to wrap up a React component as a jQuery plugin for integration with non-React apps.
+  
   
 #### Modal Dialogs
   

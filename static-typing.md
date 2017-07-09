@@ -65,6 +65,10 @@
 - **Hello World with Webpack, TypeScript, and React**  
   https://www.bennadel.com/blog/3293-hello-world-with-webpack-and-typescript-2-3-4-in-react-15-6-1.htm  
   An example of setting up a project that uses Webpack, React, an TypeScript together.
+  
+- **Yet Another TypeScript Book**  
+  https://pagalvin.gitbooks.io/yet-another-typescript-book/content/  
+  A casual introduction to the main features of TypeScript.
 
 
 #### Flow Tutorials

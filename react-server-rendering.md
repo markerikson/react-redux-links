@@ -8,6 +8,10 @@
   http://crypt.codemancers.com/posts/2016-09-16-react-server-side-rendering/  
   An example of setting up server rendering using React-Router and Express
   
+- **ReactJS: Server side rendering with router v4 and redux**  
+  http://crypt.codemancers.com/posts/2017-06-03-reactjs-server-side-rendering-with-router-v4-and-redux/  
+  A follow-up to the previous post that shows how to implement SSR using React-Router v4 instead of v3, and includes use of Redux as well.
+  
 - **Build a Universal Javascript App**  
   https://www.packtpub.com/books/content/build-universal-javascript-app-part-1  
   https://www.packtpub.com/books/content/build-universal-javascript-app-part-2  
@@ -44,3 +48,6 @@
 - **Server-Side React Rendering**  
   https://css-tricks.com/server-side-react-rendering/  
   A good tutorial that walks through the basic setup needed to start rendering React components into HTML in an Express server.
+  
+
+  

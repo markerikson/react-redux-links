@@ -154,3 +154,4 @@
 - **Classes, Complexity, and Functional Programming**  
   https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747  
   Kent C Dodds looks at pros and cons of using classes, issues with the `this` keyword in Javascript, and some ways to avoid using classes
+  

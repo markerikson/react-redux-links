@@ -96,6 +96,8 @@
   Some short but helpful examples of how currying functions can be used to reuse reducer logic for similar use cases.
   
 
+  
+
 #### Selectors and Normalization
 
 **Related topics**: 
@@ -180,6 +182,10 @@
 - **Use Selectors in Redux for Great Good**  
   https://medium.com/@TomasEhrlich/use-selectors-in-redux-for-great-good-59286ce2e2a1  
   A short article explaining the importance of selectors, with a few examples of how they benefit applications and how to use them.
+  
+- **Reselect with Redux and React**  
+  https://www.youtube.com/watch?v=6Xwo5mVxDqI  
+  A screencast that introduces the Reselect library and discusses why it's useful in Redux apps
 
 
 #### UI and Widget Implementations
@@ -232,6 +238,10 @@
 - **Introduce Redux local state to your React App**  
   https://medium.com/@tangbenze/introduce-redux-local-state-to-your-react-app-9f96f18d4f35  
   Demonstrates setup and use of a addon library to manage scoped actions, reducers, and connections for isolated component state.
+  
+- **Using react-redux-set-local**  
+  https://www.andrewfong.com/blog/2017/07/03/react-redux-set-local/  
+  Discussion of the rationale and implementation of a library for connecting isolated portions of a Redux store state to a component while maintaining separation between presentation and state management.
   
   
 #### Redux and Forms
@@ -343,6 +353,15 @@
   https://news.ycombinator.com/item?id=14482215  
   Describes several concerns with increasing verbosity and complexity in Redux apps, and how the author's library can help simplify those.
 
+- **Manage analytics actions in React**  
+  https://medium.com/trainline-engineering/manage-analytics-actions-in-react-67fae61495de  
+  Discusses using Redux middleware and redux-observable to manage analytics behavior in isolation from the rest of the application.
+  
+- **VR Redux / ReactVR Redux Revisited**  
+  http://jimpurbrick.com/2017/01/04/vr-redux/  
+  http://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/  
+  A pair of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
+  
   
 #### Network Management
 

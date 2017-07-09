@@ -139,3 +139,8 @@
 - **Qim: Select from your Immutable JavaScript Cake and Update It Symmetrically Too**  
   https://zapier.com/engineering/qim-immutable-javascript/  
   An in-depth look at a new lens-style immutable update utility called Qim, including what problems it helps solve and how to use it.
+  
+- **Lenses with Immutable.js**  
+  https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780  
+  Discusses how "lenses" can be used to dig into data structures and update them in an immutable way, and how to define lenses that work on Immutable.js objects.
+  

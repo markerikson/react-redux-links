@@ -252,6 +252,9 @@
 - **React+Redux: Tips and Best Practices for Clean, Reliable, & Maintainable Code**  https://speakerdeck.com/goopscoop/react-plus-redux-tips-and-best-practices-for-clean-reliable-and-scalable-code  
   An excellent slideshow with a wide variety of tips and suggestions, including keeping action creators simple and data manipulation in reducers, abstracting away API calls, avoiding spreading props, and more.
   
+- **Why not to store objects in Redux**  
+  https://medium.com/trainline-engineering/manage-analytics-actions-in-react-67fae61495de  
+  Some quick thoughts on why you should keep plain JS objects in your store, instead of class instances.  
 
 
 #### Encapsulation and Reusability

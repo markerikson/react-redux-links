@@ -126,6 +126,10 @@
   http://presentations.survivejs.com/forms-in-react/#/  
   Slides for a workshop on approaches for managing forms in React.  Includes summaries of the various major approaches for managing forms, and links to several useful form-related libraries.
   
+- **Some Thoughts on Forms in React**  
+  https://medium.com/javascript-inside/some-thoughts-on-forms-in-react-9ca2d9078c20  
+  An extended look at several form-related concepts, including describing them as "view-driven" vs "model-driven", extracting form management into a Higher-Order Component, adding validation, and more.
+  
   
 #### Form Validation
 
@@ -157,6 +161,10 @@
 - **Really Dumb Form Validation**  
   https://medium.com/@l_e/really-dumb-form-validations-739611d2ffcd  
   Some quick examples of simple but effective form validation handling inside of React components.
+  
+- **Why not field-level validations?**  
+  https://goshakkk.name/y-no-field-level-validations/  
+  Thoughts on why it's better to handle validation at the "whole form" level, rather than strictly per-field.
   
 
 #### Other

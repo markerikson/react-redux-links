@@ -66,6 +66,10 @@
   https://www.fullstackreact.com/articles/use-property-initializers-for-cleaner-react-components/  
   A look at how the "Class Properties"/"Property Initializer" syntax allows much cleaner definition of method binding, and how to configure Babel to use that syntax
   
+- **Javascript, React, This, and Programming Fundamentals**  
+  https://www.andrewfong.com/blog/2017/05/13/javascript-react-this-and-programming-fundamentals/  A helpful explanation of how `this` works in Javascript,  how method binding works, and how that relates to React classes and class methods.
+  
+  
 
 #### Method Binding Utilities
 
