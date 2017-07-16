@@ -407,3 +407,7 @@
 - **Agile Front End Enterprise Architecture with React, Redux, and Vanilla JS**  
   https://medium.com/shiftgig-blog/agile-front-end-architectures-with-react-redux-and-vanilla-js-23f4e5626e01  
   A description of how ShiftGig organizes their architecture, including a combination of Redux usage with sagas, and traditional OOP approaches like Model classes and Services.
+  
+- **NgRx: Patterns and Techniques**  
+  https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5  
+  Describes a variety of patterns and approaches for using the NgRx library (a clone of Redux built with RxJS and commonly used with Angular).  The labels and categories given for side effects approaches, like "content-based decider", "content enricher", etc, can be applied to existing Redux middlewares as well.  

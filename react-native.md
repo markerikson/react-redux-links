@@ -84,3 +84,7 @@
 - **6 Tips You Want to Know about React Native Performance**  
   https://www.simplytechnologies.net/blog/2017/6/6/6-tips-you-want-to-know-about-react-native-performance  
   Several useful suggestions for improving RN performance, including RN-specific suggestions like using FlatList instead of ListView, and pushing animations into native code.
+  
+- **How we restructured our app with React-Navigation**  
+  https://m.oursky.com/how-we-restructured-our-app-with-react-navigation-98a89e219c26  
+  Describes some of the history of the React-Navigation library, and shows some examples of how to use it with Redux and make a Higher-Order Component to work with it.

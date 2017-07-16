@@ -297,6 +297,20 @@
 - **Reading Redux: `createStore`**  
   https://engineering.universe.com/reading-redux-ca160163867e  
   A guided walkthrough of the code for Redux's `createStore` function
+  
+- **Implement React Redux from Scratch**  
+  https://medium.com/@kj_huang/implementation-of-react-redux-part-1-411b971a9b5b  
+  https://medium.com/@kj_huang/implementation-of-react-redux-part-2-633441bd3306  
+  https://medium.com/@kj_huang/implementation-of-react-redux-part-3-dc54fce9746a  
+  A 3-part series that builds a slightly simplified version of the React-Redux v5 `connect` function to explain how it works.  A good follow-up from Dan's "connect.js explained" gist, which shows the basic conceptual behavior of `connect`, while this one traces through the internals.
+  
+- **"I use React and Redux but never React-Redux, what am I missing out on?"**  
+  https://www.reddit.com/r/javascript/comments/6hperk/i_use_react_and_redux_but_never_reactredux_what/dj0fywb/  
+  A response I wrote to someone who asked why they should use the React-Redux `connect` function instead of subscribing to the store manually, where I described the benefits of using `connect` instead of writing manual subscription code.
+  
+- **"Help getting @connect command to work with my Create-React-App project"**  
+  https://www.reddit.com/r/reactjs/comments/6l9roo/question_help_getting_connect_command_to_work/djskwqi/  
+  A comment I wrote describing why the Redux team discourages use of `connect` as a decorator.
 
 
 #### Paid Courses and Books

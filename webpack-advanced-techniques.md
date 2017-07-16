@@ -86,6 +86,10 @@
   https://iamakulov.com/notes/webpack-front-end-size-caching/  
   Covers a variety of ways to improve bundle sizes, including minification with Uglify, tree shaking imports, referencing external libraries, and more.
   
+- **Webpack 3 + React - Production Build Tips**  
+  https://medium.com/netscape/webpack-3-react-production-build-tips-d20507dba99a  
+  General advice for improving Webpack builds, including code splitting, minification, and several more.  Includes a complete Webpack config file at the end with the proper settings.
+  
   
 #### Code Splitting and Chunking
 
@@ -372,3 +376,7 @@
 - **source-map-explorer**  
   https://github.com/danvk/source-map-explorer  
   Analyze and debug JavaScript (or Sass or LESS) code bloat through source maps.  Help determine which file each byte in your minified code came from.
+  
+- **bundle-buddy**  
+  https://github.com/samccone/bundle-buddy  
+  Bundle Buddy is a tool to help you find source code duplication across your javascript chunks/splits. This enables you to fine tune code splitting parameters to reduce bundle invalidation rates as well as improve repeat page load performance.

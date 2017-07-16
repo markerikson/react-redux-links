@@ -197,5 +197,6 @@
   https://www.youtube.com/watch?v=crM1iRVGpGQ  
   Kent C Dodds interviews Dan Abramov and Andrew Clark about what React Fiber is intended to do, how it works, and what it means for the React codebase.
   
-
-  
+- **A look inside React Fiber**  
+  http://makersden.io/blog/look-inside-fiber/  
+  Traces through the source code for React 16 / React Fiber, starting with the main `render()` function and diving down from there through the system.

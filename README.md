@@ -31,6 +31,7 @@ You might also want to check out my categorized list of Redux-related addons, li
 - [Immutable Data](./immutable-data.md)
 - [React/Redux Testing](./react-redux-testing.md)
 - [React Native](./react-native.md)
+- [React Tips and Techniques](./react-techniques.md)
 
 #### Advanced Topics
 

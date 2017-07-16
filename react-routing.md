@@ -35,6 +35,10 @@
   https://tylermcginnis.com/build-your-own-react-router-v4/  
   Tyler McGinnis, a React Training partner, walks through the process of building a miniature version of React Router v4 to help explain its concepts and implementation.
   
+- **A little bit of history**  
+  https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd  
+  A deep look at the "history" library, which is the core of React Router and used by other routing libraries as well.
+  
   
 #### Routing with Redux
   

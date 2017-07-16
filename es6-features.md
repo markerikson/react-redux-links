@@ -208,6 +208,10 @@
   http://trycatchfail.com/blog/?tag=/promises  
   An excellent series of articles describing the basics of promises, and listing a variety of useful techniques for using promises to solve problems.
   
+- **Escape from Callback Mountain: the "Functional River" pattern**  
+  https://github.com/justsml/escape-from-callback-mountain/  
+  An opinionated suggested approach for writing promise callbacks to form a pipeline
+  
   
 #### Techniques
 

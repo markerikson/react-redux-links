@@ -95,6 +95,10 @@
   http://www.guyzissman.com/posts/pipe-reducers/  
   Some short but helpful examples of how currying functions can be used to reuse reducer logic for similar use cases.
   
+- **Higher Order Reducers - It just sounds scary**  
+  https://medium.com/@danielkagan/high-order-reducers-it-just-sounds-scary-2b9e5dbfc705  
+  Explains how reducers can be composed like Lego bricks to create reusable and testable reducer logic.
+  
 
   
 
@@ -242,6 +246,14 @@
 - **Using react-redux-set-local**  
   https://www.andrewfong.com/blog/2017/07/03/react-redux-set-local/  
   Discussion of the rationale and implementation of a library for connecting isolated portions of a Redux store state to a component while maintaining separation between presentation and state management.
+  
+- **Making Toast from Scratch in React-Redux**  
+  https://spin.atomicobject.com/2017/07/12/react-redux-toast/  
+  A short tutorial that shows how to build your own "toast" notifications in React+Redux, with a link to the resulting implementation.
+  
+- **Toast notification system in a React/Redux application**  
+  https://atech.blog/natterly/toast-notification-system-in-a-react-redux-application  
+  The Natterly team walks through how they built a Redux-connected toast notification implementation.
   
   
 #### Redux and Forms

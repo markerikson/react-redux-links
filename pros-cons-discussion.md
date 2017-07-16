@@ -102,6 +102,12 @@
   https://diessi.ca/blog/dont-blame-it-on-react-or-redux/  
   Some short but well-written thoughts that argue in favor of React and Redux's "do it yourself" / "don't prescribe how to solve everything" approach, and that blaming them for bad app design or boilerplate is wrong.
   
+- **What's So Great About Redux?**  
+  https://medium.freecodecamp.org/whats-so-great-about-redux-ac16f1cc0f8b  
+  https://storify.com/acemarke/redux-pros-cons-and-limitations  
+  https://twitter.com/modernserf/status/886426115874717697  
+  Deep and fascinating analysis of how Redux compares to OOP and message-passing, how typical Redux usage can devolve towards Java-like "setter" functions with more boilerplate, and something of a plea for a higher-level "blessed" abstraction on top of Redux to make it easier to work with and learn for newbies.  Very worth reading.  The author originally wrote a tweetstorm, which I captured in the Storify link, and wrote the blog post to expand on those thoughts.  Finally, he followed up with a few more thoughts on abstract vs concrete examples in another shorter tweet thread.
+  
 
 #### Comment Threads and Discussions
 

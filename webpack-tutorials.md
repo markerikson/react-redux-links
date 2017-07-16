@@ -57,6 +57,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   http://sokra.github.io/slides/webpack2/#3  
   A slideshow from Webpack's original author.  Describes the basics of Webpack, how it can be used to build Progressive Web Apps, and improve speed and reliability through bundling.
   
+- **Webpack Academy**  
+  https://webpack.academy/  
+  Courses on Webpack concepts and usage, from the Webpack team.
+  
 
 #### Basic Tutorials
 
@@ -245,6 +249,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Stages of Learning Webpack, Part 3 - SourceMaps, Loaders, and Plugins**  
   https://dev.to/nitishdayal/stages-of-learning-webpack-pt-3---sourcemaps-loaders--plugins  
   Shows how to configure sourcemaps for debugging, use a loader to add TypeScript support, and add a plugin to generate an HTML index page for the bundle.
+  
+- **Let's talk about our Webpack config files**  
+  https://engineering.tripping.com/lets-talk-about-our-webpack-config-files-89a6ac0e0cf9  
+  The Tripping.com team shows off the contents of their Webpack production config file, explains the capabilities they want to have, and how each piece of the config file implements those capabilities.
   
   
 #### Webpack Configuration Utilities

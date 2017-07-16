@@ -213,6 +213,10 @@
   https://medium.com/@jamiedixon/handling-errors-in-redux-saga-using-either-12671bc6cf90  
   Demonstrates an approach to handling error cases in Flux Standard Actions using the functional programming "Either" concept.
   
+- **Writing more testable code with Redux-Saga**  
+  https://medium.com/grey-frogs/writing-more-testable-code-with-redux-saga-c1561f995225  
+  Gives examples of some sagas for managing complex async query handling logic, and how to use the redux-saga-test-plan library to help test their behavior.
+  
   
 #### Other Side Effect Approaches
 

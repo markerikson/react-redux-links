@@ -99,6 +99,10 @@
 - **Top Javascript Frameworks and Topics to Learn in 2017**  
   https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711  
   Eric Elliott gives some solid advice on what concepts, tools, and technologies are most valuable to learn today, as well as what related technologies are useful but optional.
+  
+- **How to Learn React: A Five-Step Plan**  
+  https://www.lullabot.com/articles/how-to-learn-react  
+  A good set of suggested steps to follow and tools to use for learning React and Redux.
 
 
 #### General Suggestions for Learning

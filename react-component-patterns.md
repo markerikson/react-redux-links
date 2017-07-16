@@ -192,6 +192,10 @@
   https://medium.com/@thejasonfile/callback-functions-in-react-e822ebede766  
   Some basic explanations of how a React app uses callback functions to communicate from children to parents
   
+- **How to use React's Provider pattern**  
+  https://www.robinwieruch.de/react-provider-pattern-context/  
+  Walks through the concepts and implementation of a "Provider" component that makes data available to deeply nested children, similar to the ones that come with Redux and MobX
+  
   
 #### Component Categories
 
@@ -334,6 +338,14 @@
 - **A gentle introduction to Higher Order Components**  
   https://www.robinwieruch.de/gentle-introduction-higher-order-components/  
   An excellent article demonstrating several ways to use HOCs to manage conditional rendering logic in a reusable way.
+  
+- **Why Higher Order Components Make Sense**  
+  https://medium.com/javascript-inside/why-higher-order-components-make-sense-fe4145b4e305  
+  Several examples and some discussion of how HOCs can be used to compose and transform behavior.
+  
+- **Simple explanation of Higher-Order Components**  
+  http://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/  
+  A short, easy-to-read explanation of the basic concepts and examples of HOCs.
   
 
 #### Wrapping Non-React Code

@@ -138,6 +138,10 @@
   https://medium.com/@lvarayut/styled-components-in-action-723852f2a93d  
   A tutorial that walks through the main goals and concepts of Styled-Components, with examples
   
+- **Emotion: The Next Generation of CSS-in-JS**  
+  https://medium.com/@tkh44/emotion-ad1c45c6d28b  
+  The author of the Emotion library gives an overview of its principles, benchmarks, and uses.
+  
   
 #### Techniques and Examples
 
