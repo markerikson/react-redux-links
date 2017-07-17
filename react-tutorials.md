@@ -24,8 +24,8 @@
   A ground-up React tutorial that leaves out any other related "modern" technologies,  Very recommended if you want to skip the buzzwords and acronyms.
   
 - **React Fundamentals**  
-  https://reacttraining.com/online/react-fundamentals  
-  A free online course from the React Training company.  Covers key aspects of Javascript, React concepts as of React 15.5, React Router v4, and building and deploying an application.
+  https://tylermcginnis.com/courses/react-fundamentals/
+  An online course from the React Training company.  Covers key aspects of Javascript, React concepts as of React 15.5, React Router v4, and building and deploying an application.
   
 - **React Express**  
   http://www.react.express/  
