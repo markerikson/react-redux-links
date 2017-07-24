@@ -67,6 +67,11 @@
 - **ES6 Katas: Learn ES6 by doing it**  
   http://es6katas.org/  
   Sets of exercises to help you learn ES6 features and syntax.
+  
+- **Tiny ES6 Notebook**  
+  https://github.com/mattharrison/Tiny-ES6-Notebook  
+  A large list of notes, examples, and discussion on how to use the features in ES6
+  
 
 #### In-Depth Details
 

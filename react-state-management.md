@@ -110,3 +110,7 @@
 - **Stack Overflow: "Do I need to use `setState(function)` overload?"**  
   http://stackoverflow.com/questions/43428456/do-i-need-to-use-setstatefunction-overload-in-this-case/43440790#43440790  
   Dan Abramov gives a great in-depth answer explaining when and why to pass an updater function to `setState` instead of passing an object
+  
+- **"`setState` doesn't actually care whether you've mutated your data or not"**  
+  https://news.ycombinator.com/item?id=14706862  
+  A couple comments from myself, talking about how `setState` actually behaves in practice in relation to mutation and immutability.

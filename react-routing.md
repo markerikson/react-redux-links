@@ -70,6 +70,10 @@
   https://blog.boon.gl/2017/06/29/routes-as-state-in-react.html  
   Some thoughts on why tracking route data as state might make sense, and some examples of how to approach that.
   
+- **Redux-First Router data fetching; solving the 80% use case for async middleware**  
+  https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262  
+  An extended article discussing "component-first" vs "route-first" data fetching approaches, and how the author's library helps solve the "route-first" approach.
+  
   
 #### Authentication
 

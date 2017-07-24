@@ -99,6 +99,10 @@
   https://medium.com/@danielkagan/high-order-reducers-it-just-sounds-scary-2b9e5dbfc705  
   Explains how reducers can be composed like Lego bricks to create reusable and testable reducer logic.
   
+- **Functional Redux Reducers with Ramda**  
+  https://alligator.io/react/functional-redux-reducers-with-ramda/  
+  Shows how to write a somewhat complex Redux reducer using only composition of functions from the Ramda library
+  
 
   
 

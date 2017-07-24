@@ -103,6 +103,10 @@
 - **How to Learn React: A Five-Step Plan**  
   https://www.lullabot.com/articles/how-to-learn-react  
   A good set of suggested steps to follow and tools to use for learning React and Redux.
+  
+- **Ten Things a Serious JavaScript Developer Should Learn**  
+  https://benmccormick.org/2017/07/19/ten-things-javascript/  
+  A well-written, excellent collection of advice for mid-level JS developers, listing important topics that they should be familiar with.
 
 
 #### General Suggestions for Learning

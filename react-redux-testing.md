@@ -125,6 +125,10 @@
   https://daveceddia.com/snapshot-testing-react-with-jest/  
   An excellent explanation of what "snapshot testing" is, and how to apply it to test React components using Jest
   
+- **React and Redux Testing with Jest: How Some Jokers Learned to Take Snapshots**  
+  https://dev.bleacherreport.com/react-and-redux-testing-with-jest-how-some-jokers-learned-to-take-snapshots-c186c7e419e6  
+  Discussion of how Jest snapshot tests can be used to replace some manually-written tests for both React components and Redux logic.
+  
   
 #### Redux
 

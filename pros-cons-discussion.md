@@ -47,6 +47,10 @@
   https://calbucci.com/why-im-betting-on-react-native-for-my-next-startup-3b8ff5ae03e4  
   A startup product lead gives several reasons why he's using React Native for their large app, including uniformity of experience, testing, recruiting, and scalability.
   
+- **Why Choose React?**  
+  https://www.lullabot.com/articles/why-choose-react  
+  Some high-level thoughts on the benefits of choosing React, including proven use at scale, influence on the community, versatility, and that it's "just Javascript".
+  
   
 #### Redux/Flux Comparisons
   
@@ -256,6 +260,10 @@ similar structures in ClojureScript.
   http://lu.is/blog/2016/10/31/reacts-license-necessary-and-open/  
   Analysis from a lawyer on the merits of React's patent license, and whether it still qualifes as "Open Source".
   
+- **React, Facebook, and the Revocable Patent License: Why it's a Paper Tiger**  
+  https://medium.com/@dwalsh.sdlr/react-facebook-and-the-revokable-patent-license-why-its-a-paper-25c40c50b562  
+  Analysis of the React patent license from an IP lawyer, in response to the latest set of discussions and arguments online
+  
 - **Comments from other companies on the acceptability of the license**  
   https://wptavern.com/automattic-will-continue-to-use-react-js-in-calypso-despite-patent-clause  
   https://twitter.com/paul_irish/status/754864479460929536  
@@ -263,11 +271,16 @@ similar structures in ClojureScript.
   https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/  
   Comments from developers at Automattic, Google, Spotify, and Microsoft, indicating they're fine with using React
   
+- **"Comment on the Apache Foundation's statement about Facebook's BSD+Patents license"**  
+  https://www.reddit.com/r/programming/comments/6nnxir/apache_foundation_bans_use_of_facebook_bsdpatents/dkb3v4p/?context=3  
+  One of the best layman's summaries I've seen about what the patents file actually means and is intended to do.
+  
 - **Further discussions**  
   https://news.ycombinator.com/item?id=12108273  
   https://news.ycombinator.com/item?id=12108526  
   https://vimeo.com/170598656#comment_14699807  
   https://github.com/facebook/react/issues/7293  
   https://news.ycombinator.com/item?id=12597488  
+  https://www.reddit.com/r/reactjs/comments/6nx6jv/is_anyone_here_concerned_about_the_recent/  
   More discussion threads regarding the PATENTS license
   

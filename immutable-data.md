@@ -128,6 +128,10 @@
   https://medium.com/front-end-hacking/why-i-dont-use-immutable-js-with-redux-db05004f436  
   Thoughts on the pros and cons of using Immutable.js in a Redux app
   
+- **Using Immutable.js with Redux**  
+  https://medium.com/front-end-hacking/using-immutable-js-with-redux-ba89025e45e2  
+  A follow-up to the previous article, with several examples of how to properly use Immutable.js with Redux 
+  
 - **Should I use Immutable.js with Redux?**  
   https://medium.com/@fastphrase/should-i-use-immutablejs-with-redux-58f88d6fd81e  
   A detailed list of pros and cons for using Immutable.js in a Redux app
@@ -144,3 +148,6 @@
   https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780  
   Discusses how "lenses" can be used to dig into data structures and update them in an immutable way, and how to define lenses that work on Immutable.js objects.
   
+- **You're missing out on ImmutableJS Records**  
+  https://medium.com/@ahmadbamieh/immutablejs-records-bd369137da06  
+  An introduction to the Immutable.js Record type, and how it can be used to define data types

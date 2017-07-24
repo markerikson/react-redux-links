@@ -196,6 +196,10 @@
   https://www.robinwieruch.de/react-provider-pattern-context/  
   Walks through the concepts and implementation of a "Provider" component that makes data available to deeply nested children, similar to the ones that come with Redux and MobX
   
+- **Passing Data Between React Components**  
+  https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17  
+  Some short examples of how to pass data between parents, children, and siblings.
+  
   
 #### Component Categories
 
@@ -242,6 +246,15 @@
 - **Share Code between React and React Apps**  
   https://hackernoon.com/code-reuse-using-higher-order-hoc-and-stateless-functional-components-in-react-and-react-native-6eeb503c665  
   An exploration of how to refactor code to extract functional components and higher-order components for improved code reuse,  including reusing the same components in both React and React Native apps.
+  
+- **Reusable state for React UI components**  
+  https://medium.com/@efreyreg/reusable-state-for-react-ui-components-e38c5af40be4  
+  An example of taking a component that has both state, logic, and presentation, and extracting the logic and presentation into separate components.  Also demonstrates using a Redux-like approach to update logic without actually using Redux.
+  
+- **Extracting Logic from React Components**  
+  https://javascriptplayground.com/blog/2017/07/react-extracting-logic/  
+  Demonstrates taking a component that includes some logic for formatting a value, and refactoring it to extract out the formatting logic into separate functions.
+  
   
   
 #### Higher-Order Components
@@ -426,6 +439,10 @@
   https://swizec.com/blog/using-react-in-the-real-world/swizec/6710  
   Demonstrates how to wrap up a React component as a jQuery plugin for integration with non-React apps.
   
+- **Using D3 and React Together to Make Visualizations with TypeScript**  
+  https://spin.atomicobject.com/2017/07/20/d3-react-typescript/  
+  Examples of some possible approaches to using D3 inside of React, including use of refs and components.
+  
   
 #### Modal Dialogs
   
@@ -485,6 +502,10 @@
 - **ReactCasts #11: Recompose**  
   https://youtu.be/SQtrgiLy3Fo  
   A screencast that introduces the Recompose library and explains some of its useful tools like `withState` and `branch`.
+  
+- **Destroy All Classes: Turn React Components Inside Out with Functional Programming**  
+  https://www.bignerdranch.com/blog/destroy-all-classes-turn-react-components-inside-out-with-functional-programming/  
+  Demonstrates progressively refactoring a class component with logic into separate functional components, and then tying them together with Recompose
   
   
 #### Other Component Patterns

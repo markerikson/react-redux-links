@@ -93,6 +93,11 @@
   https://github.com/lukebelliveau/deact  
   A repository for learning about how React works internally.  Has a link to a slide set that explains the concepts, and has branches for the various lessons.
   
+- **React Internals**  
+  http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/  
+  http://www.mattgreer.org/articles/react-internals-part-two-componentWillMount-and-componentDidMount/  
+  http://www.mattgreer.org/articles/react-internals-part-three-basic-updating/  
+  A 5-part series that will recreate React from the ground up, illustrating how it works along the way.
   
   
 #### Implementation and Internals

@@ -217,6 +217,14 @@
   https://medium.com/grey-frogs/writing-more-testable-code-with-redux-saga-c1561f995225  
   Gives examples of some sagas for managing complex async query handling logic, and how to use the redux-saga-test-plan library to help test their behavior.
   
+- **Analytics on easy mode with Redux-Saga**  
+  https://goshakkk.name/analytics-easy-redux-saga/  
+  Quick examples of how to use Redux-Saga to implement analytics handling.
+  
+- **Modelling common patterns with redux-saga**  
+  https://medium.com/@chanakyabhardwaj/modelling-common-patterns-with-redux-saga-464a380a37ce  
+  Examples of saga logic patterns for behaviors like "first-amongst-these", "keep-doing-until", and "step-by-step".
+  
   
 #### Other Side Effect Approaches
 

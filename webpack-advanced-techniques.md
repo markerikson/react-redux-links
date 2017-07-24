@@ -265,6 +265,11 @@
 - **Hot reload all the things!**  
   https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0  
   A tutorial that shows how to use Webpack and HMR to hot-reload both front-end and back-end code for faster development.
+  
+- **How to Hot-Load React Components in 7 Days**  
+  https://medium.com/@antonkorzunov/how-to-hot-load-react-component-in-7-days-part-1-webpack-d8b77eea61eb  
+  https://codeburst.io/how-to-hot-load-react-component-in-7-days-part-2-react-28ce2b61d0c7  
+  A 2-part article that discusses how to set up plain HMR and add React-Hot-Loader, as well as many of the complexities of using RHL.
 
 
 #### Other Tips and Examples
