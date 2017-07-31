@@ -36,7 +36,7 @@
 #### Request Implementation Examples
   
 - **Implementing React Redux with GraphQL**  
-  https://marufsarker.github.io/blog/posts/2016/05/09/react-redux-with-graphql.html  
+  https://marufsarker.github.io/blog/2016/05/09/react-redux-with-graphql/  
   Walks through the implementation of a server/client Todo app that uses GraphQL mutations for the async actions.
   
 - **Rendering Backend Requests with React**  

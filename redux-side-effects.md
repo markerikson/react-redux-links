@@ -111,6 +111,10 @@
   https://codebrahma.com/structuring-async-operations-react-redux-applications/  
   An introduction to the complexities of handling async logic in JS, and comparisons of how the same series of API calls could be handled using JS Promises, thunks, sagas, and observables.
   
+- **"Redux and API/fetch calls. How do you handle them?**  
+  https://twitter.com/rem/status/888361414070501376  
+  A Twitter poll asking about people's preferences for handling async work in Redux.  The replies are interesting, and show a very wide variety of choices being used.
+  
 
 #### Sagas
 

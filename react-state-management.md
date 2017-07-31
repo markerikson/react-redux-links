@@ -62,6 +62,10 @@
 - **Local Storage in React**  
   https://www.robinwieruch.de/local-storage-react/  
   Demonstrates how to persist state in React using local storage, how to use it as a cache, and how to make it expire.
+  
+- **How to manage or eliminate React state without Redux**  
+  http://monicalent.com/blog/2017/07/23/manage-state-in-react/  
+  An excellent writeup on techniques you can use to help manage state in React without using Redux, including only using component state for things that are really needed, extracting state management logic, and rethinking when you actually need stateful components.
 
 
 #### Using `setState`
@@ -114,3 +118,7 @@
 - **"`setState` doesn't actually care whether you've mutated your data or not"**  
   https://news.ycombinator.com/item?id=14706862  
   A couple comments from myself, talking about how `setState` actually behaves in practice in relation to mutation and immutability.
+  
+- **Atomic `setState` Updates in React**  
+  https://alligator.io/react/getting-atomic-updates-with-setstate/  
+  Discusses how the standard object form of `setState` can cause race conditions, while the functional form is more predictable.

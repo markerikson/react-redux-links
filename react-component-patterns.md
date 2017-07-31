@@ -48,6 +48,10 @@
   https://github.com/vasanthk/react-bits  
   An extensive list of terms, concepts, patterns, and techniques for writing React components, with explanations and examples.  A few of the descriptions are overly opinionated and some items are not things the React team would recommend, but overall an excellent resource.
   
+- **We Jumped the Gun Moving React Components to ES2015 Class Syntax**  
+  https://medium.com/dailyjs/we-jumped-the-gun-moving-react-components-to-es2015-class-syntax-2b2bb6f35cb3  
+  A Netflix engineer raises concerns about React deprecating `createClass` and pushing users to use ES6 classes.  I personally think his concerns are overstated, but there's some interesting points, plus good discussion in the comments.
+  
   
  
 #### Component Rendering Logic
@@ -359,6 +363,10 @@
 - **Simple explanation of Higher-Order Components**  
   http://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/  
   A short, easy-to-read explanation of the basic concepts and examples of HOCs.
+  
+- **Sharing stateful UI logic in React apps using Render Callback components**  
+  https://trevordmiller.com/blog/react-render-callback-components  
+  Examples of how to use the "render callback" / "function as a child" pattern to extract common logic for reuse.
   
 
 #### Wrapping Non-React Code

@@ -37,3 +37,7 @@
   http://serverless-stack.com/  
   A large, well-written, in-depth tutorial that covers all aspects of building a React app with an AWS "serverless" backend: creating an AWS account, setting up the serverless backend and API, building a React app that talks to the API, and deploying the React app on AWS.
   
+- **Using React in Multiple Environments**  
+  https://daveceddia.com/multiple-environments-with-react/  
+  Discusses strategies for handling deployments to dev/staging/prod-type environments, including configuration of API endpoints and feature flags.
+  

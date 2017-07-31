@@ -22,6 +22,10 @@
   https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660  
   A fantastic article that reviews why people might want to write their styles in Javascript, explores possible benefits of doing so, and looks at how the "CSS" and "JS" communites can work together going forward.
   
+- **U&I With React**  
+  https://github.com/FarhadG/ui-react  
+  A free online book that teaches how to modular, extendable, and scalable component-based UIs.  Covers best practices, and techniques like CSS preprocessors, CSS modules, inline styles, and more.  Chapters available to read for free on Github, and the Leanpub book can be picked up for free as well.
+  
 
 #### Components and Styling
   
@@ -153,3 +157,4 @@
   https://medium.com/taitounited/create-that-component-2-f6e6ba2e6b5a  
   https://medium.com/taitounited/create-that-component-3-25f1f722cead  
   A series of examples that build components for assorted concepts like toggle switches, ripple effects, and toasts, using libraries like styled-components.
+  

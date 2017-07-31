@@ -176,6 +176,10 @@
 - **React, Redux, and TypeScript: Typed Connect**  
   https://www.silviogutierrez.com/blog/react-redux-and-typescript-typed-connect/  
   Discusses a simpler set of typings for the `connect` function and how to use them with React.
+  
+- **A New Redux Action Pattern for TypeSCript 2.4+**  
+  https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/  
+  Describes how to use the new features in TS 2.4, such as string enums, to simplify defining types for Redux actions.
 
 
 #### Advancing Typing Techniques

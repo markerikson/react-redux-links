@@ -129,6 +129,10 @@
   https://dev.bleacherreport.com/react-and-redux-testing-with-jest-how-some-jokers-learned-to-take-snapshots-c186c7e419e6  
   Discussion of how Jest snapshot tests can be used to replace some manually-written tests for both React components and Redux logic.
   
+- **A Practical Guide to Testing React Apps**  
+  http://acco.io/a-practical-guide-to-testing-react-apps/  
+  An excellent, comprehensive guide to React testing, covering some of the major tools, types of tests, how to write good React tests, and more. 
+  
   
 #### Redux
 
@@ -225,6 +229,10 @@
   https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-3-f25c2289c54  
   https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-4-edb62e113c9b  
   A 4-part series that demonstrates a Test-Driven Development approach to writing a React/Redux app, with detailed explanations of what each test example does.
+  
+- **Building a React/Redux app with Test Driven Development**  
+  https://medium.com/@gilly.ames/building-a-react-redux-app-with-test-driven-development-b2ed73e60be9  
+  A guided walkthrough that shows how to apply TDD to actions, reducers, and services
 
   
   

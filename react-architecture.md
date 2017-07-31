@@ -240,6 +240,10 @@
   https://dev.to/karljakoblind/how-to-become-a-more-productive-react-developer  
   Quick suggestions for useful tools that increase productivity, including Prettier for formatting, ESLint for error checking, the React and Redux DevTools for debugging, and React-Hot-Loader for faster edits.
   
+- **8 Things to learn in React before using Redux**  
+  https://www.robinwieruch.de/learn-react-before-using-redux/  
+  Robin Wieruch covers a list of key React concepts you should be familiar with before trying to tackle learning Redux or other major state management libraries.
+  
   
   
 #### React Architecture

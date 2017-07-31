@@ -259,6 +259,10 @@
   https://atech.blog/natterly/toast-notification-system-in-a-react-redux-application  
   The Natterly team walks through how they built a Redux-connected toast notification implementation.
   
+- **A Functional Canvas Approach with Redux**  
+  https://medium.com/@peterxjang/a-functional-canvas-approach-with-redux-ce59a369241b  
+  Some simple examples of how to use Redux and vanilla JS canvas code to draw canvas-based UIs with minimal dependencies.
+  
   
 #### Redux and Forms
 
@@ -378,6 +382,10 @@
   http://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/  
   A pair of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
   
+- **Using dynamic localization to improve accessibility with React and Redux**  
+  https://medium.com/checkr/using-dynamic-localization-to-improve-accessibility-with-react-and-redux-7650878af6ef  
+  Some quick examples and discussion of how Checkr uses the react-redux-i18 package to set up localization for their app.
+  
   
 #### Network Management
 
@@ -397,3 +405,11 @@
 - **Introducing Redux Offline: Offline-First Architecture for Progresive Web Applications**  
   https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0  
   An excellent blog post explaining the need for better offline behavior in web apps, and introducing a new Redux-based library that helps manage that behavior.
+  
+- **Offline GraphQL Queries with Redux Offline and Apollo**  
+  http://www.east5th.co/blog/2017/07/24/offline-graphql-queries-with-redux-offline-and-apollo/  
+  Discussion of how to use Redux Offline to enable persistance and Apollo queries of data while offline
+  
+- **Redux Websocket Integration**  
+  https://medium.com/@ianovenden/redux-websocket-integration-c1a0d22d3189  
+  A summary of one possible approach for integrating Websocket functionality into a React/Redux application architecture.

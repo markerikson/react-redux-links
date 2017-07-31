@@ -97,6 +97,7 @@
   http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/  
   http://www.mattgreer.org/articles/react-internals-part-two-componentWillMount-and-componentDidMount/  
   http://www.mattgreer.org/articles/react-internals-part-three-basic-updating/  
+  http://www.mattgreer.org/articles/react-internals-part-four-setState/  
   A 5-part series that will recreate React from the ground up, illustrating how it works along the way.
   
   
@@ -170,6 +171,12 @@
 - **Under the hood: ReactJS**  
   https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/  
   An incredibly detailed walkthrough of React's entire codebase and execution flow, with many diagrams and flowcharts illustrating things.  Very impressive. 
+  
+- **Preact Internals**  
+  https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205  
+  https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b  
+  https://medium.com/@asolove/preact-internals-3-some-fiddly-little-bits-f353b1ad7abc  
+  A 3-part series that dives into the implementation and concepts of the Preact library codebase.
    
 
 #### React Fiber

@@ -162,6 +162,11 @@
   https://medium.com/@malinnaleach/the-philosophy-of-react-e2c126c61af3  
   Some high-level overviews of React's concepts, like state, props, and control flow
   
+- **A few things every new React developer should know**  
+  https://medium.com/deepscan/a-few-things-every-new-react-developer-should-know-part-1-93940e11800a  
+  https://medium.com/deepscan/a-few-things-every-new-react-developer-should-know-part-2-913e089e8fc2  
+  
+  
   
 
 #### Project-Based Tutorials

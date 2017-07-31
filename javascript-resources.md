@@ -103,6 +103,10 @@ While this list is primarily focused on learning React and Redux, and generally 
   http://javascript.info/  
   A large tutorial series that covers all aspects of the modern Javascript language (basic syntax, data types, objects, and advanced function usage), as well as a section on using Javascript to interact with the DOM in web pages.
   
+- **The JavaScript Way**  
+  https://github.com/bpesquet/thejsway  
+  A modern introduction to the JavaScript language, intended to be beginner-friendly, comprehensive, standards-aligned with the latest syntax and good practices, and hands-on.
+  
   
 #### Interactive Exercises
 

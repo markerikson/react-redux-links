@@ -255,6 +255,10 @@
 - **Why not to store objects in Redux**  
   https://medium.com/trainline-engineering/manage-analytics-actions-in-react-67fae61495de  
   Some quick thoughts on why you should keep plain JS objects in your store, instead of class instances.  
+  
+- **10 Redux tips to scale your dev team**  
+  https://blog.matters.tech/10-redux-tips-from-the-trenches-55e06ed1c0a8  
+  Some excellent suggestions for helping larger dev teams use Redux successfully, including planning traing/docs reading time, generalizing action types, normalizing state, and more.
 
 
 #### Encapsulation and Reusability
