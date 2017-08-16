@@ -90,6 +90,15 @@
   https://medium.com/netscape/webpack-3-react-production-build-tips-d20507dba99a  
   General advice for improving Webpack builds, including code splitting, minification, and several more.  Includes a complete Webpack config file at the end with the proper settings.
   
+- **d-l-l: Easy, automatic, optimized DLL config handler for Webpack**  
+  https://survivejs.com/blog/dll-interview/  
+  An interview with the author of a tool for automatically generating DLL bundles, discussing how to use it and how it works.
+  
+- **High-performance webpack config for front-end delivery**  
+  https://www.codementor.io/drewpowers/high-performance-webpack-config-for-front-end-delivery-90sqic1qa  
+  Covers 7 optimizations you can add to a Webpack setup to build bundles faster and make them smaller.
+  
+  
   
 #### Code Splitting and Chunking
 
@@ -144,6 +153,10 @@
 - **How to use Webpack's new "magic comment" feature with React Universal Component + SSR**  
   https://medium.com/webpack/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a  
   Introduces Webpack's new "magic comments" feature for defining chunk names, and shows how to use that in association with a couple of libraries for optimized server-side rendering approaches
+  
+- **React Universal Component 2.0 & babel-plugin-universal-import**  
+  https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4  
+  Introduces some new Webpack addons and changes that enable dynamic import expressions, including use with SSR.
   
   
 #### Bundle Sizes and Visualization
@@ -229,6 +242,10 @@
   http://andrewhfarmer.com/3-ways-webpack-hmr/  
   http://andrewhfarmer.com/webpack-hmr-tutorial/  
   A very readable and informative series of articles on using HMR.  
+  
+ - **SurviveJS: Hot Module Replacement**  
+   https://survivejs.com/webpack/appendices/hmr/  
+   A guide to HMR concepts and usage, written by a Webpack core team member
   
 - **Live Editing Javascript with Webpack**  
   http://jlongster.com/Backend-Apps-with-Webpack--Part-III  

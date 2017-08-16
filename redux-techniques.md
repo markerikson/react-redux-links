@@ -261,6 +261,7 @@
   
 - **A Functional Canvas Approach with Redux**  
   https://medium.com/@peterxjang/a-functional-canvas-approach-with-redux-ce59a369241b  
+  https://medium.com/@peterxjang/a-functional-canvas-approach-with-redux-bab357d6c33c  
   Some simple examples of how to use Redux and vanilla JS canvas code to draw canvas-based UIs with minimal dependencies.
   
   
@@ -385,6 +386,10 @@
 - **Using dynamic localization to improve accessibility with React and Redux**  
   https://medium.com/checkr/using-dynamic-localization-to-improve-accessibility-with-react-and-redux-7650878af6ef  
   Some quick examples and discussion of how Checkr uses the react-redux-i18 package to set up localization for their app.
+  
+- **Evil things you do in Redux - dispatch in updating lifecycle methods**  
+  https://hackernoon.com/evil-things-you-do-with-redux-dispatch-in-updating-lifecycle-methods-ad116de882d4  
+  Thoughts on the pros and cons of dispatching Redux actions in React lifecycle methods, such as causing cascades of re-renders and updates in other components.
   
   
 #### Network Management

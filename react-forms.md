@@ -65,6 +65,10 @@
 - **Understanding your options with forms in React**  
   https://medium.com/@thegreengreek/understanding-your-options-with-forms-in-react-afedc91ebf3e  
   A quick summary of the three major forms approachs (controlled inputs, uncontrolled inputs + refs, uncontrolled inputs + serialization), with code examples for each
+  
+- **Transitioning from uncontrolled inputs to controlled**  
+  https://goshakkk.name/turn-uncontrolled-into-controlled/  
+  Explains how to refactor React forms with uncontrolled inputs to use controlled inputs instead.
 
 
 #### Form Tutorials and Usage

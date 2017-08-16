@@ -110,6 +110,10 @@
 - **Front End Center: Single-Responsibility Components: Object-Oriented Design in React**  
   https://youtu.be/pSdp92Up8O8  
   An excellent screencast that discusses how the "Single Responsibility Principle" can be applied to organizing and designing React components.
+  
+- **React's Ecosystem as a flexible Framework**  
+  https://www.robinwieruch.de/essential-react-libraries-framework/  
+  Robin Wieruch discusses why React's "just the view" + "pick-and-choose libraries" approach is ultimately a good thing, and provides some opinionated decisions on good library choices for several categories such as app boilerplate, utility library, styling, AJAX requests, and more.
 
 
 #### React Best Practices

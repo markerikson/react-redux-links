@@ -105,9 +105,17 @@
   https://blog.scottnonnenberg.com/better-docs-and-static-analysis/  
   A walk through setting up Flow, some possible problems you might encounter, and ways to customize and improve the typing process.
   
+- **Getting Started with Flow and Webpack**  
+  https://blog.iansinnott.com/getting-started-with-flow-and-webpack/  
+  Walks through the process for adding Flow to an existing Webpack+Babel project.
+  
 - **Flow type cheat sheet**  
   http://www.saltycrane.com/blog/2016/06/flow-type-cheat-sheet/  
   A comprehensive list of built-in Flow types
+  
+- **Notes on Flow type checking in Javascript**  
+  https://davidxmoody.com/2016/notes-on-flow-type-checking-in-javascript/  
+  A variety of quick notes and snippets of Flow syntax for various use cases
 
 
 #### React, Redux, and Static Types
@@ -180,6 +188,10 @@
 - **A New Redux Action Pattern for TypeSCript 2.4+**  
   https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/  
   Describes how to use the new features in TS 2.4, such as string enums, to simplify defining types for Redux actions.
+  
+- **Best Practices for Flow Typing React Components**  
+  https://building.coursera.org/blog/2017/06/01/best-practices-for-flow-typing-react-components/  Several useful suggestions and examples for using Flow types with React components.
+  
 
 
 #### Advancing Typing Techniques

@@ -51,6 +51,10 @@
   https://www.lullabot.com/articles/why-choose-react  
   Some high-level thoughts on the benefits of choosing React, including proven use at scale, influence on the community, versatility, and that it's "just Javascript".
   
+- **Why We Chose React To Help Serve Millions of Educators**  
+  http://engineering.teacherspayteachers.com/2017/08/02/why-we-chose-react-to-help-serve-millions-of-educators.html  
+  The Teachers Pay Teachers team describes why they chose React to rebuild their UI, including the small API size, size of the community, battle-tested capabilities, and more.
+  
   
 #### Redux/Flux Comparisons
   

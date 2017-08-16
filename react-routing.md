@@ -39,6 +39,14 @@
   https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd  
   A deep look at the "history" library, which is the core of React Router and used by other routing libraries as well.
   
+- **Building a context-free React router**  
+  https://reactarmory.com/guides/context-free-react-router  
+  A tutorial that teaches how to create a simple push-state based React router without relying on React's context API.
+  
+- **All About React Router 4**  
+  https://css-tricks.com/react-router-4/  
+  A deep look at patterns and strategies for using React-Router v4 successfully.
+  
   
 #### Routing with Redux
   
@@ -73,6 +81,14 @@
 - **Redux-First Router data fetching; solving the 80% use case for async middleware**  
   https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262  
   An extended article discussing "component-first" vs "route-first" data fetching approaches, and how the author's library helps solve the "route-first" approach.
+  
+- **Redux-First Router: Just Dispatch Actions**  
+  https://survivejs.com/blog/redux-first-router-interview/  
+  An interview with the author of the redux-first-router library.  The author describes the core concepts, how it differs from React-Router, useful features, and why he developed it.
+  
+- **A Redux First Router Saga**  
+  https://medium.com/@bryanfillmer/a-redux-first-router-saga-67c2cda9252e  
+  Examples and discussion of how to use sagas in conjunction with Redux-based routing to handle side effects that are connected to route changes.
   
   
 #### Authentication

@@ -259,6 +259,11 @@
 - **10 Redux tips to scale your dev team**  
   https://blog.matters.tech/10-redux-tips-from-the-trenches-55e06ed1c0a8  
   Some excellent suggestions for helping larger dev teams use Redux successfully, including planning traing/docs reading time, generalizing action types, normalizing state, and more.
+  
+- **Scaling Redux: Codebase Organization and Organizing State**  
+  https://medium.com/@uttamkini/scaling-redux-part-1-codebase-organization-80f978cd8a72  
+  https://medium.com/@uttamkini/scaling-redux-part-2-organizing-state-8a1c5e8fffbf  
+  Several suggestions for managing a Redux codebase, including use of feature folders / ducks, separating data and UI state in the store, organizing data by API structure, and more.
 
 
 #### Encapsulation and Reusability
@@ -348,6 +353,9 @@
   https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38  
   Discussion of ways to structure reducers, selectors, and other logic into reusable features
 
+- **Building a simple Redux library**  
+  https://medium.com/@tcclevela/building-a-simple-redux-library-44ce4f004822  
+  Looks at important steps to follow when building a Redux addon library: only use middleware if really needed, keep things simple, and encapsulate abstractions.  Shows a particularly good example of using selectors in the library to encapsulate state lookups, and allowing the end user to initialize the selectors so that the data can be mounted anywhere in the state tree the user wants.
 
 
 #### Variations on Redux Architectures

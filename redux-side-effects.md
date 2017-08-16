@@ -229,6 +229,10 @@
   https://medium.com/@chanakyabhardwaj/modelling-common-patterns-with-redux-saga-464a380a37ce  
   Examples of saga logic patterns for behaviors like "first-amongst-these", "keep-doing-until", and "step-by-step".
   
+- **Building an event system using Redux and Sagas**  
+  http://blog.servicebot.io/building-our-event-and-user-notification-system-in-express-using-redux-and-sagas/  
+  Some quick examples of using Redux-Saga in a Node Express app to handle processing for things like sending emails.
+  
   
 #### Other Side Effect Approaches
 

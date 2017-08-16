@@ -160,6 +160,14 @@ While this list is primarily focused on learning React and Redux, and generally 
   http://madhatted.com/2016/1/25/let-it-be  
   https://www.reddit.com/r/javascript/comments/44yjzo/let_it_be_how_to_declare_javascript_variables/  
   A look at how `var`, `let`, and `const` behave, and how using them communicates intent.  Further discussion in the Reddit comments.
+  
+- **This in Javascript**  
+  https://zellwk.com/blog/this/  
+  Tries to demystify the behavior of the `this` keyword by explaining the six situations that can change the value of `this`.
+  
+- **Which Array Function When?**  
+  https://dev.to/andrew565/which-array-function-when  
+  A great explanation of the differences between the various methods that can loop over arrays (`map`, `filter`, `reduce`, and `forEach`), and when you should use each one.
 
 
 #### Paid Courses and Books

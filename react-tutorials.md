@@ -17,7 +17,8 @@
   A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
   
 - **Learn React From Your Browser: Introducing React**  
-  https://reactarmory.com/guides/learn-react-in-browser-with-animated-fractal/introducing-react  An excellent tutorial that teaches React concepts from basic principles without buzzwords or build tools, using interactive editable examples.  (This is a rewritten and improved version of the "Learn Raw React" tutorial.)  
+  https://reactarmory.com/guides/learn-react-by-itself  
+  An excellent tutorial that teaches React concepts from basic principles without buzzwords or build tools, using interactive editable examples.  (This is a rewritten and improved version of the "Learn Raw React" tutorial.)  
   
 - **Learn Raw React**  
   http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/  

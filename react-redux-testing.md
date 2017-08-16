@@ -233,10 +233,19 @@
 - **Building a React/Redux app with Test Driven Development**  
   https://medium.com/@gilly.ames/building-a-react-redux-app-with-test-driven-development-b2ed73e60be9  
   A guided walkthrough that shows how to apply TDD to actions, reducers, and services
+  
+- **Testing Replicated Redux**  
+  http://jimpurbrick.com/2017/07/31/testing-replicated-redux/  
+  Describes how the use of "property testing" to generate possible actions helped the author track down bugs in his distributed multiplayer Redux application.
 
   
   
 #### General Testing, Tools, and Setup
+
+
+- **An Overview of JavaScript Testing in 2017**  
+  https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a  
+  A detailed guide to the terms, tools, and concepts used in testing Javascript.
 
 - **Javascript Testing: Unit vs Functional vs Integration**  
   https://www.sitepoint.com/javascript-testing-unit-functional-integration/  

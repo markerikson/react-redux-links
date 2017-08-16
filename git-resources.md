@@ -95,6 +95,11 @@
   https://www.cuttlesoft.com/life-saving-git-tips/  
   A variety of useful tips, including use of cherry-picking, local pulling and testing, and use of aliases to simplify tasks
   
+- **Git Cheat Sheet: Useful Commands, Tips and Tricks**  
+  https://sentheon.com/blog/git-cheat-sheet.html  
+  A large cheat sheet / reference for a variety of Git usage topics, including workflow, configuration, .gitignore syntax, different categories of commands, and more.
+  
+  
 ## Specific Techniques
   
 - **Git's Patch Mode All the Way**  

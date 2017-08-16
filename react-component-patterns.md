@@ -368,6 +368,11 @@
   https://trevordmiller.com/blog/react-render-callback-components  
   Examples of how to use the "render callback" / "function as a child" pattern to extract common logic for reuse.
   
+- **"HOCs vs render callbacks / function-as-child"**  
+  https://twitter.com/mjackson/status/890725796117176321  
+  https://twitter.com/acdlite/status/890727843302301700  
+  A short but interesting Twitter thread with some comments from Michael Jackson, Andrew Clark, and others, on the mental differences between using HOCs and render callbacks.
+  
 
 #### Wrapping Non-React Code
 
@@ -450,6 +455,14 @@
 - **Using D3 and React Together to Make Visualizations with TypeScript**  
   https://spin.atomicobject.com/2017/07/20/d3-react-typescript/  
   Examples of some possible approaches to using D3 inside of React, including use of refs and components.
+  
+- **Wrapping Web Components With React**  
+  https://www.sitepen.com/blog/2017/08/08/wrapping-web-components-with-react/  
+  A detailed walkthrough of how to create React components that wrap up existing web components, including managing props, handling events, and keeping the DOM in sync.
+  
+- **Migrating complex Javascript applications**  
+  https://javascriptplayground.com/blog/2017/08/migrating-complex-javascript-angular-react/  
+  Jack Franklin describes the lessons learned when his team migrated from Angular to React, including why they migrated, how they approached the architecture changes, how they prioritized what to change, and more.  Includes some examples of the Angular->React change, but also good advice in general.
   
   
 #### Modal Dialogs

@@ -48,6 +48,11 @@
   https://auth0.com/blog/managing-state-in-angular-with-ngrx-store/  
   A tutorial that demonstrates use of the ngrx/store variation of Redux as part of an Angular app.
   
+- **Angular Form Validations With Redux for Multiple Routes**  
+  https://dzone.com/articles/angular-form-validations-with-redux-for-multiple-r  
+  Examples of setting up Redux-based form validation in an Angular app.
+  
+  
 #### Other
 
 - **Managing State in Aurelia: How to Use Aurelia with Redux**  
@@ -65,3 +70,7 @@
 - **Something Useless - Redux Implemented in Elixir**  
   http://hostiledeveloper.com/2017/04/18/something-useless-redux-implemented-in-elixir.html  
   An Elixir developor walks through implementing Redux in Elixir
+  
+- **Advanced Redux in Xamarin**  
+  https://medium.com/pageup-tech/advanced-redux-in-xamarin-part-1-action-creators-19cb257093d2  
+  Discusses how to use the concepts of action creators and thunks with some of the C# implementations of Redux.

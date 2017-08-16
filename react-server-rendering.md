@@ -50,4 +50,10 @@
   A good tutorial that walks through the basic setup needed to start rendering React components into HTML in an Express server.
   
 
+- **Server-Render like a Pro /w Redux-First Router in 10 steps**  
+  https://medium.com/faceyspacey/server-render-like-a-pro-w-redux-first-router-in-10-steps-b27dd93859de  
+  A walkthrough for using the author's Redux-First Router library for managing SSR, including setting up Webpack configs.
   
+- **Introducing Second: a framework for mostly-static React applications**  
+  https://wildlyinaccurate.com/introducing-second-a-framework-for-mostly-static-react-applications/  
+  Describes a new library for rendering static sites with React, with the ability to opt-in to "dehydrating" certain components on the client to make them interactive.

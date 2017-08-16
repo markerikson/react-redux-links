@@ -193,6 +193,10 @@
   https://www.infoq.com/news/2017/05/react-fiber-closer-look  
   A useful summary of the goals and implementation approach for the new React Fiber algorithm
   
+- **Top Resources to Explore React Fiber**  
+  https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520  
+  A helpful list of links to further articles and resources for learning about React Fiber
+  
 - **React Fiber Architecture**  
   https://github.com/acdlite/react-fiber-architecture  
   A description of React's new core algorithm, React Fiber

@@ -155,3 +155,7 @@
 - **Are we making the web too complicated?**  
   http://seldo.com/weblog/2017/05/21/are_we_making_the_web_too_complicated  
   Fantastic thoughts from Laurie Voss on why modern web development appears to be complicated: expectations for web usage have changed, and developers are trying to adapt.
+  
+- **Keeping Up With the JavaScript World**  
+  https://daveceddia.com/keeping-up-with-javascript/  
+  Dave Ceddia offers some great advice on how to manage learning about what's new and changing in the JS community, including sources to follow for keeping up with what's new, choosing what to learn, and how to tackle actually learning things.

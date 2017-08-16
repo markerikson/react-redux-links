@@ -13,6 +13,10 @@
 - **Where to fetch Data: componentWillMount vs componentDidMount**  
   https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/  
   A quick comparison of when these two lifecycle methods are called, and why AJAX calls should generally be done in `componentDidMount`
+  
+- **How to fetch data in React**  
+  https://www.robinwieruch.de/react-fetching-data/  
+  An excellent look at several key aspects of fetching in data in React apps, including what components should containg the fetching and display logic, what lifecycle methods to use for API calls, and how to abstract out the fetching process into its own component.
 
 - **React AJAX Best Practices**  
   http://andrewhfarmer.com/react-ajax-best-practices/  

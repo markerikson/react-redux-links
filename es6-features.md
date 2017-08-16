@@ -288,3 +288,11 @@
 - **The State of Javascript Modules**  
   https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358  
   An extended article summarizing the state of ES module implementations, how the transition to modules relates to the Node ecosystem, and what the changes will mean for Webpack users and module authors.
+  
+- **Reify: Meteor's evolving Javascript module compiler**  
+  https://blog.meteor.com/reify-meteors-evolving-javascript-module-compiler-70425fa45d81  
+  A detailed look at the subtleties of ES6 module syntax, and how Meteor's Reify compiler and Babel's module transform plugin deal with those restrictions in different ways.
+  
+- **ES6 Modules in Node Today**  
+  https://medium.com/web-on-the-edge/es-modules-in-node-today-32cff914e4b  
+  John-David Dalton, author of Lodash, announces his new ES6 module loader, which enables ES module usage in Node right now. 
