@@ -107,6 +107,10 @@
 - **Ten Things a Serious JavaScript Developer Should Learn**  
   https://benmccormick.org/2017/07/19/ten-things-javascript/  
   A well-written, excellent collection of advice for mid-level JS developers, listing important topics that they should be familiar with.
+  
+- **So you completed the official React tutorial. Now what?**  
+  https://goshakkk.name/next-steps-official-react-tutorial/  
+  General advice on how to approach learning new things in general without getting overloaded, as well as specific advice for concepts and ideas to learn about after grasping the basics of React.
 
 
 #### General Suggestions for Learning

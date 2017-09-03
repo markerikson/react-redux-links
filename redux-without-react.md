@@ -73,4 +73,12 @@
   
 - **Advanced Redux in Xamarin**  
   https://medium.com/pageup-tech/advanced-redux-in-xamarin-part-1-action-creators-19cb257093d2  
-  Discusses how to use the concepts of action creators and thunks with some of the C# implementations of Redux.
+  https://medium.com/pageup-tech/advanced-redux-in-xamarin-part-2-persistent-actions-middleware-2c1c684328a  
+  https://medium.com/pageup-tech/advanced-redux-in-xamarin-part-3-database-middleware-5dac7b5ee6ba  
+  
+  Discusses how to use a C# implementation of Reedux, including the concepts of action creators and thunks, implementing persistence via middleware, and interacting with a database.
+  
+- **Android.apply(Redux)**  
+  https://blog.shazam.com/android-apply-redux-2ad0f7355e0  
+  Discusses a Redux-inspired pattern for use with Android as an alternative to the MVP approach.
+  

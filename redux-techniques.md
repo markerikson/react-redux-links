@@ -63,6 +63,10 @@
   http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/  
   Examples of using `combineReducers` multiple times to produce a state tree, and some thoughts on tradeoffs in various approaches to reducer logic.
   
+- **The Power of Higher-Order Reducers**  
+  http://slides.com/omnidan/hor#/  
+  A slideshow from the author of redux-undo and other libraries, explaining the concept of higher-order reducers and how they can be used
+  
 - **Modifying a Leaf of the Redux State Tree**  
   http://cmichel.io/modifying-a-leaf-of-the-redux-state-tree/  
   Some useful observations on how to properly do deep immutable updates.
@@ -103,7 +107,13 @@
   https://alligator.io/react/functional-redux-reducers-with-ramda/  
   Shows how to write a somewhat complex Redux reducer using only composition of functions from the Ramda library
   
-
+- **Combine Redux reducers like a Tetris ninja**  
+  https://engineering.legalstart.fr/combine-redux-reducers-like-a-tetris-ninja-6f4eb690aed5  
+  Discusses the intended use case and limitations of `combineReducers`, and presents a custom utility called `combineMultiKeyReducers` that will pass along specified slices of state to a reducer.
+  
+- **A small trick to write clean reducers**  
+  https://hackernoon.com/a-small-trick-to-write-clean-reducers-a0b1b1eff3d2  
+  Shows a contrived example of updating deeply nested state, and discusses use of `lodash/fp` to simplify the update logic instead.
   
 
 #### Selectors and Normalization

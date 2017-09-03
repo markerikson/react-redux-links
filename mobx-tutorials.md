@@ -117,3 +117,7 @@ A great video to understand the differences between MobX and Redux.
 - **Comparing Redux and MobX with two CTOs**  
   https://youtu.be/ZGVwMkrL2n0  
   A recorded presentation of two CTOs comparing several major aspects of React state management with `setState`, MobX, and Redux
+  
+- **Introduction to Redux and MobX**  
+  https://medium.com/@guptagaruda/introduction-to-redux-and-mobx-e6fa98b6479  
+  A very nice comparison of the core concepts and benefits for Redux and MobX, with some good diagrams, useful tips, and links to relevant resources.

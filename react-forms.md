@@ -69,6 +69,10 @@
 - **Transitioning from uncontrolled inputs to controlled**  
   https://goshakkk.name/turn-uncontrolled-into-controlled/  
   Explains how to refactor React forms with uncontrolled inputs to use controlled inputs instead.
+  
+- **Tightly Controlled Textareas - Building solid plain text editors in React**  
+  https://hashnode.com/post/tightly-controlled-textareas-building-solid-plain-text-editors-in-react-cj6yvu6yq00cls5wtrbbkw96d  
+  A tutorial for implementing controlled behavior for a simple Markdown text editor component, including examples.
 
 
 #### Form Tutorials and Usage
@@ -180,3 +184,7 @@
 - **List or Form, why not both? Making a list with a built in editor in React**  
   http://thereactionary.net/list-or-form-why-not-both-making-a-list-with-a-built-in-editor-in-react/  
   Builds an example of a list with the ability to do inline editing of items.
+  
+- **Comparison of form libraries in React**  
+  https://codebrahma.com/form-libraries-in-react/  
+  A good comparison of several different React/Redux-based form libraries, with code snippets demonstrating usage.

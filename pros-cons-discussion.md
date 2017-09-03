@@ -116,6 +116,12 @@
   https://twitter.com/modernserf/status/886426115874717697  
   Deep and fascinating analysis of how Redux compares to OOP and message-passing, how typical Redux usage can devolve towards Java-like "setter" functions with more boilerplate, and something of a plea for a higher-level "blessed" abstraction on top of Redux to make it easier to work with and learn for newbies.  Very worth reading.  The author originally wrote a tweetstorm, which I captured in the Storify link, and wrote the blog post to expand on those thoughts.  Finally, he followed up with a few more thoughts on abstract vs concrete examples in another shorter tweet thread.
   
+- **6 mistakes Reacters make that Re-framers avoid**  
+  https://purelyfunctional.tv/article/react-vs-re-frame/  
+  https://news.ycombinator.com/item?id=15157527  
+  https://news.ycombinator.com/item?id=15158334
+  Comparisons between common React/Redux patterns, and how ClojureScript developers using the Reframe toolkit might solve the problems instead.  Some decent discussion in the HN comments, including one comment that directly responds to the points in the original article, and discusses how React+Redux give you the power to solve the specific problems you're dealing with.
+  
 
 #### Comment Threads and Discussions
 
@@ -268,6 +274,18 @@ similar structures in ClojureScript.
   https://medium.com/@dwalsh.sdlr/react-facebook-and-the-revokable-patent-license-why-its-a-paper-25c40c50b562  
   Analysis of the React patent license from an IP lawyer, in response to the latest set of discussions and arguments online
   
+- **3 Points to Consider before Migrating Away from React because of Facebook's 'BSD+Patent' License**  
+  https://medium.com/progressive-web-apps/react-progressive-web-apps-part-2-d55c6bd4b316  
+  Several valuable thoughts from a patent attorney on what the React PATENTS license actually means, how it relates to "React alternatives" like Preact, and how it affects React users legally.
+  
+- **Open Source Community Over-REACTS to X Rated Code**  
+  https://heathermeeker.com/2017/08/19/open-source-community-over-reacts-to-x-rated-code/  
+  A patent attorney gives perspective on how React's PATENTS license is similar to already-existing licenses, and what that means for both the Apache Software Foundation and other React users.
+  
+- **Undersatnding the Facebook vs Apache Software Foundation License Kerfluffle**  
+  http://writing.jan.io/2017/08/19/understanding-the-facebook-vs-asf-license-kerfuffle.html  
+  A no-nonsense, clearly-written explanation of exactly what has happened regarding the Apache Software Foundation and the Facebook BSD+Patents license, including a timeline of events, summary of stances on both sides, and an FAQ on what it means.
+  
 - **Comments from other companies on the acceptability of the license**  
   https://wptavern.com/automattic-will-continue-to-use-react-js-in-calypso-despite-patent-clause  
   https://twitter.com/paul_irish/status/754864479460929536  
@@ -278,6 +296,9 @@ similar structures in ClojureScript.
 - **"Comment on the Apache Foundation's statement about Facebook's BSD+Patents license"**  
   https://www.reddit.com/r/programming/comments/6nnxir/apache_foundation_bans_use_of_facebook_bsdpatents/dkb3v4p/?context=3  
   One of the best layman's summaries I've seen about what the patents file actually means and is intended to do.
+  
+
+  
   
 - **Further discussions**  
   https://news.ycombinator.com/item?id=12108273  

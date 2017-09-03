@@ -423,3 +423,8 @@
 - **NgRx: Patterns and Techniques**  
   https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5  
   Describes a variety of patterns and approaches for using the NgRx library (a clone of Redux built with RxJS and commonly used with Angular).  The labels and categories given for side effects approaches, like "content-based decider", "content enricher", etc, can be applied to existing Redux middlewares as well.  
+  
+- **MVC implemented by React and Causality-Redux**  
+  https://medium.com/dailyjs/mvc-implemented-by-react-and-causality-redux-c4125a01e95c  
+  https://medium.com/@causality_redux/react-redux-how-to-write-significantly-less-code-c0562ff06d5a  
+  A pair of posts discussing how to use the "causality-redux" library to implement an MVC-type architecture on top of React and Redux.

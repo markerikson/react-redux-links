@@ -76,6 +76,10 @@
   https://ecmasyntax.io  
   A reference site listing the syntax of features in ES6, and comparing them with earlier ES behavior.
   
+- **Laracasts: ES2015 Crash Course**  
+  https://laracasts.com/series/es6-cliffsnotes  
+  A video screencast series that covers the new features and syntax in ES6/ES2015.
+  
 
 #### In-Depth Details
 

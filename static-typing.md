@@ -192,6 +192,10 @@
 - **Best Practices for Flow Typing React Components**  
   https://building.coursera.org/blog/2017/06/01/best-practices-for-flow-typing-react-components/  Several useful suggestions and examples for using Flow types with React components.
   
+- **React Higher-Order Components using TypeScript**  
+  https://www.triplet.fi/blog/react-higher-order-components-hoc-using-typescript/  
+  Examples of how to properly write React HOCs in TypeScript, including adding types.
+  
 
 
 #### Advancing Typing Techniques

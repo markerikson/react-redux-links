@@ -129,6 +129,10 @@
   https://github.com/uanders/react-redux-cheatsheet  
   A diagram that tries to illustrate all the various pieces of the React+Redux API and workflow
   
+- **Beginner's guide to React/Redux - How to start learning and not be overwhelmed**  
+  https://medium.com/netscape/beginners-guide-to-react-redux-how-to-start-learning-and-not-be-overwhelmed-af04353101e  
+  A good writeup from a React/Redux beginner, with advice on how to get started learning React and Redux, how to approach building your first meaningful React+Redux application, and related topics such as file structure, data flow, and rendering logic.
+  
 
 #### Project-Based Tutorials
 

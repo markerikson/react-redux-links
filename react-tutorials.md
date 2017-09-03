@@ -340,6 +340,18 @@
   https://pspdfkit.com/blog/2017/how-to-build-free-hand-drawing-using-react/  
   Demonstrates building a component that listens to mouse events, saves the coordinates, and draws the resulting lines using SVG.
   
+- **React Crash Course for Beginners**  
+  https://code.tutsplus.com/series/react-crash-course-for-beginners--cms-1204  
+  A tutorial series that teaches React concepts by building a movie gallery app.
+  
+- **Creating a Blogging App Using React**  
+  https://code.tutsplus.com/series/creating-a-blogging-app-using-react--cms-1171  
+  A tutorial series that shows how to build a blogging app with a server backend that includes routing authentication, and CRUD.
+  
+- **Build a Metronome in React**  
+  https://daveceddia.com/build-metronome-react/  
+  An easy-to-follow, step-by-step tutorial that demonstrates key concepts like loading data, initializing state, and handling input changes.
+  
   
 #### Paid Courses and Books
 

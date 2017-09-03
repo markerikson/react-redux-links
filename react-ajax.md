@@ -10,6 +10,10 @@
   https://medium.com/@baphemot/how-to-make-ajax-requests-in-react-a6a52bb5a8b1  
   A helpful introduction to making AJAX requests, including libraries to use, where to run requests, and a couple examples of handling "loading..." status.
   
+- **Understanding React: data hydration / initialization**  
+  https://medium.com/@baphemot/understanding-reactjs-data-hydration-initialization-bacbb790c7cb  
+  Describes several possible approaches to loading data from a server at app startup, including API calls and ways to embed data into the page.
+  
 - **Where to fetch Data: componentWillMount vs componentDidMount**  
   https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/  
   A quick comparison of when these two lifecycle methods are called, and why AJAX calls should generally be done in `componentDidMount`

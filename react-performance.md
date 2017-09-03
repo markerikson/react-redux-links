@@ -160,6 +160,14 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/@erikras/react-performance-anti-pattern-creating-functions-in-render-ddeb5ebd2933  
   Describes why creating functions inside of `render()` is bad for perf, specifically in relation to optimization and prop reference comparisons, and offers several alternate patterns as solutions.
   
+- **Memoize React components**  
+  https://medium.com/@planttheidea/memoize-react-components-33377d7ebb6c  
+  Discusses the basic ideas of memoization, and shows how they can be applied to wrapping React components using the `moize` library (or other memoization libraries).
+  
+- **When to use Component or PureComponent**  
+  https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81  
+  Good advice on the potential benefits of using `PureComponent`, as well as several potential downsides or gotchas (such as binding functions in `render()`).
+  
   
 #### Code Splitting and Progressive Apps
 
@@ -192,6 +200,11 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Simple Pattern for Asynchronously Loading React Components**  
   https://mackness.github.io/react/patterns/2017/03/20/simple-pattern-for-asynchronously-loading-react-components.html  
   A quick example of using dynamic importing to lazy-load React components
+  
+- **React Progressive Web Apps**  
+  https://medium.com/progressive-web-apps/react-progressive-web-apps-part-1-1cf381421672  
+  https://medium.com/progressive-web-apps/react-progressive-web-apps-part-2-d55c6bd4b316  
+  A pair of posts that cover how to set up an initial PWA and check its behavior against best practices, and how to add offline-first behavior to a React+Redux PWA. 
   
   
 #### Immutable Data
@@ -303,3 +316,7 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Redux isn't slow, you're just doing it wrong - an optimization guide for React-Redux**  
   http://reactrocket.com/post/react-redux-optimization/  
   An excellent summary of the basic steps for good performance with React-Redux
+  
+- **Measuring performance gains - AngularJS to React (with Redux or MobX)**  
+  https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455  
+  A highly detailed article that investigates and benchmarks performance between an Angular 1.x app and equivalent React+Redux and React+MobX apps in a variety of real-world use cases.  Excellently written and researched.

@@ -98,6 +98,10 @@
   https://www.codementor.io/drewpowers/high-performance-webpack-config-for-front-end-delivery-90sqic1qa  
   Covers 7 optimizations you can add to a Webpack setup to build bundles faster and make them smaller.
   
+- **Unpacking the Mysteries of Webpack**  
+  https://www.viget.com/articles/unpacking-the-mysteries-of-webpack-a-novices-journey  
+  Recaps some high-level Webpack terms and concepts, and walks through several changes to speed up compilation and improve bundle size.
+  
   
   
 #### Code Splitting and Chunking

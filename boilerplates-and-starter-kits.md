@@ -21,6 +21,10 @@
   https://github.com/tstringer/react-laboratory  
   An absolute bare-minimum project.  One tiny Webpack config, one JS file, one component.  Pretty much the smallest possible setup to use React and JSX with Webpack.
   
+- **TypeScript React Starter**  
+  https://github.com/Microsoft/TypeScript-React-Starter  
+  A quick start guide to setting up a TypeScript project using a TS-specific variation on Create-React-app's `react-scripts` package.  Includes instructions for adding TSLint, Jest, Enzyme, and Redux.
+  
   
   
 #### Full-Featured Starter Kits

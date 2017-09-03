@@ -87,3 +87,7 @@
   
 - **Decoupling Hierarchies for Maintainable Code**  
   https://medium.com/altschool-engineering/decoupling-hierarchies-for-maintainable-code-b13c24b2f047  
+  
+- **Writing Scalable React Apps with the Component Folder Pattern**  
+  https://medium.com/styled-components/component-folder-pattern-ee42df37ec68  
+  Describes a specific variation on "feature folders" that puts all files for a given component in a separate folder, as well as an approach for providing configurable component rendering with default behavior as a fallback.

@@ -47,6 +47,10 @@
   https://medium.com/sensehq/sense-ible-redux-thunk-30b866ca5914  
   Examples of how to define reusable caching and authorization handling for thunks using decorators
   
+- **Returning promises from Redux action creators**  
+  https://medium.com/collaborne-engineering/returning-promises-from-redux-action-creators-3035f34fa74b  
+  Shows how returning a promise from a thunk action creator allows the caller to chain off the promise and execute code after the action creator is complete.
+  
   
 #### Side Effect Approach Comparisons
   
@@ -232,6 +236,16 @@
 - **Building an event system using Redux and Sagas**  
   http://blog.servicebot.io/building-our-event-and-user-notification-system-in-express-using-redux-and-sagas/  
   Some quick examples of using Redux-Saga in a Node Express app to handle processing for things like sending emails.
+  
+- **Redux Saga Retry Patterns**  
+  https://medium.com/@bryanfillmer/keep-trying-redux-saga-style-b273882b9ec  
+  https://codeburst.io/try-again-more-redux-saga-patterns-bfbc3ffcdc  
+  A pair of articles discussing ways to handle reconnects, retries, and error handling in sagas.
+  
+- **Redux, Firebase, and the Saga in between**  
+  https://medium.com/rumors/redux-firebase-and-the-saga-in-between-c2bd5adf6de1  
+  Discussion and examples of how to use sagas to simplify and generalize interaction with Firebase in a Redux app.
+  
   
   
 #### Other Side Effect Approaches

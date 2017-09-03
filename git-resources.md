@@ -121,6 +121,10 @@
 - **A closer look at git rebase**  
   https://dev.to/gonedark/a-closer-look-at-git-rebase  
   An explanation of what "rebasing" is, with some helpful graphics
+  
+- **Visualize Merge History with git log --graph, --first-parent, and --no-merges**  
+  https://redfin.engineering/visualize-merge-history-with-git-log-graph-first-parent-and-no-merges-c6a9b5ff109c  
+  Describes issues with using `git log` to visualize history, and some arguments that can be used to give a potentially better picture of what's actually happened.
 
 
 #### E-Books

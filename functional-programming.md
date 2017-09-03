@@ -155,3 +155,6 @@
   https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747  
   Kent C Dodds looks at pros and cons of using classes, issues with the `this` keyword in Javascript, and some ways to avoid using classes
   
+- **What's Functional Programming All About?**  
+  http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html  
+  A detailed explanation of how "functional" programming differs from "imperative" programming, using a food recipe as an example of the steps involved.

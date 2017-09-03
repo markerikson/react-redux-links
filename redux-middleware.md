@@ -73,3 +73,7 @@
 - **Defining user on-boarding flows with Redux middleware**  
   https://medium.com/@JohnRandom/defining-user-on-boarding-flows-with-redux-middlewares-217885acbafc  
   Demonstrates implementing an on-boarding feature by implementing a Redux middleware to track user behavior and dispatch actions in response.
+  
+- **"Do I always need to return a value from a Redux middleware?"**  
+  https://stackoverflow.com/questions/45964129/do-i-always-need-to-return-a-value-from-a-redux-middleware/45964310#45964310  
+  My answer to a question about whether middleware should do `return next(action)`.  Short version: yes, always, unless you want to alter expected behavior.

@@ -258,6 +258,14 @@
 - **Extracting Logic from React Components**  
   https://javascriptplayground.com/blog/2017/07/react-extracting-logic/  
   Demonstrates taking a component that includes some logic for formatting a value, and refactoring it to extract out the formatting logic into separate functions.
+
+- **Refactoring React**  
+  https://8thlight.com/blog/josh-mccormick/2017/08/21/refactoring-react.html  
+  Demonstrates extracting state and logic out of a component to separate responsibility and improve ease of testing.
+  
+- **How do you separate React components?**  
+  https://reactarmory.com/answers/how-should-i-separate-components  
+  Describes four categories of React components ("view", "control", "controllers", and "containers"), and gives suggestions on when and how to factor out new components.
   
   
   
@@ -372,6 +380,10 @@
   https://twitter.com/mjackson/status/890725796117176321  
   https://twitter.com/acdlite/status/890727843302301700  
   A short but interesting Twitter thread with some comments from Michael Jackson, Andrew Clark, and others, on the mental differences between using HOCs and render callbacks.
+  
+- **Real World Higher-Order Components**  
+  http://blog.jakoblind.no/real-world-higher-order-components-hocs/  
+  Several useful examples of actual HOCs, such as adding a hidden prop, providing toggle functionality, and only showing a component if a feature flag is turned on.
   
 
 #### Wrapping Non-React Code
@@ -491,6 +503,10 @@
   https://medium.com/@MoneyhubEnterpr/tasks-and-portals-in-react-1df2438cdebb  
   Describes how MoneyHub implemented modal dialogs with wizard-like workflows that tie together multiple screens, using a combination of container components and portals.
   
+- **Good React Modals**  
+  https://medium.com/@elsdoerfer/good-react-modals-548cd9c2f7f4  
+  Covers ways to handle issues with modal content not being rendered while doing animations, and side-loading data for a modal while maintaining a loading indicator.
+  
   
 #### Composing Components with Functional Programming
   
@@ -559,3 +575,6 @@
   https://medium.com/@bluepnume/creating-a-cross-domain-react-component-with-xcomponent-fbcccc4778fd  
   A look at how to wrap a React component using the xcomponent library, so that it can be rendered and used across domains.
   
+- **Using React v16 to create self-destructing components**  
+  https://medium.com/@gajus/using-react-v16-to-create-self-destructing-components-de8e4eb61d0f  
+  Demonstrates how a tiny component that simply returns its own children can simplify the process of returning arrays of components in React 16.

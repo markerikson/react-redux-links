@@ -90,6 +90,10 @@
   https://medium.com/@bryanfillmer/a-redux-first-router-saga-67c2cda9252e  
   Examples and discussion of how to use sagas in conjunction with Redux-based routing to handle side effects that are connected to route changes.
   
+- **Redux First Router - First Impressions**  
+  https://www.dailydrip.com/topics/react/drips/redux-first-router-first-impressions  
+  A short tutorial that shows how to add redux-first-router to a CRA project and configure it.
+  
   
 #### Authentication
 
