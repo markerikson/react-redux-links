@@ -19,11 +19,7 @@
   https://www.robinwieruch.de/react-svg-patterns/  
   A tutorial that covers several aspects of using SVG in React, and demonstrates how to use the svg-patterns library to generate patterend backgrounds.
   
-- **Using React v16 to create self-destructing components**  
-  https://medium.com/@gajus/using-react-v16-to-create-self-destructing-components-de8e4eb61d0f  
-  Demonstrates how a tiny component that simply returns its own children can simplify the process of returning arrays of components in React 16.
-  
-  
+
 #### Security
 
 - **Exploiting Script Injection Flaws in ReactJS Apps**  

@@ -107,6 +107,10 @@
   https://github.com/joeshub/css-in-react  
   A repo that demonstrates the basics of several different React CSS approaches and libraries.
   
+- **Should I use CSS-in-JS with React?**  
+  https://reactarmory.com/answers/should-i-use-css-in-js  
+  Some opinionated thoughts on the pros and cons of using CSS-in-JS approaches, including concerns about possibly security issues.
+  
   
 #### Style Libraries
 
@@ -145,6 +149,8 @@
 - **Emotion: The Next Generation of CSS-in-JS**  
   https://medium.com/@tkh44/emotion-ad1c45c6d28b  
   The author of the Emotion library gives an overview of its principles, benchmarks, and uses.
+
+  
   
   
 #### Techniques and Examples
