@@ -13,7 +13,7 @@ While this list is primarily focused on learning React and Redux, and generally 
   
 - **Eric Elliott's Javascript Resource Lists**  
   https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e  
-  https://github.com/ericelliott/essential-javascript-links  
+  https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9
   Eric Elliott is a strong proponent of Javascript, has written numerous articles about learning and understanding Javascript, and assembled some very useful lists of numerous Javascript resources.  (Note that he is very strongly opinionated in his own articles, particularly about certain code patterns that he feels everyone should follow, but overall his advice and information is pretty solid.)
   
 - **Wes Bos's Javascript Resource List**  
