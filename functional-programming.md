@@ -5,7 +5,7 @@
    Describes the three basic principles of FP: "data in/data out", "code as data", and "function composition" all the way down, and demonstrates transforming some data.  Has some _very_ helpful graphics and illustrations.
    
 - **Understanding Programmatic Side Effects**  
-  http://web24studios.com/2015/10/understanding-programmatic-side-effects/  
+  https://web.archive.org/web/20160326014453/http://web24studios.com/2015/10/understanding-programmatic-side-effects/  
   A short article that explains the concept of "side effects"
   
 - **What Is Functional Programming?**  
