@@ -43,10 +43,6 @@
   http://rea.tech/reactjs-real-world-examples-of-higher-order-components/  
   Explanations and examples of HOCs and their uses
   
-- **Function as Child Components**  
-  https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9  
-  Explains the "function as a child" technique as an alternative to Higher Order Components
-  
 - **Functions as Child Components and Higher Order Components**  
   http://rea.tech/functions-as-child-components-and-higher-order-components/  
   Comparisons and examples for these two component patterns
@@ -54,10 +50,6 @@
 - **ReactCasts: Higher Order Components**  
   https://youtu.be/6nVxCWUAEPM  
   A screencast that walks through the idea and usage of Higher Order Components
-  
-- **ReactCasts: Function as Child Component**  
-  https://www.youtube.com/watch?v=WE3XAt9P8Ek  
-  A screencast that introduces the idea of Functions as Children and demonstrates usage
   
 - **Annotations about React Higher-Order Components**  
   https://blog.codeminer42.com/annotations-about-react-higher-order-components-e3561bc7c27a  
@@ -79,10 +71,6 @@
   https://daveceddia.com/extract-state-with-higher-order-components/  
   An easy-to-read explanation of how HOCs work, and examples of how to extract common logic into a reusable HOC
   
-- **React Patterns - Render Callback**  
-  http://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback  
-  An explanation of the "render callback" or "function as child" pattern, including concepts and example uses
-  
 - **Simplifying life with React render callbacks**  
   https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55  
   An overview of several different ways to wrap up components, including cloning children, HOCs, and render callbacks.
@@ -103,10 +91,6 @@
   http://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/  
   A short, easy-to-read explanation of the basic concepts and examples of HOCs.
   
-- **Sharing stateful UI logic in React apps using Render Callback components**  
-  https://trevordmiller.com/blog/react-render-callback-components  
-  Examples of how to use the "render callback" / "function as a child" pattern to extract common logic for reuse.
-  
 - **"HOCs vs render callbacks / function-as-child"**  
   https://twitter.com/mjackson/status/890725796117176321  
   https://twitter.com/acdlite/status/890727843302301700  
@@ -117,7 +101,24 @@
   Several useful examples of actual HOCs, such as adding a hidden prop, providing toggle functionality, and only showing a component if a feature flag is turned on.
 
 
-#### Render Props
+#### Render Props / Function As Child
+
+- **Function as Child Components**  
+  https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9  
+  Explains the "function as a child" technique as an alternative to Higher Order Components
+  
+- **ReactCasts: Function as Child Component**  
+  https://www.youtube.com/watch?v=WE3XAt9P8Ek  
+  A screencast that introduces the idea of Functions as Children and demonstrates usage
+
+- **React Patterns - Render Callback**  
+  http://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback  
+  An explanation of the "render callback" or "function as child" pattern, including concepts and example uses
+  
+- **Sharing stateful UI logic in React apps using Render Callback components**  
+  https://trevordmiller.com/blog/react-render-callback-components  
+  Examples of how to use the "render callback" / "function as a child" pattern to extract common logic for reuse.
+
 
 #### Functional Composition
   
