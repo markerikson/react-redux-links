@@ -88,7 +88,7 @@
   Several useful examples of actual HOCs, such as adding a hidden prop, providing toggle functionality, and only showing a component if a feature flag is turned on.
 
 
-#### Render Props / Function As Child
+#### Render Props/Function As Child
 
 - **Function as Child Components**  
   https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9  
