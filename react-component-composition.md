@@ -86,7 +86,7 @@
 - **Real World Higher-Order Components**  
   http://blog.jakoblind.no/real-world-higher-order-components-hocs/  
   Several useful examples of actual HOCs, such as adding a hidden prop, providing toggle functionality, and only showing a component if a feature flag is turned on.
-
+  
 
 #### Render Props/Function As Child
 
@@ -105,10 +105,10 @@
 - **Sharing stateful UI logic in React apps using Render Callback components**  
   https://trevordmiller.com/blog/react-render-callback-components  
   Examples of how to use the "render callback" / "function as a child" pattern to extract common logic for reuse.
-
+  
 
 #### Functional Composition
-  
+
 - **Functional React Series - Part 1: Get your App outta my Component**  
   https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25  
   Part 1 in a series about writing React applications by treating components as functions, not templates.
@@ -141,7 +141,7 @@
 - **Destroy All Classes: Turn React Components Inside Out with Functional Programming**  
   https://www.bignerdranch.com/blog/destroy-all-classes-turn-react-components-inside-out-with-functional-programming/  
   Demonstrates progressively refactoring a class component with logic into separate functional components, and then tying them together with Recompose
-
+  
 
 #### Comparing Composition Approaches
 
@@ -161,4 +161,4 @@
 - **Never Write Another HoC**
   https://youtu.be/BcVAq3YFiuc
   Michael Jackson demonstrating that a component with render prop can do anything a HOC can do, and more.
-   
+  

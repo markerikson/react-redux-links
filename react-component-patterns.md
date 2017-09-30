@@ -53,10 +53,9 @@
   https://medium.com/dailyjs/we-jumped-the-gun-moving-react-components-to-es2015-class-syntax-2b2bb6f35cb3  
   A Netflix engineer raises concerns about React deprecating `createClass` and pushing users to use ES6 classes.  I personally think his concerns are overstated, but there's some interesting points, plus good discussion in the comments.
   
-  
- 
+
 #### Component Rendering Logic
-  
+
 - **Dynamically Rendering React Components**  
   https://wail.es/dynamically-rendering-react-components/  
   Examples of how to dynamically determine which React component to render
@@ -81,9 +80,9 @@
   https://nvbn.github.io/2017/03/14/react-generators/  
   An interesting alternative to the usual if/else-type logic for conditionally rendering components, by using ES6 generators to yield the right pieces to render.
   
-  
+
 #### React Component Children
-  
+
 - **Ownership and Children in React**  
   http://ctheu.com/2015/02/10/ownership-and-children-in-reactjs/  
   Discusses the difference between "parent" and "owner" relationships, and what the `children` prop can look like.
@@ -116,8 +115,7 @@
   https://medium.com/@RubenOostinga/avoiding-deeply-nested-component-trees-973edb632991  
   Examples of `children` to include arbitrary content inside of a component for more flexible handling of presentation and composition.
   
-  
-  
+
 #### React Component Lifecycle
 
 - **React Docs: Component Specs and Lifecycle**  
@@ -148,7 +146,7 @@
   https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1  
   A helpful description of the major component lifecycle methods, including descriptions of common use cases for each one, and whether you can call `setState` inside.
   
-  
+
 #### Component Communication
 
 - **8 no-Flux strategies for React component communication**  
@@ -205,7 +203,7 @@
   https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17  
   Some short examples of how to pass data between parents, children, and siblings.
   
-  
+
 #### Component Categories
 
 - **Presentational and Container Components**  
@@ -268,7 +266,7 @@
   https://reactarmory.com/answers/how-should-i-separate-components  
   Describes four categories of React components ("view", "control", "controllers", and "containers"), and gives suggestions on when and how to factor out new components.
   
-  
+
 #### Wrapping Non-React Code
 
 - **React and third-party libraries**  
@@ -359,9 +357,9 @@
   https://javascriptplayground.com/blog/2017/08/migrating-complex-javascript-angular-react/  
   Jack Franklin describes the lessons learned when his team migrated from Angular to React, including why they migrated, how they approached the architecture changes, how they prioritized what to change, and more.  Includes some examples of the Angular->React change, but also good advice in general.
   
-  
+
 #### Modal Dialogs
-  
+
 - **How to Render Components Outside the Main React App**  
   https://blog.komand.com/how-to-render-components-outside-the-main-react-app  
   An example of a technique that's also know as the "portal" approach, commonly used for rendering modals on top of the rest of an application. 
@@ -390,13 +388,13 @@
   https://medium.com/@elsdoerfer/good-react-modals-548cd9c2f7f4  
   Covers ways to handle issues with modal content not being rendered while doing animations, and side-loading data for a modal while maintaining a loading indicator.
   
-  
+
 #### Other Component Patterns
 
 - **The React Controller View Pattern**  
   http://blog.andrewray.me/the-reactjs-controller-view-pattern/  
   Describes using top-level components to hold state and pass it to children as props
-
+  
 - **Make Your React Components Pretty**  
   https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e  
   Techniques for making your components easier to read, including using functional components, using JSX spread for props, and use of destructuring.
@@ -424,3 +422,4 @@
 - **Using React v16 to create self-destructing components**  
   https://medium.com/@gajus/using-react-v16-to-create-self-destructing-components-de8e4eb61d0f  
   Demonstrates how a tiny component that simply returns its own children can simplify the process of returning arrays of components in React 16.
+  
