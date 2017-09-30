@@ -158,7 +158,7 @@
   https://twitter.com/acdlite/status/890727843302301700  
   A short but interesting Twitter thread with some comments from Michael Jackson, Andrew Clark, and others, on the mental differences between using HOCs and render callbacks.
 
-- **Never Write Another HoC**
-  https://youtu.be/BcVAq3YFiuc
+- **Never Write Another HoC**  
+  https://youtu.be/BcVAq3YFiuc  
   Michael Jackson demonstrating that a component with render prop can do anything a HOC can do, and more.
   
