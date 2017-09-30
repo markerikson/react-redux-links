@@ -48,7 +48,7 @@
   Comparisons and examples for these two component patterns
   
 - **ReactCasts: Higher Order Components**  
-  https://youtu.be/6nVxCWUAEPM  
+  https://youtu.be/LTunyI2Oyzw
   A screencast that walks through the idea and usage of Higher Order Components
   
 - **Annotations about React Higher-Order Components**  
