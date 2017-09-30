@@ -38,6 +38,7 @@ You might also want to check out my categorized list of Redux-related addons, li
 - **Architecture and Structure**
   - [Project Structure](./project-structure.md)
   - [React Component Patterns](./react-component-patterns.md)
+  - [React Component Composition](./react-component-composition.md)
   - [React State Management](./react-state-management.md)
   - [React Architecture and Best Practices](./react-architecture.md)
   - [Redux Architecture and Best Practices](./redux-architecture.md)
