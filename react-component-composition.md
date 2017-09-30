@@ -43,10 +43,6 @@
   http://rea.tech/reactjs-real-world-examples-of-higher-order-components/  
   Explanations and examples of HOCs and their uses
   
-- **Functions as Child Components and Higher Order Components**  
-  http://rea.tech/functions-as-child-components-and-higher-order-components/  
-  Comparisons and examples for these two component patterns
-  
 - **ReactCasts: Higher Order Components**  
   https://youtu.be/LTunyI2Oyzw
   A screencast that walks through the idea and usage of Higher Order Components
@@ -71,10 +67,6 @@
   https://daveceddia.com/extract-state-with-higher-order-components/  
   An easy-to-read explanation of how HOCs work, and examples of how to extract common logic into a reusable HOC
   
-- **Simplifying life with React render callbacks**  
-  https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55  
-  An overview of several different ways to wrap up components, including cloning children, HOCs, and render callbacks.
-  
 - **Why you should keep your React components pure by using HOCs**  
   https://medium.com/@DjamelH/why-you-should-keep-your-react-components-pure-by-using-hocs-67e5c7f80c81  
   Walks through extracting stateful behavior into an HOC so that it's more reusable and the wrapped components are simpler.
@@ -90,11 +82,6 @@
 - **Simple explanation of Higher-Order Components**  
   http://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/  
   A short, easy-to-read explanation of the basic concepts and examples of HOCs.
-  
-- **"HOCs vs render callbacks / function-as-child"**  
-  https://twitter.com/mjackson/status/890725796117176321  
-  https://twitter.com/acdlite/status/890727843302301700  
-  A short but interesting Twitter thread with some comments from Michael Jackson, Andrew Clark, and others, on the mental differences between using HOCs and render callbacks.
   
 - **Real World Higher-Order Components**  
   http://blog.jakoblind.no/real-world-higher-order-components-hocs/  
@@ -154,3 +141,24 @@
 - **Destroy All Classes: Turn React Components Inside Out with Functional Programming**  
   https://www.bignerdranch.com/blog/destroy-all-classes-turn-react-components-inside-out-with-functional-programming/  
   Demonstrates progressively refactoring a class component with logic into separate functional components, and then tying them together with Recompose
+
+
+#### Comparing Composition Approaches
+
+- **Functions as Child Components and Higher Order Components**  
+  http://rea.tech/functions-as-child-components-and-higher-order-components/  
+  Comparisons and examples for these two component patterns
+  
+- **Simplifying life with React render callbacks**  
+  https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55  
+  An overview of several different ways to wrap up components, including cloning children, HOCs, and render callbacks.
+  
+- **"HOCs vs render callbacks / function-as-child"**  
+  https://twitter.com/mjackson/status/890725796117176321  
+  https://twitter.com/acdlite/status/890727843302301700  
+  A short but interesting Twitter thread with some comments from Michael Jackson, Andrew Clark, and others, on the mental differences between using HOCs and render callbacks.
+
+- **Never Write Another HoC**
+  https://youtu.be/BcVAq3YFiuc
+  Michael Jackson demonstrating that a component with render prop can do anything a HOC can do, and more.
+   
