@@ -2,7 +2,8 @@
 
 **Related topics**:
 - [Thinking in React](./thinking-in-react-and-flux.md): Articles discussing ways to think about React applications and component structure
-- **[React Implementation and Concepts](./react-implemenation.md)**: Includes articles that explain the differences between "components", "elements", and "instances"
+- **[React Implementation and Concepts](./react-implementation.md)**: Includes articles that explain the differences between "components", "elements", and "instances"
+- **[React Component Composition](./react-component-composition.md)**: Articles explaining 3 distinct approaches when composing components
 
 
 #### Component Terms, Concepts, and Types
