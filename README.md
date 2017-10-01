@@ -65,7 +65,7 @@ You might also want to check out my categorized list of Redux-related addons, li
 
 #### Comparisons and Discussion
 - [React/Flux/Redux Pros, Cons, and Discussion](./pros-cons-discussion.md)
-- [React and Flux vs Backbone](./react-vs-backbone.md)
+- [Framework Comparisons](./framework-comparisons.md)
 
 
 
