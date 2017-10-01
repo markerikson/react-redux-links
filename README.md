@@ -52,8 +52,10 @@ You might also want to check out my categorized list of Redux-related addons, li
   - [React Server Rendering](./react-server-rendering.md)
   - [React and Routing](./react-routing.md)  
 - **Redux**
+  - [Redux Reducers and Selectors](./redux-reducers-selectors.md)
   - [Redux Middleware](./redux-middleware.md)
   - [Redux Side Effects](./redux-side-effects.md)
+  - [Redux UI Management](./redux-ui-management.md)
   - [Redux Tips and Techniques](./redux-techniques.md)
   - [Using Redux Without React](./redux-without-react.md)
 - **Other**
