@@ -162,3 +162,7 @@
   https://youtu.be/BcVAq3YFiuc  
   Michael Jackson demonstrating that a component with render prop can do anything a HOC can do, and more.
   
+ - **React Composition Patterns from the Ground Up**  
+   https://medium.com/alexkrolick/react-composition-patterns-from-the-ground-up-8401aaad93d7
+   Comparison of patterns such as Lifting State, Higher-Order Components, Render Callbacks, and "Renderless" State Providers, and how they relate to React's component model.
+ 
