@@ -3,8 +3,8 @@
 **Related topics**:
 - [Thinking in React](./thinking-in-react-and-flux.md): Articles discussing ways to think about React applications and component structure
 - **[React Implementation and Concepts](./react-implementation.md)**: Includes articles that explain the differences between "components", "elements", and "instances"
-<a href="#higher-order-components"></a>
-<a href="#functional-composition"></a>
+<a id="higher-order-components"></a>
+<a id="functional-composition"></a>
 - **[React Component Composition](./react-component-composition.md)**: Articles explaining 3 distinct approaches when composing components
 
 
