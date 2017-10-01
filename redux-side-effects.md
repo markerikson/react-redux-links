@@ -246,6 +246,10 @@
   https://medium.com/rumors/redux-firebase-and-the-saga-in-between-c2bd5adf6de1  
   Discussion and examples of how to use sagas to simplify and generalize interaction with Firebase in a Redux app.
   
+- **When should I use a saga?**  
+  https://medium.com/@felixclack/when-should-i-use-a-saga-708cb3c75e9a  
+  Some quick rules of thumb for determining if building a saga is a good choice for a given feature.
+  
   
   
 #### Other Side Effect Approaches

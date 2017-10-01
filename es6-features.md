@@ -154,6 +154,10 @@
   http://dealwithjs.io/es6-features-10-use-cases-for-proxy/  
   Lists a variety of ways that ES6 proxies can be used, with links to examples
   
+- **Stop JavaScripting Like It's 1999**  
+  https://www.slideshare.net/HunterLoftis1/connecttech-2017-stop-javascripting-like-its-1999  
+  A slideshow that illustrates how to use async/await and Promises to write cleaner-looking file handling code in a Node environment.
+  
   
 #### Generators
 
@@ -224,6 +228,10 @@
 - **Escape from Callback Mountain: the "Functional River" pattern**  
   https://github.com/justsml/escape-from-callback-mountain/  
   An opinionated suggested approach for writing promise callbacks to form a pipeline
+  
+- **ES6 Promises: Patterns and Anti-Patterns**  
+  https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918  
+  Several useful techniques for using Promises, such as "promisifying" callback-based functions and running promises in parallel or sequence, and some common mistakes to avoid like not actually returning anything in a promise callback.
   
   
 #### Techniques

@@ -237,6 +237,14 @@
 - **Testing Replicated Redux**  
   http://jimpurbrick.com/2017/07/31/testing-replicated-redux/  
   Describes how the use of "property testing" to generate possible actions helped the author track down bugs in his distributed multiplayer Redux application.
+  
+- **Test-Driven Development with React and Redux, using Redux TDD**  
+  https://medium.freecodecamp.org/test-driven-development-with-react-and-redux-using-redux-tdd-3fd3be299918  
+  Describes using a specific set of helper functions to drive testing the behavior and data flow of a React+Redux application.
+  
+- **Writing tests for redux-observable**  
+  https://dev.to/julioolvr/writing-tests-for-redux-observable  
+  Quick examples of how to set up tests for redux-observable epics.
 
   
   

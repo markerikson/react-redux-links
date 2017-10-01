@@ -10,6 +10,10 @@
   http://andrewhfarmer.com/how-to-style-react/  
   An excellent overview of the four major ways to deal with styles in React, and what the various tools are.  Includes a decision tree to help you decide what to use.
   
+- **Understand the React Styling Paradigms**  
+  http://jsramblings.com/2017/09/22/understand-the-react-styling-paradigms.html  
+  An excellent, very readable summary of the three main ways to deal with styles in React (plain CSS, CSS modules, and CSS-in-JS).  Lists some pros and cons for each one, and points to some additional resources for learning about them.
+  
 - **CSS in JS**  
   http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html  
   Christopher Chedeau's classic talk that inspired the "CSS in JS" revolution
@@ -110,6 +114,10 @@
 - **Should I use CSS-in-JS with React?**  
   https://reactarmory.com/answers/should-i-use-css-in-js  
   Some opinionated thoughts on the pros and cons of using CSS-in-JS approaches, including concerns about possibly security issues.
+  
+- **Writing a CSS-in-JS Library from Scratch**  
+  https://medium.com/@tkh44/writing-a-css-in-js-library-from-scratch-96cd23a017b4  
+  The author of the Emotion library shows how to build a simple CSS-in-JS library, to help illustrate how they work.
   
   
 #### Style Libraries

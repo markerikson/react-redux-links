@@ -133,6 +133,11 @@
   https://medium.com/netscape/beginners-guide-to-react-redux-how-to-start-learning-and-not-be-overwhelmed-af04353101e  
   A good writeup from a React/Redux beginner, with advice on how to get started learning React and Redux, how to approach building your first meaningful React+Redux application, and related topics such as file structure, data flow, and rendering logic.
   
+- **Getting Started with Redux**  
+  https://www.sitepoint.com/getting-started-redux/  
+  https://www.sitepoint.com/redux-not-art-structuring-state-react-apps/  
+  A pair of very readable tutorials for getting started with Redux.  The first introduces Redux's core concepts while building out a small shopping cart example, and the second describes how to transition from storing data using React's `setState` over to putting it in Redux instead, and gives examples of managing real-world form state with Redux.
+  
 
 #### Project-Based Tutorials
 

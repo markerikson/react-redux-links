@@ -225,6 +225,10 @@
   https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984  
   The Pinterest team describes the problems they'd encountered optimizing their Webpack bundles, and introduces a new tool to help analyze bundles and dependency trees.
   
+- **Size Limit: Make the Web Lighter**  
+  https://evilmartians.com/chronicles/size-limit-make-the-web-lighter  
+  Demonstrates writing a tiny library that results in a 100KB Webpack bundle, and then walks through improving the Webpack settings to improve bundle size to only 17B.
+  
   
 #### Hot Module Replacement
 

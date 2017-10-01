@@ -158,3 +158,7 @@
 - **What's Functional Programming All About?**  
   http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html  
   A detailed explanation of how "functional" programming differs from "imperative" programming, using a food recipe as an example of the steps involved.
+  
+- **Higher Order Functions and Redux Thunk**  
+  https://medium.com/@joedski/higher-order-functions-and-redux-thunk-1e5983ae6b03  
+  An exploration of ways to wrap behavior around thunks, including composing functions together.

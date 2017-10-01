@@ -264,6 +264,10 @@
   https://medium.com/@uttamkini/scaling-redux-part-1-codebase-organization-80f978cd8a72  
   https://medium.com/@uttamkini/scaling-redux-part-2-organizing-state-8a1c5e8fffbf  
   Several suggestions for managing a Redux codebase, including use of feature folders / ducks, separating data and UI state in the store, organizing data by API structure, and more.
+  
+- **Tips for success with React and Redux**  
+  https://medium.com/@AlexFaunt/tips-for-success-with-react-and-redux-b782c6b22ff0  
+  Advice on how much of your React component tree should be connected to Redux, using non-HTML components to manage things like document titles, consistently using actions for app behavior, and moving app logic out of components.
 
 
 #### Encapsulation and Reusability
@@ -424,3 +428,11 @@
   https://medium.com/dailyjs/mvc-implemented-by-react-and-causality-redux-c4125a01e95c  
   https://medium.com/@causality_redux/react-redux-how-to-write-significantly-less-code-c0562ff06d5a  
   A pair of posts discussing how to use the "causality-redux" library to implement an MVC-type architecture on top of React and Redux.
+  
+- **Connecting React components to a Redux store with render callbacks**  
+  https://medium.com/@gott/connecting-react-component-to-redux-store-with-render-callback-53fd044bb42b  
+  Demonstrates using the React "render props" pattern to pass down data from a Redux store, rather than using `connect`.
+  
+- **"Anyone using Redux with a render prop?"**  
+  https://twitter.com/threepointone/status/913701233394900992  
+  A Twitter thread discussing use of render props as an alternative to `connect`.  Includes a reply by Dan Abramov, who points out that this is how React-Redux originally worked, but it was changed to an HOC to better deal with side effects from state changes.

@@ -248,6 +248,10 @@
   https://www.robinwieruch.de/learn-react-before-using-redux/  
   Robin Wieruch covers a list of key React concepts you should be familiar with before trying to tackle learning Redux or other major state management libraries.
   
+- **7 architectural attributes of a reliable React component**  
+  https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/  
+  An excellent list of principles to consider when designing React components, including single responsibility, encapsulation, reusability, testability, and meaning.
+  
   
   
 #### React Architecture

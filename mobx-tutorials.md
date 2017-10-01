@@ -74,6 +74,14 @@
   https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc  
   Some helpful tips for using MobX, including using the right reactions, using reactions with names, using strict mode, and more.
   
+- **Mobx React - Best Practices**  
+  https://medium.com/@daniel.bischoff/mobx-react-best-practices-17e01cec4140  
+  Several tips for good use of MobX with React, including separating API calls from stores, injecting stores into components, using @computed, and more.
+  
+- **The Curious Case of Mobx State Tree**  
+  https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f  
+  Michel Weststrate, author of MobX, introduces the MobX-State-Tree library, which builds on MobX to add additional useful capabilities.
+  
 
 #### MobX and Redux Comparisons
 

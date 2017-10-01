@@ -100,6 +100,10 @@
   http://www.mattgreer.org/articles/react-internals-part-four-setState/  
   A 5-part series that will recreate React from the ground up, illustrating how it works along the way.
   
+- **Making a custom React renderer**  
+  https://github.com/nitin42/Making-a-custom-React-renderer  
+  A 4-part that teaches how to build a React reconciler for React 16 that renders to a Word document
+  
   
 #### Implementation and Internals
 
@@ -180,6 +184,14 @@
    
 
 #### React Fiber
+  
+- **React v16.0**  
+  https://reactjs.org/blog/2017/09/26/react-v16.0.html  
+  The React team officially announces the release of React 16 and describes the new features, including returning arrays, error handling, better server-side rendering, and more.
+  
+- **React 16: A look inside an API-compatible rewrite**  
+  https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/  
+  The React team describes how they handled building and testing React 16 to be backwards compatible with existing code.
   
 - **ReactConf 2017: A Cartoon Intro to Fiber**  
   https://youtu.be/ZCuYPiUIONs  

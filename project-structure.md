@@ -87,7 +87,12 @@
   
 - **Decoupling Hierarchies for Maintainable Code**  
   https://medium.com/altschool-engineering/decoupling-hierarchies-for-maintainable-code-b13c24b2f047  
+  Some very interesting thoughts on how component structure, data flow, and folder structure can interact with each other.
   
 - **Writing Scalable React Apps with the Component Folder Pattern**  
   https://medium.com/styled-components/component-folder-pattern-ee42df37ec68  
   Describes a specific variation on "feature folders" that puts all files for a given component in a separate folder, as well as an approach for providing configurable component rendering with default behavior as a fallback.
+
+- **Fractal: A React app structure for infinite scale**  
+  https://hackernoon.com/fractal-a-react-app-structure-for-infinite-scale-4dab943092af  
+  

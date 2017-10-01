@@ -168,6 +168,10 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Which Array Function When?**  
   https://dev.to/andrew565/which-array-function-when  
   A great explanation of the differences between the various methods that can loop over arrays (`map`, `filter`, `reduce`, and `forEach`), and when you should use each one.
+  
+- **What is This in Javascript?**  
+  https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/  
+  An easy-to-read explanation of the different ways `this` can be defined in a function.
 
 
 #### Paid Courses and Books

@@ -52,6 +52,10 @@
 - **Getting Git**  
   https://gettinggit.com/  
   A paid video tutorial series that covers Git commands in detail, as well as everyday scenarios you might encounter while using Git
+  
+- **Learn Enough Git to Be Dangerous**  
+  https://www.learnenough.com/git-tutorial  
+  A tutorial that teaches practical use of Git basics, Github, and Git workflows.
 
 #### Tips and Useful Info
 

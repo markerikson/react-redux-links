@@ -52,10 +52,6 @@
   https://medium.com/@jamiedixon/how-to-treat-errors-as-first-class-citizens-in-flux-and-redux-fca7f3d5c02d  
   Discusses how the FSA structure expects actions to have an optional `error` field, and how to write code that deals with that.
 
-
-
-
-
   
 #### Other  
 

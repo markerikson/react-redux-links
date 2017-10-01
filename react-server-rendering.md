@@ -57,3 +57,8 @@
 - **Introducing Second: a framework for mostly-static React applications**  
   https://wildlyinaccurate.com/introducing-second-a-framework-for-mostly-static-react-applications/  
   Describes a new library for rendering static sites with React, with the ability to opt-in to "dehydrating" certain components on the client to make them interactive.
+  
+  
+- **Simple declarative Redux state with React Router 4 server side rendering**  
+  https://medium.com/@AlexFaunt/satisfying-your-apps-state-343118b0730d  
+  Demonstrates using a combination of React-Router 4 and a custom promise middleware to manage async data handling in an SSR React+Redux application. 

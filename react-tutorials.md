@@ -382,6 +382,11 @@ Also see the course sites listed in the [Community Resources](community-resource
   http://www.robinwieruch.de/the-road-to-learn-react/  
   A pay-what-you-want ebook that teaches a good foundation for React itself, including React component patterns, working with data (fetching, sorting, and filtering), unit testing, and more.  The author's blog posts are excellent, and this book is definitely recommended.
   
+- **Taming the State in React**  
+  https://www.robinwieruch.de/learn-react-redux-mobx-state-management/  
+  https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE  
+  A book and set of course material from the author of "The Road to Learn React", covering state management with setState, Redux, and MobX.  
+  
 - **Learn Pure React**  
   https://daveceddia.com/learn-pure-react/  
   A paid ebook that lays out a guided step-by-step process for learning React quickly and in the right order, with a focus on the fundamentals of React.

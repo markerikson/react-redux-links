@@ -2,6 +2,18 @@
 
 #### State Types and Data Flow
 
+- **A Visual Guide to State in React**  
+  https://daveceddia.com/visual-guide-to-state-in-react/  
+  Describes what "state" is, what kinds of data should be included into React state, and how state flow relates to component updates.
+  
+- **ReactJS: Props vs State**  
+  http://lucybain.com/blog/2016/react-state-vs-pros/  
+  Explains that "props" are data passed in to a component, while "state" is data managed inside a component.
+
+- **Props vs State**  
+  https://github.com/uberVU/react-guide/blob/master/props-vs-state.md
+  A quick summary of the differences between "props" and "state" in React components
+
 - **The 5 Types of React Application State**  
   http://jamesknelson.com/5-types-react-application-state/  
   Describes different categories of state: data, communication, control, session, and location
@@ -30,14 +42,6 @@
 - **Best Practices for Component State in React**  
   http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html  
   Some excellent suggestions and approaches for state handling and structure.
-  
-- **A Visual Guide to State in React**  
-  https://daveceddia.com/visual-guide-to-state-in-react/  
-  Describes what "state" is, what kinds of data should be included into React state, and how state flow relates to component updates.
-  
-- **ReactJS: Props vs State**  
-  http://lucybain.com/blog/2016/react-state-vs-pros/  
-  Explains that "props" are data passed in to a component, while "state" is data managed inside a component.
   
 - **React state management patterns**  
   http://vijayt.com/post/react-state-management-patterns/  

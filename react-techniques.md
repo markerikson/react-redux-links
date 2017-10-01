@@ -19,6 +19,10 @@
   https://www.robinwieruch.de/react-svg-patterns/  
   A tutorial that covers several aspects of using SVG in React, and demonstrates how to use the svg-patterns library to generate patterend backgrounds.
   
+- **Translating React Apps**  
+  https://tech.gadventures.com/translating-react-apps-99dede52d924  
+  Discusses how to use the React-Intl library to add translations to a React app
+  
 
 #### Security
 

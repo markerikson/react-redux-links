@@ -55,6 +55,10 @@
   http://engineering.teacherspayteachers.com/2017/08/02/why-we-chose-react-to-help-serve-millions-of-educators.html  
   The Teachers Pay Teachers team describes why they chose React to rebuild their UI, including the small API size, size of the community, battle-tested capabilities, and more.
   
+- **Why Redux is the Future of Angular 2 and React**  
+  https://rangle.io/resources/why-redux-future-of-angular-react/  
+  A webinar video from Rangle.io, discussing the benefits of functional components and Redux for state management, and how Redux can be used with both React and Angular.
+  
   
 #### Redux/Flux Comparisons
   
@@ -252,6 +256,12 @@ similar structures in ClojureScript.
 - **"Redux is overused. Use setState first unless you know why you need Redux"**  
   https://twitter.com/_jayphelps/status/846226930416345088  
   Jay Phelps, author of redux-observable, starts a long and involved Twitter thread about when it's appropriate to use Redux - use cases, app sizes, and reasons.  Lots of interesting opinions.
+  
+- **"Redux app size, boilerplate, and abstraction"**  
+  https://news.ycombinator.com/item?id=15341562  
+  https://news.ycombinator.com/item?id=15344600  
+  https://news.ycombinator.com/item?id=15344447
+  A long subthread of the "React 16" announcement post that discusses several aspects of Redux "boilerplate" and abstraction.  I answered a lot of questions about how Redux can and should be used, and there were actually some excellent comments about how Redux usage pays off for long-term app maintainability.
   
   
 #### React's PATENTS License

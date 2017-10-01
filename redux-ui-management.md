@@ -111,3 +111,8 @@
 - **Here's what you can do to make migrating your forms to Redux easier in the future**  
   https://goshakkk.name/prep-forms-for-redux/  
   Simple but useful advice on extracting form logic as reducer functions inside of classes
+  
+- **Forms with Redux Form v7**  
+  https://codeburst.io/forms-with-redux-form-v7-part-1-of-2-e636d760e9b4  
+  https://codeburst.io/forms-with-redux-form-v7-part-2-of-2-f44ffee4a34d  
+  An extensive tutorial on Redux-Form that covers a variety of topics, including basic setup, making reusable form components, styling, dynamic fields with dependencies, real-time validation, and more.
