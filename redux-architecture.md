@@ -190,7 +190,7 @@
   
 - **When to Define Action Creators in Redux**  
   https://daveceddia.com/redux-action-creators/  
-  An excellent overview of why action creators exist, why they’re worth using, and when you can skip them
+  An excellent overview of why action creators exist, why theyâ€™re worth using, and when you can skip them
   
 - **React Redux Design Lessons Learned**  
   http://www.jeremyzerr.com/sites/default/files/React-Redux-Design-Lessons-Learned.pdf  
@@ -344,10 +344,6 @@
 - **Instance Reducers**  
   http://www.thesoftwaresimpleton.com/blog/2016/12/20/instance-reducers/  
   An interesting approach to the "multiple instances of a connected component" problem.
-  
-- **Managing state for multiple component instances using React and Redux**  
-  https://medium.com/@mikefey/managing-state-for-multiple-component-instances-using-react-and-redux-623ef7448cbe  
-  Some useful examples illustrating the basic approach to storing data for individual reusable component instances in a Redux store
   
 - **How to use Redux on highly scalable Javascript applications?**  
   https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38  
