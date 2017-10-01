@@ -4,8 +4,8 @@
 - [Thinking in React](./thinking-in-react-and-flux.md): Articles discussing ways to think about React applications and component structure
 - **[React Implementation and Concepts](./react-implementation.md)**: Includes articles that explain the differences between "components", "elements", and "instances"
 <a id="higher-order-components"></a>
-<a id="functional-composition"></a>
-- **[React Component Composition](./react-component-composition.md)**: Articles explaining 3 distinct approaches when composing components
+<a id="composing-components-with-functional-programming"></a>
+- **[React Component Composition](./react-component-composition.md)**: Articles explaining ways to compose components, including Higher-Order Components, Function-as-Child / "render props", and other functional composition approaches
 
 
 #### Component Terms, Concepts, and Types
