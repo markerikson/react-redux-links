@@ -97,5 +97,6 @@
   https://hackernoon.com/fractal-a-react-app-structure-for-infinite-scale-4dab943092af  
 
 - **How to Organize a Large React Application and Make It Scale**  
-  https://www.sitepoint.com/organize-large-react-application/ . 
+  https://www.sitepoint.com/organize-large-react-application/
+  A simple approach to building and structuring large React applications
   
