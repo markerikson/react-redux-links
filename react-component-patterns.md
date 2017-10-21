@@ -27,21 +27,9 @@
   https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components-630fdfd90c9c  
   Clarifies the meaning of the terms, which are often used in overlapping ways.
   
-- **How to use Classes and Sleep at Night**  
-  https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4  
-  Some pragmatic opinions on when and how to use the ES6 "class" keyword, particularly in relation to React components.
-  
 - **Embracing Functions in React**  
   https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30  
-  A look at stateless functional components in React, and why they might be useful or should be considered in the first place.
-  
-- **React Stateless Functional Components: Nine Wins You Might Have Overlooked**  
-  https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc  
-  Thoughts on reasons why you might want to write more components using the functional syntax.
-
-- **How to declare React Components in 2017**  
-  https://medium.com/@npverni/how-to-declare-react-components-in-2017-2a90d9f7984c  
-  A quick overview of the three ways to declare React components, and which ones should be preferred.
+  A look at stateless functional components in React, and why they might be useful or should be considered in the first placee.
   
 - **Building User Interfaces with Pure Functions and Function Composition in React**  
   https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/  
@@ -50,6 +38,29 @@
 - **React Bits: React patterns, techniques, tips, and tricks**  
   https://github.com/vasanthk/react-bits  
   An extensive list of terms, concepts, patterns, and techniques for writing React components, with explanations and examples.  A few of the descriptions are overly opinionated and some items are not things the React team would recommend, but overall an excellent resource.
+  
+- **Simple React Patterns**  
+  http://lucasmreis.github.io/blog/simple-react-patterns/  
+  A clearly written set of examples that showcase common React component patterns like "container/presentational", "Higher-Order Components", "Function-as-Child" / "render props", and "providers".
+  
+
+#### Component Definition Approach Comparisons
+  
+- **How to use Classes and Sleep at Night**  
+  https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4  
+  Some pragmatic opinions on when and how to use the ES6 "class" keyword, particularly in relation to React components.
+  
+- **React Stateless Functional Components: Nine Wins You Might Have Overlooked**  
+  https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc  
+  Thoughts on reasons why you might want to write more components using the functional syntax.
+  
+- **7 Reasons to Outlaw React's Functional Components**  
+  https://medium.freecodecamp.org/7-reasons-to-outlaw-reacts-functional-components-ff5b5ae09b7c 
+  The author of the "Nine Wins" post gives some counter-arguments on why you might want to prefer writing class components instead of functional components.  Some good discussion in the comments.
+  
+- **How to declare React Components in 2017**  
+  https://medium.com/@npverni/how-to-declare-react-components-in-2017-2a90d9f7984c  
+  A quick overview of the three ways to declare React components, and which ones should be preferred.
   
 - **We Jumped the Gun Moving React Components to ES2015 Class Syntax**  
   https://medium.com/dailyjs/we-jumped-the-gun-moving-react-components-to-es2015-class-syntax-2b2bb6f35cb3  
@@ -267,6 +278,8 @@
 - **How do you separate React components?**  
   https://reactarmory.com/answers/how-should-i-separate-components  
   Describes four categories of React components ("view", "control", "controllers", and "containers"), and gives suggestions on when and how to factor out new components.
+  
+
   
 
 #### Wrapping Non-React Code

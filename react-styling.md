@@ -158,7 +158,9 @@
   https://medium.com/@tkh44/emotion-ad1c45c6d28b  
   The author of the Emotion library gives an overview of its principles, benchmarks, and uses.
 
-  
+- **With styled-components into the future**  
+  https://medium.com/styled-components/with-styled-components-into-the-future-d1d917e7c22c  
+  A talk transcript that discusses the history and future direction of the Styled-Components library, including how it works, improvements in v2, and plans for interoperability between CSS-in-JS libraries.
   
   
 #### Techniques and Examples

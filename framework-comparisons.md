@@ -9,6 +9,10 @@
 - **Comparing Frontend Approaches**  
   https://medium.com/@peterxjang/comparing-frontend-frameworks-part-1-introduction-6cf3d49e42cf  
   A series that builds the same notes app with jQuery, Vue, React, and Elm, and compares the pros and cons of the approaches.
+  
+- **Web Framework Comparisons**  
+  https://www.sitepen.com/blog/2017/06/13/if-we-chose-our-javascript-framework-like-we-chose-our-music/  
+  A 9-part series that compares Angular 2+, React+Redux, Vue, Ember, Dojo 2, and Aurelia.  Covers topics like UI development, UX design, foundational technologies, common usage, testing, and soundness.  The series is written by a company that works on Dojo, but the comparisons and descriptions are fair.
 
 
 #### React and Flux vs Backbone
@@ -28,3 +32,10 @@
 - **From Backbone to React (comments)**  
   https://news.ycombinator.com/item?id=8329837  
   Discussion on the previous article
+
+
+#### Migrating to React
+
+- **How to migrate an application from AngularJS to React and Redux**  
+  https://hackernoon.com/how-to-migrate-an-application-from-angularjs-to-react-and-redux-de0e2d1f70aa  
+  Recaps several useful techniques to use when migrating an Angular 1.x app to React and Redux, including moving the build to use Webpack, rendering React components inside of Angular directives, sharing dependencies, and integrating Redux into the application.

@@ -119,6 +119,10 @@
   https://twitter.com/rem/status/888361414070501376  
   A Twitter poll asking about people's preferences for handling async work in Redux.  The replies are interesting, and show a very wide variety of choices being used.
   
+- **Understanding redux-saga: from action creators to sagas**  
+  https://blog.logrocket.com/understanding-redux-saga-from-action-creators-to-sagas-2587298b5e71  
+  Some short examples comparing implementations of the same fetching logic inside a component, using redux-thunk, and using redux-saga.
+  
 
 #### Sagas
 
@@ -249,6 +253,14 @@
 - **When should I use a saga?**  
   https://medium.com/@felixclack/when-should-i-use-a-saga-708cb3c75e9a  
   Some quick rules of thumb for determining if building a saga is a good choice for a given feature.
+  
+- **Redux Saga: the Viking way to manage side effects**  
+  https://www.slideshare.net/nachomartin/redux-sagas-react-alicante  
+  A comprehensive slideset that covers many aspects of sagas, from basic concepts to use with complex workflows.
+  
+- **Detecting state changes with Redux-Saga**  
+  https://goshakkk.name/detect-state-change-redux-saga/  
+  Shows a simple but useful technique for running saga behavior based on state changes rather than just dispatched actions.
   
   
   

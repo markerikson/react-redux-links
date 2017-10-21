@@ -62,3 +62,15 @@
 - **Simple declarative Redux state with React Router 4 server side rendering**  
   https://medium.com/@AlexFaunt/satisfying-your-apps-state-343118b0730d  
   Demonstrates using a combination of React-Router 4 and a custom promise middleware to manage async data handling in an SSR React+Redux application. 
+  
+- **Server-side rendering with create-react-app**  
+  https://medium.com/@cereallarceny/server-side-rendering-with-create-react-app-fiber-react-router-v4-helmet-redux-and-thunk-275cb25ca972  
+  Demonstrates how to set up server-side-rendering with a standard CRA project to allow proper meta tags to be added without having to eject.  Includes sample code for creating an Express app that does the work.
+  
+- **React SSR**  
+  https://blog.eleven-labs.com/en/react-ssr/  
+  A step-by-step guide to setting up an SSR React app from scratch, including use of Redux.
+  
+- **Case study of SSR with React in a large e-commerce app**  
+  http://blog.jakoblind.no/case-study-of-ssr-with-react-in-a-large-e-commerce-app/  
+  A set of tips and lessons learned from implementing SSR in an existing React app over the course of several years, including some concrete implementation details.

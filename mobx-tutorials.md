@@ -82,6 +82,10 @@
   https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f  
   Michel Weststrate, author of MobX, introduces the MobX-State-Tree library, which builds on MobX to add additional useful capabilities.
   
+- **MobX (with Decorators) in create-react-app**  
+  https://www.robinwieruch.de/create-react-app-mobx-decorators/  
+  Covers how to use MobX in a CRA project, with and without decorators.
+  
 
 #### MobX and Redux Comparisons
 

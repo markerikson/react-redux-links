@@ -33,21 +33,7 @@
   
 #### JSX and Events
 
-- **How the JSX Transform Works**  
-  https://jaketrent.com/post/how-jsx-transform-works/  
-  A helpful explanation of how JSX tags are transformed into React elements, with example snippets
 
-- **JSX In Depth - an interactive tutorial**  
-  http://blog.klipse.tech/javascript/2016/12/14/jsx.html  
-  An interactive version of the "JSX in Depth" tutorial from the React docs
-  
-- **Events in React**  
-  https://www.kirupa.com/react/events_in_react.htm  
-  An introduction to React's event handling system, including useful tips and some gotchas
-  
-- **React events in depth**  
-  https://www.youtube.com/watch?v=dRo_egw7tBc  
-  A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
   
 
 #### Miniature React Implementations
@@ -87,7 +73,8 @@
   https://engineering.hexacta.com/didact-rendering-dom-elements-91c9aa08323b  
   https://engineering.hexacta.com/didact-instances-reconciliation-and-virtual-dom-9316d650f1d0  
   https://engineering.hexacta.com/didact-components-and-state-53ab4c900e37  
-  An ongoing series of articles showing how to build parts of React's API and implementation, like `createElement`.
+  https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec  
+  An ongoing series of articles showing how to build parts of React's API and implementation, like `createElement`, `setState`, and the "Fiber" reconciliation approach.
   
 - **deact: React under the hood**  
   https://github.com/lukebelliveau/deact  
@@ -208,6 +195,10 @@
 - **Top Resources to Explore React Fiber**  
   https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520  
   A helpful list of links to further articles and resources for learning about React Fiber
+  
+- **React Fiber for the rest of us**  
+  http://www.benmvp.com/slides/2017/reactboston/fiber.html#/  
+  Slides from Ben Ilegbodu's ReactBoston presentation, which summarize the changes in React 16.
   
 - **React Fiber Architecture**  
   https://github.com/acdlite/react-fiber-architecture  

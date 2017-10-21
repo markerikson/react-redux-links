@@ -268,6 +268,10 @@
 - **Tips for success with React and Redux**  
   https://medium.com/@AlexFaunt/tips-for-success-with-react-and-redux-b782c6b22ff0  
   Advice on how much of your React component tree should be connected to Redux, using non-HTML components to manage things like document titles, consistently using actions for app behavior, and moving app logic out of components.
+  
+- **Chart the Stock Market with React, Redux, React-Vis, and Socket.io**  
+  https://medium.com/@ddcreationstudi/chart-the-stock-market-with-react-redux-react-vis-and-socket-io-18caf312693c  
+  An overview of approaches used and lessons learned in writing a real-time stock market charting example app.  Not a tutorial specifically, but some useful ideas for structuring things.
 
 
 #### Encapsulation and Reusability

@@ -114,6 +114,10 @@
 - **React's Ecosystem as a flexible Framework**  
   https://www.robinwieruch.de/essential-react-libraries-framework/  
   Robin Wieruch discusses why React's "just the view" + "pick-and-choose libraries" approach is ultimately a good thing, and provides some opinionated decisions on good library choices for several categories such as app boilerplate, utility library, styling, AJAX requests, and more.
+  
+- **Making website building fun**  
+  https://www.gatsbyjs.org/blog/2017-10-16-making-website-building-fun/  
+  The author of the Gatsby static site generator discusses how creating the right building blocks can make development simpler and more fun, and gives examples of how specific React components can be those kinds of building blocks.
 
 
 #### React Best Practices
@@ -252,6 +256,9 @@
   https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/  
   An excellent list of principles to consider when designing React components, including single responsibility, encapsulation, reusability, testability, and meaning.
   
+- **8 Key React Component Decisions**  
+  https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594  
+  A list of important design decisions to consider when starting a React project, including use of a starter kit, preferred component definition approach, state management, styling, and more.
   
   
 #### React Architecture

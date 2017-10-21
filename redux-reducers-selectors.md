@@ -67,6 +67,10 @@
   https://hackernoon.com/a-small-trick-to-write-clean-reducers-a0b1b1eff3d2  
   Shows a contrived example of updating deeply nested state, and discusses use of `lodash/fp` to simplify the update logic instead.
   
+- **Dynamic Store Injection for Redux**  
+  https://docs.google.com/presentation/d/1JA9hhBgx9-k0sHO9UVSTiD1WTBvsZJ13cWIudUao9vE/edit#slide=id.gcb9a0b074_1_0  
+  A slideshow that demonstrates the basic approach for dynamically adding reducers at runtime.
+  
 
 #### Selectors and Normalization
 
@@ -160,3 +164,8 @@
 - **The only reducer you will ever need**  
   https://medium.com/riipen-engineering/the-only-reducer-you-will-ever-need-4dd41206f980  
   Demonstrates using Normalizr and seamless-immutable to write a generic entity merging reducer
+  
+- **How to use Normalizr to organize data in a Redux store**  
+  https://dashbouquet.com/blog/frontend-development/using-normalizr-to-organize-data-in-stores-practical-guide  
+  https://dashbouquet.com/blog/frontend-development/using-normalizr-to-organize-data-in-store-part-2  
+  A 2-part post with examples of normalizing nested data using Normalizr, using Redux-Saga to control the fetching logic, and denormalizing the data for use in the UI.

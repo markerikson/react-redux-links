@@ -162,6 +162,10 @@
   https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4  
   Introduces some new Webpack addons and changes that enable dynamic import expressions, including use with SSR.
   
+- **Using Redux Saga and code splitting to async load React components**  
+  https://gist.github.com/jballands/accc2ff19a3702685d469c612d6f0776  
+  A gist that demonstrates using sagas to drive the loading of React components as needed, with some discussion in the comments of the best way to handle those components once they're received by the app.
+  
   
 #### Bundle Sizes and Visualization
 
@@ -228,6 +232,11 @@
 - **Size Limit: Make the Web Lighter**  
   https://evilmartians.com/chronicles/size-limit-make-the-web-lighter  
   Demonstrates writing a tiny library that results in a 100KB Webpack bundle, and then walks through improving the Webpack settings to improve bundle size to only 17B.
+  
+- **Put Your Webpack Bundle On A Diet**  
+  https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/  
+  https://www.contentful.com/blog/2017/10/19/put-your-webpack-bundle-on-a-diet-part-2/  
+  A multi-part series that covers approaches for shrinking bundle size, ranging from simply using Webpack's -p flag up to advanced optimizations.
   
   
 #### Hot Module Replacement

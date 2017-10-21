@@ -142,6 +142,10 @@
   https://www.bignerdranch.com/blog/destroy-all-classes-turn-react-components-inside-out-with-functional-programming/  
   Demonstrates progressively refactoring a class component with logic into separate functional components, and then tying them together with Recompose
   
+- **A React journey: from vanilla, to type-safe, to monadic**  
+  https://medium.com/@giuseppemaggiore/a-react-journey-from-vanilla-to-type-safe-to-monadic-41beaa386910  
+  Demonstrates adding TypeScript to a JS React app for type-checking, then using a specialized library called Monadic-React to perform complex and type-safe composition of React components and logic.
+  
 
 #### Comparing Composition Approaches
 
@@ -166,3 +170,6 @@
    https://medium.com/alexkrolick/react-composition-patterns-from-the-ground-up-8401aaad93d7  
    Comparison of patterns such as Lifting State, Higher-Order Components, Render Callbacks, and "Renderless" State Providers, and how they relate to React's component model.
  
+- **Solving the problems of Higher Order Components without throwing the baby out with the bathwater**  
+  https://hackernoon.com/solving-the-problems-of-higher-order-components-without-throwing-the-baby-out-with-the-bathwater-40ddc72df5aa  
+  A response to some criticisms of HOCs, such as indirection and naming collisions, showing some ways to compose HOCs to avoid the issues.

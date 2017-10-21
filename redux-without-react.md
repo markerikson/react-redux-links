@@ -82,3 +82,6 @@
   https://blog.shazam.com/android-apply-redux-2ad0f7355e0  
   Discusses a Redux-inspired pattern for use with Android as an alternative to the MVP approach.
   
+- **Managing State in Aurelia: How to Use Aurelia with Redux**  
+  https://www.sitepoint.com/managing-state-aurelia-with-redux/  
+  Covers setting up a standard Aurelia app, adding Redux, and use of redux-undo with the example.

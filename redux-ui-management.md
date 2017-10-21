@@ -69,6 +69,10 @@
   https://medium.com/@peterxjang/a-functional-canvas-approach-with-redux-bab357d6c33c  
   Some simple examples of how to use Redux and vanilla JS canvas code to draw canvas-based UIs with minimal dependencies.
   
+- **React/Redux with Mapbox**  
+  https://medium.com/@mcculloughrt/react-redux-with-mapbox-78fa3767211e  
+  Useful techniques for driving the appearance and behavior of a Mapbox-based geospatial app from React and Redux.
+  
   
 #### Redux and Forms
 

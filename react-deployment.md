@@ -41,3 +41,6 @@
   https://daveceddia.com/multiple-environments-with-react/  
   Discusses strategies for handling deployments to dev/staging/prod-type environments, including configuration of API endpoints and feature flags.
   
+- **Deploy a React app with SASS using Nginx**  
+  http://zabana.me/notes/build-deploy-react-app-with-nginx.html  
+  Covers several important notes for adding SASS to an ejected CRA app, creating a deploy step using rsync, and setting up the Nginx web server to serve the app.

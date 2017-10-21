@@ -9,6 +9,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://facebook.github.io/react/docs/advanced-performance.html  
   https://facebook.github.io/react/docs/perf.html  
   The React doc pages on performance.  Describes the core concepts, including shouldComponentUpdate, using immutable data, and the Performance API for benchmarking.
+    
+- **React, Inline Functions, and Performance**  
+  https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578  
+  An excellent article Ryan Florence that pushes back against the "creating functions in render is slow" conventional wisdom in the React community.  This article is a must-read discussion on React performance.
   
 - **Performance Engineering with React**  
   http://benchling.engineering/performance-engineering-with-react/  
@@ -168,6 +172,7 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - **When to use Component or PureComponent**  
   https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81  
   Good advice on the potential benefits of using `PureComponent`, as well as several potential downsides or gotchas (such as binding functions in `render()`).
+
   
   
 #### Code Splitting and Progressive Apps
@@ -206,6 +211,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   https://medium.com/progressive-web-apps/react-progressive-web-apps-part-1-1cf381421672  
   https://medium.com/progressive-web-apps/react-progressive-web-apps-part-2-d55c6bd4b316  
   A pair of posts that cover how to set up an initial PWA and check its behavior against best practices, and how to add offline-first behavior to a React+Redux PWA. 
+  
+- **What profiling my Universal React-Redux app revealed**  
+  https://medium.com/@darioghilardi/what-profiling-a-universal-react-redux-app-revealed-c5cc4986353c  
+  Discusses using the Chrome DevTools to debug and do CPU profiling of a Node server process that was doing server-side rendering of a React app.
   
   
 #### Immutable Data

@@ -245,6 +245,10 @@
 - **Writing tests for redux-observable**  
   https://dev.to/julioolvr/writing-tests-for-redux-observable  
   Quick examples of how to set up tests for redux-observable epics.
+  
+- **End-to-end testing on a React-Redux app**  
+  https://medium.com/@darioghilardi/end-to-end-testing-on-a-react-redux-app-10f5a26f2f61  
+  Some high-level thoughts of how to best implement end-to-end testing in a way that works with React-Redux apps.  Discusses use of Cypress, real APIs vs mock APIs, and some Rails-specific setup. 
 
   
   

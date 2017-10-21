@@ -11,7 +11,7 @@
   Explains that "props" are data passed in to a component, while "state" is data managed inside a component.
 
 - **Props vs State**  
-  https://github.com/uberVU/react-guide/blob/master/props-vs-state.md
+  https://github.com/uberVU/react-guide/blob/master/props-vs-state.md  
   A quick summary of the differences between "props" and "state" in React components
 
 - **The 5 Types of React Application State**  

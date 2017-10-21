@@ -116,6 +116,10 @@
 - **Notes on Flow type checking in Javascript**  
   https://davidxmoody.com/2016/notes-on-flow-type-checking-in-javascript/  
   A variety of quick notes and snippets of Flow syntax for various use cases
+  
+- **Flow Fundamentals for JavaScript Developers**  
+  https://gist.github.com/busypeoples/61e83a1becc9ee9d498e0db324fc641b  
+  A JS file in a gist that provides a commented walkthrough of Flow concepts and syntax.
 
 
 #### React, Redux, and Static Types
