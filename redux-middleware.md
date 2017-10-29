@@ -77,3 +77,7 @@
 - **"Do I always need to return a value from a Redux middleware?"**  
   https://stackoverflow.com/questions/45964129/do-i-always-need-to-return-a-value-from-a-redux-middleware/45964310#45964310  
   My answer to a question about whether middleware should do `return next(action)`.  Short version: yes, always, unless you want to alter expected behavior.
+
+- **Digging into Redux middlewares, and exploring Redux-Thunk**  
+  https://medium.com/@shubhnik/digging-into-redux-middlewares-and-exploring-redux-thunk-588133b0bc04  
+  Understanding the middleware part of the redux system.  
