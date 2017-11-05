@@ -59,6 +59,10 @@
   https://rangle.io/resources/why-redux-future-of-angular-react/  
   A webinar video from Rangle.io, discussing the benefits of functional components and Redux for state management, and how Redux can be used with both React and Angular.
   
+- **Justifying React to the Business**  
+  https://daveceddia.com/react-business-value/  
+  Covers several reasons why using React is a good business decision, including ease of maintenance, long-term usefulness, and risk, with a summary of justifications.
+  
   
 #### Redux/Flux Comparisons
   

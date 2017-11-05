@@ -260,6 +260,10 @@
   https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594  
   A list of important design decisions to consider when starting a React project, including use of a starter kit, preferred component definition approach, state management, styling, and more.
   
+- **Is React SOLID?**  
+  https://dev.to/kayis/is-react-solid-630  
+  Looks at the SOLID architectural principles, and discusses how those apply to React components. 
+  
   
 #### React Architecture
 

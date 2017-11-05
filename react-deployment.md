@@ -44,3 +44,7 @@
 - **Deploy a React app with SASS using Nginx**  
   http://zabana.me/notes/build-deploy-react-app-with-nginx.html  
   Covers several important notes for adding SASS to an ejected CRA app, creating a deploy step using rsync, and setting up the Nginx web server to serve the app.
+  
+- **How to deploy a React application: an in depth overview of various options to deploy**  
+  https://codebrahma.com/deploy-react-application-depth-overview-various-options-deploy/  
+  A detailed look at what deployment for production means, what files are involved, how to properly build an app for production, and places to host a react app.

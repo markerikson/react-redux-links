@@ -1,7 +1,7 @@
 ### Redux Side Effects
 
 
-#### Basic Concepts and Thunks
+#### Basic Concepts
 
 - **Stack Overflow: Dispatching Redux Actions with a Timeout**  
   http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559  
@@ -27,13 +27,20 @@
   https://anyperk.engineering/im-lauren-and-i-m-a-frontend-apprentice-here-at-anyperk-a1a40106d231  
   A quick introduction to some of the libraries that can be used to manage asynchronous behavior in Redux.
   
+
+#### Thunks
+
+- **What the heck is a "thunk"?**  
+  https://daveceddia.com/what-is-a-thunk/  
+  A quick explanation for what the word "thunk" means in general, and for Redux specifically.
+
+- **Thunks in Redux: The Basics**  
+  https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60  
+  A detailed look at what thunks are, what they solve, and how to use them.
+  
 - **A Dummy's Guide to Redux and Thunk in React**  
   https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3  
   A tutorial that shows how to take a React component that does its own data fetching, and rework it to use accept data from Redux and use a thunk action creator instead.
-  
-- **What the heck is a "thunk"?**  
-  https://daveceddia.com/what-is-a-thunk/  
-  A quick explanation for what the word "thunk" means in general, and for Redux specifically..
   
 - **Understanding how redux-thunk works**  
   https://medium.com/@gethylgeorge/understanding-how-redux-thunk-works-72de3bdebc50  
@@ -50,6 +57,10 @@
 - **Returning promises from Redux action creators**  
   https://medium.com/collaborne-engineering/returning-promises-from-redux-action-creators-3035f34fa74b  
   Shows how returning a promise from a thunk action creator allows the caller to chain off the promise and execute code after the action creator is complete.
+  
+- **ReactCasts #10: Redux Thunk Tricks**  
+  https://www.youtube.com/watch?v=xihoZZU0gao  
+  An excellent screencast that covers three useful tips for use of redux-thunk: thunk return values, multi-dispatch, and when to use `getState`
   
   
 #### Side Effect Approach Comparisons
@@ -98,10 +109,6 @@
 - **Redux: Thunk vs Saga**  
   http://blog.jakegardner.me/redux-thunk-vs-saga/  
   A couple quick examples showing how to use thunks and sagas for the same task
-  
-- **ReactCasts #10: Redux Thunk Tricks**  
-  https://www.youtube.com/watch?v=xihoZZU0gao  
-  An excellent screencast that covers three useful tips for use of redux-thunk: thunk return values, multi-dispatch, and when to use `getState`
   
 - **Redux Thunks Dispatching Other Thunks - Discussion and Best Practices**  
   https://medium.com/@talkol/redux-thunks-dispatching-other-thunks-discussion-and-best-practices-dd6c2b695ecf  
@@ -261,6 +268,10 @@
 - **Detecting state changes with Redux-Saga**  
   https://goshakkk.name/detect-state-change-redux-saga/  
   Shows a simple but useful technique for running saga behavior based on state changes rather than just dispatched actions.
+  
+- **Common patterns with Redux-Saga**  
+  https://engineering.universe.com/common-patterns-with-redux-saga-ed68f89dfecf  
+  Examples of useful patterns for sagas, including running multiple requests in parallel, using the `race` keyword to time out requests, and using sagas to manage a queue of events.
   
   
   

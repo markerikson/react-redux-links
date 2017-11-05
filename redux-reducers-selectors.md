@@ -71,6 +71,10 @@
   https://docs.google.com/presentation/d/1JA9hhBgx9-k0sHO9UVSTiD1WTBvsZJ13cWIudUao9vE/edit#slide=id.gcb9a0b074_1_0  
   A slideshow that demonstrates the basic approach for dynamically adding reducers at runtime.
   
+- **State Snapshots with Redux**  
+  https://medium.com/@kyleshevlin/state-snapshots-with-redux-209884cca170  
+  Describes a useful technique for saving known state values and using those to reset or restore an earlier state.
+  
 
 #### Selectors and Normalization
 
@@ -169,3 +173,11 @@
   https://dashbouquet.com/blog/frontend-development/using-normalizr-to-organize-data-in-stores-practical-guide  
   https://dashbouquet.com/blog/frontend-development/using-normalizr-to-organize-data-in-store-part-2  
   A 2-part post with examples of normalizing nested data using Normalizr, using Redux-Saga to control the fetching logic, and denormalizing the data for use in the UI.
+  
+- **React + Reselect - Memoized Selectors for Efficient Rendering**  
+  https://spin.atomicobject.com/2017/10/24/react-reselect/  
+  Introduces the Reselect library for memoized selector functions, and describes how it can be used apart from Redux.
+  
+- **Introducing @ngrx/entity**  
+  https://medium.com/ngrx/introducing-ngrx-entity-598176456e15  
+  Describes an NgRX-based library for generating reducer operations and selectors for normalized entities.

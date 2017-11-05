@@ -87,6 +87,16 @@
   http://blog.jakoblind.no/real-world-higher-order-components-hocs/  
   Several useful examples of actual HOCs, such as adding a hidden prop, providing toggle functionality, and only showing a component if a feature flag is turned on.
   
+- **Composing React components through props transference**  
+  https://blog.echobind.com/composing-react-components-through-property-transference-d8bc2dbecef5  
+  Quick examples of how to use `React.children.map()` and `React.cloneElement()` to pass props onto arbitrary child elements.
+  
+- **Higher Order Components in React**  
+  https://www.sitepen.com/blog/2017/08/15/higher-order-components-in-react/  
+  Shows an example of a React app that needs to authenticate routes, and how a HOC can help handle that in a reusable way.  Also includes example HOCs for A/B-testing features, collecting metrics, and injecting props.
+  
+
+  
 
 #### Render Props/Function As Child
 
@@ -105,6 +115,14 @@
 - **Sharing stateful UI logic in React apps using Render Callback components**  
   https://trevordmiller.com/blog/react-render-callback-components  
   Examples of how to use the "render callback" / "function as a child" pattern to extract common logic for reuse.
+  
+- **Declarative Components in React**  
+  https://blog.echobind.com/declarative-components-in-react-b21ced9895b5  
+  Demonstrates ways to make reusable flexible components using the "function as a child" pattern. 
+  
+- **Upgrade your React.js HOC with renderProps**  
+  https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/  
+  Gives examples of how to adapt HOCs for use with the render props pattern.
   
 
 #### Functional Composition
@@ -173,3 +191,7 @@
 - **Solving the problems of Higher Order Components without throwing the baby out with the bathwater**  
   https://hackernoon.com/solving-the-problems-of-higher-order-components-without-throwing-the-baby-out-with-the-bathwater-40ddc72df5aa  
   A response to some criticisms of HOCs, such as indirection and naming collisions, showing some ways to compose HOCs to avoid the issues.
+  
+- **Randomness in React Props**  
+  https://medium.com/@joshuawcomeau/randomness-in-react-props-3929c1669f8b  
+  Demonstrates several approaches to structuring logic for generating values and passing them to children, including initialization in a constructor, creating a wrapper component, and using a function-as-a-child.

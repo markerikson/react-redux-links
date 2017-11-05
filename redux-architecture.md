@@ -272,6 +272,18 @@
 - **Chart the Stock Market with React, Redux, React-Vis, and Socket.io**  
   https://medium.com/@ddcreationstudi/chart-the-stock-market-with-react-redux-react-vis-and-socket-io-18caf312693c  
   An overview of approaches used and lessons learned in writing a real-time stock market charting example app.  Not a tutorial specifically, but some useful ideas for structuring things.
+  
+- **Growing Pains: Migrating Slack's Desktop App to BrowserView**  
+  https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b  
+  The Slack team discusses how they use Redux in an Electron app, including use of the `electron-redux` middleware for syncing actions between Redux stores in different Electron processes and use of `redux-observable` for managing side effects.
+  
+- **Redux: Architecting and scaling a new web app at the NY Times**  
+  https://www.youtube.com/watch?v=lI3IcjFg9Wk  
+  A talk from an NY Times developer describing how they scaled a React+Redux app to over a million users per month.
+  
+- **"React and Redux as a framework"**  
+  https://www.reddit.com/r/javascript/comments/747vx1/react_and_redux_as_a_framework/  
+  Useful discussion of where "business logic" should live in a Redux app, such as data fetching and transformation.
 
 
 #### Encapsulation and Reusability
@@ -440,3 +452,7 @@
 - **"Anyone using Redux with a render prop?"**  
   https://twitter.com/threepointone/status/913701233394900992  
   A Twitter thread discussing use of render props as an alternative to `connect`.  Includes a reply by Dan Abramov, who points out that this is how React-Redux originally worked, but it was changed to an HOC to better deal with side effects from state changes.
+  
+- **The joy of React+Redux with Elixir/OTP**  
+  https://limenius.com/elixir-otp-react-redux/  
+  Covers building a Redux-based client that receives update messages from an Elixir server.

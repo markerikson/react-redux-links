@@ -147,7 +147,8 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - **Optimizing React Rendering**  
   https://flexport.engineering/optimizing-react-rendering-part-1-9634469dca02  
   https://flexport.engineering/optimizing-react-rendering-part-2-7b2e9a9ea21f  
-  Discusses several aspects of improving React rendering performance, including tips for ensuring your codebase is ready to use `PureComponent`.  Has a link to further discussion on HN.  Part 2 describes how they built a library called `mutation-sentinel` to detect accidental mutations.
+  https://flexport.engineering/ending-the-debate-on-inline-functions-in-react-8c03fabd144  
+  Discusses several aspects of improving React rendering performance, including tips for ensuring your codebase is ready to use `PureComponent`.  Has a link to further discussion on HN.  Part 2 describes how they built a library called `mutation-sentinel` to detect accidental mutations, and Part 3 covers a Babel plugin for optimizing inline functions in render methods.
   
 - **Introducing react-wastage-monitor**  
   https://blog.listium.com/introducing-react-wastage-monitor-404565d679b2  

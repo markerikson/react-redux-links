@@ -162,6 +162,10 @@
   https://medium.com/styled-components/with-styled-components-into-the-future-d1d917e7c22c  
   A talk transcript that discusses the history and future direction of the Styled-Components library, including how it works, improvements in v2, and plans for interoperability between CSS-in-JS libraries.
   
+- **The performance of styled React components**  
+  http://blog.primehammer.com/2017/09/27/the-performance-of-styled-react-components/  
+  Benchmarks comparing size, build speed, and other aspects of different CSS-in-JS libraries.
+  
   
 #### Techniques and Examples
 

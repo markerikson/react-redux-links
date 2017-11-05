@@ -52,6 +52,11 @@
   https://dzone.com/articles/angular-form-validations-with-redux-for-multiple-r  
   Examples of setting up Redux-based form validation in an Angular app.
   
+- **Web app architecture based on Redux**  
+  http://devblog.ztp.pt/web-app-architecture-based-on-redux/  
+  https://medium.com/@akaztp/case-study-pt-2-implementing-redux-on-angular-9e79cd4faa37  
+  A series of posts describing a modular / layered architecture built around Redux, including a data layer for managing fetching, a business layer using RxJS Epics, and folder structure for Angular components.
+  
   
 #### Other
 

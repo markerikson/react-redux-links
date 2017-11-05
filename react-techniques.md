@@ -23,6 +23,10 @@
   https://tech.gadventures.com/translating-react-apps-99dede52d924  
   Discusses how to use the React-Intl library to add translations to a React app
   
+- **Lessons from migrating a large codebase to React 16**  
+  https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6  
+  An excellent post from the Discord team recapping how they migrated an older React codebase to work with React 16, including use of codemods, replacing private API usage, upgrading dependencies, and other issues they ran into.
+  
 
 #### Security
 

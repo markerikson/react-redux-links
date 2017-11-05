@@ -43,6 +43,10 @@
   http://lucasmreis.github.io/blog/simple-react-patterns/  
   A clearly written set of examples that showcase common React component patterns like "container/presentational", "Higher-Order Components", "Function-as-Child" / "render props", and "providers".
   
+- **React Component Patterns**  
+  https://medium.com/gitconnected/react-component-patterns-ab1f09be2c82  
+  A summary of common React component patterns with short examples.
+  
 
 #### Component Definition Approach Comparisons
   
@@ -216,6 +220,14 @@
   https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17  
   Some short examples of how to pass data between parents, children, and siblings.
   
+- **How to structure components in React?**  
+  https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546  
+  Compares multiple ways to pass data from a parent to a child, including no props, passing a value object, passing required props, passing a map of props, and using `children`.
+  
+- **Context 101**  
+  http://reactboston.surge.sh/#/  
+  Slides from Ken Wheeler's ReactBoston talk on React's `context` feature. Covers what context is, why you might want to use it, and when/ how to use it/
+  
 
 #### Component Categories
 
@@ -278,6 +290,10 @@
 - **How do you separate React components?**  
   https://reactarmory.com/answers/how-should-i-separate-components  
   Describes four categories of React components ("view", "control", "controllers", and "containers"), and gives suggestions on when and how to factor out new components.
+  
+- **Refactoring: Moving API calls to a higher-order component**  
+  https://medium.com/@guigonc/refactoring-moving-api-calls-to-a-higher-order-component-53062c086cb  
+  Shows how to progressively refactor fetching logic out of a component and move it into a parent component, then make that parent component reusable.
   
 
   
@@ -402,7 +418,7 @@
 - **Good React Modals**  
   https://medium.com/@elsdoerfer/good-react-modals-548cd9c2f7f4  
   Covers ways to handle issues with modal content not being rendered while doing animations, and side-loading data for a modal while maintaining a loading indicator.
-  
+ 
 
 #### Other Component Patterns
 

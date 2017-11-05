@@ -56,6 +56,11 @@
 - **Learn Enough Git to Be Dangerous**  
   https://www.learnenough.com/git-tutorial  
   A tutorial that teaches practical use of Git basics, Github, and Git workflows.
+  
+- **Git Magic**  
+  https://crypto.stanford.edu/~blynn/gitmagic/  
+  An extensive Git tutorial that teaches usage instructions first, and works its way up to advanced Git techniques and concepts.
+  
 
 #### Tips and Useful Info
 
@@ -102,6 +107,10 @@
 - **Git Cheat Sheet: Useful Commands, Tips and Tricks**  
   https://sentheon.com/blog/git-cheat-sheet.html  
   A large cheat sheet / reference for a variety of Git usage topics, including workflow, configuration, .gitignore syntax, different categories of commands, and more.
+  
+- **Git Flight Rules**  
+  https://github.com/k88hudson/git-flight-rules  
+  A guide for Git users about what to do when things go wrong.  Covers topics like editing commits, staging and unstaging files, fixing branches, rebasing/merging, and much more.
   
   
 ## Specific Techniques

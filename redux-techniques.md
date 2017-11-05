@@ -140,6 +140,10 @@
   https://hackernoon.com/evil-things-you-do-with-redux-dispatch-in-updating-lifecycle-methods-ad116de882d4  
   Thoughts on the pros and cons of dispatching Redux actions in React lifecycle methods, such as causing cascades of re-renders and updates in other components.
   
+- **Reducing Redux Boilerplate with redux-actions**  
+  http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html  
+  A short look at how the `redux-actions` lib can simplify the process of defining action type, action creators. and reducers.
+  
   
 #### Network Management
 

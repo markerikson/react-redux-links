@@ -133,6 +133,13 @@
   http://acco.io/a-practical-guide-to-testing-react-apps/  
   An excellent, comprehensive guide to React testing, covering some of the major tools, types of tests, how to write good React tests, and more. 
   
+- **Testing React Components** 
+  https://nerdblog.pl/post/166842840969/testing-react-components  
+  An extensive look at different ways to test React components using the Enzyme library.  Discusses Enzyme's shallow and full rendering methods, methods to inspect the contents of a component, and different forms of tests like snapshots, rendering tests, and behavior tests.
+  
+- **Creating a React Component using TDD**  
+  http://www.alayor.com/2017/Creating-a-React-Component-using-TDD  
+  Demonstrates writing a simple React component using the TDD "red-green" testing approach.
   
 #### Redux
 
@@ -240,6 +247,7 @@
   
 - **Test-Driven Development with React and Redux, using Redux TDD**  
   https://medium.freecodecamp.org/test-driven-development-with-react-and-redux-using-redux-tdd-3fd3be299918  
+  https://hackernoon.com/redux-tdd-a-deep-dive-344cd7682a54  
   Describes using a specific set of helper functions to drive testing the behavior and data flow of a React+Redux application.
   
 - **Writing tests for redux-observable**  
@@ -249,6 +257,14 @@
 - **End-to-end testing on a React-Redux app**  
   https://medium.com/@darioghilardi/end-to-end-testing-on-a-react-redux-app-10f5a26f2f61  
   Some high-level thoughts of how to best implement end-to-end testing in a way that works with React-Redux apps.  Discusses use of Cypress, real APIs vs mock APIs, and some Rails-specific setup. 
+  
+- **How to Snapshot Test Everything in Your Redux App with Jest**  
+  https://hackernoon.com/how-to-snapshot-test-everything-in-your-redux-app-with-jest-fde305ebedea  
+  Detailed examples of how to test React components, Redux reducers, connected components, and selectors using Jest snapshot tests.
+  
+- **Unit Testing React, Redux, Selectors, and Epics**  
+  https://codeburst.io/unit-testing-react-redux-selectors-and-epics-664e7b4798a8  
+  Quick examples of ways to different parts of a React+Redux app.
 
   
   
@@ -329,3 +345,11 @@
 - **Javascript unit testing frameworks: Comparing Jasmine, Mocha, AVA, Tape, and Jest**  
   https://raygun.com/blog/javascript-unit-testing-frameworks/  
   A useful comparison and summary of the major unit testing frameworks available
+  
+- **Effective Snapshot Testing**  
+  https://blog.kentcdodds.com/effective-snapshot-testing-e0d1a2c28eca  
+  Kent C Dodds looks at the pros and cons of using snapshot testing, and how to make snapshot tests more useful.
+  
+- **Write tests. Not too many. Mostly integration.**  
+  https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c  
+  Some short thoughts on the value of different kinds of tests, with extensive discussion in the comments.

@@ -200,6 +200,10 @@
   http://www.benmvp.com/slides/2017/reactboston/fiber.html#/  
   Slides from Ben Ilegbodu's ReactBoston presentation, which summarize the changes in React 16.
   
+- **What's new in React 16?**
+  https://www.robinwieruch.de/what-is-new-in-react-16/  
+  A very useful look at the new user-facing features in React 16, with code examples.
+  
 - **React Fiber Architecture**  
   https://github.com/acdlite/react-fiber-architecture  
   A description of React's new core algorithm, React Fiber
@@ -219,3 +223,4 @@
 - **A look inside React Fiber**  
   http://makersden.io/blog/look-inside-fiber/  
   Traces through the source code for React 16 / React Fiber, starting with the main `render()` function and diving down from there through the system.
+  

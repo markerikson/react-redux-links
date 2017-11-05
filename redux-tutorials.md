@@ -138,6 +138,18 @@
   https://www.sitepoint.com/redux-not-art-structuring-state-react-apps/  
   A pair of very readable tutorials for getting started with Redux.  The first introduces Redux's core concepts while building out a small shopping cart example, and the second describes how to transition from storing data using React's `setState` over to putting it in Redux instead, and gives examples of managing real-world form state with Redux.
   
+- **When do I know I'm ready for Redux?**  
+  https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f  
+  Walks through a typical process of scaling up a React application, and how Redux can help solve common pain points with data flow.  Has some really neat animated diagrams that illustrate how state updates interact with the React component tree.
+  
+- **What Does Redux Do? (and when should you use it?)**  
+  https://daveceddia.com/what-does-redux-do/  
+  An excellent summary of how Redux helps solve data flow problems in a React app.
+  
+- **4 ways to dispatch actions with Redux**  
+  https://blog.bam.tech/developper-news/4-ways-to-dispatch-actions-with-redux  
+  Describes different ways to dispatch actions from React components: directly passing the store, using `connect`, using sagas, and using the `bindActionCreators` utility.
+  
 
 #### Project-Based Tutorials
 

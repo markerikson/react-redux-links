@@ -308,3 +308,7 @@
 - **ES6 Modules in Node Today**  
   https://medium.com/web-on-the-edge/es-modules-in-node-today-32cff914e4b  
   John-David Dalton, author of Lodash, announces his new ES6 module loader, which enables ES module usage in Node right now. 
+  
+- **State of Modules in JavaScript**  
+  https://www.sitepen.com/blog/2017/10/26/state-of-modules-in-javascript/  
+  Covers the key features of ES modules, including basic syntax, syntax for importing/exporting/re-exporting, dynamic imports, debugging, bundling, and more.

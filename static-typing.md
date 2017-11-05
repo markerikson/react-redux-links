@@ -189,7 +189,7 @@
   https://www.silviogutierrez.com/blog/react-redux-and-typescript-typed-connect/  
   Discusses a simpler set of typings for the `connect` function and how to use them with React.
   
-- **A New Redux Action Pattern for TypeSCript 2.4+**  
+- **A New Redux Action Pattern for TypeScript 2.4+**  
   https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/  
   Describes how to use the new features in TS 2.4, such as string enums, to simplify defining types for Redux actions.
   
@@ -200,6 +200,13 @@
   https://www.triplet.fi/blog/react-higher-order-components-hoc-using-typescript/  
   Examples of how to properly write React HOCs in TypeScript, including adding types.
   
+- **React and TypeScript: The Basics**  
+  https://spin.atomicobject.com/2017/10/31/react-typescript-basics/  
+  Covers important questions you might have when using React and TypeScript together, including approaches for project setup, adding NPM packages, typing React components, using Redux, and more.
+  
+- **Typing Higher-Order Components in Recompose with Flow**  
+  https://medium.com/flow-type/flow-support-in-recompose-1b76f58f4cfc  
+  Describes some of the work needed to add Flow types for the Recompose library, and how to use Recompose, Flow, and React together.
 
 
 #### Advancing Typing Techniques
@@ -266,3 +273,11 @@
 - **Flow: What's the verdict?**  
   https://amplitude.engineering/flow-whats-the-verdict-9a458ecde27f  
   Thoughts on some pros and cons of using FLow, including dealing with code that doesn't have types, and several specific use cases the Amplitude team has run into.
+  
+- **Going Statically Typed with Flow**  
+  https://labs.contactually.com/going-statically-typed-with-flow-72626ed86cec  
+  Some thoughts on why Contactually opted to use Flow for their React+Redux app, including ease of integrating Flow into an existing app.
+  
+- **Typed JavaScript with TypeScript, Flow, and Elm**  
+  http://djcordhose.github.io/flow-vs-typescript/elm-flow-typescript.html#/  
+  A slideshow that discusses the benefits of using type systems, and looks at how TS, Flow, and Elm compare in several aspects.

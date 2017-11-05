@@ -79,6 +79,7 @@
   https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a  
   https://medium.com/@gcanti/slaying-a-ui-antipattern-with-flow-5eed0cfb627b  
   https://medium.com/@marsbergen/nice-pattern-for-redux-state-b8641b6ff9d1 
+  https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-react-64a3b98242c  
   Articles by different authors that demonstrate how to handle the common "loading/no data/data" issue with various static typing approaches and FP principles.
   
 - **Better data fetching with RemoteDataJS**  

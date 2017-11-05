@@ -166,6 +166,14 @@
   https://gist.github.com/jballands/accc2ff19a3702685d469c612d6f0776  
   A gist that demonstrates using sagas to drive the loading of React components as needed, with some discussion in the comments of the best way to handle those components once they're received by the app.
   
+- **Impress Your Friends with Code Splitting in React**  
+  https://hackernoon.com/impress-your-friends-with-code-splitting-in-react-9f9a3ca2ae6e  
+  Examples of using `async/await` and dynamic `import()` to lazy-load React components and display them after they're loaded.
+  
+- **ECMAScript Asychronicity - dynamic import**  
+  https://blog.eleven-labs.com/en/ecmascript-asynchronicity-dynamic-import/  
+  Recaps ES6 module behavior and use of Webpack's CommonsChunkPlugin, and describes how to lazy load code using `require.ensure` and the new dynamic `import()` capability.
+  
   
 #### Bundle Sizes and Visualization
 
@@ -236,6 +244,7 @@
 - **Put Your Webpack Bundle On A Diet**  
   https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/  
   https://www.contentful.com/blog/2017/10/19/put-your-webpack-bundle-on-a-diet-part-2/  
+  https://www.contentful.com/blog/2017/10/27/put-your-webpack-bundle-on-a-diet-part-3/  
   A multi-part series that covers approaches for shrinking bundle size, ranging from simply using Webpack's -p flag up to advanced optimizations.
   
   

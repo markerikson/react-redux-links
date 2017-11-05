@@ -74,3 +74,12 @@
 - **Case study of SSR with React in a large e-commerce app**  
   http://blog.jakoblind.no/case-study-of-ssr-with-react-in-a-large-e-commerce-app/  
   A set of tips and lessons learned from implementing SSR in an existing React app over the course of several years, including some concrete implementation details.
+  
+- **Scaling React Server-Side Rendering**  
+  http://arkwright.github.io/scaling-react-server-side-rendering.html  
+  A long, detailed look at how a team implemented React+Redux SSR on top of an existing monolithic application.  Includes discussion of many real-world issues experienced, such as load balancing and component caching.
+  
+- **Making CRA apps work with SSR**  
+  https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-1-8f5f813d510b  
+  https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-2-fb871868216e  
+  A 2-part post that shows how to add SSR to an ejected CRA app, including use of Redux.
