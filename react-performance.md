@@ -217,6 +217,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   https://medium.com/@darioghilardi/what-profiling-a-universal-react-redux-app-revealed-c5cc4986353c  
   Discusses using the Chrome DevTools to debug and do CPU profiling of a Node server process that was doing server-side rendering of a React app.
   
+- **Performance-tuning a React application**  
+  https://medium.com/@joshuawcomeau/performance-tuning-a-react-application-f480f46dc1a2  
+  An excellent case study on improving load time for a small React+Redux app.  Describes use of gzipping, image cropping, lazy loading, and more.
+  
   
 #### Immutable Data
 

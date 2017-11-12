@@ -150,6 +150,10 @@
   https://blog.bam.tech/developper-news/4-ways-to-dispatch-actions-with-redux  
   Describes different ways to dispatch actions from React components: directly passing the store, using `connect`, using sagas, and using the `bindActionCreators` utility.
   
+- **Introduction to Redux**  
+  https://www.kirupa.com/react/introduction_to_redux.htm  
+  A basic introduction to the ideas of storing data in Redux and dispatching actions to update that data.
+  
 
 #### Project-Based Tutorials
 
@@ -265,6 +269,14 @@
 - **Building Tesla's Battery Range Calculator with React+Redux**  
   https://medium.freecodecamp.org/building-teslas-battery-range-calculator-with-react-part-2-redux-version-2ffe29018eec  
   Follows the "plain React" version in Part 1 by introducing basic Redux concepts, and modifying the original version to use Redux for managing state.
+  
+- **NodeJS React-Redux Tutorial**  
+  http://www.darrenbeck.co.uk/nodejs/react/reacttutorial-part1/  
+  A multi-part tutorial that covers building a news app with React, Redux, and a Node API server using MongoDB, as well as setting up JWT-based authentication.
+  
+- **Simple Redux Create Delete Contact Application**  
+  https://appdividend.com/2017/11/02/simple-redux-create-delete-contact-application/  
+  Demonstrates building a simple client-side contact list app
 
 
 #### Redux Implementation Walkthroughs

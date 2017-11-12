@@ -284,6 +284,14 @@
 - **"React and Redux as a framework"**  
   https://www.reddit.com/r/javascript/comments/747vx1/react_and_redux_as_a_framework/  
   Useful discussion of where "business logic" should live in a Redux app, such as data fetching and transformation.
+  
+- **How to approach making changes to an existing React-Redux application**  
+  https://gautamdhameja.com/how-to-approach-making-changes-to-an-existing-react-redux-application-ae00482c0f9a  
+  A clear suggested order of steps to follow when adding new functionality to a React+Redux app.
+  
+- **Tips for Redux**  
+  https://www.yihangho.com/tips-for-redux/  
+  Some excellent tips for working with Redux, including designing the state tree, dealing with side effects, implementing optimistic updates, and more.
 
 
 #### Encapsulation and Reusability
@@ -452,6 +460,16 @@
 - **"Anyone using Redux with a render prop?"**  
   https://twitter.com/threepointone/status/913701233394900992  
   A Twitter thread discussing use of render props as an alternative to `connect`.  Includes a reply by Dan Abramov, who points out that this is how React-Redux originally worked, but it was changed to an HOC to better deal with side effects from state changes.
+  
+- **"Redux Connect as render props" discussion**  
+  https://news.ycombinator.com/item?id=15427954  
+  https://twitter.com/mjackson/status/915335846324092930  
+  A couple of discussion threads looking at the recent popularity of of experiments with `connect` as a render prop.
+  
+- **Kea: A High Level Abstraction between React and Redux**  
+  https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02  
+  https://survivejs.com/blog/kea-interview/  
+  An article by the author of the Kea library discussing how it makes it easier to use React and Redux together, and an interview with the author discussing the history and usage of the library.
   
 - **The joy of React+Redux with Elixir/OTP**  
   https://limenius.com/elixir-otp-react-redux/  

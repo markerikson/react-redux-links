@@ -27,6 +27,14 @@
   https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6  
   An excellent post from the Discord team recapping how they migrated an older React codebase to work with React 16, including use of codemods, replacing private API usage, upgrading dependencies, and other issues they ran into.
   
+- **React UI Frameworks, Compared**  
+  https://gather.engineering/react-ui-frameworks-compared-dd631eb5c982  
+  A list of available React UI frameworks, with reviews and comparisons on breadth of components, quality, project health, and more.  Includes Ant Design, PrimeReact, Office UI Fabric, Blueprint, React UI, Semantic UI React, ExtReact, and Kendo React UI.
+  
+- **Creating react-editables: How to build a set of reusable React components**  
+  https://medium.com/@niwaa/creating-react-editables-how-to-build-a-set-of-reusable-react-components-with-an-hoc-and-write-7a685947a992  
+  Looks at the steps needed to create a set of reusable React components and publish them to NPM.  Includes extended thoughts on component design for reusability.
+  
 
 #### Security
 

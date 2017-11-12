@@ -138,6 +138,10 @@
 - **Visualize Merge History with git log --graph, --first-parent, and --no-merges**  
   https://redfin.engineering/visualize-merge-history-with-git-log-graph-first-parent-and-no-merges-c6a9b5ff109c  
   Describes issues with using `git log` to visualize history, and some arguments that can be used to give a potentially better picture of what's actually happened.
+  
+- **How to undo (almost) anything with Git**  
+  https://github.com/blog/2019-how-to-undo-almost-anything-with-git  
+  Instructions for undoing and redoing changes in various scenarios.
 
 
 #### E-Books

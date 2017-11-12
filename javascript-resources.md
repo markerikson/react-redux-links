@@ -10,6 +10,9 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript  
   Mozilla maintains a fantastic set of developer resources for Web technologies, including a comprehensive reference to the Javascript language and a number of associated tutorials.  Their "reintroduction to Javascript" article is a great overview of what the language looks like.
   
+- **Modern JS Cheatsheet**  
+  https://github.com/mbeaudru/modern-js-cheatsheet  
+  An extensive list of explanations for syntax and concepts used in modern JS applications
   
 - **Eric Elliott's Javascript Resource Lists**  
   https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e  

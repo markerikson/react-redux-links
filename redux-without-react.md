@@ -57,6 +57,10 @@
   https://medium.com/@akaztp/case-study-pt-2-implementing-redux-on-angular-9e79cd4faa37  
   A series of posts describing a modular / layered architecture built around Redux, including a data layer for managing fetching, a business layer using RxJS Epics, and folder structure for Angular components.
   
+- **NgRx Antipatterns**  
+  http://brianflove.com/2017/11/01/ngrx-anti-patterns/  
+  Examples of some ways to improve poor NgRx usage patterns.
+  
   
 #### Other
 
@@ -90,3 +94,7 @@
 - **Managing State in Aurelia: How to Use Aurelia with Redux**  
   https://www.sitepoint.com/managing-state-aurelia-with-redux/  
   Covers setting up a standard Aurelia app, adding Redux, and use of redux-undo with the example.
+  
+- **Coupling a Stencil TODO app with Redux**  
+  https://www.javascripttuts.com/coupling-a-stencil-todo-app-with-redux/  
+  A tutorial that updates an existing Stencil Todo app to use Redux

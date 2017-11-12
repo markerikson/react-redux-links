@@ -51,6 +51,10 @@
 - **How to treat Errors as first-class citizen in Flux (and Redux)**  
   https://medium.com/@jamiedixon/how-to-treat-errors-as-first-class-citizens-in-flux-and-redux-fca7f3d5c02d  
   Discusses how the FSA structure expects actions to have an optional `error` field, and how to write code that deals with that.
+  
+- **Redux in Action: Using the Redux DevTools**  
+  https://www.slideshare.net/ManningBooks/redux-in-action-learn-to-manage-and-consolidate-state  Some slides from the authors of the book "Redux in Action", explaining what the Redux DevTools are, how to set them up, and how to use them to view dispatched actions and debug state changes
+  
 
   
 #### Other  
@@ -130,7 +134,8 @@
 - **VR Redux / ReactVR Redux Revisited**  
   http://jimpurbrick.com/2017/01/04/vr-redux/  
   http://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/  
-  A pair of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
+  http://jimpurbrick.com/2017/11/10/replaying-replicated-redux/  
+  A set of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
   
 - **Using dynamic localization to improve accessibility with React and Redux**  
   https://medium.com/checkr/using-dynamic-localization-to-improve-accessibility-with-react-and-redux-7650878af6ef  
@@ -143,6 +148,26 @@
 - **Reducing Redux Boilerplate with redux-actions**  
   http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html  
   A short look at how the `redux-actions` lib can simplify the process of defining action type, action creators. and reducers.
+  
+- **Redux and JSON Schema**  
+  https://blog.prismatik.com.au/redux-and-json-schema-c63368931143  
+  Short discussion of the overall benefits of using JSON Schema to define data structures, and a Redux library that helps use those for Redux.
+  
+- **Reducing Redux: avoiding boilerplate with redux-scc**  
+  https://medium.com/onfido-tech/reducing-redux-avoiding-boilerplate-with-redux-scc-b72c80c338e5  
+  https://medium.com/onfido-tech/redux-scc-update-combined-actions-and-custom-types-ce346ea91e85  Looks at how the redux-scc library allows building "store chunks", which simplify the amount of work needed to define and update a Redux store.
+  
+- **Redux Action Creator Creators**  
+  https://hackernoon.com/redux-action-creator-creators-6684b051d4c6  
+  An example of using functions that take additional arguments, and using those to generate action creators.  Includes example of using this to add analytics and promises to actions.
+  
+- **The only action you will ever need**  
+  https://medium.com/riipen-engineering/the-only-action-you-will-ever-need-f3a42661d2dd  
+  Looks at creating a reusable "fetch" action creator that can be customized to generate fetching logic for different REST API endpoints.
+  
+- **Redux mapStateToProps and mapDispatchToProps Shorthand**  
+  https://medium.com/@atomarranger/redux-mapstatetoprops-and-mapdispatchtoprops-shorthand-67d6cd78f132  
+  A quick example of the "object shorthand" supported by `connect` for `mapDispatch`, and use of Reselect's `createStructuredSelector` for equivalent behavior of `mapState`.
   
   
 #### Network Management

@@ -83,3 +83,7 @@
   https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-1-8f5f813d510b  
   https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-2-fb871868216e  
   A 2-part post that shows how to add SSR to an ejected CRA app, including use of Redux.
+  
+- **You might (not) need a Server Side Rendering Framework**  
+  https://adrienharnay.me/you-might-not-need-a-server-side-rendering-framework/  
+  Discusses building a home-grown SSR setup using Webpack, rather than reusing something like Next.js.

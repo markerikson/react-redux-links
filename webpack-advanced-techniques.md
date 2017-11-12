@@ -102,6 +102,10 @@
   https://www.viget.com/articles/unpacking-the-mysteries-of-webpack-a-novices-journey  
   Recaps some high-level Webpack terms and concepts, and walks through several changes to speed up compilation and improve bundle size.
   
+- **To ship less code, write transpiler-aware Javascript**  
+  https://medium.com/@jbartos/to-ship-less-code-write-transpiler-aware-javascript-a56250296760  
+  Tips for improving bundle size by using syntax supported natively by browsers, as well as other techniques for improving bundle output.
+  
   
   
 #### Code Splitting and Chunking
@@ -405,6 +409,9 @@
   https://medium.com/webmonkeys/webpack-2-semantic-ui-theming-a216ddf60daf  
   Discusses how to configure Webpack to load Semantic-UI's LESS files to allow use of a custom theme.
   
+- **Webpack: Creating dynamically named outputs for wildcarded entry files**  
+  https://medium.com/@sanjsanj/webpack-creating-dynamically-named-outputs-for-wildcarded-entry-files-9241f596b065  
+  Demonstrates a useful technique for collecting files based on globbing, and generating Webpack entry definitions from those files.
 
   
 #### Webpack Tools

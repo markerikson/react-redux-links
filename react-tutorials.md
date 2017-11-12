@@ -135,6 +135,9 @@
   https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-10-reacting-to-what-weve-learned-633ac18469ba  
   A 10-part series that explains React (and many web dev concepts) from the ground up, with simple terms and lots of metaphors.  Aimed at absolute beginners.
 
+- **Intro to React**  
+  https://www.writesoftware.org/topic/react  
+  A short tutorial series that introduces basic React concepts like JSX, components, props, state, and events.
   
 
 #### React Concept Overviews
@@ -351,6 +354,14 @@
 - **Build a Metronome in React**  
   https://daveceddia.com/build-metronome-react/  
   An easy-to-follow, step-by-step tutorial that demonstrates key concepts like loading data, initializing state, and handling input changes.
+  
+- **Microservices with Docker, Flask, and React**  
+  https://testdriven.io/part-one-intro/  
+  A large multi-part tutorial covers setting up a dev environment using Docker containers, building a REST API server with the Python Flask framework, building a UI with React, and deploying it all to Amazon EC2.
+  
+- **Create a Spreadsheet using React**  
+  https://www.writesoftware.org/tutorial/react-spreadsheet  
+  An excellent tutorial that shows how to build a miniature spreadsheet app using React
   
   
 #### Paid Courses and Books

@@ -278,3 +278,7 @@
 - **Three Example React Stacks**  
   http://andrewhfarmer.com/three-example-react-stacks/  
   Descriptions of three different application/deployment scenarios, and example React library+tool stacks that would be appropriate for each.
+  
+- **Reusable Web Application Strategies: three patterns for running the same app in multiple spots**  
+  https://medium.freecodecamp.org/reusable-web-application-strategies-d51517ea68c8  
+  Looks at how to run an app in reusable ways via iframes, reusable app components, and reusable UI components.

@@ -34,6 +34,13 @@
 - **Offline-First Apps with React Native and Redux**  
   http://rationalappdev.com/offline-first-apps-with-react-native-and-redux/  
   A tutorial that builds out a cat GIF app using React Native, Redux, Node, and Express, and includes offline support.
+  
+- **Let's Build: Cryptocurrency Native Mobile App with React Native + Redux**  
+  https://medium.com/react-native-training/bitcoin-ripple-ethereum-price-checker-with-react-native-redux-e9d076037092  
+  https://medium.com/@wesharehoodies/tutorial-react-native-redux-native-mobile-app-for-tracking-cryptocurrency-bitcoin-litecoin-810850cf8acc  
+  https://medium.com/@wesharehoodies/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iii-a454dda156b  
+  https://medium.com/@wesharehoodies/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iv-b0e0c5ca2dca  
+  A 4-part tutorial series that shows how to set up a React Native project, add Redux, fetch data with Redux, and display that data with React.
 
   
 #### Specific aspects
@@ -88,3 +95,12 @@
 - **How we restructured our app with React-Navigation**  
   https://m.oursky.com/how-we-restructured-our-app-with-react-navigation-98a89e219c26  
   Describes some of the history of the React-Navigation library, and shows some examples of how to use it with Redux and make a Higher-Order Component to work with it.
+  
+- **A comprehensive guide for integrating React-Navigation with Redux including authentication flow**  
+  https://medium.com/@shubhnik/a-comprehensive-guide-for-integrating-react-navigation-with-redux-including-authentication-flow-cb7b90611adf  
+  An extended tutorial that demonstrates connecting React-Navigation and Redux, and shows how to implement an authentication workflow.
+  
+- **A Year of React Native: Styling**  
+  https://madebymany.com/stories/a-year-of-react-native-styling-part-1  
+  https://madebymany.com/stories/a-year-of-react-native-styling-part-2  
+  Looks at ways that styling in RN differs from styling on the web, and useful patterns for organizing styling logic in RN apps.

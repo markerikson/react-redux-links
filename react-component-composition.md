@@ -124,6 +124,15 @@
   https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/  
   Gives examples of how to adapt HOCs for use with the render props pattern.
   
+- **Use a Render Prop!**  
+  https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce  
+  https://news.ycombinator.com/item?id=15651808  
+  Michael Jackson describes why he gave his "Never Write Another HOC" talk, looks at some of the problems with both mixins and HOCs, and how render props can help solve those.  There's some related discussion in the HN comments.
+  
+- **How to give rendering control to users with prop getters**  
+  https://blog.kentcdodds.com/how-to-give-rendering-control-to-users-with-prop-getters-549eaef76acf  
+  Kent C Dodds describes how "prop getter" functions can be used with render props to provide more control over how rendering behavior is hooked together.
+  
 
 #### Functional Composition
 
@@ -164,6 +173,10 @@
   https://medium.com/@giuseppemaggiore/a-react-journey-from-vanilla-to-type-safe-to-monadic-41beaa386910  
   Demonstrates adding TypeScript to a JS React app for type-checking, then using a specialized library called Monadic-React to perform complex and type-safe composition of React components and logic.
   
+- **Using Recompose to build higher-order components**  
+  https://blog.bigbinary.com/2017/09/12/using-recompose-to-build-higher-order-components.html  
+  Examples of refactoring components using the Recompose library, including use of `branch` and `compose`.
+  
 
 #### Comparing Composition Approaches
 
@@ -195,3 +208,4 @@
 - **Randomness in React Props**  
   https://medium.com/@joshuawcomeau/randomness-in-react-props-3929c1669f8b  
   Demonstrates several approaches to structuring logic for generating values and passing them to children, including initialization in a constructor, creating a wrapper component, and using a function-as-a-child.
+  

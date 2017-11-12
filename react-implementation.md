@@ -168,6 +168,10 @@
   https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b  
   https://medium.com/@asolove/preact-internals-3-some-fiddly-little-bits-f353b1ad7abc  
   A 3-part series that dives into the implementation and concepts of the Preact library codebase.
+  
+- **An Interview with the React Team About Wordpress and Project Gutenberg**  
+  https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/  
+  A Wordpress community site interviews Dan Abramov, Andrew Clark, and Sophie Alpert about a variety of topics, including how they prioritize features, how React is tested, dealing with breaking changes, downsides of React, and aspects of Wordpress using React for its "Project Gutenberg" tool.
    
 
 #### React Fiber

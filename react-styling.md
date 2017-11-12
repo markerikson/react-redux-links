@@ -30,6 +30,10 @@
   https://github.com/FarhadG/ui-react  
   A free online book that teaches how to modular, extendable, and scalable component-based UIs.  Covers best practices, and techniques like CSS preprocessors, CSS modules, inline styles, and more.  Chapters available to read for free on Github, and the Leanpub book can be picked up for free as well.
   
+- **All You Need To Know About CSS-in-JS**  
+  https://medium.com/@wesharehoodies/all-you-need-to-know-about-css-in-js-984a72d48ebc  
+  A clear summary of the differences between "inline styles" and "CSS-in-JS", the pros and cons of using CSS-in-JS, and quick examples of using some of the most popular CSS-in-JS libraries.
+  
 
 #### Components and Styling
   

@@ -39,3 +39,11 @@
 - **How to migrate an application from AngularJS to React and Redux**  
   https://hackernoon.com/how-to-migrate-an-application-from-angularjs-to-react-and-redux-de0e2d1f70aa  
   Recaps several useful techniques to use when migrating an Angular 1.x app to React and Redux, including moving the build to use Webpack, rendering React components inside of Angular directives, sharing dependencies, and integrating Redux into the application.
+  
+- **Octopus Deploy 4.0 - Why we chose React over Angular when rewriting the Octopus 4.0 UI**  
+  https://octopus.com/blog/octopus-v4-angular-to-react  
+  Thoughts on how their original Angular 1 app had become unmaintainable, why they picked React, use of TypeScript, and how they approached architecting the React version.
+  
+- **AngularJS migration to React/Redux**  
+  https://hashnode.com/post/angularjs-migration-to-reactredux-cj7t0m67x012ehowugcvjn1xj  
+  Examples of how to approach migrating an Angular 1 app by first switching some components to use React, then adding state management to use Redux.

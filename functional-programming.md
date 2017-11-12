@@ -162,3 +162,15 @@
 - **Higher Order Functions and Redux Thunk**  
   https://medium.com/@joedski/higher-order-functions-and-redux-thunk-1e5983ae6b03  
   An exploration of ways to wrap behavior around thunks, including composing functions together.
+
+- **Functional Programming Jargon**  
+  https://functional.works-hub.com/blog/Functional-Programming-Jargon  
+  A large list of functional programming terms, with explanations for each and examples of those terms using JS
+  
+- **Awesome FP JS**  
+  https://github.com/stoeffel/awesome-fp-js  
+  A collection of links to libraries, tools, and resources for FP usage in JS
+  
+- **Currying vs Partial Application**  
+  http://www.datchley.name/currying-vs-partial-application/  
+  A great explanation of the difference between "currying" functions and "partially applying" them

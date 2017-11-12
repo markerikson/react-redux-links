@@ -47,6 +47,10 @@
   https://medium.com/gitconnected/react-component-patterns-ab1f09be2c82  
   A summary of common React component patterns with short examples.
   
+- **10 React mini-patterns**  
+  https://hackernoon.com/10-react-mini-patterns-c1da92f068c5  
+  Ten useful patterns for working with React components, including data flow, techniques for working with inputs, controlling CSS usage, switching between components, and more.
+  
 
 #### Component Definition Approach Comparisons
   
@@ -295,6 +299,10 @@
   https://medium.com/@guigonc/refactoring-moving-api-calls-to-a-higher-order-component-53062c086cb  
   Shows how to progressively refactor fetching logic out of a component and move it into a parent component, then make that parent component reusable.
   
+- **The React + Redux Container Pattern**  
+  https://dev.to/sophiedebenedetto/the-react--redux-container-pattern-bmk  
+  An excellent explanation of what "container components" and "presentational components" are, with discussion of how they fit together and a good sample project implementing the ideas.
+  
 
   
 
@@ -418,6 +426,10 @@
 - **Good React Modals**  
   https://medium.com/@elsdoerfer/good-react-modals-548cd9c2f7f4  
   Covers ways to handle issues with modal content not being rendered while doing animations, and side-loading data for a modal while maintaining a loading indicator.
+  
+- **Using a React 16 Portal to do something cool**  
+  https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202  
+  Demonstrates using React 16's `createPortal` API to control a separate browser window from the original React component tree.
  
 
 #### Other Component Patterns

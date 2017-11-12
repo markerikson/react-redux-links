@@ -353,3 +353,7 @@
 - **Write tests. Not too many. Mostly integration.**  
   https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c  
   Some short thoughts on the value of different kinds of tests, with extensive discussion in the comments.
+  
+- **Stubbing HTTP Reqeusts with Sinon**  
+  http://mherman.org/blog/2017/11/06/stubbing-http-requests-with-sinon/  
+  An extensive tutorial that discusses the benefits of stubbing behavior in tests, setting up Mocha+Chai+Sinon, and using Sinon's stub functions in integration and unit tests.

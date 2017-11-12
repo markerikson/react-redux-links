@@ -130,6 +130,10 @@
   https://blog.logrocket.com/understanding-redux-saga-from-action-creators-to-sagas-2587298b5e71  
   Some short examples comparing implementations of the same fetching logic inside a component, using redux-thunk, and using redux-saga.
   
+- **Polling with Redux**  
+  https://bigbitecreative.com/polling-with-redux/  
+  Compares implementations of a polling loop between redux-saga and redux-observable
+  
 
 #### Sagas
 
@@ -273,6 +277,10 @@
   https://engineering.universe.com/common-patterns-with-redux-saga-ed68f89dfecf  
   Examples of useful patterns for sagas, including running multiple requests in parallel, using the `race` keyword to time out requests, and using sagas to manage a queue of events.
   
+- **States and React: step-by-step user interaction with state machines**  
+  https://sandstorm.de/de/blog/post/states-and-react-step-by-step-user-interaction-with-state-machines.html  
+  Demonstrates managing "snackbar" popup notifications using sagas to show and hide the popups
+  
   
   
 #### Other Side Effect Approaches
@@ -304,3 +312,7 @@
 - **How to make your React app fully functional, fully reactive, and able to handle all those crazy side effects**  
   https://medium.freecodecamp.org/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10  
   A lengthy look at Cycle.js and the redux-cycles library, with plenty of diagrams to illustrate how it handles data flow.
+  
+- **Using redux-observable to handle asynchronous logic in Redux**  
+  https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522  
+  An extended post that compares a thunk-based implementation of handling a line-drawing example vs an observable-based implementation.

@@ -207,6 +207,18 @@
 - **Typing Higher-Order Components in Recompose with Flow**  
   https://medium.com/flow-type/flow-support-in-recompose-1b76f58f4cfc  
   Describes some of the work needed to add Flow types for the Recompose library, and how to use Recompose, Flow, and React together.
+  
+- **Type-safe React + Redux: Eliminating the 'any' type**  
+  https://medium.com/@joeldalley/type-safe-react-redux-eliminating-the-any-type-dad21ebd3cd5  
+  Examples of declaring types for data modeling, Redux actions and reducers, Redux-Observable epics, and React components.
+  
+- **Redux and Flow-type - getting the maximum benefit from the fewest key strokes**  https://hackernoon.com/redux-flow-type-getting-the-maximum-benefit-from-the-fewest-key-strokes-5c006c54ec87  
+  Discussion of how Flow's type inference can be used to reduce duplication of type declarations for actions.
+  
+- **How to Reduce Action Boilerplate**  
+  https://blog.angularindepth.com/how-to-reduce-action-boilerplate-90dc3d389e2b  
+  Looks at how TypeScript is normally used with Redux, including "narrowing" actions with type guards and discriminated unions, and looks at ways different libraries use narrowing to help generate actions in a type-safe way.
+  
 
 
 #### Advancing Typing Techniques
@@ -281,3 +293,7 @@
 - **Typed JavaScript with TypeScript, Flow, and Elm**  
   http://djcordhose.github.io/flow-vs-typescript/elm-flow-typescript.html#/  
   A slideshow that discusses the benefits of using type systems, and looks at how TS, Flow, and Elm compare in several aspects.
+  
+- **Flow and TypeScript**  
+  https://engineering.tumblr.com/post/165261504692/flow-and-typescript  
+  The Tumblr engineering team discusses their experience comparing Flow and TS, and why they opted to use TS.
