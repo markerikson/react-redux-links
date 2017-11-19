@@ -279,6 +279,10 @@ similar structures in ClojureScript.
   https://medium.cobeisfresh.com/how-redux-can-make-you-a-better-developer-30a094d5e3ec  
   https://www.reddit.com/r/javascript/comments/7buksy/how_redux_can_make_you_a_better_developer/  A blog post recapping aspects of functional programming and immutability in JS and Redux.  The Reddit thread has some excellent discussion on pros and cons of using Redux and how it has benefited people.
   
+- **"React is focused on making your code understandable, not on making simple examples as short as possible"**  
+  https://twitter.com/dan_abramov/status/930380316463726593  
+  Some great points from Dan Abramov about React focusing on code predictability, maintainability, and data flow, rather than terseness.
+  
   
   
 #### React's PATENTS License

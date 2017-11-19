@@ -35,6 +35,10 @@
   https://medium.com/@niwaa/creating-react-editables-how-to-build-a-set-of-reusable-react-components-with-an-hoc-and-write-7a685947a992  
   Looks at the steps needed to create a set of reusable React components and publish them to NPM.  Includes extended thoughts on component design for reusability.
   
+- **Robust React User Interfaces with Finite State Machines**  
+  https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/  
+  An excellent article that describes the concepts of state machines, how they relate to applications, and how they can be applied to help manage React component behavior.
+  
 
 #### Security
 

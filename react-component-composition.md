@@ -95,6 +95,10 @@
   https://www.sitepen.com/blog/2017/08/15/higher-order-components-in-react/  
   Shows an example of a React app that needs to authenticate routes, and how a HOC can help handle that in a reusable way.  Also includes example HOCs for A/B-testing features, collecting metrics, and injecting props.
   
+- **Save the "zombines": How to add state and lifecycle methods to stateless React components**  
+  https://codeburst.io/save-the-zombies-how-to-add-state-and-lifecycle-methods-to-stateless-react-components-1a996513866d  
+  A humorously-written look at how to extract state management logic into HOCs.
+  
 
   
 
@@ -132,6 +136,13 @@
 - **How to give rendering control to users with prop getters**  
   https://blog.kentcdodds.com/how-to-give-rendering-control-to-users-with-prop-getters-549eaef76acf  
   Kent C Dodds describes how "prop getter" functions can be used with render props to provide more control over how rendering behavior is hooked together.
+  
+- **Rendering a function with React**  
+  https://blog.kentcdodds.com/rendering-a-function-with-react-ca3eaf0751e2  
+  Kent C Dodds looks at some unusual use cases for reusing React components, and a possible solution that uses a somewhat hacky approach of marking a function as an iterable.
+  
+
+  
   
 
 #### Functional Composition
@@ -198,7 +209,7 @@
   Michael Jackson demonstrating that a component with render prop can do anything a HOC can do, and more.
   
  - **React Composition Patterns from the Ground Up**  
-   https://medium.com/alexkrolick/react-composition-patterns-from-the-ground-up-8401aaad93d7  
+   https://hackernoon.com/react-composition-patterns-from-the-ground-up-8401aaad93d7  
    Comparison of patterns such as Lifting State, Higher-Order Components, Render Callbacks, and "Renderless" State Providers, and how they relate to React's component model.
  
 - **Solving the problems of Higher Order Components without throwing the baby out with the bathwater**  
@@ -209,3 +220,6 @@
   https://medium.com/@joshuawcomeau/randomness-in-react-props-3929c1669f8b  
   Demonstrates several approaches to structuring logic for generating values and passing them to children, including initialization in a constructor, creating a wrapper component, and using a function-as-a-child.
   
+- **Simplifying life with React render callbacks**  
+  https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55  
+  Compares several approaches for passing data from a parent component directly to a child, including cloning children, using a HOC, and using render props.

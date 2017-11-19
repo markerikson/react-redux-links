@@ -181,6 +181,10 @@
   http://goshakkk.name/javascript-generators-understanding-sample-use-cases/  
   A simple thinking pattern for easily understanding generators, plus 3 practical applications.
   
+- **ES6 Generators and asynchronous Javascript**  
+  http://web.archive.org/web/20160304215133/https://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html  
+  A clear description of how generator functions can be paused and continued, and how that capability enables writing asynchronous code in a synchronous-looking way.
+  
   
 
 #### Promises
@@ -232,6 +236,10 @@
 - **ES6 Promises: Patterns and Anti-Patterns**  
   https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918  
   Several useful techniques for using Promises, such as "promisifying" callback-based functions and running promises in parallel or sequence, and some common mistakes to avoid like not actually returning anything in a promise callback.
+  
+- **Gotchas about async/await and Promises**  
+  https://dev.to/maxart2501/gotchas-about-asyncawait-and-promises-9di  
+  Several valuable tips about how to safely use async/await and Promise behavior, especially around error-handling.
   
   
 #### Techniques

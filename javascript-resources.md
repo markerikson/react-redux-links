@@ -99,8 +99,8 @@ While this list is primarily focused on learning React and Redux, and generally 
   A free course from Wes Bos that teaches how to build 30 different interesting projects, using only "vanilla" Javascript.
   
 - **Javascript; The Core**  
-  http://dmitrysoshnikov.com/ecmascript/javascript-the-core/  
-  A dive into core concepts of how Javascript objects behave: prototypes, constructors, scopes, closures, and `this`.
+  http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/  
+  A dive into core concepts of how Javascript objects behave: prototypes, constructors, scopes, closures, and `this`.  The second edition includes more of a focus on ES6 and newer features.
   
 - **The Modern Javascript Tutorial**  
   http://javascript.info/  
@@ -110,13 +110,14 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://github.com/bpesquet/thejsway  
   A modern introduction to the JavaScript language, intended to be beginner-friendly, comprehensive, standards-aligned with the latest syntax and good practices, and hands-on.
   
-  
-#### Interactive Exercises
-
 
 
 
 #### Online Code Editors
+
+- **CodeSandbox**  
+  https://codesandbox.io  
+  A full-fledged online IDE that lets you build entire applications using React, Vue, and other toolkits.
 
 - **A Roundup of Online Code Playgrounds**  
   https://www.sitepoint.com/round-up-online-code-playgrounds/  

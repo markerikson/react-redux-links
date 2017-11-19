@@ -34,6 +34,10 @@
 - **React: Validating Children**  
   http://www.mattzabriskie.com/blog/react-validating-children  
   Examples of using PropTypes to enforce what children can be passed to a component
+  
+- **React Pattern: Centralized PropTypes**  
+  https://medium.freecodecamp.org/react-pattern-centralized-proptypes-f981ff672f3b  
+  Discusses creating centralized definitions of data structures using PropTypes to reduce repetition, and suggests a few other good practices for working with PropTypes.
 
 
 #### TypeScript
@@ -218,6 +222,15 @@
 - **How to Reduce Action Boilerplate**  
   https://blog.angularindepth.com/how-to-reduce-action-boilerplate-90dc3d389e2b  
   Looks at how TypeScript is normally used with Redux, including "narrowing" actions with type guards and discriminated unions, and looks at ways different libraries use narrowing to help generate actions in a type-safe way.
+  
+- **Using TypeScript Generics for writing React Components**  
+  https://blog.mojotech.com/typescript-generic-react-components/  
+  Useful techniques for writing typed higher-order-components, with specific examples focusing on typing form field components.
+  
+- **Back to the Basics: Using React + Flow**  
+  https://medium.com/javascript-inside/back-to-the-basics-1bd3b12e38dc  
+  https://medium.com/javascript-inside/back-to-the-basics-using-react-flow-pt-2-99292993829f  
+  A series that demonstrates using Flow to add static typing for a Tic-Tac-Toe game
   
 
 

@@ -316,3 +316,7 @@
 - **Using redux-observable to handle asynchronous logic in Redux**  
   https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522  
   An extended post that compares a thunk-based implementation of handling a line-drawing example vs an observable-based implementation.
+  
+- **Redux Observable to the rescue**  
+  https://medium.com/@daslusan/redux-observable-to-the-rescue-b27f07406cf2  
+  A quick comparison of writing some complex AJAX-related logic as a thunk and with redux-observable, and some of the benefits of writing the code using observables.

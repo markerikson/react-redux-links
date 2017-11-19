@@ -34,6 +34,11 @@
   https://medium.com/@wesharehoodies/all-you-need-to-know-about-css-in-js-984a72d48ebc  
   A clear summary of the differences between "inline styles" and "CSS-in-JS", the pros and cons of using CSS-in-JS, and quick examples of using some of the most popular CSS-in-JS libraries.
   
+- **The CSS Holy War & How To Think Beyond Dogma / A Brief History of CSS-in-JS: How We Got Here and Where We're Going**  
+  https://medium.com/gitconnected/the-css-holy-war-how-to-think-beyond-dogma-e2c67692d409  
+  https://medium.com/gitconnected/a-brief-history-of-css-in-js-how-we-got-here-and-where-were-going-ea6261c19f04  
+  A pair of articles that look at the history of CSS, discuss the problems it tries to solve, 
+  and describe the use of CSS-in-JS as a way to help solve certain use cases in today's apps.
 
 #### Components and Styling
   

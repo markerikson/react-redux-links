@@ -174,6 +174,9 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81  
   Good advice on the potential benefits of using `PureComponent`, as well as several potential downsides or gotchas (such as binding functions in `render()`).
 
+- **The Virtual DOM and its Anti-Patterns**  
+  https://medium.com/riipen-engineering/the-virtual-dom-and-its-anti-patterns-aa4c523d00ed  
+  First in a 3-part series discussing causes of slow components and wasteful rendering.  Later posts will cover ways to optimize Redux usage, and tools to find bottlenecks that can be optimized.
   
   
 #### Code Splitting and Progressive Apps
@@ -220,6 +223,14 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Performance-tuning a React application**  
   https://medium.com/@joshuawcomeau/performance-tuning-a-react-application-f480f46dc1a2  
   An excellent case study on improving load time for a small React+Redux app.  Describes use of gzipping, image cropping, lazy loading, and more.
+  
+- **A React and Preact Progressive Web App Performance Case Study: Treebo**  
+  https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299  
+  An extensive technical deep dive into how Treebo optimized their React application for good performance on mobile devices.
+  
+- **Firebase + React: Optimizing for the Real World**  
+  https://codeburst.io/firebase-react-optimizing-for-the-real-world-4d9edbbd54c5  
+  Describes shrinking a React + Firebase app bundle from 1.7MB to 230KB by switching to smaller alternative packages and analyzing bundle size.
   
   
 #### Immutable Data

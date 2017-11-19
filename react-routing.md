@@ -137,3 +137,7 @@
   https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf09eef3bb0b  
   https://medium.appbase.io/securing-a-react-web-app-with-server-side-authentication-1b7c7dc55c16  
   A pair of posts that demonstrate implementing both client-side and server-side authentication behavior for a React/Node app.
+  
+- **Protected Routes and Authentication with React Router v4**  
+  https://tylermcginnis.com/react-router-protected-routes-authentication/  
+  A great tutorial that shows how to create routes that only authenticated users can access.

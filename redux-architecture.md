@@ -292,6 +292,10 @@
 - **Tips for Redux**  
   https://www.yihangho.com/tips-for-redux/  
   Some excellent tips for working with Redux, including designing the state tree, dealing with side effects, implementing optimistic updates, and more.
+  
+- **How We Built Our UI**  
+  https://www.endgame.com/blog/technical-blog/how-we-built-our-ui  
+  The Endgame team discusses why they rebuilt their app's UI, why they picked React and Redux, use of REdux-Saga to manage business logic, and how the data workflow fits together.
 
 
 #### Encapsulation and Reusability

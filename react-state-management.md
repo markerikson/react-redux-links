@@ -70,6 +70,10 @@
 - **How to manage or eliminate React state without Redux**  
   http://monicalent.com/blog/2017/07/23/manage-state-in-react/  
   An excellent writeup on techniques you can use to help manage state in React without using Redux, including only using component state for things that are really needed, extracting state management logic, and rethinking when you actually need stateful components.
+  
+- **State management in Javascript**  
+  https://codeburst.io/state-management-in-javascript-15d0d98837e1  
+  Not React-specific, but some excellent general principles for dealing with state overall: represent data uniquely, derive values, define dependencies, and localise state as much as possible.
 
 
 #### Using `setState`
@@ -126,3 +130,7 @@
 - **Atomic `setState` Updates in React**  
   https://alligator.io/react/getting-atomic-updates-with-setstate/  
   Discusses how the standard object form of `setState` can cause race conditions, while the functional form is more predictable.
+  
+- **`setState` ftw**  
+  https://speakerdeck.com/michelebertoli/setstate-ftw  
+  Slides from Facebook dev Michele Bertoli's talk on how `setState` works, how to use it properly, and useful techniques for working with `setState`.

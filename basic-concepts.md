@@ -76,6 +76,10 @@
   https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70  
   Recaps the history of how JavaScript tools have evolved to what they are today in 2017, to provide historical context.  Includes examples of how different tools were used and and what problems they help solve.
   
+- **A Brief, Incomplete History of JavaScript**  
+  https://closebrace.com/articles/2017-09-11/a-brief-incomplete-history-of-javascript  
+  An excellent history lesson that recaps the four major eras of web development and JS usage: the Early Era, the jQuery Era, the Single Page App Era, and the Modern Era.
+  
 
 #### Suggested Learning Approaches
 

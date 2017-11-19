@@ -141,6 +141,10 @@
   http://www.alayor.com/2017/Creating-a-React-Component-using-TDD  
   Demonstrates writing a simple React component using the TDD "red-green" testing approach.
   
+- **Unit Testing with Semantic-UI-React and Enzyme**  
+  https://medium.com/bluepick-dev/testing-with-semantic-ui-react-and-enzyme-7cb39228a5ea  
+  Specific tips and advice for testing components that use the Semantic-UI-React library, including advice on focusing your tests on your own components' behavior.  The tips are also applicable to React component testing in general.
+  
 #### Redux
 
 - **Simple React/Redux Testing**  
@@ -265,6 +269,14 @@
 - **Unit Testing React, Redux, Selectors, and Epics**  
   https://codeburst.io/unit-testing-react-redux-selectors-and-epics-664e7b4798a8  
   Quick examples of ways to different parts of a React+Redux app.
+  
+- **Jest Testing Patterns for React-Redux Applications**  
+  https://ranjithnair.github.io/2017/11/17/Jest-Testing-basics.html  
+  Includes info on basic Jest test setup, as well as examples of using Jest to test React components, Redux-connected components, actions and reducers, API calls, and React event behavior.
+  
+- **Recipes for Testing Redux Actions and Reducers**  
+  https://densitylabs.io/blog/recipes-for-testing-redux-actions-and-reducers  
+  Useful examples of testing Redux code, using redux-thunk, chai, axios, redux-mock-store, and axios-mock-adapter.
 
   
   
@@ -357,3 +369,7 @@
 - **Stubbing HTTP Reqeusts with Sinon**  
   http://mherman.org/blog/2017/11/06/stubbing-http-requests-with-sinon/  
   An extensive tutorial that discusses the benefits of stubbing behavior in tests, setting up Mocha+Chai+Sinon, and using Sinon's stub functions in integration and unit tests.
+  
+- **What makes a good test?**  
+  https://medium.com/@alexkrolick/what-makes-a-good-test-dff3df6058a2  
+  A variety of short thoughts on why we write unit tests, how to write good tests, and some specific suggestions for working with snapshot tests and tests for async behavior.

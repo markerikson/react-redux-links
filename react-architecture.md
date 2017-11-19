@@ -264,6 +264,10 @@
   https://dev.to/kayis/is-react-solid-630  
   Looks at the SOLID architectural principles, and discusses how those apply to React components. 
   
+- **Clean Code vs Dirty Code: React Best Practices**  
+  http://americanexpress.io/clean-code-dirty-code/  
+  Some very opinionated thoughts on what qualifes as "clean" React code.  Your experience may vary, but some interesting food for thought.
+  
   
 #### React Architecture
 
@@ -282,3 +286,11 @@
 - **Reusable Web Application Strategies: three patterns for running the same app in multiple spots**  
   https://medium.freecodecamp.org/reusable-web-application-strategies-d51517ea68c8  
   Looks at how to run an app in reusable ways via iframes, reusable app components, and reusable UI components.
+  
+- **Integrating React in a 6+ Year Old Rails App**  
+  https://blog.codeship.com/integrating-react-in-a-6-year-old-rails-app/  
+  Discuss techniques for using React in an existing Rails app.  Focus is a bit more on the Rails side of things, but some useful info.
+  
+- **Characteristics of an Ideal React Architecture**  
+  https://medium.com/@robftw/characteristics-of-an-ideal-react-architecture-883b9b92be0b  
+  Some opinionated thoughts on what constitutes good React architecture, including avoiding use of components as controllers, keeping prop passing to just a few levels, and ensuring that diff calculations are cheap.

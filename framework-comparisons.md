@@ -12,7 +12,20 @@
   
 - **Web Framework Comparisons**  
   https://www.sitepen.com/blog/2017/06/13/if-we-chose-our-javascript-framework-like-we-chose-our-music/  
-  A 9-part series that compares Angular 2+, React+Redux, Vue, Ember, Dojo 2, and Aurelia.  Covers topics like UI development, UX design, foundational technologies, common usage, testing, and soundness.  The series is written by a company that works on Dojo, but the comparisons and descriptions are fair.
+  https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/  
+  A 9-part series that compares Angular 2+, React+Redux, Vue, Ember, Dojo 2, and Aurelia.  Covers topics like UI development, UX design, foundational technologies, common usage, testing, and soundness.  The series is written by a company that works on Dojo, but the comparisons and descriptions are fair.  Links go to the first and last articles in the series.
+  
+- **How I stopped loving Angular**  
+  https://codeburst.io/how-i-stopped-loving-angular-c2935f7378c4  
+  An extensive article detailing the author's critiques of Angular 2+, and why they ultimately chose to switch to Vue instead.
+  
+- **React vs Angular: An In-depth Comparison**  
+  https://www.sitepoint.com/react-vs-angular/  
+  A well-written post that not only offers comparisons between React and Angular, but gives suggested approaches for comparing tools and ecosystems in general.
+  
+- **React vs Angular 2+: Developer Ergonomics**  
+  https://medium.com/@stelly_ryan/react-vs-angular-2-developer-ergonomics-b6d5103e8699  
+  Specific opinion-based comparisons on the developer experience for React and Angular in areas like components, testing, and framework-specific syntax, based on writing equivalent example apps using both frameworks.
 
 
 #### React and Flux vs Backbone

@@ -89,10 +89,6 @@
 
 #### MobX and Redux Comparisons
 
-- **Comparing MobX and Redux - Video**  
-  https://www.youtube.com/watch?v=83v8cdvGfeA  
-A great video to understand the differences between MobX and Redux.
-
 - **"Confused: Redux or MobX?**  
   https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/  
   An in-depth thread comparing the two libraries. Includes comments from both Dan Abramov of Redux and Michel Weststrate of MobX describing their libraries, as well a number of other good comparisons.
@@ -114,13 +110,13 @@ A great video to understand the differences between MobX and Redux.
   https://hashnode.com/post/how-does-mobx-compare-with-redux-and-which-one-is-better-for-react-app-development-cisrch8eh0030g5532qeds1ja/answer/citq8rptk010cus530wdzdg69  
   An excellent answer comparing the two libraries and their philosophies
   
+- **Comparing MobX and Redux - Video**  
+  https://www.youtube.com/watch?v=83v8cdvGfeA  
+A great video to understand the differences between MobX and Redux.
+  
 - **Redux vs MobX**  
   https://medium.com/@himrc/redux-vs-mobx-a42c8950f3  
   Some quick pros and cons of each, links to other discussions, and thoughts on when to use them.
-
-- **ReactConf 2017: MobX vs Redux: Comparing the Opposing Paradigms**  
-  https://www.youtube.com/watch?v=76FRrbY18Bs&index=8&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0  
-  A fantastic presentation by Preethi Kasireddy.  She compares several aspects of Redux and MobX, the general principles behind each, and discusses the pros/cons/tradeoffs in using them.
   
 - **Redux or MobX: What I learned after refactoring a medium-sized React app**  
   https://dannyherran.com/2017/03/react-redux-mobx-takeaways/  
@@ -133,3 +129,5 @@ A great video to understand the differences between MobX and Redux.
 - **Introduction to Redux and MobX**  
   https://medium.com/@guptagaruda/introduction-to-redux-and-mobx-e6fa98b6479  
   A very nice comparison of the core concepts and benefits for Redux and MobX, with some good diagrams, useful tips, and links to relevant resources.
+
+  

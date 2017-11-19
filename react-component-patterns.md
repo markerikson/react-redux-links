@@ -466,3 +466,11 @@
   https://medium.com/@gajus/using-react-v16-to-create-self-destructing-components-de8e4eb61d0f  
   Demonstrates how a tiny component that simply returns its own children can simplify the process of returning arrays of components in React 16.
   
+- **3 React Gripes**  
+  https://gist.github.com/jlongster/febd2a397aff9501abec0c2d66075ec8  
+  https://twitter.com/jlongster/status/921016877408837632  
+  James Long describes three things about React that bother him: inability to easily have parents get refs to nested elements, PureComponents comparing both props and state, and a general tendency to do lots of processing in `componentWillReceiveProps`.  Some good discussion in both the gist comments and Twitter.
+  
+- **React without `this`**  
+  https://medium.com/@baronmaximilianwilleford/react-without-this-39a76b8f2160  
+  Describes an alternate approach to writing components using factory functions to eliminate the need for the `this` keyword

@@ -61,6 +61,10 @@
   https://crypto.stanford.edu/~blynn/gitmagic/  
   An extensive Git tutorial that teaches usage instructions first, and works its way up to advanced Git techniques and concepts.
   
+- **Git Beyond the Basics**  
+  http://blog.bloomca.me/2017/11/17/git-beyond-the-basics.html  
+  A good tutorial that explains intermediate concepts like merging, rebasing, cherry-picking, and cleaning pull requests
+  
 
 #### Tips and Useful Info
 

@@ -121,11 +121,6 @@
 - **Let the Buyer Beware: React Redux Rerender Gotcha**  
   https://www.nathanl.in/posts/let-the-buyer-beware-react-redux-rerender-gotcha  
   An article describing some similar concerns regarding timing of Redux actions and React lifecycle methods, especially in regards to tracking loading state.
-  
-- **Why I created Redux-Tiles library to deal with Redux verbosity**  
-  http://blog.bloomca.me/2017/06/02/why-i-created-redux-tiles-library.html  
-  https://news.ycombinator.com/item?id=14482215  
-  Describes several concerns with increasing verbosity and complexity in Redux apps, and how the author's library can help simplify those.
 
 - **Manage analytics actions in React**  
   https://medium.com/trainline-engineering/manage-analytics-actions-in-react-67fae61495de  
@@ -144,15 +139,24 @@
 - **Evil things you do in Redux - dispatch in updating lifecycle methods**  
   https://hackernoon.com/evil-things-you-do-with-redux-dispatch-in-updating-lifecycle-methods-ad116de882d4  
   Thoughts on the pros and cons of dispatching Redux actions in React lifecycle methods, such as causing cascades of re-renders and updates in other components.
-  
-- **Reducing Redux Boilerplate with redux-actions**  
-  http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html  
-  A short look at how the `redux-actions` lib can simplify the process of defining action type, action creators. and reducers.
-  
+ 
 - **Redux and JSON Schema**  
   https://blog.prismatik.com.au/redux-and-json-schema-c63368931143  
   Short discussion of the overall benefits of using JSON Schema to define data structures, and a Redux library that helps use those for Redux.
   
+  
+  
+#### Reducing Boilerplate
+
+- **Why I created Redux-Tiles library to deal with Redux verbosity**  
+  http://blog.bloomca.me/2017/06/02/why-i-created-redux-tiles-library.html  
+  https://news.ycombinator.com/item?id=14482215  
+  Describes several concerns with increasing verbosity and complexity in Redux apps, and how the author's library can help simplify those.
+  
+- **Reducing Redux Boilerplate with redux-actions**  
+  http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html  
+  A short look at how the `redux-actions` lib can simplify the process of defining action type, action creators. and reducers.
+
 - **Reducing Redux: avoiding boilerplate with redux-scc**  
   https://medium.com/onfido-tech/reducing-redux-avoiding-boilerplate-with-redux-scc-b72c80c338e5  
   https://medium.com/onfido-tech/redux-scc-update-combined-actions-and-custom-types-ce346ea91e85  Looks at how the redux-scc library allows building "store chunks", which simplify the amount of work needed to define and update a Redux store.
@@ -168,6 +172,14 @@
 - **Redux mapStateToProps and mapDispatchToProps Shorthand**  
   https://medium.com/@atomarranger/redux-mapstatetoprops-and-mapdispatchtoprops-shorthand-67d6cd78f132  
   A quick example of the "object shorthand" supported by `connect` for `mapDispatch`, and use of Reselect's `createStructuredSelector` for equivalent behavior of `mapState`.
+  
+- **Less Redux Boilerplate with Union Types**  
+  https://codeburst.io/less-redux-boilerplate-with-union-types-3d5fd6acb53c  
+  Examples of using Elm-inspired "union types" to define Redux logic, as well as combining action creators and reducers in a single file similar to the "ducks" approach.
+  
+- **ARC - Simplifying async requests in Redux apps**  
+  https://medium.com/front-end-hacking/arc-simplifying-async-requests-in-redux-apps-e8052b874216  Describes the "async action" pattern commonly used with Redux, and how the ARC library can simplify the process of generating actions, action creators, and reducers that work with async actions.
+  
   
   
 #### Network Management

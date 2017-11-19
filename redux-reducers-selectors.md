@@ -181,3 +181,19 @@
 - **Introducing @ngrx/entity**  
   https://medium.com/ngrx/introducing-ngrx-entity-598176456e15  
   Describes an NgRX-based library for generating reducer operations and selectors for normalized entities.
+  
+- **Better Redux Selectors with Ramda**  
+  https://medium.com/@grrttn/better-redux-selectors-with-ramda-c1ab7af3f16  
+  A long article that describes how to use the Ramda FP utility library to create selectors, including use of functional composition.
+  
+- **Shape your Redux store like your database**  
+  https://hackernoon.com/shape-your-redux-store-like-your-database-98faa4754fd5  
+  Discusses the merits of storing data in arrays vs lookup tables for access speed, and adding additional indices to allow easily lookup up items based on other values besides IDs.
+  
+- **Optimizing React Redux Application Development with Reselect**  
+  https://codebrahma.com/reselect-tutorial-optimizing-react-redux-application-development-with-reselect/  
+  A good tutorial on Reselect.  Covers the concept of "selector functions", how to use Reselect's API, and how to use memoized selectors to improve performance.
+  
+- **Usage of Reselect in a React-Redux Application**  
+  https://dashbouquet.com/blog/frontend-development/usage-of-reselect-in-a-react-redux-application  
+  Discusses the importance of memoized selectors for performance, and good practices for using Reselect.

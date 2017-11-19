@@ -29,12 +29,7 @@
 - **React Elements vs React Components**  
   https://tylermcginnis.com/react-elements-vs-react-components/  
   An explanation of how elements represent DOM nodes, what `createElement` does, and how components and rendering relate to elements
-  
-  
-#### JSX and Events
 
-
-  
 
 #### Miniature React Implementations
 
@@ -172,6 +167,10 @@
 - **An Interview with the React Team About Wordpress and Project Gutenberg**  
   https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/  
   A Wordpress community site interviews Dan Abramov, Andrew Clark, and Sophie Alpert about a variety of topics, including how they prioritize features, how React is tested, dealing with breaking changes, downsides of React, and aspects of Wordpress using React for its "Project Gutenberg" tool.
+  
+- **The React Story: How Facebook's Instagram Acquisition Led to the Open Sourcing of React**  
+  https://stackshare.io/posts/the-react-story  
+  An extensive podcast interview with Pete Hunt, former React team member, recounting his early work at Facebook, how he began using React at Instagram, how that led to the growth of React inside Facebook, and how the decision to open-source React happened.  Page includes a complete transcript of the discussion.
    
 
 #### React Fiber

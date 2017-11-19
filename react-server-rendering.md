@@ -1,5 +1,9 @@
 ### React Server Rendering
 
+- **What's New with Server-Side Rendering in React 16**  
+  https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67  
+  Sasha Aickin, who wrote most of React 16's new SSR implementation, gives a very detailed look at how the implementation and behavior have changed.
+
 - **React for Beginers: Creating an Isomorphic React App**  
   https://medium.com/codingbox/react-for-beginners-creating-isomorphic-react-redux-app-and-deploying-it-on-heroku-6a313f8f3693  
   An in-depth article describing an isomorphic project configuration and deployment
@@ -82,8 +86,10 @@
 - **Making CRA apps work with SSR**  
   https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-1-8f5f813d510b  
   https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-2-fb871868216e  
-  A 2-part post that shows how to add SSR to an ejected CRA app, including use of Redux.
+  https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-3-199d70b4cbe5  
+  A series of posts that shows how to add SSR to an ejected CRA app, including use of Redux and React-Router.
   
 - **You might (not) need a Server Side Rendering Framework**  
   https://adrienharnay.me/you-might-not-need-a-server-side-rendering-framework/  
   Discusses building a home-grown SSR setup using Webpack, rather than reusing something like Next.js.
+  
