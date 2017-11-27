@@ -144,6 +144,9 @@
   https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4  
   A comprehensive tutorial that covers topics like components, rendering, JSX, state, event handling, async behavior, props, and refs.  
   
+- **Introduction to React**  
+  http://ivanjurina.com/2017/11/19/introduction-to-react/  
+  Useful notes and info on the basics of React, from someone who just learned React.
   
 
 #### React Concept Overviews

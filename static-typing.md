@@ -232,6 +232,10 @@
   https://medium.com/javascript-inside/back-to-the-basics-using-react-flow-pt-2-99292993829f  
   A series that demonstrates using Flow to add static typing for a Tic-Tac-Toe game
   
+- **Using TypeScript with Redux**  
+  https://dzone.com/articles/using-typescript-with-redux  
+  Examples of basic TS usage with Redux, and setting up your own type declarations for better type safety.
+  
 
 
 #### Advancing Typing Techniques

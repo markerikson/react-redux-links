@@ -51,6 +51,10 @@
   https://hackernoon.com/10-react-mini-patterns-c1da92f068c5  
   Ten useful patterns for working with React components, including data flow, techniques for working with inputs, controlling CSS usage, switching between components, and more.
   
+- **React Training: Advanced React - React Patterns**  
+  https://reacttraining.com/patterns/  
+  The lecture videos from React Training's "Advanced React" course.  The videos themselves are now free.  Covers topics like declarative vs imperative, compound components, context, Higher Order Components, render props, and controlled components.
+  
 
 #### Component Definition Approach Comparisons
   
@@ -135,6 +139,10 @@
 - **Avoiding deeply nested component trees**  
   https://medium.com/@RubenOostinga/avoiding-deeply-nested-component-trees-973edb632991  
   Examples of `children` to include arbitrary content inside of a component for more flexible handling of presentation and composition.
+  
+- **Tips on Creating Reusable Components**  
+  http://dylanpaulus.com/reactjs/2017/09/08/tips-on-creating-reusable-components.1/  
+  Examples of using `children` and other props to make components more composable and reusable.
   
 
 #### React Component Lifecycle
@@ -474,3 +482,8 @@
 - **React without `this`**  
   https://medium.com/@baronmaximilianwilleford/react-without-this-39a76b8f2160  
   Describes an alternate approach to writing components using factory functions to eliminate the need for the `this` keyword
+  
+- **You don't need to know "Dependency Injection"**  
+  https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a  
+  Looks at the concept of dependency injection, and three ways that that relates to React components and props.
+  

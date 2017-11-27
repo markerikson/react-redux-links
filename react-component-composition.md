@@ -223,3 +223,7 @@
 - **Simplifying life with React render callbacks**  
   https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55  
   Compares several approaches for passing data from a parent component directly to a child, including cloning children, using a HOC, and using render props.
+  
+- **React Developer's Everyday Struggle - Extending Big Applications**  
+  https://blog.callstack.io/react-developers-everyday-struggle-extending-big-applications-84ec4e62e2ad  
+  Looks at different possible solutions to handling form inputs and validation logic, including existing form libs, a validation HOC, and a function-as-children approach.

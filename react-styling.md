@@ -39,6 +39,11 @@
   https://medium.com/gitconnected/a-brief-history-of-css-in-js-how-we-got-here-and-where-were-going-ea6261c19f04  
   A pair of articles that look at the history of CSS, discuss the problems it tries to solve, 
   and describe the use of CSS-in-JS as a way to help solve certain use cases in today's apps.
+  
+- **Four ways to style React components**  
+  https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822  
+  Quick examples of plain CSS, CSS modules, inline styles, and the styled-components library.
+  
 
 #### Components and Styling
   

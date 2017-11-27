@@ -190,6 +190,10 @@
   https://medium.com/front-end-hacking/lazy-loading-with-react-redux-and-webpack-2-35ad6fc1b640  
   An excellent pair of posts that cover ways to structure components in terms of features, load them at runtime using Webpack's dynamic importing, and apply the same principles to loading Redux feature logic.
   
+- **How to reduce your bundle size by automatically getting your dependencies from a CDN**  
+  https://medium.com/comparethemarket/how-to-reduce-your-bundle-size-by-automatically-getting-your-dependencies-from-a-cdn-96b25d1e228  
+  A quick example of using the `dynamic-cdn-webpack-plugin` to have your bundle reference libraries from the Unpkg CDN, rather than including them in the main bundle.
+  
   
 #### Bundle Sizes and Visualization
 

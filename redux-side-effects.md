@@ -281,6 +281,10 @@
   https://sandstorm.de/de/blog/post/states-and-react-step-by-step-user-interaction-with-state-machines.html  
   Demonstrates managing "snackbar" popup notifications using sagas to show and hide the popups
   
+- **Taming Redux with Sagas**  
+  https://objectpartners.com/2017/11/20/taming-redux-with-sagas/  
+  A good overview of Redux-Saga, including info on generator functions, use cases for sagas, using sagas to deal with promises, and testing sagas.
+  
   
   
 #### Other Side Effect Approaches

@@ -46,6 +46,10 @@
   http://www.slideshare.net/visualengin/workshop-22-reactredux-m  
   A slideshow that explains how Redux middleware work, with several helpful visualizations
   
+- **Understanding Redux Middleware and Writing Custom Ones**  
+  https://dev.to/imwiss/understanding-redux-middleware-and-writing-custom-ones  
+  Describes the concept of middleware in Redux, possible use cases, and gives an example of writing a middleware to handle caching.
+  
 
 #### Middleware Techniques
 

@@ -227,3 +227,6 @@
   http://makersden.io/blog/look-inside-fiber/  
   Traces through the source code for React 16 / React Fiber, starting with the main `render()` function and diving down from there through the system.
   
+- **What is React Fiber?**  
+  https://giamir.com/what-is-react-fiber  
+  An overview of the React Fiber rewrite, and how React's reconciler has been rewritten to improve performance and make rendering more flexible.

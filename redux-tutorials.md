@@ -162,6 +162,10 @@
   https://www.kirupa.com/react/introduction_to_redux.htm  
   A basic introduction to the ideas of storing data in Redux and dispatching actions to update that data.
   
+- **Using Redux with React**  
+  https://www.kirupa.com/react/introduction_to_redux.htm  
+  An excellent follow-up to the previous article, with explanations of why Redux is helpful in a React app, and diagrams showing the data flow.
+  
 - **TLTR; Redux**  
   https://medium.com/@nicotsou/tltr-redux-e4fc30f87e4a  
   A clear descriptive overview of Redux's background, core concepts, principles, and usage with React.  Also describes the basics of async behavior, testing, and debugging.
@@ -295,6 +299,10 @@
 - **Simple Redux Create Delete Contact Application**  
   https://appdividend.com/2017/11/02/simple-redux-create-delete-contact-application/  
   Demonstrates building a simple client-side contact list app
+  
+- **React + Redux: User Registration and Login Tutorial**  
+  http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example  
+  A tutorial that shows how to build a React+Redux app that uses JWT authentication, with the example based on a real-world application.
 
 
 #### Redux Implementation Walkthroughs

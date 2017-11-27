@@ -55,6 +55,10 @@
   https://appdividend.com/2017/09/12/react-router-tutorial-example-scratch/  
   A short tutorial demonstrating use of React Router v4
   
+- **React Router v4 Unofficial Migration Guide**  
+  https://codeburst.io/react-router-v4-unofficial-migration-guide-5a370b8905a  
+  Practical advice and specific steps needed to migrate an app from React-Router v3 to v4.
+  
   
 #### Routing with Redux
   

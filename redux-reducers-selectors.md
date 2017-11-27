@@ -197,3 +197,7 @@
 - **Usage of Reselect in a React-Redux Application**  
   https://dashbouquet.com/blog/frontend-development/usage-of-reselect-in-a-react-redux-application  
   Discusses the importance of memoized selectors for performance, and good practices for using Reselect.
+  
+- **Redux: Up your game with selectors**  
+  https://medium.com/@emilycoco/redux-up-your-game-with-selectors-9aee3a6928ae  
+  A quick look at the benefits of using selector functions to encapsulate looking up data from the store.

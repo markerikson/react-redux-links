@@ -296,6 +296,14 @@
 - **How We Built Our UI**  
   https://www.endgame.com/blog/technical-blog/how-we-built-our-ui  
   The Endgame team discusses why they rebuilt their app's UI, why they picked React and Redux, use of REdux-Saga to manage business logic, and how the data workflow fits together.
+  
+- **Best practices with React and Redux application development**  
+  https://developers.redhat.com/blog/2017/11/15/best-practices-react-redux-web-application-development/  
+  A wide variety of suggestions, including use of TypeScript, customizing build configurations, managing dependencies, handling callbacks with params, using selectors, and more.
+  
+- **How Bitmovin used React/Redux to Develop Its New Dashboard**  
+  https://bitmovin.com/bitmovin-used-reactredux-to-develop-new-dashboard/  
+  The Bitmovin team describes their React+Redux architecture, including how they approached organizing Redux actions.
 
 
 #### Encapsulation and Reusability
@@ -384,6 +392,10 @@
 - **Building a simple Redux library**  
   https://medium.com/@tcclevela/building-a-simple-redux-library-44ce4f004822  
   Looks at important steps to follow when building a Redux addon library: only use middleware if really needed, keep things simple, and encapsulate abstractions.  Shows a particularly good example of using selectors in the library to encapsulate state lookups, and allowing the end user to initialize the selectors so that the data can be mounted anywhere in the state tree the user wants.
+  
+- **Namespacing Actions for Redux**  
+  https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1  
+  Looks at ways to namespace actions so that multiple copies of components and logic can work in an isolated manner, especially in conjunction with the `redux-loop` library.
 
 
 #### Variations on Redux Architectures
@@ -478,3 +490,11 @@
 - **The joy of React+Redux with Elixir/OTP**  
   https://limenius.com/elixir-otp-react-redux/  
   Covers building a Redux-based client that receives update messages from an Elixir server.
+  
+- **Reslice - Yet Another Way of Managing Scale in React and Redux**  
+  https://medium.com/@mike.es6.programmer/reslice-yet-another-way-of-managing-scale-in-react-and-redux-223971139d6b  
+  Discusses the Reslice toolkit, how it wraps up Redux+Reselect+React-Redux, and how it differs from a standard React+Redux architecture.
+  
+- **"How to deal with dumb REdux views that import containers?"**  
+  https://www.reddit.com/r/javascript/comments/7eavyx/how_to_deal_with_dumb_redux_views_that_import/  
+  Interesting discussion on ways to organize nested Redux-connected components for reusability.

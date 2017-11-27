@@ -119,3 +119,7 @@
 - **Coupling a Stencil TODO app with Redux**  
   https://www.javascripttuts.com/coupling-a-stencil-todo-app-with-redux/  
   A tutorial that updates an existing Stencil Todo app to use Redux
+  
+- **Getting started with Redux in Swift**  
+  https://medium.com/mackmobile/getting-started-with-redux-in-swift-54e00f323e2b  
+  An overview of how to use the ReSwift library as part of an iOS app.

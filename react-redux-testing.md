@@ -145,6 +145,16 @@
   https://medium.com/bluepick-dev/testing-with-semantic-ui-react-and-enzyme-7cb39228a5ea  
   Specific tips and advice for testing components that use the Semantic-UI-React library, including advice on focusing your tests on your own components' behavior.  The tips are also applicable to React component testing in general.
   
+- **Implementing basic Component tests using Jest and Enzyme**  
+  https://hackernoon.com/implementing-basic-component-tests-using-jest-and-enzyme-d1d8788d627a  
+  Describes the Jest and Enzyme tools, how they're used for testing React components, and gives examples of some simple tests.
+  
+- **Snapshot testing React Components with Jest**  
+  https://medium.com/@lukepierotti/snapshot-testing-react-components-with-jest-744a1e980366  
+  Covers the basics of snapshot testing, and how it can be used to test React components to ensure the rendering is consistent.
+  
+
+  
 #### Redux
 
 - **Simple React/Redux Testing**  
@@ -277,6 +287,10 @@
 - **Recipes for Testing Redux Actions and Reducers**  
   https://densitylabs.io/blog/recipes-for-testing-redux-actions-and-reducers  
   Useful examples of testing Redux code, using redux-thunk, chai, axios, redux-mock-store, and axios-mock-adapter.
+  
+- **Unit Testing Redux Connected Components**  
+  https://medium.com/@lukepierotti/unit-testing-redux-connected-components-692fa3c4441c  
+  Discusses testing connected components with a mock store vs testing `mapState` functions and plain components separately.
 
   
   

@@ -144,6 +144,10 @@
   https://blog.prismatik.com.au/redux-and-json-schema-c63368931143  
   Short discussion of the overall benefits of using JSON Schema to define data structures, and a Redux library that helps use those for Redux.
   
+- **A Simple Way to Implement Timers and Timeouts in Redux**  
+  https://spin.atomicobject.com/2017/11/20/timers-timeouts-redux/  
+  A quick example of storing a "current time" value and timers as "expire times".
+  
   
   
 #### Reducing Boilerplate
@@ -180,6 +184,22 @@
 - **ARC - Simplifying async requests in Redux apps**  
   https://medium.com/front-end-hacking/arc-simplifying-async-requests-in-redux-apps-e8052b874216  Describes the "async action" pattern commonly used with Redux, and how the ARC library can simplify the process of generating actions, action creators, and reducers that work with async actions.
   
+- **Abstracting Vuex/Redux Action Patterns**  
+  https://medium.com/coding-stones/abstracting-vuex-redux-action-patterns-8df36b0e2fcc  
+  Examples of generating action types and action creators that use similarly-formatted actions (such as FETCH_DATA_REQUEST/SUCCESS/ERROR).
+  
+- **Stop writing mapStateToProps, start using declarative models**  
+  https://medium.com/@kyleramirez/part-1-stop-writing-mapstatetoprops-start-using-declarative-models-ce72716db9fc  
+  https://medium.com/@kyleramirez/part-2-stop-writing-mapstatetoprops-start-using-declarative-models-403734a5f9ee  
+  Discusses a library called ReactiveRecord, which encapsulates the process of defining client-side models for REST APIs, fetching data, and reading it from the store.
+  
+- **"Comments on 'reducing boilerplate'"**  
+  https://www.reddit.com/r/reactjs/comments/7069ct/i_love_redux_but_i_hate_the_boilerplate/dn1mj4s/  
+  A great comment on what "boilerplate" actually means, how people optimize too much for initial dev time, and how Redux improves long-term maintainability.
+  
+- **How to delete hundreds (or thousands) of lines of ReduxJS code**  
+  https://medium.com/@ianduvall/how-to-delete-hundreds-or-thousands-of-lines-of-reduxjs-code-4736b34f7345  
+  Short examples of reusable action creator and reducer logic for handling "loading" state for multiple features in an app.
   
   
 #### Network Management
@@ -208,3 +228,7 @@
 - **Redux Websocket Integration**  
   https://medium.com/@ianovenden/redux-websocket-integration-c1a0d22d3189  
   A summary of one possible approach for integrating Websocket functionality into a React/Redux application architecture.
+
+- **What's the best way to store tokens in Redux?**  
+  https://michaelwashburnjr.com/whats-the-best-way-to-store-tokens-in-redux/  
+  Discusses pros and cons of storing auth tokens in app state vs localStorage, and what code should be responsible for handling the tokens.

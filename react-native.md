@@ -104,3 +104,7 @@
   https://madebymany.com/stories/a-year-of-react-native-styling-part-1  
   https://madebymany.com/stories/a-year-of-react-native-styling-part-2  
   Looks at ways that styling in RN differs from styling on the web, and useful patterns for organizing styling logic in RN apps.
+  
+- **React Native app performance: Major issues and insights on improving your app's performance**  
+  https://www.simform.com/react-native-app-performance/  
+  A detailed look at common causes of perf issues in RN, such as memory leaks, large app size, and slow rendering, and discusses various solutions.

@@ -39,6 +39,10 @@
   https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/  
   An excellent article that describes the concepts of state machines, how they relate to applications, and how they can be applied to help manage React component behavior.
   
+- **Adventures in creating a React component library with Create React App and TypeScript**  
+  https://medium.com/@stokedbits/adventures-in-creating-a-react-component-library-with-create-react-app-and-typescript-26d1116a7d87  
+  Walks through the process of using the TS+CRA starter kit as a baseline for building and publishing a component library.
+  
 
 #### Security
 

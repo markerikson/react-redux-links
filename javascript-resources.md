@@ -71,6 +71,10 @@ While this list is primarily focused on learning React and Redux, and generally 
   http://exploringjs.com/  
   Multiple free online books from Dr. Axel Rauschmayer.  "Speaking Javascript" covers all of Javascript through ES5; "Exploring ES6" covers ES6 in depth; and other books look at versions of Javascript after ES6 and how to set up an ES6+ development environment.
   
+- **The Modern Javascript Tutorial**  
+  http://javascript.info/  
+  A large tutorial series that covers all aspects of the modern Javascript language (basic syntax, data types, objects, and advanced function usage), as well as a section on using Javascript to interact with the DOM in web pages.
+  
 - **23 Free Javascript Books**  
   https://hackerlists.com/free-javascript-books/  
   A list of many Javascript books available for free online.
@@ -102,15 +106,9 @@ While this list is primarily focused on learning React and Redux, and generally 
   http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/  
   A dive into core concepts of how Javascript objects behave: prototypes, constructors, scopes, closures, and `this`.  The second edition includes more of a focus on ES6 and newer features.
   
-- **The Modern Javascript Tutorial**  
-  http://javascript.info/  
-  A large tutorial series that covers all aspects of the modern Javascript language (basic syntax, data types, objects, and advanced function usage), as well as a section on using Javascript to interact with the DOM in web pages.
-  
 - **The JavaScript Way**  
   https://github.com/bpesquet/thejsway  
   A modern introduction to the JavaScript language, intended to be beginner-friendly, comprehensive, standards-aligned with the latest syntax and good practices, and hands-on.
-  
-
 
 
 #### Online Code Editors

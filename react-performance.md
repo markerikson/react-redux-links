@@ -178,6 +178,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/riipen-engineering/the-virtual-dom-and-its-anti-patterns-aa4c523d00ed  
   First in a 3-part series discussing causes of slow components and wasteful rendering.  Later posts will cover ways to optimize Redux usage, and tools to find bottlenecks that can be optimized.
   
+- **How to greatly improve your React app performance**  
+  https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6  
+  Discusses React perf issues like bad `sCU` implementations, changing the DOM too fast, and event/callback usage, with possible solutions.  
+  
   
 #### Code Splitting and Progressive Apps
 
@@ -346,3 +350,11 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Measuring performance gains - AngularJS to React (with Redux or MobX)**  
   https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455  
   A highly detailed article that investigates and benchmarks performance between an Angular 1.x app and equivalent React+Redux and React+MobX apps in a variety of real-world use cases.  Excellently written and researched.
+  
+- **The most unknown Redux performance trick**  
+  https://medium.com/@jidefr/the-most-unknown-redux-performance-trick-986fdfe871fa  
+  Examples of how `connect`'s lesser-known `areStatesEqual` option can be used to skip unnecessary re-renders.
+  
+- **Optimizing Redux Components**  
+  https://medium.com/riipen-engineering/optimizing-redux-components-cbaad062abc7  
+  Discusses Redux-specific perf optimizations, such as avoiding unnecessary work in `mapState` functions, memoization, and advanced comparison function options for `connect`.
