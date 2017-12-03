@@ -181,6 +181,10 @@
   http://goshakkk.name/javascript-generators-understanding-sample-use-cases/  
   A simple thinking pattern for easily understanding generators, plus 3 practical applications.
   
+- **ES6 Generators and asynchronous Javascript**  
+  http://web.archive.org/web/20160304215133/https://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html  
+  A clear description of how generator functions can be paused and continued, and how that capability enables writing asynchronous code in a synchronous-looking way.
+  
   
 
 #### Promises
@@ -232,6 +236,10 @@
 - **ES6 Promises: Patterns and Anti-Patterns**  
   https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918  
   Several useful techniques for using Promises, such as "promisifying" callback-based functions and running promises in parallel or sequence, and some common mistakes to avoid like not actually returning anything in a promise callback.
+  
+- **Gotchas about async/await and Promises**  
+  https://dev.to/maxart2501/gotchas-about-asyncawait-and-promises-9di  
+  Several valuable tips about how to safely use async/await and Promise behavior, especially around error-handling.
   
   
 #### Techniques
@@ -308,3 +316,7 @@
 - **ES6 Modules in Node Today**  
   https://medium.com/web-on-the-edge/es-modules-in-node-today-32cff914e4b  
   John-David Dalton, author of Lodash, announces his new ES6 module loader, which enables ES module usage in Node right now. 
+  
+- **State of Modules in JavaScript**  
+  https://www.sitepen.com/blog/2017/10/26/state-of-modules-in-javascript/  
+  Covers the key features of ES modules, including basic syntax, syntax for importing/exporting/re-exporting, dynamic imports, debugging, bundling, and more.

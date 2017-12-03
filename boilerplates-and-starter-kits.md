@@ -133,3 +133,7 @@
   https://medium.com/@Torwori/setting-up-a-front-end-project-part-3-38f1681d310b  
   https://medium.com/@Torwori/setting-up-a-front-end-project-part-4-b6fe32e58e5  
   An in-depth tutorial series covering setup and configuration of many tools, including Git, Webpack, Babel, ESLint, and Typescript.
+  
+- **Setting up Webpack, Babel, and React from scratch in 2017**  
+  https://stanko.github.io/webpack-babel-react-revisited/  
+  A step-by-step tutorial that demonstrates each piece of the process needed to set up a build system from scratch.

@@ -30,6 +30,20 @@
   https://github.com/FarhadG/ui-react  
   A free online book that teaches how to modular, extendable, and scalable component-based UIs.  Covers best practices, and techniques like CSS preprocessors, CSS modules, inline styles, and more.  Chapters available to read for free on Github, and the Leanpub book can be picked up for free as well.
   
+- **All You Need To Know About CSS-in-JS**  
+  https://medium.com/@wesharehoodies/all-you-need-to-know-about-css-in-js-984a72d48ebc  
+  A clear summary of the differences between "inline styles" and "CSS-in-JS", the pros and cons of using CSS-in-JS, and quick examples of using some of the most popular CSS-in-JS libraries.
+  
+- **The CSS Holy War & How To Think Beyond Dogma / A Brief History of CSS-in-JS: How We Got Here and Where We're Going**  
+  https://medium.com/gitconnected/the-css-holy-war-how-to-think-beyond-dogma-e2c67692d409  
+  https://medium.com/gitconnected/a-brief-history-of-css-in-js-how-we-got-here-and-where-were-going-ea6261c19f04  
+  A pair of articles that look at the history of CSS, discuss the problems it tries to solve, 
+  and describe the use of CSS-in-JS as a way to help solve certain use cases in today's apps.
+  
+- **Four ways to style React components**  
+  https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822  
+  Quick examples of plain CSS, CSS modules, inline styles, and the styled-components library.
+  
 
 #### Components and Styling
   
@@ -158,7 +172,13 @@
   https://medium.com/@tkh44/emotion-ad1c45c6d28b  
   The author of the Emotion library gives an overview of its principles, benchmarks, and uses.
 
+- **With styled-components into the future**  
+  https://medium.com/styled-components/with-styled-components-into-the-future-d1d917e7c22c  
+  A talk transcript that discusses the history and future direction of the Styled-Components library, including how it works, improvements in v2, and plans for interoperability between CSS-in-JS libraries.
   
+- **The performance of styled React components**  
+  http://blog.primehammer.com/2017/09/27/the-performance-of-styled-react-components/  
+  Benchmarks comparing size, build speed, and other aspects of different CSS-in-JS libraries.
   
   
 #### Techniques and Examples

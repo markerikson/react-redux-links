@@ -27,21 +27,9 @@
   https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components-630fdfd90c9c  
   Clarifies the meaning of the terms, which are often used in overlapping ways.
   
-- **How to use Classes and Sleep at Night**  
-  https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4  
-  Some pragmatic opinions on when and how to use the ES6 "class" keyword, particularly in relation to React components.
-  
 - **Embracing Functions in React**  
   https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30  
-  A look at stateless functional components in React, and why they might be useful or should be considered in the first place.
-  
-- **React Stateless Functional Components: Nine Wins You Might Have Overlooked**  
-  https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc  
-  Thoughts on reasons why you might want to write more components using the functional syntax.
-
-- **How to declare React Components in 2017**  
-  https://medium.com/@npverni/how-to-declare-react-components-in-2017-2a90d9f7984c  
-  A quick overview of the three ways to declare React components, and which ones should be preferred.
+  A look at stateless functional components in React, and why they might be useful or should be considered in the first placee.
   
 - **Building User Interfaces with Pure Functions and Function Composition in React**  
   https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/  
@@ -50,6 +38,41 @@
 - **React Bits: React patterns, techniques, tips, and tricks**  
   https://github.com/vasanthk/react-bits  
   An extensive list of terms, concepts, patterns, and techniques for writing React components, with explanations and examples.  A few of the descriptions are overly opinionated and some items are not things the React team would recommend, but overall an excellent resource.
+  
+- **Simple React Patterns**  
+  http://lucasmreis.github.io/blog/simple-react-patterns/  
+  A clearly written set of examples that showcase common React component patterns like "container/presentational", "Higher-Order Components", "Function-as-Child" / "render props", and "providers".
+  
+- **React Component Patterns**  
+  https://medium.com/gitconnected/react-component-patterns-ab1f09be2c82  
+  A summary of common React component patterns with short examples.
+  
+- **10 React mini-patterns**  
+  https://hackernoon.com/10-react-mini-patterns-c1da92f068c5  
+  Ten useful patterns for working with React components, including data flow, techniques for working with inputs, controlling CSS usage, switching between components, and more.
+  
+- **React Training: Advanced React - React Patterns**  
+  https://reacttraining.com/patterns/  
+  The lecture videos from React Training's "Advanced React" course.  The videos themselves are now free.  Covers topics like declarative vs imperative, compound components, context, Higher Order Components, render props, and controlled components.
+  
+
+#### Component Definition Approach Comparisons
+  
+- **How to use Classes and Sleep at Night**  
+  https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4  
+  Some pragmatic opinions on when and how to use the ES6 "class" keyword, particularly in relation to React components.
+  
+- **React Stateless Functional Components: Nine Wins You Might Have Overlooked**  
+  https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc  
+  Thoughts on reasons why you might want to write more components using the functional syntax.
+  
+- **7 Reasons to Outlaw React's Functional Components**  
+  https://medium.freecodecamp.org/7-reasons-to-outlaw-reacts-functional-components-ff5b5ae09b7c 
+  The author of the "Nine Wins" post gives some counter-arguments on why you might want to prefer writing class components instead of functional components.  Some good discussion in the comments.
+  
+- **How to declare React Components in 2017**  
+  https://medium.com/@npverni/how-to-declare-react-components-in-2017-2a90d9f7984c  
+  A quick overview of the three ways to declare React components, and which ones should be preferred.
   
 - **We Jumped the Gun Moving React Components to ES2015 Class Syntax**  
   https://medium.com/dailyjs/we-jumped-the-gun-moving-react-components-to-es2015-class-syntax-2b2bb6f35cb3  
@@ -116,6 +139,10 @@
 - **Avoiding deeply nested component trees**  
   https://medium.com/@RubenOostinga/avoiding-deeply-nested-component-trees-973edb632991  
   Examples of `children` to include arbitrary content inside of a component for more flexible handling of presentation and composition.
+  
+- **Tips on Creating Reusable Components**  
+  http://dylanpaulus.com/reactjs/2017/09/08/tips-on-creating-reusable-components.1/  
+  Examples of using `children` and other props to make components more composable and reusable.
   
 
 #### React Component Lifecycle
@@ -205,6 +232,14 @@
   https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17  
   Some short examples of how to pass data between parents, children, and siblings.
   
+- **How to structure components in React?**  
+  https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546  
+  Compares multiple ways to pass data from a parent to a child, including no props, passing a value object, passing required props, passing a map of props, and using `children`.
+  
+- **Context 101**  
+  http://reactboston.surge.sh/#/  
+  Slides from Ken Wheeler's ReactBoston talk on React's `context` feature. Covers what context is, why you might want to use it, and when/ how to use it/
+  
 
 #### Component Categories
 
@@ -267,6 +302,16 @@
 - **How do you separate React components?**  
   https://reactarmory.com/answers/how-should-i-separate-components  
   Describes four categories of React components ("view", "control", "controllers", and "containers"), and gives suggestions on when and how to factor out new components.
+  
+- **Refactoring: Moving API calls to a higher-order component**  
+  https://medium.com/@guigonc/refactoring-moving-api-calls-to-a-higher-order-component-53062c086cb  
+  Shows how to progressively refactor fetching logic out of a component and move it into a parent component, then make that parent component reusable.
+  
+- **The React + Redux Container Pattern**  
+  https://dev.to/sophiedebenedetto/the-react--redux-container-pattern-bmk  
+  An excellent explanation of what "container components" and "presentational components" are, with discussion of how they fit together and a good sample project implementing the ideas.
+  
+
   
 
 #### Wrapping Non-React Code
@@ -390,6 +435,10 @@
   https://medium.com/@elsdoerfer/good-react-modals-548cd9c2f7f4  
   Covers ways to handle issues with modal content not being rendered while doing animations, and side-loading data for a modal while maintaining a loading indicator.
   
+- **Using a React 16 Portal to do something cool**  
+  https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202  
+  Demonstrates using React 16's `createPortal` API to control a separate browser window from the original React component tree.
+ 
 
 #### Other Component Patterns
 
@@ -424,4 +473,17 @@
 - **Using React v16 to create self-destructing components**  
   https://medium.com/@gajus/using-react-v16-to-create-self-destructing-components-de8e4eb61d0f  
   Demonstrates how a tiny component that simply returns its own children can simplify the process of returning arrays of components in React 16.
+  
+- **3 React Gripes**  
+  https://gist.github.com/jlongster/febd2a397aff9501abec0c2d66075ec8  
+  https://twitter.com/jlongster/status/921016877408837632  
+  James Long describes three things about React that bother him: inability to easily have parents get refs to nested elements, PureComponents comparing both props and state, and a general tendency to do lots of processing in `componentWillReceiveProps`.  Some good discussion in both the gist comments and Twitter.
+  
+- **React without `this`**  
+  https://medium.com/@baronmaximilianwilleford/react-without-this-39a76b8f2160  
+  Describes an alternate approach to writing components using factory functions to eliminate the need for the `this` keyword
+  
+- **You don't need to know "Dependency Injection"**  
+  https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a  
+  Looks at the concept of dependency injection, and three ways that that relates to React components and props.
   

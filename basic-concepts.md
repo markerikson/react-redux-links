@@ -68,6 +68,18 @@
   https://medium.com/this-dot-labs/building-modern-web-applications-in-2017-791d2ef2e341  
   An excellent look at the history of the major client-side web frameworks, how they developed over the last few years, and some suggestions for when each framework might be appropriate.
   
+- **The melting pot of JavaScript**  
+  https://increment.com/development/the-melting-pot-of-javascript/  
+  Dan Abramov discusses the apparent messiness of the JavaScript ecosystem, why there's a proliferation of tools and libraries, the complexity of configuring those tools, and how providing good defaults can lead to a better experience for the community.
+  
+- **Modern JavaScript Explained for Dinosaurs**  
+  https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70  
+  Recaps the history of how JavaScript tools have evolved to what they are today in 2017, to provide historical context.  Includes examples of how different tools were used and and what problems they help solve.
+  
+- **A Brief, Incomplete History of JavaScript**  
+  https://closebrace.com/articles/2017-09-11/a-brief-incomplete-history-of-javascript  
+  An excellent history lesson that recaps the four major eras of web development and JS usage: the Early Era, the jQuery Era, the Single Page App Era, and the Modern Era.
+  
 
 #### Suggested Learning Approaches
 

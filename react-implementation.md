@@ -29,26 +29,7 @@
 - **React Elements vs React Components**  
   https://tylermcginnis.com/react-elements-vs-react-components/  
   An explanation of how elements represent DOM nodes, what `createElement` does, and how components and rendering relate to elements
-  
-  
-#### JSX and Events
 
-- **How the JSX Transform Works**  
-  https://jaketrent.com/post/how-jsx-transform-works/  
-  A helpful explanation of how JSX tags are transformed into React elements, with example snippets
-
-- **JSX In Depth - an interactive tutorial**  
-  http://blog.klipse.tech/javascript/2016/12/14/jsx.html  
-  An interactive version of the "JSX in Depth" tutorial from the React docs
-  
-- **Events in React**  
-  https://www.kirupa.com/react/events_in_react.htm  
-  An introduction to React's event handling system, including useful tips and some gotchas
-  
-- **React events in depth**  
-  https://www.youtube.com/watch?v=dRo_egw7tBc  
-  A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
-  
 
 #### Miniature React Implementations
 
@@ -87,7 +68,8 @@
   https://engineering.hexacta.com/didact-rendering-dom-elements-91c9aa08323b  
   https://engineering.hexacta.com/didact-instances-reconciliation-and-virtual-dom-9316d650f1d0  
   https://engineering.hexacta.com/didact-components-and-state-53ab4c900e37  
-  An ongoing series of articles showing how to build parts of React's API and implementation, like `createElement`.
+  https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec  
+  An ongoing series of articles showing how to build parts of React's API and implementation, like `createElement`, `setState`, and the "Fiber" reconciliation approach.
   
 - **deact: React under the hood**  
   https://github.com/lukebelliveau/deact  
@@ -181,6 +163,14 @@
   https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b  
   https://medium.com/@asolove/preact-internals-3-some-fiddly-little-bits-f353b1ad7abc  
   A 3-part series that dives into the implementation and concepts of the Preact library codebase.
+  
+- **An Interview with the React Team About Wordpress and Project Gutenberg**  
+  https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/  
+  A Wordpress community site interviews Dan Abramov, Andrew Clark, and Sophie Alpert about a variety of topics, including how they prioritize features, how React is tested, dealing with breaking changes, downsides of React, and aspects of Wordpress using React for its "Project Gutenberg" tool.
+  
+- **The React Story: How Facebook's Instagram Acquisition Led to the Open Sourcing of React**  
+  https://stackshare.io/posts/the-react-story  
+  An extensive podcast interview with Pete Hunt, former React team member, recounting his early work at Facebook, how he began using React at Instagram, how that led to the growth of React inside Facebook, and how the decision to open-source React happened.  Page includes a complete transcript of the discussion.
    
 
 #### React Fiber
@@ -209,6 +199,14 @@
   https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520  
   A helpful list of links to further articles and resources for learning about React Fiber
   
+- **React Fiber for the rest of us**  
+  http://www.benmvp.com/slides/2017/reactboston/fiber.html#/  
+  Slides from Ben Ilegbodu's ReactBoston presentation, which summarize the changes in React 16.
+  
+- **What's new in React 16?**
+  https://www.robinwieruch.de/what-is-new-in-react-16/  
+  A very useful look at the new user-facing features in React 16, with code examples.
+  
 - **React Fiber Architecture**  
   https://github.com/acdlite/react-fiber-architecture  
   A description of React's new core algorithm, React Fiber
@@ -228,3 +226,7 @@
 - **A look inside React Fiber**  
   http://makersden.io/blog/look-inside-fiber/  
   Traces through the source code for React 16 / React Fiber, starting with the main `render()` function and diving down from there through the system.
+  
+- **What is React Fiber?**  
+  https://giamir.com/what-is-react-fiber  
+  An overview of the React Fiber rewrite, and how React's reconciler has been rewritten to improve performance and make rendering more flexible.

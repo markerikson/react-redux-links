@@ -99,4 +99,11 @@
 - **How to Organize a Large React Application and Make It Scale**  
   https://www.sitepoint.com/organize-large-react-application/
   A simple approach to building and structuring large React applications
-  
+  
+- **Domain directory structure for React apps - why it's worth trying**  
+  https://tech.offgrid-electric.com/domain-directory-structure-for-react-apps-why-its-worth-trying-b3855ee77a1e  
+  Discusses experience with the "A Better File Structure" approach, and gives advice on best practices for import paths, creating sub-domains, and more.
+  
+- **The 100% correct way to structure a React app (or why there's no such thing**  
+  https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed  
+  An extensive set of pragmatic thoughts on good practices for React project structure.  Tries to quantify time spent on activities like creating new files and switching editor tabs, and gives some opinions on which patterns are more useful.

@@ -85,3 +85,7 @@
   https://github.com/Klathmon/react-class-binder  
   https://www.reddit.com/r/reactjs/comments/4p0ytu/i_made_a_small_package_to_easily_autobind_this_in/  
   Automatically bind methods defined in a React component using the ES2015 class syntax (similar to how React.createClass works).  The Reddit comments have discussion on some differences between the various libs that implement autobinding.
+  
+- **Reflective Bind**  
+  https://github.com/flexport/reflective-bind  
+  A Babel plugin that transforms use of inline functions in render methods so you don't have to worry about rendering performance.

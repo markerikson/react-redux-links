@@ -67,6 +67,14 @@
   https://hackernoon.com/a-small-trick-to-write-clean-reducers-a0b1b1eff3d2  
   Shows a contrived example of updating deeply nested state, and discusses use of `lodash/fp` to simplify the update logic instead.
   
+- **Dynamic Store Injection for Redux**  
+  https://docs.google.com/presentation/d/1JA9hhBgx9-k0sHO9UVSTiD1WTBvsZJ13cWIudUao9vE/edit#slide=id.gcb9a0b074_1_0  
+  A slideshow that demonstrates the basic approach for dynamically adding reducers at runtime.
+  
+- **State Snapshots with Redux**  
+  https://medium.com/@kyleshevlin/state-snapshots-with-redux-209884cca170  
+  Describes a useful technique for saving known state values and using those to reset or restore an earlier state.
+  
 
 #### Selectors and Normalization
 
@@ -160,3 +168,36 @@
 - **The only reducer you will ever need**  
   https://medium.com/riipen-engineering/the-only-reducer-you-will-ever-need-4dd41206f980  
   Demonstrates using Normalizr and seamless-immutable to write a generic entity merging reducer
+  
+- **How to use Normalizr to organize data in a Redux store**  
+  https://dashbouquet.com/blog/frontend-development/using-normalizr-to-organize-data-in-stores-practical-guide  
+  https://dashbouquet.com/blog/frontend-development/using-normalizr-to-organize-data-in-store-part-2  
+  A 2-part post with examples of normalizing nested data using Normalizr, using Redux-Saga to control the fetching logic, and denormalizing the data for use in the UI.
+  
+- **React + Reselect - Memoized Selectors for Efficient Rendering**  
+  https://spin.atomicobject.com/2017/10/24/react-reselect/  
+  Introduces the Reselect library for memoized selector functions, and describes how it can be used apart from Redux.
+  
+- **Introducing @ngrx/entity**  
+  https://medium.com/ngrx/introducing-ngrx-entity-598176456e15  
+  Describes an NgRX-based library for generating reducer operations and selectors for normalized entities.
+  
+- **Better Redux Selectors with Ramda**  
+  https://medium.com/@grrttn/better-redux-selectors-with-ramda-c1ab7af3f16  
+  A long article that describes how to use the Ramda FP utility library to create selectors, including use of functional composition.
+  
+- **Shape your Redux store like your database**  
+  https://hackernoon.com/shape-your-redux-store-like-your-database-98faa4754fd5  
+  Discusses the merits of storing data in arrays vs lookup tables for access speed, and adding additional indices to allow easily lookup up items based on other values besides IDs.
+  
+- **Optimizing React Redux Application Development with Reselect**  
+  https://codebrahma.com/reselect-tutorial-optimizing-react-redux-application-development-with-reselect/  
+  A good tutorial on Reselect.  Covers the concept of "selector functions", how to use Reselect's API, and how to use memoized selectors to improve performance.
+  
+- **Usage of Reselect in a React-Redux Application**  
+  https://dashbouquet.com/blog/frontend-development/usage-of-reselect-in-a-react-redux-application  
+  Discusses the importance of memoized selectors for performance, and good practices for using Reselect.
+  
+- **Redux: Up your game with selectors**  
+  https://medium.com/@emilycoco/redux-up-your-game-with-selectors-9aee3a6928ae  
+  A quick look at the benefits of using selector functions to encapsulate looking up data from the store.

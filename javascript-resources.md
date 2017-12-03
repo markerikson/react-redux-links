@@ -10,6 +10,9 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript  
   Mozilla maintains a fantastic set of developer resources for Web technologies, including a comprehensive reference to the Javascript language and a number of associated tutorials.  Their "reintroduction to Javascript" article is a great overview of what the language looks like.
   
+- **Modern JS Cheatsheet**  
+  https://github.com/mbeaudru/modern-js-cheatsheet  
+  An extensive list of explanations for syntax and concepts used in modern JS applications
   
 - **Eric Elliott's Javascript Resource Lists**  
   https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e  
@@ -68,6 +71,10 @@ While this list is primarily focused on learning React and Redux, and generally 
   http://exploringjs.com/  
   Multiple free online books from Dr. Axel Rauschmayer.  "Speaking Javascript" covers all of Javascript through ES5; "Exploring ES6" covers ES6 in depth; and other books look at versions of Javascript after ES6 and how to set up an ES6+ development environment.
   
+- **The Modern Javascript Tutorial**  
+  http://javascript.info/  
+  A large tutorial series that covers all aspects of the modern Javascript language (basic syntax, data types, objects, and advanced function usage), as well as a section on using Javascript to interact with the DOM in web pages.
+  
 - **23 Free Javascript Books**  
   https://hackerlists.com/free-javascript-books/  
   A list of many Javascript books available for free online.
@@ -96,24 +103,19 @@ While this list is primarily focused on learning React and Redux, and generally 
   A free course from Wes Bos that teaches how to build 30 different interesting projects, using only "vanilla" Javascript.
   
 - **Javascript; The Core**  
-  http://dmitrysoshnikov.com/ecmascript/javascript-the-core/  
-  A dive into core concepts of how Javascript objects behave: prototypes, constructors, scopes, closures, and `this`.
-  
-- **The Modern Javascript Tutorial**  
-  http://javascript.info/  
-  A large tutorial series that covers all aspects of the modern Javascript language (basic syntax, data types, objects, and advanced function usage), as well as a section on using Javascript to interact with the DOM in web pages.
+  http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/  
+  A dive into core concepts of how Javascript objects behave: prototypes, constructors, scopes, closures, and `this`.  The second edition includes more of a focus on ES6 and newer features.
   
 - **The JavaScript Way**  
   https://github.com/bpesquet/thejsway  
   A modern introduction to the JavaScript language, intended to be beginner-friendly, comprehensive, standards-aligned with the latest syntax and good practices, and hands-on.
-  
-  
-#### Interactive Exercises
-
-
 
 
 #### Online Code Editors
+
+- **CodeSandbox**  
+  https://codesandbox.io  
+  A full-fledged online IDE that lets you build entire applications using React, Vue, and other toolkits.
 
 - **A Roundup of Online Code Playgrounds**  
   https://www.sitepoint.com/round-up-online-code-playgrounds/  

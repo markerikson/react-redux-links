@@ -8,6 +8,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack Documentation**  
   https://webpack.js.org/  
   Webpack's new documentation site, explaining concepts, configuration, and recipes
+  
+- **Webpack Academy**  
+  https://webpack.academy/  
+  Courses on Webpack concepts and usage, from the Webpack team.
 
 - **Webpack from First Principles**  
   https://www.youtube.com/watch?v=WQue1AN93YU  
@@ -34,7 +38,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   An intro to what Webpack is, what it can do, and how to use it.
   
 - **What is Webpack and what can it do for you?**  
-  http://x-team.com/2016/09/webpack-can-absolute-beginners/  
+  https://x-team.com/blog/webpack-can-absolute-beginners/  
   A plain-English explanation of what Webpack is and what problems it can help solve.
   
 - **Seamless client side Javascript with Webpack**  
@@ -57,9 +61,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   http://sokra.github.io/slides/webpack2/#3  
   A slideshow from Webpack's original author.  Describes the basics of Webpack, how it can be used to build Progressive Web Apps, and improve speed and reliability through bundling.
   
-- **Webpack Academy**  
-  https://webpack.academy/  
-  Courses on Webpack concepts and usage, from the Webpack team.
+
   
 
 #### Basic Tutorials
@@ -179,8 +181,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   A 4-part series that illustrates core Webpack concepts via a series of small example repos, with explanations of the source and concepts in the articles.
   
 - **How to setup Webpack 2.0 from scratch in 2017**  
-  https://medium.com/@wesharehoodies/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e  
-  https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-ii-66beb5dbccc2  
+  https://codeburst.io/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e  
+  https://codeburst.io/simple-beginner-guide-for-webpack-2-0-from-scratch-part-ii-66beb5dbccc2  
+  https://codeburst.io/simple-beginner-guide-for-webpack-2-0-from-scratch-part-iii-d374c021f9fc  
+  https://codeburst.io/simple-beginner-guide-for-webpack-2-0-from-scratch-part-iv-102efc01ffad  
+  https://codeburst.io/simple-beginner-guide-for-webpack-2-0-from-scratch-part-v-495dba627718  
   A detailed tutorial that walks through setting up a Webpack config piece-by-piece, and explains several Webpack concepts along the way.
   
 - **A Webpack Setup that Makes Sense**  

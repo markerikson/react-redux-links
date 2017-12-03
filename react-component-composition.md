@@ -87,6 +87,20 @@
   http://blog.jakoblind.no/real-world-higher-order-components-hocs/  
   Several useful examples of actual HOCs, such as adding a hidden prop, providing toggle functionality, and only showing a component if a feature flag is turned on.
   
+- **Composing React components through props transference**  
+  https://blog.echobind.com/composing-react-components-through-property-transference-d8bc2dbecef5  
+  Quick examples of how to use `React.children.map()` and `React.cloneElement()` to pass props onto arbitrary child elements.
+  
+- **Higher Order Components in React**  
+  https://www.sitepen.com/blog/2017/08/15/higher-order-components-in-react/  
+  Shows an example of a React app that needs to authenticate routes, and how a HOC can help handle that in a reusable way.  Also includes example HOCs for A/B-testing features, collecting metrics, and injecting props.
+  
+- **Save the "zombines": How to add state and lifecycle methods to stateless React components**  
+  https://codeburst.io/save-the-zombies-how-to-add-state-and-lifecycle-methods-to-stateless-react-components-1a996513866d  
+  A humorously-written look at how to extract state management logic into HOCs.
+  
+
+  
 
 #### Render Props/Function As Child
 
@@ -105,6 +119,30 @@
 - **Sharing stateful UI logic in React apps using Render Callback components**  
   https://trevordmiller.com/blog/react-render-callback-components  
   Examples of how to use the "render callback" / "function as a child" pattern to extract common logic for reuse.
+  
+- **Declarative Components in React**  
+  https://blog.echobind.com/declarative-components-in-react-b21ced9895b5  
+  Demonstrates ways to make reusable flexible components using the "function as a child" pattern. 
+  
+- **Upgrade your React.js HOC with renderProps**  
+  https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/  
+  Gives examples of how to adapt HOCs for use with the render props pattern.
+  
+- **Use a Render Prop!**  
+  https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce  
+  https://news.ycombinator.com/item?id=15651808  
+  Michael Jackson describes why he gave his "Never Write Another HOC" talk, looks at some of the problems with both mixins and HOCs, and how render props can help solve those.  There's some related discussion in the HN comments.
+  
+- **How to give rendering control to users with prop getters**  
+  https://blog.kentcdodds.com/how-to-give-rendering-control-to-users-with-prop-getters-549eaef76acf  
+  Kent C Dodds describes how "prop getter" functions can be used with render props to provide more control over how rendering behavior is hooked together.
+  
+- **Rendering a function with React**  
+  https://blog.kentcdodds.com/rendering-a-function-with-react-ca3eaf0751e2  
+  Kent C Dodds looks at some unusual use cases for reusing React components, and a possible solution that uses a somewhat hacky approach of marking a function as an iterable.
+  
+
+  
   
 
 #### Functional Composition
@@ -142,6 +180,14 @@
   https://www.bignerdranch.com/blog/destroy-all-classes-turn-react-components-inside-out-with-functional-programming/  
   Demonstrates progressively refactoring a class component with logic into separate functional components, and then tying them together with Recompose
   
+- **A React journey: from vanilla, to type-safe, to monadic**  
+  https://medium.com/@giuseppemaggiore/a-react-journey-from-vanilla-to-type-safe-to-monadic-41beaa386910  
+  Demonstrates adding TypeScript to a JS React app for type-checking, then using a specialized library called Monadic-React to perform complex and type-safe composition of React components and logic.
+  
+- **Using Recompose to build higher-order components**  
+  https://blog.bigbinary.com/2017/09/12/using-recompose-to-build-higher-order-components.html  
+  Examples of refactoring components using the Recompose library, including use of `branch` and `compose`.
+  
 
 #### Comparing Composition Approaches
 
@@ -163,6 +209,21 @@
   Michael Jackson demonstrating that a component with render prop can do anything a HOC can do, and more.
   
  - **React Composition Patterns from the Ground Up**  
-   https://medium.com/alexkrolick/react-composition-patterns-from-the-ground-up-8401aaad93d7  
+   https://hackernoon.com/react-composition-patterns-from-the-ground-up-8401aaad93d7  
    Comparison of patterns such as Lifting State, Higher-Order Components, Render Callbacks, and "Renderless" State Providers, and how they relate to React's component model.
  
+- **Solving the problems of Higher Order Components without throwing the baby out with the bathwater**  
+  https://hackernoon.com/solving-the-problems-of-higher-order-components-without-throwing-the-baby-out-with-the-bathwater-40ddc72df5aa  
+  A response to some criticisms of HOCs, such as indirection and naming collisions, showing some ways to compose HOCs to avoid the issues.
+  
+- **Randomness in React Props**  
+  https://medium.com/@joshuawcomeau/randomness-in-react-props-3929c1669f8b  
+  Demonstrates several approaches to structuring logic for generating values and passing them to children, including initialization in a constructor, creating a wrapper component, and using a function-as-a-child.
+  
+- **Simplifying life with React render callbacks**  
+  https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55  
+  Compares several approaches for passing data from a parent component directly to a child, including cloning children, using a HOC, and using render props.
+  
+- **React Developer's Everyday Struggle - Extending Big Applications**  
+  https://blog.callstack.io/react-developers-everyday-struggle-extending-big-applications-84ec4e62e2ad  
+  Looks at different possible solutions to handling form inputs and validation logic, including existing form libs, a validation HOC, and a function-as-children approach.

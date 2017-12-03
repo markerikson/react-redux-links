@@ -47,6 +47,18 @@
   https://css-tricks.com/react-router-4/  
   A deep look at patterns and strategies for using React-Router v4 successfully.
   
+- **Advanced React Router concepts: recursive path, code splitting, animated transitions, and more**  
+  https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db  
+  A tutorial that demonstrates how to implement a variety of useful features using React-Router v4.
+  
+- **React Router 4 Tutorial From Scratch**  
+  https://appdividend.com/2017/09/12/react-router-tutorial-example-scratch/  
+  A short tutorial demonstrating use of React Router v4
+  
+- **React Router v4 Unofficial Migration Guide**  
+  https://codeburst.io/react-router-v4-unofficial-migration-guide-5a370b8905a  
+  Practical advice and specific steps needed to migrate an app from React-Router v3 to v4.
+  
   
 #### Routing with Redux
   
@@ -124,3 +136,12 @@
 - **Preact Authentication Tutorial**  
   https://auth0.com/blog/preact-authentication-tutorial/  
   A tutorial that demonstrates how to build an app with Preact, including authentication, and makes some comparisons to doing so in React.
+  
+- **How to Implement Authentication for Your React App**  
+  https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf09eef3bb0b  
+  https://medium.appbase.io/securing-a-react-web-app-with-server-side-authentication-1b7c7dc55c16  
+  A pair of posts that demonstrate implementing both client-side and server-side authentication behavior for a React/Node app.
+  
+- **Protected Routes and Authentication with React Router v4**  
+  https://tylermcginnis.com/react-router-protected-routes-authentication/  
+  A great tutorial that shows how to create routes that only authenticated users can access.

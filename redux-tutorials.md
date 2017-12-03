@@ -19,6 +19,18 @@
 - **Modern Web Development with React and Redux**  
   http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/  
   An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
+  
+- **What Does Redux Do? (and when should you use it?)**  
+  https://daveceddia.com/what-does-redux-do/  
+  An excellent summary of how Redux helps solve data flow problems in a React app.
+  
+- **How Redux Works: A Counter-Example**  
+  https://daveceddia.com/how-does-redux-work/  
+  A great follow-up to the previous article.  It explains how to use Redux and React-Redux, by first showing a React component that stores a value in its internal state, and then refactoring it to use Redux instead.  Along the way, the article explains important Redux terms and concepts, and how they all fit together to make the Redux data flow work properly.
+  
+- **Redux and React: An Introduction**  
+  http://jakesidsmith.com/blog/post/2017-11-18-redux-and-react-an-introduction/  
+  A great introduction to Reduxs core concepts, with explanations of how to use the React-Redux package to use Redux with React.
 
 - **Single State Tree + Flux**  
   http://merrickchristensen.com/articles/single-state-tree.html  
@@ -138,6 +150,32 @@
   https://www.sitepoint.com/redux-not-art-structuring-state-react-apps/  
   A pair of very readable tutorials for getting started with Redux.  The first introduces Redux's core concepts while building out a small shopping cart example, and the second describes how to transition from storing data using React's `setState` over to putting it in Redux instead, and gives examples of managing real-world form state with Redux.
   
+- **When do I know I'm ready for Redux?**  
+  https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f  
+  Walks through a typical process of scaling up a React application, and how Redux can help solve common pain points with data flow.  Has some really neat animated diagrams that illustrate how state updates interact with the React component tree.
+  
+- **4 ways to dispatch actions with Redux**  
+  https://blog.bam.tech/developper-news/4-ways-to-dispatch-actions-with-redux  
+  Describes different ways to dispatch actions from React components: directly passing the store, using `connect`, using sagas, and using the `bindActionCreators` utility.
+  
+- **Introduction to Redux**  
+  https://www.kirupa.com/react/introduction_to_redux.htm  
+  A basic introduction to the ideas of storing data in Redux and dispatching actions to update that data.
+  
+- **Using Redux with React**  
+  https://www.kirupa.com/react/introduction_to_redux.htm  
+  An excellent follow-up to the previous article, with explanations of why Redux is helpful in a React app, and diagrams showing the data flow.
+  
+- **TLTR; Redux**  
+  https://medium.com/@nicotsou/tltr-redux-e4fc30f87e4a  
+  A clear descriptive overview of Redux's background, core concepts, principles, and usage with React.  Also describes the basics of async behavior, testing, and debugging.
+  
+- **Introduction to Redux / A beginner's introduction to working with Redux in React**  
+  https://dev.to/aurelkurtula/introduction-to-redux-1g3  
+  https://dev.to/aurelkurtula/a-beginners-introduction-to-working-with-redux-in-react-13k  
+  A pair of tutorials that explain the basics of working with a Redux store and how to use the React-Redux library.
+  
+  
 
 #### Project-Based Tutorials
 
@@ -253,6 +291,18 @@
 - **Building Tesla's Battery Range Calculator with React+Redux**  
   https://medium.freecodecamp.org/building-teslas-battery-range-calculator-with-react-part-2-redux-version-2ffe29018eec  
   Follows the "plain React" version in Part 1 by introducing basic Redux concepts, and modifying the original version to use Redux for managing state.
+  
+- **NodeJS React-Redux Tutorial**  
+  http://www.darrenbeck.co.uk/nodejs/react/reacttutorial-part1/  
+  A multi-part tutorial that covers building a news app with React, Redux, and a Node API server using MongoDB, as well as setting up JWT-based authentication.
+  
+- **Simple Redux Create Delete Contact Application**  
+  https://appdividend.com/2017/11/02/simple-redux-create-delete-contact-application/  
+  Demonstrates building a simple client-side contact list app
+  
+- **React + Redux: User Registration and Login Tutorial**  
+  http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example  
+  A tutorial that shows how to build a React+Redux app that uses JWT authentication, with the example based on a real-world application.
 
 
 #### Redux Implementation Walkthroughs

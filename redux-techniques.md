@@ -51,6 +51,10 @@
 - **How to treat Errors as first-class citizen in Flux (and Redux)**  
   https://medium.com/@jamiedixon/how-to-treat-errors-as-first-class-citizens-in-flux-and-redux-fca7f3d5c02d  
   Discusses how the FSA structure expects actions to have an optional `error` field, and how to write code that deals with that.
+  
+- **Redux in Action: Using the Redux DevTools**  
+  https://www.slideshare.net/ManningBooks/redux-in-action-learn-to-manage-and-consolidate-state  Some slides from the authors of the book "Redux in Action", explaining what the Redux DevTools are, how to set them up, and how to use them to view dispatched actions and debug state changes
+  
 
   
 #### Other  
@@ -117,11 +121,6 @@
 - **Let the Buyer Beware: React Redux Rerender Gotcha**  
   https://www.nathanl.in/posts/let-the-buyer-beware-react-redux-rerender-gotcha  
   An article describing some similar concerns regarding timing of Redux actions and React lifecycle methods, especially in regards to tracking loading state.
-  
-- **Why I created Redux-Tiles library to deal with Redux verbosity**  
-  http://blog.bloomca.me/2017/06/02/why-i-created-redux-tiles-library.html  
-  https://news.ycombinator.com/item?id=14482215  
-  Describes several concerns with increasing verbosity and complexity in Redux apps, and how the author's library can help simplify those.
 
 - **Manage analytics actions in React**  
   https://medium.com/trainline-engineering/manage-analytics-actions-in-react-67fae61495de  
@@ -130,7 +129,8 @@
 - **VR Redux / ReactVR Redux Revisited**  
   http://jimpurbrick.com/2017/01/04/vr-redux/  
   http://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/  
-  A pair of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
+  http://jimpurbrick.com/2017/11/10/replaying-replicated-redux/  
+  A set of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
   
 - **Using dynamic localization to improve accessibility with React and Redux**  
   https://medium.com/checkr/using-dynamic-localization-to-improve-accessibility-with-react-and-redux-7650878af6ef  
@@ -139,6 +139,67 @@
 - **Evil things you do in Redux - dispatch in updating lifecycle methods**  
   https://hackernoon.com/evil-things-you-do-with-redux-dispatch-in-updating-lifecycle-methods-ad116de882d4  
   Thoughts on the pros and cons of dispatching Redux actions in React lifecycle methods, such as causing cascades of re-renders and updates in other components.
+ 
+- **Redux and JSON Schema**  
+  https://blog.prismatik.com.au/redux-and-json-schema-c63368931143  
+  Short discussion of the overall benefits of using JSON Schema to define data structures, and a Redux library that helps use those for Redux.
+  
+- **A Simple Way to Implement Timers and Timeouts in Redux**  
+  https://spin.atomicobject.com/2017/11/20/timers-timeouts-redux/  
+  A quick example of storing a "current time" value and timers as "expire times".
+  
+  
+  
+#### Reducing Boilerplate
+
+- **Why I created Redux-Tiles library to deal with Redux verbosity**  
+  http://blog.bloomca.me/2017/06/02/why-i-created-redux-tiles-library.html  
+  https://news.ycombinator.com/item?id=14482215  
+  Describes several concerns with increasing verbosity and complexity in Redux apps, and how the author's library can help simplify those.
+  
+- **Reducing Redux Boilerplate with redux-actions**  
+  http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html  
+  A short look at how the `redux-actions` lib can simplify the process of defining action type, action creators. and reducers.
+
+- **Reducing Redux: avoiding boilerplate with redux-scc**  
+  https://medium.com/onfido-tech/reducing-redux-avoiding-boilerplate-with-redux-scc-b72c80c338e5  
+  https://medium.com/onfido-tech/redux-scc-update-combined-actions-and-custom-types-ce346ea91e85  Looks at how the redux-scc library allows building "store chunks", which simplify the amount of work needed to define and update a Redux store.
+  
+- **Redux Action Creator Creators**  
+  https://hackernoon.com/redux-action-creator-creators-6684b051d4c6  
+  An example of using functions that take additional arguments, and using those to generate action creators.  Includes example of using this to add analytics and promises to actions.
+  
+- **The only action you will ever need**  
+  https://medium.com/riipen-engineering/the-only-action-you-will-ever-need-f3a42661d2dd  
+  Looks at creating a reusable "fetch" action creator that can be customized to generate fetching logic for different REST API endpoints.
+  
+- **Redux mapStateToProps and mapDispatchToProps Shorthand**  
+  https://medium.com/@atomarranger/redux-mapstatetoprops-and-mapdispatchtoprops-shorthand-67d6cd78f132  
+  A quick example of the "object shorthand" supported by `connect` for `mapDispatch`, and use of Reselect's `createStructuredSelector` for equivalent behavior of `mapState`.
+  
+- **Less Redux Boilerplate with Union Types**  
+  https://codeburst.io/less-redux-boilerplate-with-union-types-3d5fd6acb53c  
+  Examples of using Elm-inspired "union types" to define Redux logic, as well as combining action creators and reducers in a single file similar to the "ducks" approach.
+  
+- **ARC - Simplifying async requests in Redux apps**  
+  https://medium.com/front-end-hacking/arc-simplifying-async-requests-in-redux-apps-e8052b874216  Describes the "async action" pattern commonly used with Redux, and how the ARC library can simplify the process of generating actions, action creators, and reducers that work with async actions.
+  
+- **Abstracting Vuex/Redux Action Patterns**  
+  https://medium.com/coding-stones/abstracting-vuex-redux-action-patterns-8df36b0e2fcc  
+  Examples of generating action types and action creators that use similarly-formatted actions (such as FETCH_DATA_REQUEST/SUCCESS/ERROR).
+  
+- **Stop writing mapStateToProps, start using declarative models**  
+  https://medium.com/@kyleramirez/part-1-stop-writing-mapstatetoprops-start-using-declarative-models-ce72716db9fc  
+  https://medium.com/@kyleramirez/part-2-stop-writing-mapstatetoprops-start-using-declarative-models-403734a5f9ee  
+  Discusses a library called ReactiveRecord, which encapsulates the process of defining client-side models for REST APIs, fetching data, and reading it from the store.
+  
+- **"Comments on 'reducing boilerplate'"**  
+  https://www.reddit.com/r/reactjs/comments/7069ct/i_love_redux_but_i_hate_the_boilerplate/dn1mj4s/  
+  A great comment on what "boilerplate" actually means, how people optimize too much for initial dev time, and how Redux improves long-term maintainability.
+  
+- **How to delete hundreds (or thousands) of lines of ReduxJS code**  
+  https://medium.com/@ianduvall/how-to-delete-hundreds-or-thousands-of-lines-of-reduxjs-code-4736b34f7345  
+  Short examples of reusable action creator and reducer logic for handling "loading" state for multiple features in an app.
   
   
 #### Network Management
@@ -167,3 +228,7 @@
 - **Redux Websocket Integration**  
   https://medium.com/@ianovenden/redux-websocket-integration-c1a0d22d3189  
   A summary of one possible approach for integrating Websocket functionality into a React/Redux application architecture.
+
+- **What's the best way to store tokens in Redux?**  
+  https://michaelwashburnjr.com/whats-the-best-way-to-store-tokens-in-redux/  
+  Discusses pros and cons of storing auth tokens in app state vs localStorage, and what code should be responsible for handling the tokens.

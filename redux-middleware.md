@@ -46,6 +46,10 @@
   http://www.slideshare.net/visualengin/workshop-22-reactredux-m  
   A slideshow that explains how Redux middleware work, with several helpful visualizations
   
+- **Understanding Redux Middleware and Writing Custom Ones**  
+  https://dev.to/imwiss/understanding-redux-middleware-and-writing-custom-ones  
+  Describes the concept of middleware in Redux, possible use cases, and gives an example of writing a middleware to handle caching.
+  
 
 #### Middleware Techniques
 
@@ -77,3 +81,7 @@
 - **"Do I always need to return a value from a Redux middleware?"**  
   https://stackoverflow.com/questions/45964129/do-i-always-need-to-return-a-value-from-a-redux-middleware/45964310#45964310  
   My answer to a question about whether middleware should do `return next(action)`.  Short version: yes, always, unless you want to alter expected behavior.
+  
+- **Practical Advanced Redux Webinar: Redux Middleware**  
+  https://www.youtube.com/watch?v=DqWiuvuK_78  
+  A recorded screenshare livestream that discusses the usefulness of Redux middleware, and demonstrates building middleware for fetching data, logging, and throttling.

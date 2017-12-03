@@ -56,6 +56,15 @@
 - **Learn Enough Git to Be Dangerous**  
   https://www.learnenough.com/git-tutorial  
   A tutorial that teaches practical use of Git basics, Github, and Git workflows.
+  
+- **Git Magic**  
+  https://crypto.stanford.edu/~blynn/gitmagic/  
+  An extensive Git tutorial that teaches usage instructions first, and works its way up to advanced Git techniques and concepts.
+  
+- **Git Beyond the Basics**  
+  http://blog.bloomca.me/2017/11/17/git-beyond-the-basics.html  
+  A good tutorial that explains intermediate concepts like merging, rebasing, cherry-picking, and cleaning pull requests
+  
 
 #### Tips and Useful Info
 
@@ -103,6 +112,10 @@
   https://sentheon.com/blog/git-cheat-sheet.html  
   A large cheat sheet / reference for a variety of Git usage topics, including workflow, configuration, .gitignore syntax, different categories of commands, and more.
   
+- **Git Flight Rules**  
+  https://github.com/k88hudson/git-flight-rules  
+  A guide for Git users about what to do when things go wrong.  Covers topics like editing commits, staging and unstaging files, fixing branches, rebasing/merging, and much more.
+  
   
 ## Specific Techniques
   
@@ -129,6 +142,10 @@
 - **Visualize Merge History with git log --graph, --first-parent, and --no-merges**  
   https://redfin.engineering/visualize-merge-history-with-git-log-graph-first-parent-and-no-merges-c6a9b5ff109c  
   Describes issues with using `git log` to visualize history, and some arguments that can be used to give a potentially better picture of what's actually happened.
+  
+- **How to undo (almost) anything with Git**  
+  https://github.com/blog/2019-how-to-undo-almost-anything-with-git  
+  Instructions for undoing and redoing changes in various scenarios.
 
 
 #### E-Books

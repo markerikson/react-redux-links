@@ -1,5 +1,9 @@
 ### React Server Rendering
 
+- **What's New with Server-Side Rendering in React 16**  
+  https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67  
+  Sasha Aickin, who wrote most of React 16's new SSR implementation, gives a very detailed look at how the implementation and behavior have changed.
+
 - **React for Beginers: Creating an Isomorphic React App**  
   https://medium.com/codingbox/react-for-beginners-creating-isomorphic-react-redux-app-and-deploying-it-on-heroku-6a313f8f3693  
   An in-depth article describing an isomorphic project configuration and deployment
@@ -62,3 +66,30 @@
 - **Simple declarative Redux state with React Router 4 server side rendering**  
   https://medium.com/@AlexFaunt/satisfying-your-apps-state-343118b0730d  
   Demonstrates using a combination of React-Router 4 and a custom promise middleware to manage async data handling in an SSR React+Redux application. 
+  
+- **Server-side rendering with create-react-app**  
+  https://medium.com/@cereallarceny/server-side-rendering-with-create-react-app-fiber-react-router-v4-helmet-redux-and-thunk-275cb25ca972  
+  Demonstrates how to set up server-side-rendering with a standard CRA project to allow proper meta tags to be added without having to eject.  Includes sample code for creating an Express app that does the work.
+  
+- **React SSR**  
+  https://blog.eleven-labs.com/en/react-ssr/  
+  A step-by-step guide to setting up an SSR React app from scratch, including use of Redux.
+  
+- **Case study of SSR with React in a large e-commerce app**  
+  http://blog.jakoblind.no/case-study-of-ssr-with-react-in-a-large-e-commerce-app/  
+  A set of tips and lessons learned from implementing SSR in an existing React app over the course of several years, including some concrete implementation details.
+  
+- **Scaling React Server-Side Rendering**  
+  http://arkwright.github.io/scaling-react-server-side-rendering.html  
+  A long, detailed look at how a team implemented React+Redux SSR on top of an existing monolithic application.  Includes discussion of many real-world issues experienced, such as load balancing and component caching.
+  
+- **Making CRA apps work with SSR**  
+  https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-1-8f5f813d510b  
+  https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-2-fb871868216e  
+  https://medium.com/@zhirzh/making-cra-apps-work-with-ssr-part-3-199d70b4cbe5  
+  A series of posts that shows how to add SSR to an ejected CRA app, including use of Redux and React-Router.
+  
+- **You might (not) need a Server Side Rendering Framework**  
+  https://adrienharnay.me/you-might-not-need-a-server-side-rendering-framework/  
+  Discusses building a home-grown SSR setup using Webpack, rather than reusing something like Next.js.
+  

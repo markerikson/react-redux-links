@@ -23,6 +23,26 @@
   https://tech.gadventures.com/translating-react-apps-99dede52d924  
   Discusses how to use the React-Intl library to add translations to a React app
   
+- **Lessons from migrating a large codebase to React 16**  
+  https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6  
+  An excellent post from the Discord team recapping how they migrated an older React codebase to work with React 16, including use of codemods, replacing private API usage, upgrading dependencies, and other issues they ran into.
+  
+- **React UI Frameworks, Compared**  
+  https://gather.engineering/react-ui-frameworks-compared-dd631eb5c982  
+  A list of available React UI frameworks, with reviews and comparisons on breadth of components, quality, project health, and more.  Includes Ant Design, PrimeReact, Office UI Fabric, Blueprint, React UI, Semantic UI React, ExtReact, and Kendo React UI.
+  
+- **Creating react-editables: How to build a set of reusable React components**  
+  https://medium.com/@niwaa/creating-react-editables-how-to-build-a-set-of-reusable-react-components-with-an-hoc-and-write-7a685947a992  
+  Looks at the steps needed to create a set of reusable React components and publish them to NPM.  Includes extended thoughts on component design for reusability.
+  
+- **Robust React User Interfaces with Finite State Machines**  
+  https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/  
+  An excellent article that describes the concepts of state machines, how they relate to applications, and how they can be applied to help manage React component behavior.
+  
+- **Adventures in creating a React component library with Create React App and TypeScript**  
+  https://medium.com/@stokedbits/adventures-in-creating-a-react-component-library-with-create-react-app-and-typescript-26d1116a7d87  
+  Walks through the process of using the TS+CRA starter kit as a baseline for building and publishing a component library.
+  
 
 #### Security
 
@@ -35,7 +55,7 @@
   Covers several potential security holes that can result from allowing user input into CSS-in-JS libraries, with examples.
   
   
-#### JSX
+#### JSX and Events
 
 - **Is JSX Still Relevant? Are there other options?**  
   https://goshakkk.name/jsx-relevancy-options/  
@@ -56,6 +76,26 @@
 - **React without a build step**  
   https://medium.com/@alexkrolick/writing-react-components-for-3rd-party-embedding-50331c18e26  
   Describes how using `React.createElement` instead of JSX eliminates the need for a compile step, compares examples of equivalent JSX and `createElement` usage, and shows how to write a small embeddable widget using React/Preact that doesn't need any build step at all.
+  
+- **9 Things You Should Know About JSX**  
+  https://dev.to/sarah_chima/9-things-you-should-know-about-jsx-3bm  
+  A useful explanation of what JSX syntax is, how it works, and and how to use it.
+  
+- **How the JSX Transform Works**  
+  https://jaketrent.com/post/how-jsx-transform-works/  
+  A helpful explanation of how JSX tags are transformed into React elements, with example snippets
+
+- **JSX In Depth - an interactive tutorial**  
+  http://blog.klipse.tech/javascript/2016/12/14/jsx.html  
+  An interactive version of the "JSX in Depth" tutorial from the React docs
+  
+- **Events in React**  
+  https://www.kirupa.com/react/events_in_react.htm  
+  An introduction to React's event handling system, including useful tips and some gotchas
+  
+- **React events in depth**  
+  https://www.youtube.com/watch?v=dRo_egw7tBc  
+  A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
   
   
 #### Debugging and Error Handling

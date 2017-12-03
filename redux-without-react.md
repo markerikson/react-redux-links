@@ -52,16 +52,46 @@
   https://dzone.com/articles/angular-form-validations-with-redux-for-multiple-r  
   Examples of setting up Redux-based form validation in an Angular app.
   
+- **Web app architecture based on Redux**  
+  http://devblog.ztp.pt/web-app-architecture-based-on-redux/  
+  https://medium.com/@akaztp/case-study-pt-2-implementing-redux-on-angular-9e79cd4faa37  
+  A series of posts describing a modular / layered architecture built around Redux, including a data layer for managing fetching, a business layer using RxJS Epics, and folder structure for Angular components.
   
+- **NgRx Antipatterns**  
+  http://brianflove.com/2017/11/01/ngrx-anti-patterns/  
+  Examples of some ways to improve poor NgRx usage patterns.
+  
+- **Getting started with Angular and Redux**  
+  https://damienbod.com/2017/09/07/getting-started-with-angular-and-redux/  
+  A tutorial that covers setting up an Angular app that uses NgRx for state management.  Recently updated to work with Angular 5.
+  
+
+#### Ember
+
+- **Why ember redux?**  
+  http://toranbillups.com/blog/archive/2017/08/02/why-ember-redux/  
+  The author of the ember-redux lib talks about why he likes Redux, and why he prefers using it with Ember.
+  
+- **The Frontside Podcast: ember-redux and glimmer-redux**  
+  https://frontside.io/podcast/055-redux-and-ember-with-toran-billups  
+  https://frontside.io/podcast/089-glimmer-redux-with-toran-billups  
+  A pair of podcasts with the creator of ember-redux and glimmer-redux
+  
+  
+- **Setting Up Redux + Observables in an Ember App**  
+  https://medium.com/@john.sniezek/setting-up-redux-observables-in-an-ember-app-aca9dccdd152  
+  A tutorial that shows how to set up ember-redux and add redux-observable.
+  
+- **Using ember-changeset with ember-redux**  
+  https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a  
+  Examples of using a tool called ember-changeset to handle in-progress form edits in conjunction with the ember-redux bindings.
+  
+
 #### Other
 
 - **Managing State in Aurelia: How to Use Aurelia with Redux**  
   https://www.sitepoint.com/managing-state-aurelia-with-redux/  
   A tutorial that builds a small Markdown editor three ways: pure Aurelia with data binding, Aurelia with Redux to manage state, and then implementation of undo/redo on top.
-  
-- **Using ember-changeset with ember-redux**  
-  https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a  
-  Examples of using a tool called ember-changeset to handle in-progress form edits in conjunction with the ember-redux bindings.
   
 - **Explorations in Adapting Redux to C#**  
   https://spin.atomicobject.com/2017/03/13/adapting-redux-c-sharp-xamarin/  
@@ -82,3 +112,14 @@
   https://blog.shazam.com/android-apply-redux-2ad0f7355e0  
   Discusses a Redux-inspired pattern for use with Android as an alternative to the MVP approach.
   
+- **Managing State in Aurelia: How to Use Aurelia with Redux**  
+  https://www.sitepoint.com/managing-state-aurelia-with-redux/  
+  Covers setting up a standard Aurelia app, adding Redux, and use of redux-undo with the example.
+  
+- **Coupling a Stencil TODO app with Redux**  
+  https://www.javascripttuts.com/coupling-a-stencil-todo-app-with-redux/  
+  A tutorial that updates an existing Stencil Todo app to use Redux
+  
+- **Getting started with Redux in Swift**  
+  https://medium.com/mackmobile/getting-started-with-redux-in-swift-54e00f323e2b  
+  An overview of how to use the ReSwift library as part of an iOS app.

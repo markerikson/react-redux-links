@@ -69,6 +69,10 @@
   https://medium.com/@peterxjang/a-functional-canvas-approach-with-redux-bab357d6c33c  
   Some simple examples of how to use Redux and vanilla JS canvas code to draw canvas-based UIs with minimal dependencies.
   
+- **React/Redux with Mapbox**  
+  https://medium.com/@mcculloughrt/react-redux-with-mapbox-78fa3767211e  
+  Useful techniques for driving the appearance and behavior of a Mapbox-based geospatial app from React and Redux.
+  
   
 #### Redux and Forms
 
@@ -116,3 +120,7 @@
   https://codeburst.io/forms-with-redux-form-v7-part-1-of-2-e636d760e9b4  
   https://codeburst.io/forms-with-redux-form-v7-part-2-of-2-f44ffee4a34d  
   An extensive tutorial on Redux-Form that covers a variety of topics, including basic setup, making reusable form components, styling, dynamic fields with dependencies, real-time validation, and more.
+  
+- **Redux Form Validation Tutorial Example From Scratch**  
+  https://appdividend.com/2017/11/05/redux-form-validation-tutorial-example/  
+  A tutorial that demonstrates setting up a Redux app that uses Redux-Form, and adding validation logic to that form.

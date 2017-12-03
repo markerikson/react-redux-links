@@ -38,7 +38,9 @@
   https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps/  
   Demonstrates three approaches to structuring AJAX calls (root component, containers, and via Redux middleware), and lists three of the most popular AJAX libraries.
   
-
+- **How to make AJAX API calls in React**  
+  https://www.techiediaries.com/react-ajax/  
+  Looks at common libraries that are used for making AJAX calls in React apps, discusses which lifecycle methods to use for starting AJAX calls, and gives examples of using `fetch` to make AJAX calls.
   
 
 #### Request Implementation Examples
@@ -79,6 +81,7 @@
   https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a  
   https://medium.com/@gcanti/slaying-a-ui-antipattern-with-flow-5eed0cfb627b  
   https://medium.com/@marsbergen/nice-pattern-for-redux-state-b8641b6ff9d1 
+  https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-react-64a3b98242c  
   Articles by different authors that demonstrate how to handle the common "loading/no data/data" issue with various static typing approaches and FP principles.
   
 - **Better data fetching with RemoteDataJS**  

@@ -18,7 +18,8 @@
   
 - **Learn React From Your Browser: Introducing React**  
   https://reactarmory.com/guides/learn-react-by-itself  
-  An excellent tutorial that teaches React concepts from basic principles without buzzwords or build tools, using interactive editable examples.  (This is a rewritten and improved version of the "Learn Raw React" tutorial.)  
+  https://reactarmory.com/examples/hello-world/jsx-hello-world
+  An excellent tutorial that teaches React concepts from basic principles without buzzwords or build tools, using interactive editable examples.  (This is a rewritten and improved version of the "Learn Raw React" tutorial.)  Now includes an interactive editor to let you try working with React code there in the browser.
   
 - **Learn Raw React**  
   http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/  
@@ -26,7 +27,7 @@
   
 - **React Fundamentals**  
   https://tylermcginnis.com/courses/react-fundamentals/
-  An online course from the React Training company.  Covers key aspects of Javascript, React concepts as of React 15.5, React Router v4, and building and deploying an application.
+  An online course from an excellent React trainer.  Covers key aspects of Javascript, React concepts as of React 16, React Router v4, and building and deploying an application.
   
 - **React Express**  
   http://www.react.express/  
@@ -135,6 +136,17 @@
   https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-10-reacting-to-what-weve-learned-633ac18469ba  
   A 10-part series that explains React (and many web dev concepts) from the ground up, with simple terms and lots of metaphors.  Aimed at absolute beginners.
 
+- **Intro to React**  
+  https://www.writesoftware.org/topic/react  
+  A short tutorial series that introduces basic React concepts like JSX, components, props, state, and events.
+  
+- **Everything You Should Know About React: The Basics You Need To Start Building**  
+  https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4  
+  A comprehensive tutorial that covers topics like components, rendering, JSX, state, event handling, async behavior, props, and refs.  
+  
+- **Introduction to React**  
+  http://ivanjurina.com/2017/11/19/introduction-to-react/  
+  Useful notes and info on the basics of React, from someone who just learned React.
   
 
 #### React Concept Overviews
@@ -167,7 +179,13 @@
   https://medium.com/deepscan/a-few-things-every-new-react-developer-should-know-part-1-93940e11800a  
   https://medium.com/deepscan/a-few-things-every-new-react-developer-should-know-part-2-913e089e8fc2  
   
+- **An Introduction to React and the Surrounding Ecosystem in 2017**  
+  https://www.youtube.com/watch?v=qDTQzIzqodw  
+  A video presentation that describes some of the business case and benefits of using React, introduces React component concepts, and discusses some of the common tools in the React ecosystem.
   
+- **React Interview Questions**  
+  https://github.com/Pau1fitz/react-interview  
+  A large list of questions on React concepts that might pop up in an interview, with answers.
   
 
 #### Project-Based Tutorials
@@ -351,6 +369,26 @@
 - **Build a Metronome in React**  
   https://daveceddia.com/build-metronome-react/  
   An easy-to-follow, step-by-step tutorial that demonstrates key concepts like loading data, initializing state, and handling input changes.
+  
+- **Microservices with Docker, Flask, and React**  
+  https://testdriven.io/part-one-intro/  
+  A large multi-part tutorial covers setting up a dev environment using Docker containers, building a REST API server with the Python Flask framework, building a UI with React, and deploying it all to Amazon EC2.
+  
+- **Create a Spreadsheet using React**  
+  https://www.writesoftware.org/tutorial/react-spreadsheet  
+  An excellent tutorial that shows how to build a miniature spreadsheet app using React
+  
+- **Developig modern offline apps with ReactJS, Redux, and Electron**  
+  https://blog.codecentric.de/en/2017/10/developing-modern-offline-apps-reactjs-redux-electron-part-1/  
+  An ongoing multi-part series that covers using React to build an Electron app, including discussion of architectural decisions.
+  
+- **MERN Stack Tutorial**  
+  https://appdividend.com/2017/06/28/mern-stack-tutorial/  
+  An extensive full-stack app tutorial that covers building an app with React on the client and Mongo+Express on the back end.
+  
+- **Build a realtime PWA with React**  
+  https://blog.pusher.com/build-a-realtime-pwa-with-react/  
+  Covers building a Progressive Web App that shows crypto-currency pricess, using Create-React-App and the Pusher service.
   
   
 #### Paid Courses and Books

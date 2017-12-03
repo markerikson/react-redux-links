@@ -1,7 +1,7 @@
 ### Redux Side Effects
 
 
-#### Basic Concepts and Thunks
+#### Basic Concepts
 
 - **Stack Overflow: Dispatching Redux Actions with a Timeout**  
   http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559  
@@ -27,13 +27,20 @@
   https://anyperk.engineering/im-lauren-and-i-m-a-frontend-apprentice-here-at-anyperk-a1a40106d231  
   A quick introduction to some of the libraries that can be used to manage asynchronous behavior in Redux.
   
+
+#### Thunks
+
+- **What the heck is a "thunk"?**  
+  https://daveceddia.com/what-is-a-thunk/  
+  A quick explanation for what the word "thunk" means in general, and for Redux specifically.
+
+- **Thunks in Redux: The Basics**  
+  https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60  
+  A detailed look at what thunks are, what they solve, and how to use them.
+  
 - **A Dummy's Guide to Redux and Thunk in React**  
   https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3  
   A tutorial that shows how to take a React component that does its own data fetching, and rework it to use accept data from Redux and use a thunk action creator instead.
-  
-- **What the heck is a "thunk"?**  
-  https://daveceddia.com/what-is-a-thunk/  
-  A quick explanation for what the word "thunk" means in general, and for Redux specifically..
   
 - **Understanding how redux-thunk works**  
   https://medium.com/@gethylgeorge/understanding-how-redux-thunk-works-72de3bdebc50  
@@ -50,6 +57,10 @@
 - **Returning promises from Redux action creators**  
   https://medium.com/collaborne-engineering/returning-promises-from-redux-action-creators-3035f34fa74b  
   Shows how returning a promise from a thunk action creator allows the caller to chain off the promise and execute code after the action creator is complete.
+  
+- **ReactCasts #10: Redux Thunk Tricks**  
+  https://www.youtube.com/watch?v=xihoZZU0gao  
+  An excellent screencast that covers three useful tips for use of redux-thunk: thunk return values, multi-dispatch, and when to use `getState`
   
   
 #### Side Effect Approach Comparisons
@@ -99,10 +110,6 @@
   http://blog.jakegardner.me/redux-thunk-vs-saga/  
   A couple quick examples showing how to use thunks and sagas for the same task
   
-- **ReactCasts #10: Redux Thunk Tricks**  
-  https://www.youtube.com/watch?v=xihoZZU0gao  
-  An excellent screencast that covers three useful tips for use of redux-thunk: thunk return values, multi-dispatch, and when to use `getState`
-  
 - **Redux Thunks Dispatching Other Thunks - Discussion and Best Practices**  
   https://medium.com/@talkol/redux-thunks-dispatching-other-thunks-discussion-and-best-practices-dd6c2b695ecf  
   Some excellent thoughts on when it's okay to have a thunk dispatch another thunk, and other possible approaches.
@@ -118,6 +125,14 @@
 - **"Redux and API/fetch calls. How do you handle them?**  
   https://twitter.com/rem/status/888361414070501376  
   A Twitter poll asking about people's preferences for handling async work in Redux.  The replies are interesting, and show a very wide variety of choices being used.
+  
+- **Understanding redux-saga: from action creators to sagas**  
+  https://blog.logrocket.com/understanding-redux-saga-from-action-creators-to-sagas-2587298b5e71  
+  Some short examples comparing implementations of the same fetching logic inside a component, using redux-thunk, and using redux-saga.
+  
+- **Polling with Redux**  
+  https://bigbitecreative.com/polling-with-redux/  
+  Compares implementations of a polling loop between redux-saga and redux-observable
   
 
 #### Sagas
@@ -250,6 +265,26 @@
   https://medium.com/@felixclack/when-should-i-use-a-saga-708cb3c75e9a  
   Some quick rules of thumb for determining if building a saga is a good choice for a given feature.
   
+- **Redux Saga: the Viking way to manage side effects**  
+  https://www.slideshare.net/nachomartin/redux-sagas-react-alicante  
+  A comprehensive slideset that covers many aspects of sagas, from basic concepts to use with complex workflows.
+  
+- **Detecting state changes with Redux-Saga**  
+  https://goshakkk.name/detect-state-change-redux-saga/  
+  Shows a simple but useful technique for running saga behavior based on state changes rather than just dispatched actions.
+  
+- **Common patterns with Redux-Saga**  
+  https://engineering.universe.com/common-patterns-with-redux-saga-ed68f89dfecf  
+  Examples of useful patterns for sagas, including running multiple requests in parallel, using the `race` keyword to time out requests, and using sagas to manage a queue of events.
+  
+- **States and React: step-by-step user interaction with state machines**  
+  https://sandstorm.de/de/blog/post/states-and-react-step-by-step-user-interaction-with-state-machines.html  
+  Demonstrates managing "snackbar" popup notifications using sagas to show and hide the popups
+  
+- **Taming Redux with Sagas**  
+  https://objectpartners.com/2017/11/20/taming-redux-with-sagas/  
+  A good overview of Redux-Saga, including info on generator functions, use cases for sagas, using sagas to deal with promises, and testing sagas.
+  
   
   
 #### Other Side Effect Approaches
@@ -281,3 +316,11 @@
 - **How to make your React app fully functional, fully reactive, and able to handle all those crazy side effects**  
   https://medium.freecodecamp.org/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10  
   A lengthy look at Cycle.js and the redux-cycles library, with plenty of diagrams to illustrate how it handles data flow.
+  
+- **Using redux-observable to handle asynchronous logic in Redux**  
+  https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522  
+  An extended post that compares a thunk-based implementation of handling a line-drawing example vs an observable-based implementation.
+  
+- **Redux Observable to the rescue**  
+  https://medium.com/@daslusan/redux-observable-to-the-rescue-b27f07406cf2  
+  A quick comparison of writing some complex AJAX-related logic as a thunk and with redux-observable, and some of the benefits of writing the code using observables.

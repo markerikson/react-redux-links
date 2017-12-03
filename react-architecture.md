@@ -114,6 +114,10 @@
 - **React's Ecosystem as a flexible Framework**  
   https://www.robinwieruch.de/essential-react-libraries-framework/  
   Robin Wieruch discusses why React's "just the view" + "pick-and-choose libraries" approach is ultimately a good thing, and provides some opinionated decisions on good library choices for several categories such as app boilerplate, utility library, styling, AJAX requests, and more.
+  
+- **Making website building fun**  
+  https://www.gatsbyjs.org/blog/2017-10-16-making-website-building-fun/  
+  The author of the Gatsby static site generator discusses how creating the right building blocks can make development simpler and more fun, and gives examples of how specific React components can be those kinds of building blocks.
 
 
 #### React Best Practices
@@ -252,6 +256,17 @@
   https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/  
   An excellent list of principles to consider when designing React components, including single responsibility, encapsulation, reusability, testability, and meaning.
   
+- **8 Key React Component Decisions**  
+  https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594  
+  A list of important design decisions to consider when starting a React project, including use of a starter kit, preferred component definition approach, state management, styling, and more.
+  
+- **Is React SOLID?**  
+  https://dev.to/kayis/is-react-solid-630  
+  Looks at the SOLID architectural principles, and discusses how those apply to React components. 
+  
+- **Clean Code vs Dirty Code: React Best Practices**  
+  http://americanexpress.io/clean-code-dirty-code/  
+  Some very opinionated thoughts on what qualifes as "clean" React code.  Your experience may vary, but some interesting food for thought.
   
   
 #### React Architecture
@@ -267,3 +282,15 @@
 - **Three Example React Stacks**  
   http://andrewhfarmer.com/three-example-react-stacks/  
   Descriptions of three different application/deployment scenarios, and example React library+tool stacks that would be appropriate for each.
+  
+- **Reusable Web Application Strategies: three patterns for running the same app in multiple spots**  
+  https://medium.freecodecamp.org/reusable-web-application-strategies-d51517ea68c8  
+  Looks at how to run an app in reusable ways via iframes, reusable app components, and reusable UI components.
+  
+- **Integrating React in a 6+ Year Old Rails App**  
+  https://blog.codeship.com/integrating-react-in-a-6-year-old-rails-app/  
+  Discuss techniques for using React in an existing Rails app.  Focus is a bit more on the Rails side of things, but some useful info.
+  
+- **Characteristics of an Ideal React Architecture**  
+  https://medium.com/@robftw/characteristics-of-an-ideal-react-architecture-883b9b92be0b  
+  Some opinionated thoughts on what constitutes good React architecture, including avoiding use of components as controllers, keeping prop passing to just a few levels, and ensuring that diff calculations are cheap.

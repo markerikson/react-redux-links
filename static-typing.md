@@ -34,6 +34,10 @@
 - **React: Validating Children**  
   http://www.mattzabriskie.com/blog/react-validating-children  
   Examples of using PropTypes to enforce what children can be passed to a component
+  
+- **React Pattern: Centralized PropTypes**  
+  https://medium.freecodecamp.org/react-pattern-centralized-proptypes-f981ff672f3b  
+  Discusses creating centralized definitions of data structures using PropTypes to reduce repetition, and suggests a few other good practices for working with PropTypes.
 
 
 #### TypeScript
@@ -116,6 +120,10 @@
 - **Notes on Flow type checking in Javascript**  
   https://davidxmoody.com/2016/notes-on-flow-type-checking-in-javascript/  
   A variety of quick notes and snippets of Flow syntax for various use cases
+  
+- **Flow Fundamentals for JavaScript Developers**  
+  https://gist.github.com/busypeoples/61e83a1becc9ee9d498e0db324fc641b  
+  A JS file in a gist that provides a commented walkthrough of Flow concepts and syntax.
 
 
 #### React, Redux, and Static Types
@@ -185,7 +193,7 @@
   https://www.silviogutierrez.com/blog/react-redux-and-typescript-typed-connect/  
   Discusses a simpler set of typings for the `connect` function and how to use them with React.
   
-- **A New Redux Action Pattern for TypeSCript 2.4+**  
+- **A New Redux Action Pattern for TypeScript 2.4+**  
   https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/  
   Describes how to use the new features in TS 2.4, such as string enums, to simplify defining types for Redux actions.
   
@@ -195,6 +203,38 @@
 - **React Higher-Order Components using TypeScript**  
   https://www.triplet.fi/blog/react-higher-order-components-hoc-using-typescript/  
   Examples of how to properly write React HOCs in TypeScript, including adding types.
+  
+- **React and TypeScript: The Basics**  
+  https://spin.atomicobject.com/2017/10/31/react-typescript-basics/  
+  Covers important questions you might have when using React and TypeScript together, including approaches for project setup, adding NPM packages, typing React components, using Redux, and more.
+  
+- **Typing Higher-Order Components in Recompose with Flow**  
+  https://medium.com/flow-type/flow-support-in-recompose-1b76f58f4cfc  
+  Describes some of the work needed to add Flow types for the Recompose library, and how to use Recompose, Flow, and React together.
+  
+- **Type-safe React + Redux: Eliminating the 'any' type**  
+  https://medium.com/@joeldalley/type-safe-react-redux-eliminating-the-any-type-dad21ebd3cd5  
+  Examples of declaring types for data modeling, Redux actions and reducers, Redux-Observable epics, and React components.
+  
+- **Redux and Flow-type - getting the maximum benefit from the fewest key strokes**  https://hackernoon.com/redux-flow-type-getting-the-maximum-benefit-from-the-fewest-key-strokes-5c006c54ec87  
+  Discussion of how Flow's type inference can be used to reduce duplication of type declarations for actions.
+  
+- **How to Reduce Action Boilerplate**  
+  https://blog.angularindepth.com/how-to-reduce-action-boilerplate-90dc3d389e2b  
+  Looks at how TypeScript is normally used with Redux, including "narrowing" actions with type guards and discriminated unions, and looks at ways different libraries use narrowing to help generate actions in a type-safe way.
+  
+- **Using TypeScript Generics for writing React Components**  
+  https://blog.mojotech.com/typescript-generic-react-components/  
+  Useful techniques for writing typed higher-order-components, with specific examples focusing on typing form field components.
+  
+- **Back to the Basics: Using React + Flow**  
+  https://medium.com/javascript-inside/back-to-the-basics-1bd3b12e38dc  
+  https://medium.com/javascript-inside/back-to-the-basics-using-react-flow-pt-2-99292993829f  
+  A series that demonstrates using Flow to add static typing for a Tic-Tac-Toe game
+  
+- **Using TypeScript with Redux**  
+  https://dzone.com/articles/using-typescript-with-redux  
+  Examples of basic TS usage with Redux, and setting up your own type declarations for better type safety.
   
 
 
@@ -262,3 +302,15 @@
 - **Flow: What's the verdict?**  
   https://amplitude.engineering/flow-whats-the-verdict-9a458ecde27f  
   Thoughts on some pros and cons of using FLow, including dealing with code that doesn't have types, and several specific use cases the Amplitude team has run into.
+  
+- **Going Statically Typed with Flow**  
+  https://labs.contactually.com/going-statically-typed-with-flow-72626ed86cec  
+  Some thoughts on why Contactually opted to use Flow for their React+Redux app, including ease of integrating Flow into an existing app.
+  
+- **Typed JavaScript with TypeScript, Flow, and Elm**  
+  http://djcordhose.github.io/flow-vs-typescript/elm-flow-typescript.html#/  
+  A slideshow that discusses the benefits of using type systems, and looks at how TS, Flow, and Elm compare in several aspects.
+  
+- **Flow and TypeScript**  
+  https://engineering.tumblr.com/post/165261504692/flow-and-typescript  
+  The Tumblr engineering team discusses their experience comparing Flow and TS, and why they opted to use TS.
