@@ -53,8 +53,12 @@
   Discusses how the FSA structure expects actions to have an optional `error` field, and how to write code that deals with that.
   
 - **Redux in Action: Using the Redux DevTools**  
-  https://www.slideshare.net/ManningBooks/redux-in-action-learn-to-manage-and-consolidate-state  Some slides from the authors of the book "Redux in Action", explaining what the Redux DevTools are, how to set them up, and how to use them to view dispatched actions and debug state changes
+  https://www.slideshare.net/ManningBooks/redux-in-action-learn-to-manage-and-consolidate-state  
+  Some slides from the authors of the book "Redux in Action", explaining what the Redux DevTools are, how to set them up, and how to use them to view dispatched actions and debug state changes
   
+- **A user encounters a JavaScript error. You'll never guess what happens next!**  
+  https://hackernoon.com/a-user-encounters-a-javascript-error-youll-never-guess-what-happens-next-dc1a6f725490  
+  A walkthrough for how to capture user page interactions and dispatched Redux actions into a "journey" object that can be sent to the server if an error is detected, allowing a developer to play back the user's behavior for debugging.
 
   
 #### Other  
@@ -191,6 +195,7 @@
 - **Stop writing mapStateToProps, start using declarative models**  
   https://medium.com/@kyleramirez/part-1-stop-writing-mapstatetoprops-start-using-declarative-models-ce72716db9fc  
   https://medium.com/@kyleramirez/part-2-stop-writing-mapstatetoprops-start-using-declarative-models-403734a5f9ee  
+  https://medium.com/@kyleramirez/part-3-stop-writing-mapstatetoprops-start-using-declarative-models-3eb752d811b7  
   Discusses a library called ReactiveRecord, which encapsulates the process of defining client-side models for REST APIs, fetching data, and reading it from the store.
   
 - **"Comments on 'reducing boilerplate'"**  
@@ -200,6 +205,11 @@
 - **How to delete hundreds (or thousands) of lines of ReduxJS code**  
   https://medium.com/@ianduvall/how-to-delete-hundreds-or-thousands-of-lines-of-reduxjs-code-4736b34f7345  
   Short examples of reusable action creator and reducer logic for handling "loading" state for multiple features in an app.
+  
+- **Keducer - Automate writing Redux reducers with 5 lines of Javascript**  
+  https://hackernoon.com/automate-writing-redux-reducers-with-5-lines-of-javascript-cecb79fb9a35  
+  https://www.reddit.com/r/javascript/comments/7i4t14/keducer_automate_writing_redux_reducers_with_5/  
+  Describes a small lib to generate reducers that handle merging in updated state.  Some good discussion in both the article comments and Reddit comments about the tradeoffs between having reducers "own" state, vs state being defined by action creators.
   
   
 #### Network Management

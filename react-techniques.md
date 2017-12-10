@@ -43,6 +43,18 @@
   https://medium.com/@stokedbits/adventures-in-creating-a-react-component-library-with-create-react-app-and-typescript-26d1116a7d87  
   Walks through the process of using the TS+CRA starter kit as a baseline for building and publishing a component library.
   
+- **The Complete Firebase in React Authentication Tutorial**  
+  https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/  
+  A comprehensive article that covers setting up a React app that uses React Router for handling routes, and Firebase for authentication and user management.
+  
+- **Don't Over React! Rendering Binary Data**  
+  https://www.bignerdranch.com/blog/dont-over-react/  
+  Useful approaches for handling file blobs in a React app
+  
+- **Global Component Registration**  
+  http://dylanpaulus.com/reactjs/2017/12/08/global-component-registration/  
+  An example of extending the standard approach for looking up component types at runtime, by allowing the lookup table to be modified.
+  
 
 #### Security
 

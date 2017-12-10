@@ -188,6 +188,10 @@
   https://blog.bigbinary.com/2017/09/12/using-recompose-to-build-higher-order-components.html  
   Examples of refactoring components using the Recompose library, including use of `branch` and `compose`.
   
+- **Curry away in React**  
+  https://hackernoon.com/curry-away-in-react-7c4ed110c65a  
+  Examples of using currying to create reusable callback functions that can be passed to child components.
+  
 
 #### Comparing Composition Approaches
 

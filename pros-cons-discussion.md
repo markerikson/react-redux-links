@@ -283,6 +283,12 @@ similar structures in ClojureScript.
   https://twitter.com/dan_abramov/status/930380316463726593  
   Some great points from Dan Abramov about React focusing on code predictability, maintainability, and data flow, rather than terseness.
   
+- **"Ways to compose components and functionality without altering components?"**  
+  https://twitter.com/andrestaltz/status/939123607426486274  
+  https://twitter.com/andrestaltz/status/939257877600104448  
+  https://gist.github.com/staltz/08bf613199092eeb41ac8137d51eb5e6  
+  A couple very long Twitter threads with discussion from Andre Staltz (creator of Cycle), Dan Abramov, and Andrew Clark, looking at possible ways to handle composition of functionality for a "current humanized time" behavior.  Lots of interesting comments in the Twitter thread, and the example gist.  Also some useful comments from Andre on how someone from outside the React community might approach trying to solve problems using React.
+  
   
   
 #### React's PATENTS License

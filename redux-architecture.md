@@ -172,7 +172,7 @@
   Discussion of how Redux helped Knewton improve their app, including dev middleware to catch accidental mutations, normalization to help with caching, and other tradeoffs.
   
 - **4 Things for Efficient Redux**  
-  https://blog.spacelab.team/4-things-for-efficient-redux-17e87b4cd6cb  
+  https://medium.com/@iJaniashvili/4-things-for-efficient-redux-17e87b4cd6cb  
   Suggestions for improved Redux apps based on experience, including using Immutable.js, use of `combineReducers`, listening for actions in multiple reducers, and "aliasing" actions.
   
 - **A Year of Development with Redux**  
@@ -181,7 +181,7 @@
   Some quick tips for working with Redux, structuring data, and encapsulation of components
   
 - **Avoiding False Cause**  
-  http://sebinsua.com/avoiding-false-cause/  
+  http://duplo.tech/avoiding-false-cause/  
   Some high-level general thoughts on cargo-culting, dogma, and best practices, followed by some specific examples of problematic Redux code (unclear reducer state shape, managing "editing" mode data, applying arbitrary value updates)
   
 - **Isn't our code just the BEST**  
@@ -249,7 +249,7 @@
   https://tech.iheart.com/video-journey-of-a-thousand-ducks-f0bb1a9b982c  
   Devs from the iHeartRadio web team describe how they have approached refactoring their React app with homegrown state management to use Redux.
   
-- **React+Redux: Tips and Best Practices for Clean, Reliable, & Maintainable Code**  https://speakerdeck.com/goopscoop/react-plus-redux-tips-and-best-practices-for-clean-reliable-and-scalable-code  
+- **React+Redux: Tips and Best Practices for Clean, Reliable, & Maintainable Code**    https://speakerdeck.com/goopscoop/react-plus-redux-tips-and-best-practices-for-clean-reliable-and-scalable-code  
   An excellent slideshow with a wide variety of tips and suggestions, including keeping action creators simple and data manipulation in reducers, abstracting away API calls, avoiding spreading props, and more.
   
 - **Why not to store objects in Redux**  
@@ -304,6 +304,18 @@
 - **How Bitmovin used React/Redux to Develop Its New Dashboard**  
   https://bitmovin.com/bitmovin-used-reactredux-to-develop-new-dashboard/  
   The Bitmovin team describes their React+Redux architecture, including how they approached organizing Redux actions.
+  
+- **What I've learned from a few large-scale React and Redux projects**  
+  https://medium.com/20spokes-whiteboard/what-ive-learned-from-a-few-large-scale-react-and-redux-projects-d454000da167  
+  Some short thoughts on best practices from using React and Redux, including ensuring all logic is tested, having descriptive Redux actions that tell a story, and ensuring React components are understandable by using prop types.
+  
+- **Redux Anti-Patterns: State Management**  
+  http://blog.mgechev.com/2017/12/07/redux-anti-patterns-race-conditions-state-management-duplication/  
+  Some good descriptions of common anti-patterns in Redux apps, with examples and solutions.  Looks at state duplication, state ownership, and handling of state updates.
+  
+- **"So much to learn about organizing Redux state by looking at popular apps"**  
+  https://mobile.twitter.com/tharakawj/status/937285802287124480  
+  A tweet with screenshots of the Redux DevTools, showing the contents of Redux stores from Twitter and Pinterest.
 
 
 #### Encapsulation and Reusability
@@ -346,7 +358,7 @@
   http://randycoulman.com//blog/2016/09/13/encapsulating-the-redux-state-tree/  
   http://randycoulman.com/blog/2016/09/20/redux-reducer-selector-asymmetry/  
   http://randycoulman.com/blog/2016/09/27/modular-reducers-and-selectors/  
-  http://randycoulman.com/blog/2016/11/29/globalizing-redux-selectors
+  http://randycoulman.com/blog/2016/11/29/globalizing-redux-selectors  
   A blog series discussing approaches to encapsulating Redux data using selectors and other related approaches
   
 - **Redux State Keys - A predictable yet dynamic substate**  
@@ -396,6 +408,10 @@
 - **Namespacing Actions for Redux**  
   https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1  
   Looks at ways to namespace actions so that multiple copies of components and logic can work in an isolated manner, especially in conjunction with the `redux-loop` library.
+  
+- **Selector Pattern: Painless Redux Store Destructuring**  
+  https://hackernoon.com/selector-pattern-painless-redux-store-destructuring-bfc26b72b9ae  
+  Good examples of creating encapsulated selectors that are given just their slice of state as arguments, with a centralized definition of how the state slices map to those selectors.
 
 
 #### Variations on Redux Architectures

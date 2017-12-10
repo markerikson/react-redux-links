@@ -134,6 +134,14 @@
   https://bigbitecreative.com/polling-with-redux/  
   Compares implementations of a polling loop between redux-saga and redux-observable
   
+- **Redux-Saga vs Redux-Observable**  
+  https://hackmd.io/s/H1xLHUQ8e  
+  Some notes comparing sagas and observables, including "mental models", side-by-side comparison implementations of tasks like fetching / sequencing / cancelation, and more.
+  
+- **Redux Sagas, Observables, oh my**  
+  https://spectrum.chat/thread/2e738f7a-b385-4120-aff1-5fca9d1a6f34  
+  An extensive discussion thread that compares the relative uses cases and merits of redux-saga and redux-observable
+  
 
 #### Sagas
 
@@ -285,21 +293,40 @@
   https://objectpartners.com/2017/11/20/taming-redux-with-sagas/  
   A good overview of Redux-Saga, including info on generator functions, use cases for sagas, using sagas to deal with promises, and testing sagas.
   
-  
-  
-#### Other Side Effect Approaches
+
+#### Observables
 
 - **Epic Middleware in Redux**  
   https://medium.com/@kevinsalter/epic-middleware-in-redux-e4385b6ff7c6  
   Discussion and examples of using Redux-Observable and RxJS to create "epics" which can transform actions.
-  
-- **Better async Redux**  
-  https://blog.scottnonnenberg.com/better-async-redux-i18n-and-node-js-versions/  
-  Comparisons and examples of using Redux-Loop for declarative side effects
-  
+
 - **Action Streams and Redux**  
   https://medium.com/@markusctz/action-streams-and-redux-77f8ac99c2e9  
   Examples of how Redux-Observable can simplify complex async logic
+  
+- **Using redux-observable to handle asynchronous logic in Redux**  
+  https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522  
+  An extended post that compares a thunk-based implementation of handling a line-drawing example vs an observable-based implementation.
+  
+- **Redux Observable to the rescue**  
+  https://medium.com/@daslusan/redux-observable-to-the-rescue-b27f07406cf2  
+  A quick comparison of writing some complex AJAX-related logic as a thunk and with redux-observable, and some of the benefits of writing the code using observables.
+  
+- **Using redux-observable for asynchronous actions**  
+  https://medium.com/imersotechblog/using-redux-observable-for-asynchronous-actions-1afb31cbc01c  Looks at possible complexities in handling async requests, and how redux-observable can be used to help handle complex async behavior.
+  
+- **Reactive Redux State with RxJS**  
+  https://ivanjov.com/reactive-redux-state-with-rxjs/  
+  Describes the concept of "Reactive PRogramming" and the RxJS library, and shows how to use redux-observable to fetch data, along with examples of testing.
+  
+
+  
+  
+#### Other Side Effect Approaches
+
+- **Better async Redux**  
+  https://blog.scottnonnenberg.com/better-async-redux-i18n-and-node-js-versions/  
+  Comparisons and examples of using Redux-Loop for declarative side effects
   
 - **A simplified approach to calling APIs with Redux**  
   http://www.sohamkamani.com/blog/2016/06/05/redux-apis/  
@@ -316,11 +343,15 @@
 - **How to make your React app fully functional, fully reactive, and able to handle all those crazy side effects**  
   https://medium.freecodecamp.org/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10  
   A lengthy look at Cycle.js and the redux-cycles library, with plenty of diagrams to illustrate how it handles data flow.
+ 
+- **Testing for Race Conditions with Redux**  
+  https://paulgray.net/race-conditions-in-redux/  
+  Examples of how to write reducer logic to handle multiple async responses that could return out of order.
   
-- **Using redux-observable to handle asynchronous logic in Redux**  
-  https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522  
-  An extended post that compares a thunk-based implementation of handling a line-drawing example vs an observable-based implementation.
+- **Building a React/Redux/Elm Bridge**  
+  https://medium.com/javascript-inside/building-a-react-redux-elm-bridge-8f5b875a9b76  
+  Discusses various way to integrate React, Redux, and Elm together, including a Redux middleware that talks to Elm.
   
-- **Redux Observable to the rescue**  
-  https://medium.com/@daslusan/redux-observable-to-the-rescue-b27f07406cf2  
-  A quick comparison of writing some complex AJAX-related logic as a thunk and with redux-observable, and some of the benefits of writing the code using observables.
+- **Reacting to ProgressEvents with Redux**  
+  https://medium.com/@andersonmcook/reacting-to-progressevents-with-redux-355ba021d336  
+  Demonstrates using the Redux-Logic library and RxJS to handle browser ProgressEvents

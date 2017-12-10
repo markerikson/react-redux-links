@@ -182,6 +182,18 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6  
   Discusses React perf issues like bad `sCU` implementations, changing the DOM too fast, and event/callback usage, with possible solutions.  
   
+- **React Performance Fixes on Airbnb Listing Pages**  
+  https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4  
+  Excellent practical discussion of actual perf issues that were showing up in Airbnb pages and how they resolved them.  Covers performance recordings, handling initial renders, scrolling, only using component state for values that affect re-rendering, and more.
+  
+- **Debugging React Performance with React 16 and Chrome DevTools**  
+  https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad  
+  Shows how to use the Chrome DevTools to profile React code using performance recordings, including analysis of recordings to track down perf issues.
+  
+- **Demystifying Memory Usage using ES6 React Classes**  
+  https://medium.com/@donavon/demystifying-memory-usage-using-es6-react-classes-d9d904bc4557  
+  A quick look at the memory usage differences between calling `Function.bind` and using the Class Properties syntax, and the readability tradeoffs involved.
+  
   
 #### Code Splitting and Progressive Apps
 
@@ -235,6 +247,10 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Firebase + React: Optimizing for the Real World**  
   https://codeburst.io/firebase-react-optimizing-for-the-real-world-4d9edbbd54c5  
   Describes shrinking a React + Firebase app bundle from 1.7MB to 230KB by switching to smaller alternative packages and analyzing bundle size.
+  
+- **A Pinterest Progressive Web App Performance Case Study**  
+  https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154  
+  A deep dive into how Pinterest optimized their new PWA app, including route chunking, use of babel-preset-env, service workers, and use of normalized Redux state.
   
   
 #### Immutable Data
@@ -358,3 +374,7 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **Optimizing Redux Components**  
   https://medium.com/riipen-engineering/optimizing-redux-components-cbaad062abc7  
   Discusses Redux-specific perf optimizations, such as avoiding unnecessary work in `mapState` functions, memoization, and advanced comparison function options for `connect`.
+  
+- **React + Redux Performance and the Benchmarks to Prove It**  
+  https://tech.smartling.com/react-redux-performance-and-the-benchmarks-to-prove-it-79b0bc9f25a4  
+  Describes an approach for benchmarking a React+Redux app to understand how much impact performance optimizations actually give.

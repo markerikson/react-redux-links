@@ -175,6 +175,10 @@
   https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1  
   A helpful description of the major component lifecycle methods, including descriptions of common use cases for each one, and whether you can call `setState` inside.
   
+- **Revisiting use of React's Component Lifecycles in Anticipation of Async Rendering**  
+  https://medium.com/@awebofbrown/how-to-safely-use-reacts-life-cycles-with-fiber-s-async-rendering-fd4469ebbd8f  
+  An informative look at how async rendering in React 16+ might impact current use of lifecycle methods for behavior.
+  
 
 #### Component Communication
 
@@ -438,6 +442,21 @@
 - **Using a React 16 Portal to do something cool**  
   https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202  
   Demonstrates using React 16's `createPortal` API to control a separate browser window from the original React component tree.
+  
+  
+#### Alternate Component Creation Approaches
+
+- **React without `this`**  
+  https://medium.com/@baronmaximilianwilleford/react-without-this-39a76b8f2160  
+  Describes an alternate approach to writing components using factory functions to eliminate the need for the `this` keyword.  Not the common approach, but an interesting idea.
+  
+- **my-react**  
+  https://github.com/mjackson/my-react  
+  A small library from Michael Jackson (co-creator of React Router) that allows defining components using a Python-style approach where functions receive the component instance as the first argument.
+  
+- **lively**  
+  https://github.com/jlongster/lively  
+  An experimental library from James Long that tries to improve React's component API to avoid using classes
  
 
 #### Other Component Patterns
@@ -478,10 +497,6 @@
   https://gist.github.com/jlongster/febd2a397aff9501abec0c2d66075ec8  
   https://twitter.com/jlongster/status/921016877408837632  
   James Long describes three things about React that bother him: inability to easily have parents get refs to nested elements, PureComponents comparing both props and state, and a general tendency to do lots of processing in `componentWillReceiveProps`.  Some good discussion in both the gist comments and Twitter.
-  
-- **React without `this`**  
-  https://medium.com/@baronmaximilianwilleford/react-without-this-39a76b8f2160  
-  Describes an alternate approach to writing components using factory functions to eliminate the need for the `this` keyword
   
 - **You don't need to know "Dependency Injection"**  
   https://hackernoon.com/you-dont-need-to-know-dependency-injection-2e9d2ba1978a  

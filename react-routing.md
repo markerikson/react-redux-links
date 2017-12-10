@@ -47,6 +47,10 @@
   https://css-tricks.com/react-router-4/  
   A deep look at patterns and strategies for using React-Router v4 successfully.
   
+- **React Router DOM: set-up, essential components, & parameterized routes**  
+  https://blog.logrocket.com/react-router-dom-set-up-essential-components-parameterized-routes-505dc93642f1  
+  An introduction to the concept of a router, setting up React-Router, essential parts of the library, and how to build routes that have parameters.
+  
 - **Advanced React Router concepts: recursive path, code splitting, animated transitions, and more**  
   https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db  
   A tutorial that demonstrates how to implement a variety of useful features using React-Router v4.
@@ -145,3 +149,7 @@
 - **Protected Routes and Authentication with React Router v4**  
   https://tylermcginnis.com/react-router-protected-routes-authentication/  
   A great tutorial that shows how to create routes that only authenticated users can access.
+  
+- **Securing a React Web App with Authorization Rules**  
+  https://medium.appbase.io/securing-a-react-web-app-with-authorization-rules-2e43bf5592ca  
+  A tutorial that shows how to add authorization and authentication to a Todo app

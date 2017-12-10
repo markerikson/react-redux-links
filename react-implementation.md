@@ -172,6 +172,9 @@
   https://stackshare.io/posts/the-react-story  
   An extensive podcast interview with Pete Hunt, former React team member, recounting his early work at Facebook, how he began using React at Instagram, how that led to the growth of React inside Facebook, and how the decision to open-source React happened.  Page includes a complete transcript of the discussion.
    
+- **How exactly does React handle events?**  
+  https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2  
+  A detailed look at how React's internal event handling works, including normalization of events, SyntheticEvent objects, and more.
 
 #### React Fiber
   

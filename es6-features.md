@@ -241,6 +241,10 @@
   https://dev.to/maxart2501/gotchas-about-asyncawait-and-promises-9di  
   Several valuable tips about how to safely use async/await and Promise behavior, especially around error-handling.
   
+- **await vs return vs return await**  
+  https://jakearchibald.com/2017/await-vs-return-vs-return-await/  
+  An informative look at the differences in behavior between various uses of the async/await syntax in relation to promises
+  
   
 #### Techniques
 

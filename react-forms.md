@@ -138,6 +138,10 @@
   https://medium.com/javascript-inside/some-thoughts-on-forms-in-react-9ca2d9078c20  
   An extended look at several form-related concepts, including describing them as "view-driven" vs "model-driven", extracting form management into a Higher-Order Component, adding validation, and more.
   
+- **How to Work with Forms, Inputs, and Events in React**  
+  https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b  
+  An excerpt from the book "React Quickly", which gives an overview of the recommended way to use forms in a React app.
+  
   
 #### Form Validation
 

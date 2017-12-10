@@ -124,6 +124,10 @@
 - **Flow Fundamentals for JavaScript Developers**  
   https://gist.github.com/busypeoples/61e83a1becc9ee9d498e0db324fc641b  
   A JS file in a gist that provides a commented walkthrough of Flow concepts and syntax.
+  
+- **Flow type checking tips**  
+  https://medium.com/@_kamerontanseli/flow-type-checking-tips-393e5323c040  
+  Useful lessons learned from adding Flow to an existing codebase, including handling type declarations, using Flow's utility types, and ensuring immutability.
 
 
 #### React, Redux, and Static Types

@@ -56,6 +56,10 @@ While this list is primarily focused on learning React and Redux, and generally 
   https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff  
   An explanation of all the different Array methods that loop over the array, what they do, and when they should be used
   
+- **Front End Interview Preparation Guide**  
+  https://github.com/Jobeir/front-end-interview-preparation-guide  
+  A list of useful books, courses, and resources for learning JS, and links to interview questions and quizzes that would be beneficial in helping test out knowledge.
+  
 
 #### Tutorials, Books, and Courses
 

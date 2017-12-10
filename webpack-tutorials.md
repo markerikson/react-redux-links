@@ -62,8 +62,6 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   A slideshow from Webpack's original author.  Describes the basics of Webpack, how it can be used to build Progressive Web Apps, and improve speed and reliability through bundling.
   
 
-  
-
 #### Basic Tutorials
 
 - **SurviveJS - Webpack**  
@@ -191,6 +189,14 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **A Webpack Setup that Makes Sense**  
   https://medium.com/@Idan_Co/a-webpack-setup-that-makes-sense-35b4b6b8ef5f  
   Looks at ways to define Webpack setup and tasks in a more modular, reusable manner.
+  
+- **Webpack: A Gentle Introduction to the Module Bundler**  
+  https://auth0.com/blog/webpack-a-gentle-introduction/  
+  A well-written tutorial that explains core Webpack concepts like entries, output, loaders, and plugins, and shows how to set up a basic build config for an application.
+
+- **Starting with Webpack from scratch**  
+  https://www.netlify.com/blog/2017/11/30/starting-with-webpack-from-scratch/  
+  Walks through setting up a Webpack config from the ground up, with explanations and examples of how to configure Webpack and what the resulting output looks like.
 
 
 #### Configuration Terms and Concepts

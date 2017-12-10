@@ -175,6 +175,22 @@
   https://dev.to/aurelkurtula/a-beginners-introduction-to-working-with-redux-in-react-13k  
   A pair of tutorials that explain the basics of working with a Redux store and how to use the React-Redux library.
   
+- **Immutable Updates in React and Redux**  
+  https://daveceddia.com/immutable-updates-react-redux/  
+  Good examples of how to properly update nested state immutably
+  
+- **The most common Redux mistake and how to avoid it**  
+  http://blog.jakoblind.no/most-common-redux-mistake/  
+  Quick tips on understanding how to update data immutability, and avoid mutations.
+  
+- **Replacing state in Redux reducers: a few approaches**  
+  https://chariotsolutions.com/blog/post/replacing-state-in-redux-reducers-a-few-approaches/  
+  Examples of different ways to safely update state in reducers.
+  
+- **React application state management with Redux**  
+  https://chariotsolutions.com/blog/post/react-application-state-management-with-redux/  
+  A tutorial that discusses why a state management library is useful in React apps, introduces Redux usage, and shows how to subscribe to Redux store updates both by hand and using React-Redux.
+  
   
 
 #### Project-Based Tutorials
@@ -303,6 +319,15 @@
 - **React + Redux: User Registration and Login Tutorial**  
   http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example  
   A tutorial that shows how to build a React+Redux app that uses JWT authentication, with the example based on a real-world application.
+  
+- **Build a Bookshop with React & Redux**  
+  https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow  
+  https://scotch.io/tutorials/bookshop-with-react-redux-ii-async-requests-with-thunks  
+  Introduces React and Redux concepts by building a small bookshop app.
+  
+- **How to build a Chat Application using React, Redux, Redux-Saga, and Web Sockets**  
+  https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a  
+  A tutorial that demonstrates building a small real-time client-server chat application.
 
 
 #### Redux Implementation Walkthroughs
@@ -374,6 +399,10 @@
 - **"Help getting @connect command to work with my Create-React-App project"**  
   https://www.reddit.com/r/reactjs/comments/6l9roo/question_help_getting_connect_command_to_work/djskwqi/  
   A comment I wrote describing why the Redux team discourages use of `connect` as a decorator.
+  
+- **tiny-redux**  
+  https://github.com/jamischarles/tiny-redux  
+  A small reimplementation of Redux, with comments explaining how the code works.
 
 
 #### Paid Courses and Books

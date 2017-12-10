@@ -50,6 +50,10 @@
   https://dev.to/imwiss/understanding-redux-middleware-and-writing-custom-ones  
   Describes the concept of middleware in Redux, possible use cases, and gives an example of writing a middleware to handle caching.
   
+- **Build your own Redux middleware**  
+  https://blog.campvanilla.com/redux-middleware-basics-getting-started-17dc31c6435c  
+  A good explanation of how middleware fit into the Redux data flow, how middleware are defined, and how to write a simple logging middleware.
+  
 
 #### Middleware Techniques
 
@@ -85,3 +89,11 @@
 - **Practical Advanced Redux Webinar: Redux Middleware**  
   https://www.youtube.com/watch?v=DqWiuvuK_78  
   A recorded screenshare livestream that discusses the usefulness of Redux middleware, and demonstrates building middleware for fetching data, logging, and throttling.
+  
+- **Redux: Drawing the Lines between Actions and Middleware**  
+  https://michaelwashburnjr.com/redux-actions-middleware/  
+  Compares examples of behavior between thunks and middleware, and discusses when you might want to implement behavior in a middleware.
+  
+- **Redux Middleware and Enhancers**  
+  https://chariotsolutions.com/blog/post/redux-middleware-and-enhancers-getting-redux-to-log-debug-and-process-async-work/  
+  Describes some common Redux middleware and their uses, as well as how to set up the Redux DevTools enhancer for debugging. 

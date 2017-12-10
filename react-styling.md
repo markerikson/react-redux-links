@@ -44,6 +44,10 @@
   https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822  
   Quick examples of plain CSS, CSS modules, inline styles, and the styled-components library.
   
+- **The best "styling in React" tutorial you've ever seen**  
+  https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945  
+  A comparison of how to style an application using inline styles, the styled-components library, and CSS modules.  Has some good explanations of how each approach works.
+  
 
 #### Components and Styling
   
@@ -89,6 +93,10 @@
 - **How we made our product more personalized with CSS Variables and React**  
   https://medium.com/geckoboard-under-the-hood/how-we-made-our-product-more-personalized-with-css-variables-and-react-b29298fde608  
   A walkthrough of how to build a themeable application using React components that update CSS variables for dynamic styles
+  
+- **Styling your React app for beginners**  
+  https://medium.com/@dylan.broadbridge/styling-your-react-app-for-beginners-f6b39779019b  
+  Examples of basic CSS usage in a CRA-based application, including importing CSS files and use of inline styles in components for layout.
   
   
 #### JS-Based Approaches
@@ -179,6 +187,10 @@
 - **The performance of styled React components**  
   http://blog.primehammer.com/2017/09/27/the-performance-of-styled-react-components/  
   Benchmarks comparing size, build speed, and other aspects of different CSS-in-JS libraries.
+  
+- **Structuring our Styled Components**  
+  https://tech.decisiv.com/structuring-our-styled-components-part-i-2bf21fa64b28  
+  Discusses applying the Block-Element-Modifier styling structure approach to use of the styled-components library, with examples.
   
   
 #### Techniques and Examples

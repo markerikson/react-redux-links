@@ -65,6 +65,14 @@
   https://damienbod.com/2017/09/07/getting-started-with-angular-and-redux/  
   A tutorial that covers setting up an Angular app that uses NgRx for state management.  Recently updated to work with Angular 5.
   
+- **Learn Redux in Angular with NgRx Store**  
+  https://malcoded.com/posts/angular-ngrx-guide  
+  An extensive tutorial that introduces the concept of Redux and its Angular equivalent NgRx/store, and walks through building a small Angular currency conversion app.
+  
+- **Ultimate Angular: NGRX Store + Effects**  
+  https://ultimateangular.com/ngrx-store-effects  
+  A free video course from Angular expert Todd Motto.  Covers core Redux concepts, writing a Redux store, the NgRx version of Redux, and how to use the ngrx/effects library for handling side effects.
+  
 
 #### Ember
 
@@ -86,12 +94,25 @@
   https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a  
   Examples of using a tool called ember-changeset to handle in-progress form edits in conjunction with the ember-redux bindings.
   
-
-#### Other
+  
+#### Aurelia
 
 - **Managing State in Aurelia: How to Use Aurelia with Redux**  
   https://www.sitepoint.com/managing-state-aurelia-with-redux/  
   A tutorial that builds a small Markdown editor three ways: pure Aurelia with data binding, Aurelia with Redux to manage state, and then implementation of undo/redo on top.
+  
+- **Managing State in Aurelia: How to Use Aurelia with Redux**  
+  https://www.sitepoint.com/managing-state-aurelia-with-redux/  
+  Covers setting up a standard Aurelia app, adding Redux, and use of redux-undo with the example.
+  
+- **Why Aurelia and Redux is a natural and powerful combination**  
+  https://www.softvision.com/blog/aurelia-redux/  
+  Thoughts on the benefits of Aurelia compared to other frameworks, and examples of how to use Redux in an Aurelia app.
+  
+  
+#### Other
+
+
   
 - **Explorations in Adapting Redux to C#**  
   https://spin.atomicobject.com/2017/03/13/adapting-redux-c-sharp-xamarin/  
@@ -112,10 +133,6 @@
   https://blog.shazam.com/android-apply-redux-2ad0f7355e0  
   Discusses a Redux-inspired pattern for use with Android as an alternative to the MVP approach.
   
-- **Managing State in Aurelia: How to Use Aurelia with Redux**  
-  https://www.sitepoint.com/managing-state-aurelia-with-redux/  
-  Covers setting up a standard Aurelia app, adding Redux, and use of redux-undo with the example.
-  
 - **Coupling a Stencil TODO app with Redux**  
   https://www.javascripttuts.com/coupling-a-stencil-todo-app-with-redux/  
   A tutorial that updates an existing Stencil Todo app to use Redux
@@ -123,3 +140,7 @@
 - **Getting started with Redux in Swift**  
   https://medium.com/mackmobile/getting-started-with-redux-in-swift-54e00f323e2b  
   An overview of how to use the ReSwift library as part of an iOS app.
+
+- **Cedux: Experimenting with the Redux Model in C for Managing State**  
+  https://spin.atomicobject.com/2017/11/27/redux-model-in-c-cedux/  
+  Examples of an experimental implementation of Redux in C

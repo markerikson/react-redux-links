@@ -75,6 +75,11 @@
   https://medium.com/@kyleshevlin/state-snapshots-with-redux-209884cca170  
   Describes a useful technique for saving known state values and using those to reset or restore an earlier state.
   
+- **Code splitting Redux reducers**  
+  https://medium.com/front-end-hacking/code-splitting-redux-reducers-4073db30c72e  
+  Comprehensive instructions on how to properly code-split reducers for dynamic loading at runtime.
+
+  
 
 #### Selectors and Normalization
 
@@ -201,3 +206,11 @@
 - **Redux: Up your game with selectors**  
   https://medium.com/@emilycoco/redux-up-your-game-with-selectors-9aee3a6928ae  
   A quick look at the benefits of using selector functions to encapsulate looking up data from the store.
+  
+- **Redux Patterns: Rethinking `byId` and `byHash` Structures**  
+  https://hackernoon.com/redux-patterns-rethinking-byid-and-byhash-structures-854e8a0fa32d  
+  Thoughts on dropping the common list of "all IDs" in a normalized state structure, and just iterating over all items using `Object.keys()` to grab the IDs.
+  
+- **Selectors: Slice your concerns like butter!**  
+  https://bmbarker90.github.io/selectors-presentation/#/  
+  A slideshow that discusses what selector functions are and why you would want to use them.

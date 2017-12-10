@@ -108,3 +108,7 @@
 - **React Native app performance: Major issues and insights on improving your app's performance**  
   https://www.simform.com/react-native-app-performance/  
   A detailed look at common causes of perf issues in RN, such as memory leaks, large app size, and slow rendering, and discusses various solutions.
+  
+- **React Native at Grofers: Using React Native components inside native views**  
+  https://lambda.grofers.com/starting-with-react-native-at-grofers-a-guide-to-using-react-native-components-inside-native-bbdd6a3470d4  
+  Looks at the pros and cons of using RN components in native views, including turnaround shipping speed, approach for bridging views, and performance.

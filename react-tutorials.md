@@ -148,6 +148,10 @@
   http://ivanjurina.com/2017/11/19/introduction-to-react/  
   Useful notes and info on the basics of React, from someone who just learned React.
   
+- **React Holiday**  
+  https://react.holiday/  
+  A series of short lessons that teach core React concepts, each with an interactive sandbox example to play with.
+  
 
 #### React Concept Overviews
   
@@ -186,6 +190,10 @@
 - **React Interview Questions**  
   https://github.com/Pau1fitz/react-interview  
   A large list of questions on React concepts that might pop up in an interview, with answers.
+  
+- **A React Christmas**  
+  https://react.christmas/  
+  A series of short posts that look at specific aspects of using React, including using Create-React-App, testing code, using Fragments, component composition, and much more.
   
 
 #### Project-Based Tutorials
