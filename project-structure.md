@@ -95,6 +95,7 @@
 
 - **Fractal: A React app structure for infinite scale**  
   https://hackernoon.com/fractal-a-react-app-structure-for-infinite-scale-4dab943092af  
+  Talks about structuring React apps like mathematical fractals. Sample repo: http://github.com/shivekkhurana/appuity-frontend
   
 - **Domain directory structure for React apps - why it's worth trying**  
   https://tech.offgrid-electric.com/domain-directory-structure-for-react-apps-why-its-worth-trying-b3855ee77a1e  
