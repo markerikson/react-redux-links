@@ -186,7 +186,7 @@
   Examples of working with the react-jsonschema-form library, including defining form schemas, gotchas, and customization with specific widgets and types
   
 - **List or Form, why not both? Making a list with a built in editor in React**  
-  http://thereactionary.net/list-or-form-why-not-both-making-a-list-with-a-built-in-editor-in-react/  
+  http://web.archive.org/web/20161214145219/http://thereactionary.net/list-or-form-why-not-both-making-a-list-with-a-built-in-editor-in-react/  
   Builds an example of a list with the ability to do inline editing of items.
   
 - **Comparison of form libraries in React**  

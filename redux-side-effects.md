@@ -217,10 +217,10 @@
   http://formidable.com/blog/2017/javascript-power-tools-redux-saga/  
   http://formidable.com/blog/2017/composition-patterns-in-redux-saga/  
   http://formidable.com/blog/2017/real-world-redux-saga-patterns/  
-  A fantastic series that the concepts, implementation, and benefits behind Redux-Saga, including how ES6 generators are used to control function flow, how sagas can be composed together to accomplish concurrency, and practical use cases for sagas.
+  A fantastic series that teaches the concepts, implementation, and benefits behind Redux-Saga, including how ES6 generators are used to control function flow, how sagas can be composed together to accomplish concurrency, and practical use cases for sagas.
   
 - **Managing Side Effects with Redux Saga: A Primer**  
-  https://www.sigient.com/blog/managing-side-effects-with-redux-saga-a-primer-1  
+  http://web.archive.org/web/20161112151214/https://www.sigient.com/blog/managing-side-effects-with-redux-saga-a-primer-1  
   Looks at how side effects complicate testing, and how sagas use descriptions of side effects to make testing easier.  Also looks at how sagas fit into a Redux application architecture.
   
 - **Exploring Redux Sagas**  
@@ -313,7 +313,8 @@
   A quick comparison of writing some complex AJAX-related logic as a thunk and with redux-observable, and some of the benefits of writing the code using observables.
   
 - **Using redux-observable for asynchronous actions**  
-  https://medium.com/imersotechblog/using-redux-observable-for-asynchronous-actions-1afb31cbc01c  Looks at possible complexities in handling async requests, and how redux-observable can be used to help handle complex async behavior.
+  https://medium.com/imersotechblog/using-redux-observable-for-asynchronous-actions-1afb31cbc01c  
+  Looks at possible complexities in handling async requests, and how redux-observable can be used to help handle complex async behavior.
   
 - **Reactive Redux State with RxJS**  
   https://ivanjov.com/reactive-redux-state-with-rxjs/  

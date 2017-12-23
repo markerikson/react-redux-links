@@ -69,7 +69,7 @@
   Another look at structuring code, based on business logic, data domains, and reusability.
   
 - **When a good plan comes together: React project structure for scaling**  
-  http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/  
+  http://web.archive.org/web/20170706123441/http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/    
   More discussion of tradeoffs in various structure approaches.
   
 - **Structuring and Organizing the React Components Directory**  

@@ -9,7 +9,7 @@
 - **Getting Started with Redux - Video Series**  
   https://egghead.io/series/getting-started-with-redux  
   https://github.com/tayiorbeii/egghead.io_redux_course_notes  
-  Dan Abramov, the creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos.  The linked Github repo contains notes and transcriptions of the videos.
+  Dan Abramov, the creator of Redux, demonstrates various concepts in 30 short (2-5 minute) videos.  The linked Github repo contains notes and transcriptions of the videos.
 
 - **Building React Applications with Idiomatic Redux - Video Series**  
   https://egghead.io/series/building-react-applications-with-idiomatic-redux  
@@ -30,7 +30,7 @@
   
 - **Redux and React: An Introduction**  
   http://jakesidsmith.com/blog/post/2017-11-18-redux-and-react-an-introduction/  
-  A great introduction to Reduxs core concepts, with explanations of how to use the React-Redux package to use Redux with React.
+  A great introduction to Redux's core concepts, with explanations of how to use the React-Redux package to use Redux with React.
 
 - **Single State Tree + Flux**  
   http://merrickchristensen.com/articles/single-state-tree.html  
@@ -79,7 +79,7 @@
   
 - **An Introduction to Redux**  
   https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/  
-  An overview and intro to the basic concepts of Redux.
+  An overview and intro to the basic concepts of Redux.  Looks at the benefits of using Redux, how it differs from MVC or Flux, and its relation to functional programming.
   
 - **Why Redux makes sense to me and how I conceptualize it**  
   https://medium.com/@fay_jai/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca  
@@ -195,14 +195,19 @@
 
 #### Project-Based Tutorials
 
-- **Managing Data Flow on the Client Side**  
-  http://blog.madewithlove.be/post/redux/  
-  Walks through a small Redux example, and talks about the benefits
+- **Practical Redux**  
+  http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/  
+  http://blog.isquaredsoftware.com/series/practical-redux/  
+  An ongoing series of posts intended to demonstrate a number of specific Redux techniques by building a sample application, based on the MekHQ application for managing Battletech campaigns.  Written by Redux co-maintainer Mark Erikson.  Covers topics like managing relational data, connecting multiple components and lists, complex reducer logic for features, handling forms, showing modal dialogs, and much more.
 
-- **Getting Started with Redux**  
-  http://www.jchapron.com/2015/08/14/getting-started-with-redux/  
-  Walks through setting up a small Redux app, and builds up each layer
-
+- **Building a Simple CRUD App with React + Redux**  
+  http://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/  
+  A nifty 8-part series that demonstrates building a CRUD app, including routing, AJAX calls, and the various CRUD aspects.  Very well written, with some useful diagrams as well.
+  
+- **The Soundcloud Client in React + Redux**  
+  http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/  
+  A detailed walkthrough demonstrating project setup, routing, authentication, fetching of remote data, and wrapping of a stateful library.
+  
 - **Full-Stack Redux Tutorial**  
   http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html  
   A full-blown, in-depth tutorial that builds up a complete client-server application.
@@ -211,14 +216,22 @@
   http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/  
   http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/  
   Another solid, in-depth tutorial, similar to the "Full-Stack" tutorial.  Builds a client-only TodoMVC app, and demonstrates a good project setup (including a Mocha+JSDOM-based testing configuration).  Well-written, covers many concepts, and very easy to follow.
+
+- **Managing Data Flow on the Client Side**  
+  http://blog.madewithlove.be/post/redux/  
+  Walks through a small Redux example, and talks about the benefits
+
+- **Getting Started with Redux**  
+  http://www.jchapron.com/2015/08/14/getting-started-with-redux/  
+  Walks through setting up a small Redux app, and builds up each layer
+
+
   
 - **Build an Image Gallery using React, Redux, and redux-saga**  
   http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga  
   A step-by-step look at building a page with some complex async behavior.
 
-- **The Soundcloud Client in React + Redux**  
-  http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/  
-  A detailed walkthrough demonstrating project setup, routing, authentication, fetching of remote data, and wrapping of a stateful library.
+
   
 - **Interactive Frontend Development with React and Redux**  
   https://courses.cs.ut.ee/2016/react/spring/Main/Lectures  
@@ -236,7 +249,7 @@
   https://decembersoft.com/posts/redux-hero-part-1-a-hero-is-born-a-fun-introduction-to-redux-js/  
   https://decembersoft.com/posts/redux-hero-part-2-actions-and-their-consequences-a-fun-introduction-to-redux-actions/  
   https://decembersoft.com/posts/redux-hero-part-3-choose-wisely-a-fun-introduction-to-reselect-js/  
-  https://decembersoft.com/posts/redux-hero-part-4-every-hero-needs-a-villain-a-fun-introduction-to-redux-saga-js/
+  https://decembersoft.com/posts/redux-hero-part-4-every-hero-needs-a-villain-a-fun-introduction-to-redux-saga-js/  
   An introduction to Redux and related libraries through building a small RPG-style game
 
   
@@ -270,8 +283,8 @@
   
 - **Practical Redux**  
   http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/  
-  http://blog.isquaredsoftware.com/2016/11/practical-redux-part-3-project-planning-and-setup/  
-  An ongoing series of posts intended to demonstrate a number of specific Redux techniques by building a sample application, based on the MekHQ application for managing Battletech campaigns.
+  http://blog.isquaredsoftware.com/series/practical-redux/  
+  An ongoing series of posts intended to demonstrate a number of specific Redux techniques by building a sample application, based on the MekHQ application for managing Battletech campaigns.  Written by Redux co-maintainer Mark Erikson.
   
 - **A Practical Guide to Redux**  
   http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/  
@@ -353,7 +366,7 @@
   Looks at the core concepts in Redux, and builds up a mini-Redux to demonstrate how Redux works internally.
   
 - **Learning Redux with Reducks**  
-  http://www.aaron-powell.com/tagged/reducks.html  
+  https://www.aaron-powell.com/tags/reducks/    
   Another "build a mini-Redux" article series.
 
 - **AMA with the Redux Creators**  
@@ -378,9 +391,9 @@
   https://medium.com/@jankjr_/dissecting-redux-864039c6cf59  
   A dive through the source code of Redux looking at the parts that really matter, with discussion of the design decisions and patterns used and what consequences they have.
   
-- **"Redux without the sanity checks in a single file**  
+- **"Redux without the sanity checks in a single file"**  
   https://gist.github.com/gaearon/ffd88b0e4f00b22c3159  
-  A gist from Dan Abramov, showing how Redux's core logic fits into <100 LOC.
+  A gist from Dan Abramov, showing how Redux's core logic fits into less than 100 LOC.
   
 - **Reading Redux: `createStore`**  
   https://engineering.universe.com/reading-redux-ca160163867e  
@@ -407,6 +420,10 @@
 
 #### Paid Courses and Books
 
+- **Redux in Action**  
+  https://www.manning.com/books/redux-in-action  
+  A comprehensive book that covers many key aspects of using Redux, including the basics of reducers and actions and use with React, complex middlewares and side effects, application structure, performance, testing, and much more.  Does a great job of explaining the pros, cons, and tradeoffs of many approaches to using Redux.  Personally recommended by Redux co-maintainer Mark Erikson.
+
 - **The Complete Redux Book**  
   https://leanpub.com/redux-book  
   How do I manage a large state in production? Why do I need store enhancers? What is the best way to handle form validations?  Get the answers to all these questions and many more using simple terms and sample code. Learn everything you need to use Redux to build complex and production-ready web applications.  (Note: now permanently free!)
@@ -415,6 +432,18 @@
   https://bleedingedgepress.com/developing-a-redux-edge/  
   This book is for anyone wanting to learn about Redux, a predictable state container for JavaScript apps. It is aimed at intermediate developers who have a good understanding of creating single page applications with JavaScript.
   
-- **Modern Web Apps with React and Redux**  
+- **Modern React with Redux, by Stephen Grider (paid)**  
+  https://www.udemy.com/react-redux/  
+  Master the fundamentals of React and Redux with this tutorial as you develop apps with React Router, Webpack, and ES6.  This course will get you up and running quickly, and teach you the core knowledge you need to deeply understand and build React components and structure applications with Redux.
+  
+- **Redux, by Tyler McGinnis (paid)**  
+  https://tylermcginnis.com/courses/redux/  
+  When learning Redux, you need to learn it in the context of an app big enough to see the benefits. That's why this course is huge. A better name might be 'Real World Redux. If you're sick of "todo list" Redux tutorials, you've come to the right place. In this course we'll talk all about what makes Redux special for managing state in your application. We'll build an actual "real world" application so you can see how Redux handles edge cases like optimistic updates and error handling. We'll also cover many other technologies that work well with Redux, Firebase, and CSS Modules.
+  
+- **Learn Redux, by Wes Bos (free)**  
+  https://learnredux.com/  
+  A video course that walks through building 'Reduxstagram' — a simple photo app that will simplify the core ideas behind Redux, React Router and React.js
+  
+- **Modern Web Apps with React and Redux (paid)**  
   http://code.tutsplus.com/courses/modern-web-apps-with-react-and-redux  
   A paid course on TutsPlus that builds a spaced-repetition notecard app.
