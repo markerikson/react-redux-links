@@ -110,7 +110,7 @@
   https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b  
   Discusses passing a function to `setState` to perform updates, why that approach is useful, and how that pattern can be used to separate state update logic from component definition
   
-- **Does React have a `setState` problem? / `setState() Gate: Navigating Behavior Confusion**  
+- **Does React have a `setState` problem? / `setState()` Gate: Navigating Behavior Confusion**  
   https://twitter.com/i/moments/842710066826530816  
   https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82  
   Eric Elliott recently posted a tweet saying that `setState` is bad for learners, and advanced devs have learned to avoid it.  That spawned a large Twitter thread arguing the idea.  Elliott later posted an article explaining his concerns in detail.  Some excellent reading and points to consider all around - the "Moments" link includes a few of the tweets, but the whole thread is worth reading.
