@@ -342,6 +342,9 @@
   https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a  
   A tutorial that demonstrates building a small real-time client-server chat application.
 
+- **Build and Deploy a React/Redux app**  
+  https://medium.com/webdevils-advocate/react-redux-react-router-and-rainy-day-fund-tutorial-e589f0803306
+  A step-by-step tutorial that shows how to build a React+Redux app, from initial create-react-app to deployment on GitHub pages. Includes progressive code snippets and links to resources along the way.
 
 #### Redux Implementation Walkthroughs
 
