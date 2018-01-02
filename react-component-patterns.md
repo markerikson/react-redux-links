@@ -55,6 +55,10 @@
   https://reacttraining.com/patterns/  
   The lecture videos from React Training's "Advanced React" course.  The videos themselves are now free.  Covers topics like declarative vs imperative, compound components, context, Higher Order Components, render props, and controlled components.
   
+- **The Common Patterns of React**  
+  https://blog.pixelingene.com/2017/09/the-common-patterns-of-react/  
+  A friendly visual overview of common React patterns like higher-order components, function-as-child, context, callbacks, container/presentational components, and compound components.
+  
 
 #### Component Definition Approach Comparisons
   
@@ -162,6 +166,14 @@
 - **The React Component Lifecycle**  
   https://www.kirupa.com/react/component_lifecycle.htm  
   Another useful description of the order and purpose of the lifecycle methods.
+  
+- **Understanding React - Component life-cycle**  
+  https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d  
+  An extensive description of the various React lifecycle methods, and how you should and shouldn't use them.
+  
+- **Lifecycle Simulators**  
+  https://reactarmory.com/guides/lifecycle-simulators  
+  An interactive set of simulators for React components that let you step through a component's lifecycle and watch how state and props respond to actions over time.
   
 - **React In-Depth: The React Life Cycle**  
   https://developmentarc.gitbooks.io/react-indepth/content/  
@@ -404,9 +416,13 @@
   https://www.sitepen.com/blog/2017/08/08/wrapping-web-components-with-react/  
   A detailed walkthrough of how to create React components that wrap up existing web components, including managing props, handling events, and keeping the DOM in sync.
   
-- **Migrating complex Javascript applications**  
-  https://javascriptplayground.com/blog/2017/08/migrating-complex-javascript-angular-react/  
-  Jack Franklin describes the lessons learned when his team migrated from Angular to React, including why they migrated, how they approached the architecture changes, how they prioritized what to change, and more.  Includes some examples of the Angular->React change, but also good advice in general.
+- **How to integrate React into an existing app?**  
+  https://reactarmory.com/answers/how-to-integrate-react-into-existing-app  
+  Looks at ways to add React to an existing page, even if there's no build step.
+  
+- **Integrating Imperative APIs into a React application**  
+  https://medium.com/netflix-techblog/integrating-imperative-apis-into-a-react-application-1257e1b45ac6  
+  A higher-level discussion of how to design declarative React components that encapsulate imperative APIs.
   
 
 #### Modal Dialogs

@@ -73,6 +73,10 @@
   https://medium.com/@mcculloughrt/react-redux-with-mapbox-78fa3767211e  
   Useful techniques for driving the appearance and behavior of a Mapbox-based geospatial app from React and Redux.
   
+- **React/Redux: Modals and Dialogs**  
+  https://medium.com/front-end-hacking/react-redux-no-need-to-component-state-for-modals-73871157b52e  
+  Discussion of the pros and cons of powering modals via Redux, with examples of how to show them using React 16's Portals. 
+  
   
 #### Redux and Forms
 

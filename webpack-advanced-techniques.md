@@ -194,6 +194,10 @@
   https://medium.com/comparethemarket/how-to-reduce-your-bundle-size-by-automatically-getting-your-dependencies-from-a-cdn-96b25d1e228  
   A quick example of using the `dynamic-cdn-webpack-plugin` to have your bundle reference libraries from the Unpkg CDN, rather than including them in the main bundle.
   
+- **Webpack 3, Dynamic Imports, Code Splitting, and Long Term Caching Made Easy**  
+  https://blog.cloudboost.io/webpack-3-dynamic-imports-code-splitting-and-long-term-caching-made-easy-1892981e0ae7  
+  Describes how to configure Webpack and use React-Loadable to set up code-splitting, as well as set up consistent module hash IDs.
+  
   
 #### Bundle Sizes and Visualization
 
@@ -267,6 +271,10 @@
   https://www.contentful.com/blog/2017/10/27/put-your-webpack-bundle-on-a-diet-part-3/  
   A multi-part series that covers approaches for shrinking bundle size, ranging from simply using Webpack's -p flag up to advanced optimizations.
   
+- **What Lurks Within: Reducing Bundle Sizes with Webpack Bundle Analyzer**  
+  http://engineering.teacherspayteachers.com/2017/12/20/reducing-bundle-sizes-with-webpack-bundle-analyzer.html  
+  Tips for using the Webpack Bundle Analyzer tool to track down large dependencies. 
+  
   
 #### Hot Module Replacement
 
@@ -288,6 +296,10 @@
   http://andrewhfarmer.com/3-ways-webpack-hmr/  
   http://andrewhfarmer.com/webpack-hmr-tutorial/  
   A very readable and informative series of articles on using HMR.  
+  
+- **Blogged Answers: Webpack HMR vs React-Hot-Loader**  
+  http://blog.isquaredsoftware.com/2017/08/blogged-answers-webpack-hmr-vs-rhl/  
+  A description of the differences between the HMR API offered by Webpack and how the React-Hot-Loader tool works, and advice on using "plain HMR".
   
  - **SurviveJS: Hot Module Replacement**  
    https://survivejs.com/webpack/appendices/hmr/  
@@ -333,6 +345,10 @@
   https://medium.com/@antonkorzunov/how-to-hot-load-react-component-in-7-days-part-1-webpack-d8b77eea61eb  
   https://codeburst.io/how-to-hot-load-react-component-in-7-days-part-2-react-28ce2b61d0c7  
   A 2-part article that discusses how to set up plain HMR and add React-Hot-Loader, as well as many of the complexities of using RHL.
+  
+- **Hot reloading in React apps with code splitting**  
+  https://medium.com/zoover-engineering/hot-reloading-in-react-apps-with-code-splitting-17e6793fc80d  
+  Looks at complexities in using RHL and React-Loadable together, and shows a Babel plugin that can help turn off code-splitting in development mode.
 
 
 #### Other Tips and Examples
@@ -436,6 +452,16 @@
 - **Deploying ES2015+ Code in Production Today**  
   https://philipwalton.com/articles/deploying-es2015-code-in-production-today/  
   Discusses a way to use `script type="module"` loading as a way to determine if a browser supports most modern syntax, and how to configure Babel to target modern browsers.  Not Webpack specific, but useful.
+  
+- **Long term caching using Webpack records**  
+  https://medium.com/@songawee/long-term-caching-using-webpack-records-9ed9737d96f2  
+  Looks at how to use the RecordsPlugin to ensure consistent filenames between builds, allowing for more predictable bundle output for long-term caching of files.
+  
+- **The Contributor's Guide to Webpack**  
+  https://medium.com/webpack/the-contributors-guide-to-webpack-part-1-a0410cc82ca4  
+  https://medium.com/webpack/the-contributors-guide-to-webpack-part-2-9fd5e658e08c  
+  https://medium.com/webpack/the-contributors-guide-to-webpack-part-3-44cc149af02c  
+  A series by Webpack maintainer Sean Larkin that dives into the internals of Webpack. Topics include packages that are maintained by the Webpack core team, the Tapable plugin base class, and how Webpack builds its dependency graph.
 
   
 #### Webpack Tools

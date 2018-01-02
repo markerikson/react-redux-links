@@ -62,6 +62,10 @@
   https://www.youtube.com/watch?v=xihoZZU0gao  
   An excellent screencast that covers three useful tips for use of redux-thunk: thunk return values, multi-dispatch, and when to use `getState`
   
+- **Softly, Softly, Catch-ee Thunk-y**  
+  https://reergymerej.github.io/blog/redux/2017/12/16/thunk-promises.html  
+  Thoughts on how to handle errors inside of thunks, and why you shouldn't end a thunk by catching thrown errors.
+  
   
 #### Side Effect Approach Comparisons
   

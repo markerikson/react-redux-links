@@ -73,6 +73,22 @@
   https://ultimateangular.com/ngrx-store-effects  
   A free video course from Angular expert Todd Motto.  Covers core Redux concepts, writing a Redux store, the NgRx version of Redux, and how to use the ngrx/effects library for handling side effects.
   
+- **NGRX Store: Understanding State Selectors**  
+  https://toddmotto.com/ngrx-store-understanding-state-selectors  
+  A deep look at how selectors can be used to extract data from a store and transform it as needed by components.
+  
+- **NGRX Store: Actions vs Action Creators**  
+  https://toddmotto.com/ngrx-store-actions-versus-action-creators  
+  Describes the reasons for defining actions as constants, namespacing actions, using action creator functions, and defining actions as TypeScript classes
+  
+- **"ngrx/store vs angular/store"**  
+  https://www.reddit.com/r/Angular2/comments/67coeo/ngrxstore_vs_angularreduxstore/  
+  Discussion of the differences between ngrx/store and angular/store, with a comparison from an angular/store contributor
+  
+- **A Beginner's Guide to Ngrx/store**  
+  https://medium.com/stratajet-tech/a-beginners-guide-to-ngrx-store-bc2184d6d7f0  
+  Describes how ngrx/store implements the Redux pattern using RxJS, and walks through a todo app tutorial
+  
 
 #### Ember
 
@@ -144,3 +160,11 @@
 - **Cedux: Experimenting with the Redux Model in C for Managing State**  
   https://spin.atomicobject.com/2017/11/27/redux-model-in-c-cedux/  
   Examples of an experimental implementation of Redux in C
+  
+- **Lessons learned implementing Redux on Android**  
+  https://blog.pusher.com/lessons-learned-implementing-redux-on-android/  
+  Recaps experiences from using a Redux-based approach in Android apps using Kotlin
+  
+- **A blockchain-backed Redux clone in 105 lines of code**  
+  https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980  
+  An interesting experiment that plays with the idea of implementing Redux's store API around a simple blockchain.

@@ -130,12 +130,6 @@
   https://medium.com/trainline-engineering/manage-analytics-actions-in-react-67fae61495de  
   Discusses using Redux middleware and redux-observable to manage analytics behavior in isolation from the rest of the application.
   
-- **VR Redux / ReactVR Redux Revisited**  
-  http://jimpurbrick.com/2017/01/04/vr-redux/  
-  http://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/  
-  http://jimpurbrick.com/2017/11/10/replaying-replicated-redux/  
-  A set of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
-  
 - **Using dynamic localization to improve accessibility with React and Redux**  
   https://medium.com/checkr/using-dynamic-localization-to-improve-accessibility-with-react-and-redux-7650878af6ef  
   Some quick examples and discussion of how Checkr uses the react-redux-i18 package to set up localization for their app.
@@ -151,6 +145,10 @@
 - **A Simple Way to Implement Timers and Timeouts in Redux**  
   https://spin.atomicobject.com/2017/11/20/timers-timeouts-redux/  
   A quick example of storing a "current time" value and timers as "expire times".
+  
+- **Redux Dead Drop**  
+  https://medium.com/@erikras/redux-dead-drop-1b9573705bec  
+  Describes a possible technique for passing messages between widely separated components, such as triggering focus on a particular DOM node
   
   
   
@@ -211,8 +209,26 @@
   https://www.reddit.com/r/javascript/comments/7i4t14/keducer_automate_writing_redux_reducers_with_5/  
   Describes a small lib to generate reducers that handle merging in updated state.  Some good discussion in both the article comments and Reddit comments about the tradeoffs between having reducers "own" state, vs state being defined by action creators.
   
+- **API Requests in Redux**  
+  https://tech.decisiv.com/api-requests-in-redux-part-1-9ce587628a90  
+  A series looking at a pattern for simplifying boilerplate around request pending/success/failure status.
+  
+- **Introducing redux-recompose**  
+  https://medium.com/wolox-driving-innovation/932e746b0198  
+  Introduces a reducer utility library to help simplify handling of async actions
+  
+- **The elegance of decorated Redux**  
+  https://blog.cloudboost.io/the-elegance-of-decorated-redux-b0bd7e2de16a  
+  Looks at using `connect` as a decorator, extracting `connect` definitions for reuse with multiple components, and combining multiple connections together to apply to a single component.
+  
   
 #### Network Management
+
+- **VR Redux / ReactVR Redux Revisited**  
+  http://jimpurbrick.com/2017/01/04/vr-redux/  
+  http://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/  
+  http://jimpurbrick.com/2017/11/10/replaying-replicated-redux/  
+  A set of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
 
 - **Ajax Polling in React with Redux and Sagas**  
   http://notjoshmiller.com/ajax-polling-in-react-with-redux/  
@@ -241,4 +257,8 @@
 
 - **What's the best way to store tokens in Redux?**  
   https://michaelwashburnjr.com/whats-the-best-way-to-store-tokens-in-redux/  
-  Discusses pros and cons of storing auth tokens in app state vs localStorage, and what code should be responsible for handling the tokens.
+  Discusses pros and cons of storing auth tokens in app state vs localStorage, and what code should be responsible for handling the tokens.*
+  
+- **Remote Reducers and Predictive Reduction**  
+  https://medium.com/@seveibar/remote-reducers-and-predictive-reduction-572ab5054211  
+  Discusses potential techniques for synchronizing server-side state via Redux actions, and how to reconcile actions that are dispatched out of order.

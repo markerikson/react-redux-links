@@ -174,3 +174,7 @@
 - **Currying vs Partial Application**  
   http://www.datchley.name/currying-vs-partial-application/  
   A great explanation of the difference between "currying" functions and "partially applying" them
+  
+- **Lodash is not (only) for list manipulation!**  
+  https://blog.pragmatists.com/lodash-is-not-only-for-list-manipulation-791c2e3b9de1  
+  Examples of how to compose the `lodash/fp` functions to create functional data transformation pipelines.

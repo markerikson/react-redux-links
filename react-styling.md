@@ -48,6 +48,14 @@
   https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945  
   A comparison of how to style an application using inline styles, the styled-components library, and CSS modules.  Has some good explanations of how each approach works.
   
+- **CSS-in-JS 101: All you need to know**  
+  https://github.com/stereobooster/css-in-js-101  
+  An extensive look at different ways to handle CSS in React, with pros and cons, techniques for optimizing CSS, and comparisons of different CSS-in-JS libraries.
+  
+- **Styling React**  
+  https://survivejs.com/react/advanced-techniques/styling-react/  
+  An overview of the various approaches for styling React applications and components, and some of the problems each approach tries to solve.
+  
 
 #### Components and Styling
   
@@ -191,6 +199,10 @@
 - **Structuring our Styled Components**  
   https://tech.decisiv.com/structuring-our-styled-components-part-i-2bf21fa64b28  
   Discusses applying the Block-Element-Modifier styling structure approach to use of the styled-components library, with examples.
+  
+- **Styled-Components Nitty-Gritty**  
+  https://blog.elpassion.com/styled-components-nitty-gritty-2d74b8690ef8  
+  An introduction to how to use the styled-components library, the problems that it solves, and how it works internally
   
   
 #### Techniques and Examples

@@ -378,3 +378,7 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
 - **React + Redux Performance and the Benchmarks to Prove It**  
   https://tech.smartling.com/react-redux-performance-and-the-benchmarks-to-prove-it-79b0bc9f25a4  
   Describes an approach for benchmarking a React+Redux app to understand how much impact performance optimizations actually give.
+  
+- **Redux's Connect function and areStatesEqual Option**  
+  https://medium.com/@ryansperzel/reduxs-connect-function-and-arestatesequal-option-adc97e00ee0  
+  Looks at one of `connect`'s options that can be used to customize comparisons and skip unnecessary `mapState` calls.

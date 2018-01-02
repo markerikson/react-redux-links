@@ -341,6 +341,10 @@
 - **How to build a Chat Application using React, Redux, Redux-Saga, and Web Sockets**  
   https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a  
   A tutorial that demonstrates building a small real-time client-server chat application.
+  
+- **CRUD with Redux**  
+  https://www.youtube.com/playlist?list=PLuNEz8XtB51KfnHc99GwscPy1UbLJyXHW  
+  A video screencast tutorial series that demonstrates how to build a CRUD app with React, Redux, React-Router, and MongoDB.
 
 
 #### Redux Implementation Walkthroughs
@@ -416,6 +420,10 @@
 - **tiny-redux**  
   https://github.com/jamischarles/tiny-redux  
   A small reimplementation of Redux, with comments explaining how the code works.
+  
+- **Finally understand Redux by building your own Store**  
+  https://toddmotto.com/redux-typescript-store  
+  Teaches Redux concepts by going under the hood and building a Redux-equivalent Store class from scratch
 
 
 #### Paid Courses and Books

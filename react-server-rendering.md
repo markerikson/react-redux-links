@@ -93,3 +93,14 @@
   https://adrienharnay.me/you-might-not-need-a-server-side-rendering-framework/  
   Discusses building a home-grown SSR setup using Webpack, rather than reusing something like Next.js.
   
+- **Server-side rendering React apps**  
+  https://hph.is/coding/server-side-rendering-react  
+  A friendly introduction to setting up a basic SSR React 16 app from scratch, including simple rendering of HTML, addition of Webpack and Babel, and use of React-Router.
+  
+- **Using React and Next.js to build a PWA**  
+  https://aerolab.co/blog/react-nextjs-pwa/  
+  Shows how to build a Hacker News app using the Next.js SSR platform
+  
+- **The simple guide to server-side rendering React with styled-components**  
+  https://medium.com/styled-components/the-simple-guide-to-server-side-rendering-react-with-styled-components-d31c6b2b8fbf  
+  A short walkthrough that sets up a basic React SSR app, and adds the styled-components library for styling

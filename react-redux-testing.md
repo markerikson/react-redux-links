@@ -153,6 +153,14 @@
   https://medium.com/@lukepierotti/snapshot-testing-react-components-with-jest-744a1e980366  
   Covers the basics of snapshot testing, and how it can be used to test React components to ensure the rendering is consistent.
   
+- **Testing React Components**  
+  https://medium.com/@skidding/testing-react-components-30516bc6a1b3  
+  Thoughts on good practices for testing React components, based on writing thousands of tests. Describes complexities in testing real-world components that make use of multiple HOCs or that glue different units together, and how the Cosmos tool can help simplify those tests using mocking.
+  
+- **An introduction to testing React components with Enzyme 3**  
+  https://javascriptplayground.com/blog/2017/12/introduction-to-react-tests-enzyme/  
+  Introduces the Enzyme library for testing components, and shows a short TDD approach for writing a component
+  
 
   
 #### Redux
@@ -292,6 +300,25 @@
   https://medium.com/@lukepierotti/unit-testing-redux-connected-components-692fa3c4441c  
   Discusses testing connected components with a mock store vs testing `mapState` functions and plain components separately.
 
+- **How to Test Your Redux App**  
+  https://www.wix.engineering/single-post/2017/12/27/How-to-Test-Your-Redux-App  
+  Discusses tradeoffs and examples of writing tests for "simple" functions, and how to approach writing integration tests for connected components.
+  
+- **Interview: redux-saga-test-plan**  
+  https://survivejs.com/blog/redux-saga-test-plan-interview/  
+  An interview with the author of the redux-saga-test-plan library, discussing how it works and how it can simplify the process of testing sagas.
+  
+- **Subcutaneous Testing against React + .NET Applications**  
+  https://jeremydmiller.com/2017/12/19/subcutaneous-testing-against-react-net-applications/  
+  Discusses a possible approach for using the Storyteller .NET integration testing tool to help drive a client-side Redux app for integration testing.
+  
+- **Creating unit tests for redux-observable with marble diagrams**  
+  https://medium.com/@dmitrymartynov_84736/creating-unit-tests-for-redux-observable-with-marble-diagrams-b1e1b34e5f44  
+  Describes how to set up tests for redux-observable epics, and define expectations for behavior using marble diagrams 
+  
+- **How I test redux-saga**  
+  https://codeburst.io/how-i-test-redux-saga-fcc425cda018  
+  Short examples of a typical saga and a test for that saga, with some thoughts on a couple tricks for testing sagas.
   
   
 #### General Testing, Tools, and Setup

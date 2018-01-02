@@ -63,6 +63,14 @@
   https://codeburst.io/react-router-v4-unofficial-migration-guide-5a370b8905a  
   Practical advice and specific steps needed to migrate an app from React-Router v3 to v4.
   
+- **Introduction to React Router**  
+  https://dev.to/aurelkurtula/introduction-to-react-router-ha  
+  A quick look at the basics of React-Router v4.
+  
+- **React Router DOM, plain and simple**  
+  http://coding4real.com/2017/12/19/using-react-router-dom/  
+  An introduction that shows how to add React-Router to a basic React app, and describes the basic API.
+  
   
 #### Routing with Redux
   

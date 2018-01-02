@@ -31,9 +31,9 @@
   https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b  
   An approach to understanding the variety of build tools by categorizing them as "installing" vs "doing"
 
-- **The State of Javascript in 2016: Survey Results**
-  http://stateofjs.com/  
-  Results from a survey of over 9000 developers, covering use of Javascript tools, technologies, and concepts.
+- **The State of Javascript in 2017: Survey Results**
+  https://stateofjs.com/  
+  Results from a survey of over 23000 developers, covering use of Javascript tools, technologies, and concepts.
   
 - **The (R)Evolution of Web Development**  
   http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/  
@@ -80,6 +80,10 @@
   https://closebrace.com/articles/2017-09-11/a-brief-incomplete-history-of-javascript  
   An excellent history lesson that recaps the four major eras of web development and JS usage: the Early Era, the jQuery Era, the Single Page App Era, and the Modern Era.
   
+- **Frontend in 2017: The important parts**  
+  https://blog.logrocket.com/frontend-in-2017-the-important-parts-4548d085977f  
+  An overview of major trends, tools, and concepts in the front-end web dev world in 2017.  Very good look at what's popular, what's changing, and how these pieces fit together.
+  
 
 #### Suggested Learning Approaches
 
@@ -123,7 +127,11 @@
 - **So you completed the official React tutorial. Now what?**  
   https://goshakkk.name/next-steps-official-react-tutorial/  
   General advice on how to approach learning new things in general without getting overloaded, as well as specific advice for concepts and ideas to learn about after grasping the basics of React.
-
+  
+- **Spellbook of Modern Web Dev**  
+  https://github.com/dexteryy/spellbook-of-modern-webdev#gui-framework  
+  A large list of categorized resources for dozens of web development-related topics.
+  
 
 #### General Suggestions for Learning
 

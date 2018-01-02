@@ -240,6 +240,14 @@
   https://dzone.com/articles/using-typescript-with-redux  
   Examples of basic TS usage with Redux, and setting up your own type declarations for better type safety.
   
+- **Todo app with Typescript/Redux**  
+  https://medium.com/@nem121/todo-app-with-typescript-redux-e6a4c2f02079  
+  An introduction to the principles of using Typescript with Redux, as applied to a simple todo app.
+  
+- **Error TS2532 and Optional React Component Props in TypeScript**  
+  https://decembersoft.com/posts/error-ts2532-optional-react-component-props-in-typescript/  
+  Describes a specific TS error message that can result from trying to use default props, and and shows how to solve it.
+  
 
 
 #### Advancing Typing Techniques
@@ -263,6 +271,10 @@
 - **Secret Flow Types**  
   https://medium.com/@raxwunter/secret-flow-types-86b2ebb30951  
   A list of "advanced" Flow type declarations, such as Keys, Diff, and Shape.
+  
+- **Stronger JavaScript with Opaque Types**  
+  https://codemix.com/opaque-types-in-javascript/  
+  Describes how to use Flow's "opaque types" feature to make otherwise compatible types separate, such as an account number and a balance.
   
 
 #### Tool Comparisons
@@ -318,3 +330,7 @@
 - **Flow and TypeScript**  
   https://engineering.tumblr.com/post/165261504692/flow-and-typescript  
   The Tumblr engineering team discusses their experience comparing Flow and TS, and why they opted to use TS.
+  
+- **Strict Types :Typescript, Flow, Javascript**  
+  https://codeburst.io/strict-types-typescript-flow-javascript-to-be-or-not-to-be-959d2d20c007  
+  Looks at the rise of static typing in dynamic languages, gives some thoughts on the tradeoffs and benefits of TS and Flow, and tradeoffs for static typing usage as a whole.

@@ -71,6 +71,10 @@
   http://madewithreact.com/  
   A collection of websites and applications using the React or React Native JavaScript library.
   
+- **Awesome React**  
+  https://react.libhunt.com/  
+  A categorized collection of awesome React libraries, resources and shiny things, based on the awesome-react list.
+  
 
 #### Online IDEs and Editors
 

@@ -178,7 +178,14 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **What is This in Javascript?**  
   https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/  
   An easy-to-read explanation of the different ways `this` can be defined in a function.
-
+  
+- **Everything you wanted to know about JavaScript scope**  
+  https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/  
+  A detailed look at the concept of "scopes" in JS, including global, local, function, and lexical scopes, and how `this` behaves in relation to scopes.
+  
+- **On `this` in Javascript**  
+  http://georgemauer.net/2017/08/03/on-this-in-javascript.html  
+  Describes how `this` is just a function parameter you don't get to name, and shows how it works with normal functions, arrow functions, and classes
 
 #### Paid Courses and Books
 

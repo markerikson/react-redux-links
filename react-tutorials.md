@@ -152,6 +152,10 @@
   https://react.holiday/  
   A series of short lessons that teach core React concepts, each with an interactive sandbox example to play with.
   
+- **The Beginner's Guide to React**  
+  https://egghead.io/courses/the-beginner-s-guide-to-reactjs  
+  A free video series from Kent C Dodds that teaches React fundamentals.  Each lesson's sample code is a simple index.html file so you can focus on learning React, without distractions from other tools.
+  
 
 #### React Concept Overviews
   
@@ -386,7 +390,7 @@
   https://www.writesoftware.org/tutorial/react-spreadsheet  
   An excellent tutorial that shows how to build a miniature spreadsheet app using React
   
-- **Developig modern offline apps with ReactJS, Redux, and Electron**  
+- **Developing modern offline apps with ReactJS, Redux, and Electron**  
   https://blog.codecentric.de/en/2017/10/developing-modern-offline-apps-reactjs-redux-electron-part-1/  
   An ongoing multi-part series that covers using React to build an Electron app, including discussion of architectural decisions.
   
@@ -397,6 +401,10 @@
 - **Build a realtime PWA with React**  
   https://blog.pusher.com/build-a-realtime-pwa-with-react/  
   Covers building a Progressive Web App that shows crypto-currency pricess, using Create-React-App and the Pusher service.
+  
+- **Getting Started with React: Build a Cryptocurrency Ticker**  
+  https://sabe.io/tutorials/getting-started-with-react  
+  A tutorial that demonstrates how to build a simple real-time display of cryptocurrency prices.
   
   
 #### Paid Courses and Books

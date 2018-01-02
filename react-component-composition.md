@@ -99,7 +99,13 @@
   https://codeburst.io/save-the-zombies-how-to-add-state-and-lifecycle-methods-to-stateless-react-components-1a996513866d  
   A humorously-written look at how to extract state management logic into HOCs.
   
-
+- **HOC in a nutshell**  
+  http://coding4real.com/2017/12/23/hoc-nutshell-bonus-example/  
+  Describes how HOCs can be used to encapsulate reusable code, and demonstrates HOcs that help with route authentication and work with Redux.
+  
+- **Composing Higher-Order Components**  
+  https://medium.com/@caseymorrisus/react-composing-higher-order-components-hocs-3a5288e78f55  
+  Gives examples of common use cases for HOCs, shows some example implementations, and  demonstrates how to compose HOcs together.
   
 
 #### Render Props/Function As Child
@@ -231,3 +237,11 @@
 - **React Developer's Everyday Struggle - Extending Big Applications**  
   https://blog.callstack.io/react-developers-everyday-struggle-extending-big-applications-84ec4e62e2ad  
   Looks at different possible solutions to handling form inputs and validation logic, including existing form libs, a validation HOC, and a function-as-children approach.
+  
+- **Seven patterns by example: the many ways to `type="radio"` in React**  
+  https://techblog.commercetools.com/seven-patterns-by-example-the-many-ways-to-type-radio-in-react-bfe14322bb6f  
+  Compares multiple approaches for rendering and controlling a group of radio inputs, including passing a list of options as an array, creating a RadioOption component, compound components, context, function as a child, prop getters, and dynamic RadioOption creation.
+  
+- **How "Controllable" React components maximize reusability**  
+  https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e  
+  Gives examples of uncontrolled, controlled, and controllable components, looks at pros and cons of those approaches, and describes how controllable components improve reusability.

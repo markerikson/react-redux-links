@@ -116,6 +116,9 @@
   https://github.com/k88hudson/git-flight-rules  
   A guide for Git users about what to do when things go wrong.  Covers topics like editing commits, staging and unstaging files, fixing branches, rebasing/merging, and much more.
   
+- **Advanced Git Commands You Will Actually Use**  
+  https://stosb.com/blog/advanced-git-commands-you-will-actually-use/  
+  Describes a wide variety of useful commands, such as ways to refer to commits, searching commit logs, manipulating history, and much more.
   
 ## Specific Techniques
   

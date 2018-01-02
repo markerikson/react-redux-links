@@ -197,6 +197,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Starting with Webpack from scratch**  
   https://www.netlify.com/blog/2017/11/30/starting-with-webpack-from-scratch/  
   Walks through setting up a Webpack config from the ground up, with explanations and examples of how to configure Webpack and what the resulting output looks like.
+  
+- **Webpack 3 quickstarter: Configure Webpack from scratch**  
+  https://medium.com/@nirjhor123/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a  
+  A walkthrough for Webpack setup that covers basic entry and output definition, webpack-dev-server setup, and adding loaders and plugins.
 
 
 #### Configuration Terms and Concepts

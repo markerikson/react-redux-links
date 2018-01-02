@@ -15,6 +15,10 @@
   https://rangle-io.gitbooks.io/react-native-workshop/content/  
   An introduction to React Native's concepts, in conjunction with Flexbox and Redux
   
+- **React Native Made Easy**  
+  https://www.reactnative.guide/  
+  An extensive tutorial that teaches many aspects of React Native project setup and tooling while building an example notes app.
+  
 - **Building the F8 App**  
   http://makeitopen.com/  
   A dive into how the Facebook F8 conference mobile app was built, including planning, design, testing, and data management.
@@ -42,6 +46,7 @@
   https://medium.com/@wesharehoodies/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iv-b0e0c5ca2dca  
   A 4-part tutorial series that shows how to set up a React Native project, add Redux, fetch data with Redux, and display that data with React.
 
+  
   
 #### Specific aspects
 
@@ -112,3 +117,7 @@
 - **React Native at Grofers: Using React Native components inside native views**  
   https://lambda.grofers.com/starting-with-react-native-at-grofers-a-guide-to-using-react-native-components-inside-native-bbdd6a3470d4  
   Looks at the pros and cons of using RN components in native views, including turnaround shipping speed, approach for bridging views, and performance.
+  
+- **React Native Events in Gory Details: What Happens on the Way to Listeners**  
+  https://levelup.gitconnected.com/react-native-events-in-gory-details-what-happens-on-the-way-to-listeners-2cee6c55940c  
+  A deep dive into the internnal behavior and implementation of React Native's event system.

@@ -26,6 +26,14 @@
 - **React vs Angular 2+: Developer Ergonomics**  
   https://medium.com/@stelly_ryan/react-vs-angular-2-developer-ergonomics-b6d5103e8699  
   Specific opinion-based comparisons on the developer experience for React and Angular in areas like components, testing, and framework-specific syntax, based on writing equivalent example apps using both frameworks.
+  
+- **How is React different from Vue?**  
+  https://javascriptreport.com/how-is-react-different-from-vue/  
+  A higher-level overview of some of the similarities and differences between React and Vue, including quotes from Dan Abramov and Evan You.
+  
+- **Unopinionated comparison of Glimmer and React**  
+  https://wyeworks.com/blog/2017/12/20/unopinionated-comparison-of-glimmer-and-react  
+  A well-written comparison of small React and Glimmer components that implement the same functionality.
 
 
 #### React and Flux vs Backbone
@@ -60,3 +68,7 @@
 - **AngularJS migration to React/Redux**  
   https://hashnode.com/post/angularjs-migration-to-reactredux-cj7t0m67x012ehowugcvjn1xj  
   Examples of how to approach migrating an Angular 1 app by first switching some components to use React, then adding state management to use Redux.
+  
+- **Migrating complex Javascript applications**  
+  https://javascriptplayground.com/blog/2017/08/migrating-complex-javascript-angular-react/  
+  Jack Franklin describes the lessons learned when his team migrated from Angular to React, including why they migrated, how they approached the architecture changes, how they prioritized what to change, and more.  Includes some examples of the Angular->React change, but also good advice in general.

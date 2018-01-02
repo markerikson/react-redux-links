@@ -103,6 +103,9 @@
   http://appendto.com/2016/06/why-do-es6-classes-exist-and-why-now/  
   Digs into some of the intricacies of ES6 classes, and some of the pros and cons around using them
   
+- **How ES6 classes really work, and how to build your own**  
+  https://medium.com/@robertgrosse/how-es6-classes-really-work-and-how-to-build-your-own-fd6085eb326a  
+  A deep dive into Javascript's object model, prototypal inheritance, and how ES6 classes are implemented in relation to prototypes.
 
   
   

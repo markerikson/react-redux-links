@@ -67,6 +67,10 @@
   https://blog.cloud-elements.com/dev-discuss-why-we-built-our-new-ui-in-react-from-the-ground-up  
   The Cloud Elements team describes why they rewrote their UI in React, and how the React ecosystem worked well for their approach.
   
+- **Advocating for software quality at METRO**  
+  https://www.thoughtworks.com/insights/blog/advocating-software-quality-metro  
+  The METRO Cash & Carry team discusses how they've handled migrating parts of their app from Reflux to Redux, including motivation, business issues, the case for quality, and their strategy for migrating.
+  
   
 #### Redux/Flux Comparisons
   

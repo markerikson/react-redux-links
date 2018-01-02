@@ -111,6 +111,10 @@
   https://www.reddit.com/r/reactjs/comments/6ec4dz/i_made_a_diagram_of_the_design_of_my_first_react/  
   A Reddit thread with some excellent discussion about how Apollo and GraphQL fit into the architecture of a Redux application.
   
+- **Turning Requirements into React/Redux Code**  
+  https://decembersoft.com/posts/turning-requirements-into-react-redux-code/  
+  Looks at a typical description of desired behavior for a loading/container component, then walks through breaking the description into requirements and shows how to implement those in React and Redux.
+  
   
 #### Redux Best Practices
   
@@ -317,6 +321,10 @@
 - **"So much to learn about organizing Redux state by looking at popular apps"**  
   https://mobile.twitter.com/tharakawj/status/937285802287124480  
   A tweet with screenshots of the Redux DevTools, showing the contents of Redux stores from Twitter and Pinterest.
+  
+- **5 Strategies to Prevent Bugs in a Large Redux Codebase**  
+  https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/  
+  Short but useful thoughts on using testing, static typing, immutability, parameter validation, and code reviews with Redux apps.
 
 
 #### Encapsulation and Reusability
@@ -413,6 +421,10 @@
 - **Selector Pattern: Painless Redux Store Destructuring**  
   https://hackernoon.com/selector-pattern-painless-redux-store-destructuring-bfc26b72b9ae  
   Good examples of creating encapsulated selectors that are given just their slice of state as arguments, with a centralized definition of how the state slices map to those selectors.
+  
+- **Fractal Architecture**  
+  http://antontelesh.github.io/architecture/2016/03/16/fractal-architecture.html  
+  Discesses some rules of fractal architecture, looks at how those apply to React, Elm, and Cycle, and then describes ways to apply those rules to Redux code to enforce modularity.
 
 
 #### Variations on Redux Architectures

@@ -54,6 +54,10 @@
   https://blog.campvanilla.com/redux-middleware-basics-getting-started-17dc31c6435c  
   A good explanation of how middleware fit into the Redux data flow, how middleware are defined, and how to write a simple logging middleware.
   
+- **Learning Redux Middlewares by Reading Their Source**  
+  https://www.ynonperek.com/2017/08/21/learning-redux-middlewares-by-reading-their-source/  
+  Explores the source code for redux-thunk, redux-promise, and redux-batch-middleware to help understand how middleware work.
+  
 
 #### Middleware Techniques
 
@@ -97,3 +101,7 @@
 - **Redux Middleware and Enhancers**  
   https://chariotsolutions.com/blog/post/redux-middleware-and-enhancers-getting-redux-to-log-debug-and-process-async-work/  
   Describes some common Redux middleware and their uses, as well as how to set up the Redux DevTools enhancer for debugging. 
+  
+- **Redux analytics, without middleware**  
+  http://web.archive.org/web/20170617100422/http://blog.reactandbethankful.com/posts/2016/09/27/redux-analytics-without-middleware/  
+  Discusses pros and cons of using middleware for analytics, and shows how to create a store enhancer that wraps `subscribe` to allow providing selectors and callbacks.

@@ -81,6 +81,9 @@
   https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5  
   A summary of four different ways to update state immutably
   
+- **Immutability in React and Redux**  
+  https://medium.com/@nitishkr88/immutability-in-react-and-redux-7137f7b3197  
+  A good introduction to immutability concepts and practical usage.  Covers how equality comparisons work in Javascript, reference comparisons vs deep quality checks, ways to avoid mutations, use of Immutable.js, and how to handle nested updates.
 
 #### Immutable Data Libraries
 
