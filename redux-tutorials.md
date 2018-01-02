@@ -346,6 +346,9 @@
   https://www.youtube.com/playlist?list=PLuNEz8XtB51KfnHc99GwscPy1UbLJyXHW  
   A video screencast tutorial series that demonstrates how to build a CRUD app with React, Redux, React-Router, and MongoDB.
 
+- **Build and Deploy a React/Redux app**  
+  https://medium.com/webdevils-advocate/react-redux-react-router-and-rainy-day-fund-tutorial-e589f0803306
+  A step-by-step tutorial that shows how to build a React+Redux app, from initial create-react-app to deployment on GitHub pages. Includes progressive code snippets and links to resources along the way.
 
 #### Redux Implementation Walkthroughs
 
