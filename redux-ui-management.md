@@ -77,6 +77,10 @@
   https://medium.com/front-end-hacking/react-redux-no-need-to-component-state-for-modals-73871157b52e  
   Discussion of the pros and cons of powering modals via Redux, with examples of how to show them using React 16's Portals. 
   
+- **Handling Keyboard Commands with Redux**  
+  https://medium.com/@sandropadin/handling-keyboard-commands-with-redux-67584decb3ff  
+  Discussion of an approach for managing keybard interaction in a React+Redux app, with an interactive embedded example app on CodeSandbox
+  
   
 #### Redux and Forms
 

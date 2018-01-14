@@ -297,6 +297,10 @@
   https://objectpartners.com/2017/11/20/taming-redux-with-sagas/  
   A good overview of Redux-Saga, including info on generator functions, use cases for sagas, using sagas to deal with promises, and testing sagas.
   
+- **Learning Redux Saga: Event Channels with Web Midi** 
+  https://medium.com/@joeltbond/learning-redux-saga-event-channels-29dee438fd7b  
+  Demonstrates using sagas to interact with the Web MIDI API
+  
 
 #### Observables
 
@@ -323,6 +327,10 @@
 - **Reactive Redux State with RxJS**  
   https://ivanjov.com/reactive-redux-state-with-rxjs/  
   Describes the concept of "Reactive PRogramming" and the RxJS library, and shows how to use redux-observable to fetch data, along with examples of testing.
+  
+- **Creating and Testing a D3/React Game with Redux-Observable**  
+  https://medium.com/@eric.hulburd.af/creating-and-testing-a-d3-react-game-with-redux-observable-d97f2155421c  
+  A detailed look at the concepts and usage of redux-observable.  Implements an example game that's built to demonstrate usage in a more meaningful application, and shows how to test epics.
   
 
   

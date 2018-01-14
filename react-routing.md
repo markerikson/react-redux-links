@@ -71,6 +71,18 @@
   http://coding4real.com/2017/12/19/using-react-router-dom/  
   An introduction that shows how to add React-Router to a basic React app, and describes the basic API.
   
+- **React Router v4: The Complete Guide**  
+  https://www.sitepoint.com/react-router-v4-complete-guide/  
+  A detailed tutorial that covers the React Router v4 API and concepts, with many examples
+  
+- **React Router v4: Philosophy and Introduction**  
+  https://tylermcginnis.com/react-router-philosophy-introduction/  
+  A deep look at the history of React Router, and how v4 works as "just components".
+  
+- **Server Rendering, Code Splitting, and Lazy Loading with React Router v4**  
+  https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70  
+  Technical discussion of the problems involved in code-splitting server rendered apps, and how Airbnb has implemented solutions using React-Router v4 and Babel.
+  
   
 #### Routing with Redux
   
@@ -117,6 +129,10 @@
 - **Redux First Router - First Impressions**  
   https://www.dailydrip.com/topics/react/drips/redux-first-router-first-impressions  
   A short tutorial that shows how to add redux-first-router to a CRA project and configure it.
+  
+- **React Router to Redux First Router**  
+  https://medium.com/@jonsamp/react-router-to-redux-first-router-2fea05c4c2b7  
+  Describes some of the problems the Codecademy team had using React-Router in conjunction with Redux, and why they switched to Redux-First-Router instead.
   
   
 #### Authentication

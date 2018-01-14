@@ -294,3 +294,7 @@
 - **Characteristics of an Ideal React Architecture**  
   https://medium.com/@robftw/characteristics-of-an-ideal-react-architecture-883b9b92be0b  
   Some opinionated thoughts on what constitutes good React architecture, including avoiding use of components as controllers, keeping prop passing to just a few levels, and ensuring that diff calculations are cheap.
+  
+- **In the Mouth of the Beast**  
+  https://charlespeters.net/writing/in-the-mouth-of-the-beast/  
+  Thoughts on how to approach state management in relation to React, including a focus on the actual needs of your application and what state truly needs to be global.

@@ -65,7 +65,7 @@
   A variety of user-provided diagrams illustrating how the pieces of Redux fit together.
 
 - **How I Learned to Stop Worrying and Love Redux**  
-  https://medium.com/@shopsifter/how-i-learned-to-stop-worrying-and-love-redux-9b50e505e802
+  https://medium.com/@shopsifter/how-i-learned-to-stop-worrying-and-love-redux-9b50e505e802  
   A new Redux user describes how she was able to overcome initial problems learning Redux.
 
 - **Introduction to Redux and React-Redux**  

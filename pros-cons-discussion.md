@@ -12,7 +12,7 @@
   A higher-level, more business-case look at the pros of React
   
 - **React: A Competitive Edge and a Business Decision**  
-  https://reactjs-tampabay-b63e2.firebaseapp.com/#/
+  https://reactjs-tampabay-b63e2.firebaseapp.com/#/  
   A slideshow laying out a number of arguments for using React
   
 - **React.js: The Good and the Bad**  
@@ -139,8 +139,16 @@
 - **6 mistakes Reacters make that Re-framers avoid**  
   https://purelyfunctional.tv/article/react-vs-re-frame/  
   https://news.ycombinator.com/item?id=15157527  
-  https://news.ycombinator.com/item?id=15158334
+  https://news.ycombinator.com/item?id=15158334  
   Comparisons between common React/Redux patterns, and how ClojureScript developers using the Reframe toolkit might solve the problems instead.  Some decent discussion in the HN comments, including one comment that directly responds to the points in the original article, and discusses how React+Redux give you the power to solve the specific problems you're dealing with.
+  
+- **Why is React More Popular than Angular?**  
+  https://javascriptreport.com/why-is-react-more-popular-than-angular/  
+  A look back at the announcements of React and Angular 2, thoughts on the respective paradigms, and how their popularity might change in the future.
+  
+- **Me on React: an old dog with new tricks**  
+  https://remysharp.com/2017/08/14/me-on-react-an-old-dog  
+  Remy Sharp, creator of JSBin, gives his thoughts and experiences learning React.  Discusses tooling support, styled-components, server-side rendering, hot reloading, tradeoffs and abstractions, and more.
   
 
 #### Comment Threads and Discussions
@@ -276,12 +284,13 @@ similar structures in ClojureScript.
 - **"Redux app size, boilerplate, and abstraction"**  
   https://news.ycombinator.com/item?id=15341562  
   https://news.ycombinator.com/item?id=15344600  
-  https://news.ycombinator.com/item?id=15344447
+  https://news.ycombinator.com/item?id=15344447  
   A long subthread of the "React 16" announcement post that discusses several aspects of Redux "boilerplate" and abstraction.  I answered a lot of questions about how Redux can and should be used, and there were actually some excellent comments about how Redux usage pays off for long-term app maintainability.
   
 - **How Redux can make you a better developer**  
   https://medium.cobeisfresh.com/how-redux-can-make-you-a-better-developer-30a094d5e3ec  
-  https://www.reddit.com/r/javascript/comments/7buksy/how_redux_can_make_you_a_better_developer/  A blog post recapping aspects of functional programming and immutability in JS and Redux.  The Reddit thread has some excellent discussion on pros and cons of using Redux and how it has benefited people.
+  https://www.reddit.com/r/javascript/comments/7buksy/how_redux_can_make_you_a_better_developer/  
+  A blog post recapping aspects of functional programming and immutability in JS and Redux.  The Reddit thread has some excellent discussion on pros and cons of using Redux and how it has benefited people.
   
 - **"React is focused on making your code understandable, not on making simple examples as short as possible"**  
   https://twitter.com/dan_abramov/status/930380316463726593  

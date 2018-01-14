@@ -72,3 +72,7 @@
 - **Migrating complex Javascript applications**  
   https://javascriptplayground.com/blog/2017/08/migrating-complex-javascript-angular-react/  
   Jack Franklin describes the lessons learned when his team migrated from Angular to React, including why they migrated, how they approached the architecture changes, how they prioritized what to change, and more.  Includes some examples of the Angular->React change, but also good advice in general.
+  
+- **A Chip off the Monolith**  
+  https://medium.com/onfido-tech/a-chip-off-the-monolith-ec71e06a3015  
+  The Onfido team describes how they extracted a portion of their monolithic Rails+Ember app into a separate React+Redux app.

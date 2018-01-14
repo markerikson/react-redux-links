@@ -204,11 +204,20 @@
   https://blog.elpassion.com/styled-components-nitty-gritty-2d74b8690ef8  
   An introduction to how to use the styled-components library, the problems that it solves, and how it works internally
   
+- **A Field Guide to CSS-in-JS**  
+  https://medium.com/@wonderboymusic/a-field-guide-to-css-in-js-f7cbd9ed79a7  
+  Looks at how to use the styled-components and emotion libraries, including syntax, theming, variables, classname generation, and more.
+  
+- **CSS-in-JS Roundup: Styling React Components**  
+  https://alligator.io/react/css-in-js-roundup-styling-react-components/  
+  A high-level comparison of 15 different CSS-in-JS libraries
+  
   
 #### Techniques and Examples
 
 - **How to build animated microinteractions in React**  
-  https://medium.freecodecamp.com/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8  Examples of various ways to create small animations to give feedback as the user interacts with components
+  https://medium.freecodecamp.com/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8  
+  Examples of various ways to create small animations to give feedback as the user interacts with components
   
 - **Create That Component**  
   https://medium.com/taitounited/create-that-component-1-7a2267bc2833  

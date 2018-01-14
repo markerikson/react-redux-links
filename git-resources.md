@@ -150,6 +150,10 @@
   https://github.com/blog/2019-how-to-undo-almost-anything-with-git  
   Instructions for undoing and redoing changes in various scenarios.
 
+- **Undoing in Git**  
+  https://blog.tratif.com/2018/01/04/undoing-in-git/  
+  A summary of the most common ways for undoing things in Git, including bringing back removed commits.
+  
 
 #### E-Books
 

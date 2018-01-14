@@ -5,7 +5,8 @@
 
 - **The Shocking Secret about Static Types / You Might Not Need Typescript (or Static Types)**  
   https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3  
-  https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b  Eric Elliott argues against use of static types in Javascript, on the grounds that the tradeoffs aren't worth it and that TDD and code review provide more benefit in reducing bugs.
+  https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b  
+  Eric Elliott argues against use of static types in Javascript, on the grounds that the tradeoffs aren't worth it and that TDD and code review provide more benefit in reducing bugs.
   
 - **Why use static types in Javascript?**  
   https://dev.to/iampeekay/why-use-static-types-in-javascript-part-1  
@@ -202,7 +203,8 @@
   Describes how to use the new features in TS 2.4, such as string enums, to simplify defining types for Redux actions.
   
 - **Best Practices for Flow Typing React Components**  
-  https://building.coursera.org/blog/2017/06/01/best-practices-for-flow-typing-react-components/  Several useful suggestions and examples for using Flow types with React components.
+  https://building.coursera.org/blog/2017/06/01/best-practices-for-flow-typing-react-components/  
+  Several useful suggestions and examples for using Flow types with React components.
   
 - **React Higher-Order Components using TypeScript**  
   https://www.triplet.fi/blog/react-higher-order-components-hoc-using-typescript/  

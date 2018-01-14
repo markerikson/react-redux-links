@@ -148,6 +148,10 @@
   http://dylanpaulus.com/reactjs/2017/09/08/tips-on-creating-reusable-components.1/  
   Examples of using `children` and other props to make components more composable and reusable.
   
+- **How to auto bind props using React elements**  
+  http://www.albertgao.xyz/2017/10/28/how-to-auto-bind-props-by-using-react-element/  
+  Examples of using the `React.Children` API to add additional props to child components
+  
 
 #### React Component Lifecycle
 
@@ -220,7 +224,7 @@
   
 - **ReactCasts #4-5: Context (Parts 1 and 2)**  
   https://www.youtube.com/watch?v=lxq938kqIss  
-  https://www.youtube.com/watch?v=mwYHDXS6uSc
+  https://www.youtube.com/watch?v=mwYHDXS6uSc  
   A two-part series explaining what React's `context` feature can be used for, and some potential concerns to be aware of when using it.    
   
 - **React Context and Component Coupling**  

@@ -164,11 +164,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 
 
 - **Webpack - From Apprentice to Journeyman**  
-  http://presentations.survivejs.com/webpack-from-apprentice-to-journeyman/#/
+  http://presentations.survivejs.com/webpack-from-apprentice-to-journeyman/#/  
   A presentation from Juho Vepsäläinen of the core Webpack team, explaining the basics of Webpack.
   
 - **Webpack - From Journeyman to Master**  
-  https://presentations.survivejs.com/webpack-from-journeyman-to-master/#/
+  https://presentations.survivejs.com/webpack-from-journeyman-to-master/#/  
   A follow-up presentation, digging into advanced Webpack concepts, configuration, and internals
   
 - **webpack By Example**  

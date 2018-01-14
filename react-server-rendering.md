@@ -104,3 +104,11 @@
 - **The simple guide to server-side rendering React with styled-components**  
   https://medium.com/styled-components/the-simple-guide-to-server-side-rendering-react-with-styled-components-d31c6b2b8fbf  
   A short walkthrough that sets up a basic React SSR app, and adds the styled-components library for styling
+  
+- **How I spent my Christmas enabling SSR**  
+  https://medium.com/@tabu_craig/how-i-spent-my-christmas-enabling-ssr-5bacfc686032  
+  A recap of how a team set up SSR for their existing React+Redux+Redux-Saga application, with the major changes they implemented
+  
+- **"Server-Side Rendering - Not Worth It?"**  
+  https://www.reddit.com/r/reactjs/comments/7o6oj6/serverside_rendering_not_worth_it/  
+  An extended Reddit discussion on the pros, cons, and techniques for SSR with React

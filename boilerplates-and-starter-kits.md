@@ -91,7 +91,7 @@
   
 #### React Project Setup
 
-- **Simple React Development in 2017**  
+- **Simple React Development in 2018**  
   https://hackernoon.com/simple-react-development-in-2017-113bd563691f  
   An excellent set of instructions for setting up a React project with minimal fuss and effort needed.  Includes links to some useful resources, and info on deploying the app to production.
   

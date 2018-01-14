@@ -31,17 +31,9 @@
   https://gather.engineering/react-ui-frameworks-compared-dd631eb5c982  
   A list of available React UI frameworks, with reviews and comparisons on breadth of components, quality, project health, and more.  Includes Ant Design, PrimeReact, Office UI Fabric, Blueprint, React UI, Semantic UI React, ExtReact, and Kendo React UI.
   
-- **Creating react-editables: How to build a set of reusable React components**  
-  https://medium.com/@niwaa/creating-react-editables-how-to-build-a-set-of-reusable-react-components-with-an-hoc-and-write-7a685947a992  
-  Looks at the steps needed to create a set of reusable React components and publish them to NPM.  Includes extended thoughts on component design for reusability.
-  
 - **Robust React User Interfaces with Finite State Machines**  
   https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/  
   An excellent article that describes the concepts of state machines, how they relate to applications, and how they can be applied to help manage React component behavior.
-  
-- **Adventures in creating a React component library with Create React App and TypeScript**  
-  https://medium.com/@stokedbits/adventures-in-creating-a-react-component-library-with-create-react-app-and-typescript-26d1116a7d87  
-  Walks through the process of using the TS+CRA starter kit as a baseline for building and publishing a component library.
   
 - **The Complete Firebase in React Authentication Tutorial**  
   https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/  
@@ -54,6 +46,10 @@
 - **Global Component Registration**  
   http://dylanpaulus.com/reactjs/2017/12/08/global-component-registration/  
   An example of extending the standard approach for looking up component types at runtime, by allowing the lookup table to be modified.
+  
+- **Getting Started with Web Accessibility**  
+  https://medium.com/@emilymears/getting-started-with-web-accessibility-in-react-9e591fdb0d52  
+  An excellent look at ways to handle accessibility in React, including use of refs for focus, ARIA attributes, helpful tools, and more.
   
 
 #### Security
@@ -78,7 +74,7 @@
   Describes how to add React to an existing page with no build tools, and a couple approaches to writing render functions that don't use JSX.
   
 - **Integrating React and Redux Into an Existing Backbone App**  
-  http://blog.isquaredsoftware.com/2017/07/react-redux-backbone-integration/
+  http://blog.isquaredsoftware.com/2017/07/react-redux-backbone-integration/  
   A look at ways to show React components inside of Backbone views, and some discussion of how to simplify React rendering when JSX isn't available by using libraries like `react-hyperscript-helpers`.
   
 - **How I learned to stop worrying and love the JSX**  

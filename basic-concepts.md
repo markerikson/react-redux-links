@@ -128,6 +128,10 @@
   https://goshakkk.name/next-steps-official-react-tutorial/  
   General advice on how to approach learning new things in general without getting overloaded, as well as specific advice for concepts and ideas to learn about after grasping the basics of React.
   
+- **5 practical tips to finally learn React in 2018**  
+  https://goshakkk.name/tips-finally-learn-react/  
+  Common-sense suggestions for simplifying the React learning process, including skipping buzzwords and hardcoding data.
+  
 - **Spellbook of Modern Web Dev**  
   https://github.com/dexteryy/spellbook-of-modern-webdev#gui-framework  
   A large list of categorized resources for dozens of web development-related topics.

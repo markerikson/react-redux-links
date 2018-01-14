@@ -78,6 +78,10 @@
 - **Code splitting Redux reducers**  
   https://medium.com/front-end-hacking/code-splitting-redux-reducers-4073db30c72e  
   Comprehensive instructions on how to properly code-split reducers for dynamic loading at runtime.
+  
+- **Dynamic Redux Reducers**  
+  https://tylergaw.com/articles/dynamic-redux-reducers/  
+  Demonstrates setting up the "async reducers" approach described by Dan Abramov, and adding reducers based on routes using HOCs to abstract the process.
 
 
 #### Selectors

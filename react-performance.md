@@ -106,7 +106,8 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   Tips on using the new browser devtools integration capability in React 15.4 to track component performance.
   
 - **React Snippets: Debug Component performance with ES7 Annotations**  
-  https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html  Demonstrates using a custom decorator to wrap components and log information on when and why components re-rendered
+  https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html  
+  Demonstrates using a custom decorator to wrap components and log information on when and why components re-rendered
   
 - **How to Benchmark React Components: The Quick and Dirty Guide**  
   https://medium.com/code-life/how-to-benchmark-react-components-the-quick-and-dirty-guide-f595baf1014c  
@@ -194,6 +195,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://medium.com/@donavon/demystifying-memory-usage-using-es6-react-classes-d9d904bc4557  
   A quick look at the memory usage differences between calling `Function.bind` and using the Class Properties syntax, and the readability tradeoffs involved.
   
+- **How does React decide to re-render a component?**  
+  http://lucybain.com/blog/2017/react-js-when-to-rerender/  
+  An easy-to-read overview of when and why a component will re-render.
+  
   
 #### Code Splitting and Progressive Apps
 
@@ -264,7 +269,7 @@ Also see [Webpack Advanced Techniques](./webpack-advanced-techniques.md)
   Good comments from an HN thread discussing a React vs Vue benchmark.  A Discord developer talks about several lessons learned, including pros and cons of using Immutable.js, and only rendering elements that are visible.
   
 - **Immutable.js: worth the cost?**  
-  https://medium.com/@AlexFaunt/immutablejs-worth-the-price-66391b8742d4
+  https://medium.com/@AlexFaunt/immutablejs-worth-the-price-66391b8742d4  
   Looks at several pros and cons of using Immutable.js, such as enforced immutability (pro), and major performance problems from calling `toJS()`  frequently (con).
 
 - **React + Redux performance optimization with shouldComponentUpdate**  

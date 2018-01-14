@@ -105,3 +105,7 @@
 - **Redux analytics, without middleware**  
   http://web.archive.org/web/20170617100422/http://blog.reactandbethankful.com/posts/2016/09/27/redux-analytics-without-middleware/  
   Discusses pros and cons of using middleware for analytics, and shows how to create a store enhancer that wraps `subscribe` to allow providing selectors and callbacks.
+  
+- **How to use Redux middleware to decouple AJAX call?**  
+  http://www.albertgao.xyz/2017/12/07/how-to-use-redux-middleware-to-decouple-ajax-call/  
+  Demonstrates writing a middleware that accepts a plain object description of an HTTP request, and executes the request

@@ -102,12 +102,13 @@
   https://www.viget.com/articles/unpacking-the-mysteries-of-webpack-a-novices-journey  
   Recaps some high-level Webpack terms and concepts, and walks through several changes to speed up compilation and improve bundle size.
   
- 
-  
-  
 - **How to Improve Webpack Performance in Large Projects**  
   https://redfin.engineering/tech-talk-recap-how-to-improve-webpack-performance-in-large-projects-5435bb18dd18  
   Slides, audio, and summary of a talk on various ways to improve Webpack build performance, including disabling sourcemaps for dev builds, parallelizing work, and using DllPlugin.
+  
+- **How we improved Webpack build performance by 95%**  
+  https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/  
+  Tips for speeding up builds by using Babel caching, not exporting arrays of configs, and doing work in parallel.
   
   
   
@@ -198,6 +199,10 @@
   https://blog.cloudboost.io/webpack-3-dynamic-imports-code-splitting-and-long-term-caching-made-easy-1892981e0ae7  
   Describes how to configure Webpack and use React-Loadable to set up code-splitting, as well as set up consistent module hash IDs.
   
+- **Two Tips to Improve Performance by 30% with React and Webpack**  
+  http://engineering.teacherspayteachers.com/2017/08/16/two-tips-to-improve-performance-by-30-with-react-and-webpack.html  
+  Looks at ways the Teachers Pay Teachers team used async bundle loading and bundle size optimization to improve their load time.
+
   
 #### Bundle Sizes and Visualization
 
@@ -274,6 +279,10 @@
 - **What Lurks Within: Reducing Bundle Sizes with Webpack Bundle Analyzer**  
   http://engineering.teacherspayteachers.com/2017/12/20/reducing-bundle-sizes-with-webpack-bundle-analyzer.html  
   Tips for using the Webpack Bundle Analyzer tool to track down large dependencies. 
+  
+- **Webpack Bundle Analysis - A necessary step for all React / Angular / Vue developers!**  
+  https://hackernoon.com/webpack-bundle-analysis-a-necessary-step-for-all-react-angular-vue-application-developers-fe6564fa62ca  
+  Walks through the process of analyzing an Angular bundle and improving build steps to cut down on bundle size.
   
   
 #### Hot Module Replacement

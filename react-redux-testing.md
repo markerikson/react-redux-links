@@ -90,7 +90,7 @@
   An in-depth look at how to set up and use Jest for testing
   
 - **React UI Testing with Storybook**  
-  https://storybooks.js.org/docs/react-storybook/testing/react-ui-testing
+  https://storybooks.js.org/docs/react-storybook/testing/react-ui-testing  
   Looks at using the React Storybook component editor to do UI testing
   
 - **Testing React Components with mocha-webpack**  
@@ -161,6 +161,17 @@
   https://javascriptplayground.com/blog/2017/12/introduction-to-react-tests-enzyme/  
   Introduces the Enzyme library for testing components, and shows a short TDD approach for writing a component
   
+- **Unit test code that uses CSS Modules**  
+  https://medium.com/@a_eife/unit-test-code-that-uses-css-modules-ef5b49efc707  
+  Provides several solutions for handling imports of CSS Modules when running unit tests
+  
+- **Testing React components using render props**  
+  https://dev.to/kentcdodds/testing--components-using-render-props-1f00  
+  Kent C Dodds gives several examples and suggestions of approaches for testing components that make use of render props.
+  
+- **Lessons learned testing React & Redux apps with Jest and Enzyme**  
+  https://medium.com/@Tetheta/lessons-learned-testing-react-redux-apps-with-jest-and-enzyme-eb581d6d167b  
+  Thoughts on best practices based on experience, including complexities of setting up a testing environment, optimal setup for snapshot tests, simplifying test setup, and what aspects of Redux code should be tested.
 
   
 #### Redux
@@ -320,6 +331,12 @@
   https://codeburst.io/how-i-test-redux-saga-fcc425cda018  
   Short examples of a typical saga and a test for that saga, with some thoughts on a couple tricks for testing sagas.
   
+- **Testing strategies for Redux apps**  
+  https://www.codesai.com/2017/04/test-driving-react-redux  
+  https://www.codesai.com/2017/04/testing-strategies  
+  https://www.codesai.com/2017/06/testing-hacks-react-redux  
+  A series of posts describing several strategies for testing Redux apps, including larger integration tests with mock APIs, handling of async logic, routing, and scroll events.
+  
   
 #### General Testing, Tools, and Setup
 
@@ -414,3 +431,7 @@
 - **What makes a good test?**  
   https://medium.com/@alexkrolick/what-makes-a-good-test-dff3df6058a2  
   A variety of short thoughts on why we write unit tests, how to write good tests, and some specific suggestions for working with snapshot tests and tests for async behavior.
+  
+- **Testing UI**  
+  https://charlespeters.net/writing/testing-ui/  
+  Thoughts on the benefits of different types of testing, including code coverage, unit tests for React components, snapshot tests, and integration tests.

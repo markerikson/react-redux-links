@@ -161,6 +161,10 @@
   https://www.slideshare.net/HunterLoftis1/connecttech-2017-stop-javascripting-like-its-1999  
   A slideshow that illustrates how to use async/await and Promises to write cleaner-looking file handling code in a Node environment.
   
+- **Spreading the Spread and Rest Love: Javascript's Spread Syntax**  
+  https://spin.atomicobject.com/2018/01/09/javascript-spread-syntax/  
+  Examples of the new array spread and object rest/spread syntaxes, and how to use them
+  
   
 #### Generators
 

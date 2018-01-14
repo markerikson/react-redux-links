@@ -71,7 +71,8 @@
   A number of informative lessons learned building an app using RN and Redux, including components, performance, workflow, and use of Redux.
   
 - **Understanding React Native flexbox layout**  
-  https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4  A helpful visual guide to how Flexbox works, both in general and specific to React Native
+  https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4  
+  A helpful visual guide to how Flexbox works, both in general and specific to React Native
   
 - **How to Create An Authentication System and a Persistent User Session with React Native**  
   http://www.theodo.fr/blog/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/  
@@ -121,3 +122,7 @@
 - **React Native Events in Gory Details: What Happens on the Way to Listeners**  
   https://levelup.gitconnected.com/react-native-events-in-gory-details-what-happens-on-the-way-to-listeners-2cee6c55940c  
   A deep dive into the internnal behavior and implementation of React Native's event system.
+  
+- **Simplifying react-native navigation with a Redux router**  
+  https://medium.com/@ericacooksey/simplifying-react-native-navigation-with-a-redux-wrapper-8d5d530af8fc  
+  Examples of how to implement a Redux-based approach for handling navigation in conjunction with react-native-navigation

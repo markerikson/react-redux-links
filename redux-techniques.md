@@ -59,6 +59,10 @@
 - **A user encounters a JavaScript error. You'll never guess what happens next!**  
   https://hackernoon.com/a-user-encounters-a-javascript-error-youll-never-guess-what-happens-next-dc1a6f725490  
   A walkthrough for how to capture user page interactions and dispatched Redux actions into a "journey" object that can be sent to the server if an error is detected, allowing a developer to play back the user's behavior for debugging.
+  
+- **Getting the most out of Redux + Sentry**  
+  https://blog.lingoapp.com/getting-the-most-out-of-redux-sentry-ecd8c737410d  
+  Describes how to use Sentry to monitor behavior of Redux apps in production
 
   
 #### Other  
@@ -165,7 +169,8 @@
 
 - **Reducing Redux: avoiding boilerplate with redux-scc**  
   https://medium.com/onfido-tech/reducing-redux-avoiding-boilerplate-with-redux-scc-b72c80c338e5  
-  https://medium.com/onfido-tech/redux-scc-update-combined-actions-and-custom-types-ce346ea91e85  Looks at how the redux-scc library allows building "store chunks", which simplify the amount of work needed to define and update a Redux store.
+  https://medium.com/onfido-tech/redux-scc-update-combined-actions-and-custom-types-ce346ea91e85  
+  Looks at how the redux-scc library allows building "store chunks", which simplify the amount of work needed to define and update a Redux store.
   
 - **Redux Action Creator Creators**  
   https://hackernoon.com/redux-action-creator-creators-6684b051d4c6  
@@ -184,7 +189,8 @@
   Examples of using Elm-inspired "union types" to define Redux logic, as well as combining action creators and reducers in a single file similar to the "ducks" approach.
   
 - **ARC - Simplifying async requests in Redux apps**  
-  https://medium.com/front-end-hacking/arc-simplifying-async-requests-in-redux-apps-e8052b874216  Describes the "async action" pattern commonly used with Redux, and how the ARC library can simplify the process of generating actions, action creators, and reducers that work with async actions.
+  https://medium.com/front-end-hacking/arc-simplifying-async-requests-in-redux-apps-e8052b874216  
+  Describes the "async action" pattern commonly used with Redux, and how the ARC library can simplify the process of generating actions, action creators, and reducers that work with async actions.
   
 - **Abstracting Vuex/Redux Action Patterns**  
   https://medium.com/coding-stones/abstracting-vuex-redux-action-patterns-8df36b0e2fcc  

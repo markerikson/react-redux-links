@@ -58,6 +58,10 @@
 - **ReactCasts #9: Immutability in Javascript**  
   https://www.youtube.com/watch?v=4LzcQyZ9JOU  
   A screencast discussing why immutability is important and its benefits.  Compares Javascript's lack of built-in immutability with other languages, and shows how to do immutable operations in plain Javascript.
+  
+- **Why Mutation Can Be Scary**  
+  http://alistapart.com/article/why-mutation-can-be-scary  
+  A detailed look at how JS objects and primitives behave in relation to mutability, how `Object.assign` works, and some alternative functions for merging objects.
 
 #### Immutability and React
 
@@ -86,6 +90,10 @@
   A good introduction to immutability concepts and practical usage.  Covers how equality comparisons work in Javascript, reference comparisons vs deep quality checks, ways to avoid mutations, use of Immutable.js, and how to handle nested updates.
 
 #### Immutable Data Libraries
+
+- **Introducing Immer: Immutability the easy way**  
+  https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3  
+  Michel Weststrate, author of MobX, introduces his new Immer library, which uses ES6 proxies to allow writing normal mutative code while the updates are applied immutably.
 
 - **List of immutable libraries**  
   https://gist.github.com/jlongster/bce43d9be633da55053f  

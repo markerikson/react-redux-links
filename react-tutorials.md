@@ -18,7 +18,7 @@
   
 - **Learn React From Your Browser: Introducing React**  
   https://reactarmory.com/guides/learn-react-by-itself  
-  https://reactarmory.com/examples/hello-world/jsx-hello-world
+  https://reactarmory.com/examples/hello-world/jsx-hello-world  
   An excellent tutorial that teaches React concepts from basic principles without buzzwords or build tools, using interactive editable examples.  (This is a rewritten and improved version of the "Learn Raw React" tutorial.)  Now includes an interactive editor to let you try working with React code there in the browser.
   
 - **Learn Raw React**  
@@ -26,7 +26,7 @@
   A ground-up React tutorial that leaves out any other related "modern" technologies,  Very recommended if you want to skip the buzzwords and acronyms.
   
 - **React Fundamentals**  
-  https://tylermcginnis.com/courses/react-fundamentals/
+  https://tylermcginnis.com/courses/react-fundamentals/  
   An online course from an excellent React trainer.  Covers key aspects of Javascript, React concepts as of React 16, React Router v4, and building and deploying an application.
   
 - **React Express**  
@@ -155,6 +155,10 @@
 - **The Beginner's Guide to React**  
   https://egghead.io/courses/the-beginner-s-guide-to-reactjs  
   A free video series from Kent C Dodds that teaches React fundamentals.  Each lesson's sample code is a simple index.html file so you can focus on learning React, without distractions from other tools.
+  
+- **Learning React**  
+  https://withouttheloop.com/articles/2018-01-03-react-1/  
+  A multi-part series that tries to bridge the gap between a "Hello World" example and a production-ready app, by showing how a React app is built up from first principles and explaining why each new piece is necessary.  Covers topics like basic components, Redux, React-Router, AJAX, and more.
   
 
 #### React Concept Overviews
@@ -301,7 +305,7 @@
   Demonstrates building a small app that displays info on a Google map
   
 - **React Daily UI**  
-  http://codepen.io/collection/DoLZRm/
+  http://codepen.io/collection/DoLZRm/  
   https://www.fullstackreact.com/react-daily-ui/001-sign-up-form/  
   https://www.fullstackreact.com/react-daily-ui/002-checkout/  
   https://www.fullstackreact.com/react-daily-ui/003-landing-page/  
@@ -352,7 +356,8 @@
   Demonstrates building a small app that handles payment information using the Stripe service
   
 - **Let's Learn: Higher Order Components and Websockets**  
-  https://medium.com/let-s-learn/lets-learn-higher-order-components-and-websockets-83a18d36c0d1   Examples that show how to create reusable components that manage a websocket connection and subscriptions to specific events.
+  https://medium.com/let-s-learn/lets-learn-higher-order-components-and-websockets-83a18d36c0d1   
+  Examples that show how to create reusable components that manage a websocket connection and subscriptions to specific events.
   
 - **Make Your Own Charts in React Without a Charting Library**  
   https://kyleshevlin.com/make-your-own-charts-in-react-without-a-charting-library-part-1/  

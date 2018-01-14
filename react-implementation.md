@@ -182,6 +182,8 @@
   
 - **Understanding the React Source Code**  
   https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-i-80263fe46cf1  
+  https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-ii-79e7e8bed56c  
+  https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-iii-69c2711c5f33  
   Walks through the critical path of React's source code, tracing how a simple component gets rendered.
 
 #### React Fiber

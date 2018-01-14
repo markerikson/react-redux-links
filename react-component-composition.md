@@ -44,7 +44,7 @@
   Explanations and examples of HOCs and their uses
   
 - **ReactCasts: Higher Order Components**  
-  https://youtu.be/LTunyI2Oyzw
+  https://youtu.be/LTunyI2Oyzw  
   A screencast that walks through the idea and usage of Higher Order Components
   
 - **Annotations about React Higher-Order Components**  
@@ -106,6 +106,12 @@
 - **Composing Higher-Order Components**  
   https://medium.com/@caseymorrisus/react-composing-higher-order-components-hocs-3a5288e78f55  
   Gives examples of common use cases for HOCs, shows some example implementations, and  demonstrates how to compose HOcs together.
+  
+- **Use Default HOcs for Component Logic**  
+  http://arianv.com/post/use-default-hocs-for-component-logic/  
+  Demonstrates how default behavior and logic can be put into a HOC to simplify code and enable reuse.
+  
+
   
 
 #### Render Props/Function As Child
@@ -198,6 +204,15 @@
   https://hackernoon.com/curry-away-in-react-7c4ed110c65a  
   Examples of using currying to create reusable callback functions that can be passed to child components.
   
+- **Killing Switch Statements in React with the Strategy Pattern**  
+  https://glcheetham.name/2016/05/20/killing-switch-statements-in-react-with-the-strategy-pattern/  
+   Describes why the author dislikes switch statements for determining which component to render, and gives an alternative using functions that return the right component type.
+  
+- **Functional Approach to Higher Order Components and Recompose**  
+  https://codebrahma.com/functional-approach-higher-order-components-recompose/  
+  Discusses approaches for composing components using functions
+  
+  
 
 #### Comparing Composition Approaches
 
@@ -245,3 +260,7 @@
 - **How "Controllable" React components maximize reusability**  
   https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e  
   Gives examples of uncontrolled, controlled, and controllable components, looks at pros and cons of those approaches, and describes how controllable components improve reusability.
+  
+- **Composing Reusable Components in React**  
+  https://medium.com/@adamrackis/composing-reusable-components-in-react-de44d862fe5a  
+  Walks through the implementation of a reusable accordion component that supports several modes of operation, and demonstrates several useful techniques for composition.

@@ -19,7 +19,7 @@
   Describes different categories of state: data, communication, control, session, and location
   
 - **"M" and "C" in "MVC"**  
-  https://www.youtube.com/watch?v=fUpkYixd03k
+  https://www.youtube.com/watch?v=fUpkYixd03k  
   https://github.com/jamesknelson/m-and-c-in-mvc-talk  
   James K. Nelson's talk at ReactNext, talking about the multiple categories of state and how controller components can manage them.
   

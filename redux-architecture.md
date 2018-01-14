@@ -115,6 +115,18 @@
   https://decembersoft.com/posts/turning-requirements-into-react-redux-code/  
   Looks at a typical description of desired behavior for a loading/container component, then walks through breaking the description into requirements and shows how to implement those in React and Redux.
   
+- **Scaling React/Redux in Yahoo Finance**  
+  https://medium.com/@longho/scaling-react-redux-in-yahoo-finance-88ef9e89b55c  
+  The Yahoo Finance team describes how they've structured their React+Redux architecture, including data layers, action and state structures, use of API and analytics middleware, routing, rendering, and server-side garbage collection. 
+  
+- **How We're Sharing Code Between React and React Native**  
+  https://blog.smartive.ch/how-were-sharing-code-between-react-and-react-native-607cdd1f5247  
+  A look at how Redux-based code can be shared between multiple platforms in a framework-agnostic way, with discussion on which types of code are most sharable.
+  
+- **How We React at Microsoft To-Do**  
+  https://www.youtube.com/watch?v=CWxc3AYja1I  
+  A 10-minute presentation from a Microsoft engineer for how they approach connecting all of their components to Redux.
+  
   
 #### Redux Best Practices
   
@@ -425,6 +437,15 @@
 - **Fractal Architecture**  
   http://antontelesh.github.io/architecture/2016/03/16/fractal-architecture.html  
   Discesses some rules of fractal architecture, looks at how those apply to React, Elm, and Cycle, and then describes ways to apply those rules to Redux code to enforce modularity.
+  
+- **Restate - the store of Redux Tree**  
+  https://medium.com/@antonkorzunov/restate-the-story-of-redux-tree-27d8c5d1040a  
+  https://medium.com/@antonkorzunov/the-state-of-the-state-of-the-state-f93c8bdc6b1b  
+  Describes a library that can wrap up React components so they only see a portion of a Redux store
+  
+- **Dependency Injection in Redux**  
+  https://www.codesai.com/2017/04/dependency-injection-react-redux  
+  Examples of using component factories to generate connected components and allow easier testing
 
 
 #### Variations on Redux Architectures
@@ -524,6 +545,14 @@
   https://medium.com/@mike.es6.programmer/reslice-yet-another-way-of-managing-scale-in-react-and-redux-223971139d6b  
   Discusses the Reslice toolkit, how it wraps up Redux+Reselect+React-Redux, and how it differs from a standard React+Redux architecture.
   
-- **"How to deal with dumb REdux views that import containers?"**  
+- **"How to deal with dumb Redux views that import containers?"**  
   https://www.reddit.com/r/javascript/comments/7eavyx/how_to_deal_with_dumb_redux_views_that_import/  
   Interesting discussion on ways to organize nested Redux-connected components for reusability.
+  
+- **Introducing Redux Box**  
+  https://medium.com/@anish000kumar/introducing-redux-box-99e3d2134ab6  
+  Discussion of a library for generating Redux application modules.
+  
+- **Redux for Chrome Extensions**  
+  https://robots.thoughtbot.com/redux-for-chrome-extensions  
+  A detailed look at how Redux can fit into the Chrome extension architecture
