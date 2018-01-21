@@ -16,6 +16,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack from First Principles**  
   https://www.youtube.com/watch?v=WQue1AN93YU  
   A screencast video explaining what Webpack is and why you would want to use it
+  
+- **"Having a hard time understanding Webpack"**  
+  https://www.reddit.com/r/javascript/comments/7qdksl/having_a_hard_time_understanding_webpack/dsoq9p3/  
+  https://www.reddit.com/r/javascript/comments/7qdksl/having_a_hard_time_understanding_webpack/dsphcmb/  
+  A fantastic, friendly, detailed explanation of why you would want to use Webpack and what problems it solves.  Written as a walkthrough from "I have a bunch of scripts in my index.html and I have to keep them all in the right order", up to "I have a lot of individual files and they need to be bundled together".
 
 - **Egghead.io - Intro to Webpack (Playlist)**  
   https://egghead.io/playlists/intro-to-webpack-4ca2d994  
@@ -201,6 +206,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack 3 quickstarter: Configure Webpack from scratch**  
   https://medium.com/@nirjhor123/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a  
   A walkthrough for Webpack setup that covers basic entry and output definition, webpack-dev-server setup, and adding loaders and plugins.
+  
+- **Setting up Webpack for any project**  
+  https://scotch.io/tutorials/setting-up-webpack-for-any-project  
+  Walks through the setup of a basic Webpack config, and common features such as loaders for Babel and SASS, plugins for extracting CSS, inserting defined constants, and tools for different development environments.
 
 
 #### Configuration Terms and Concepts

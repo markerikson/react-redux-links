@@ -34,6 +34,10 @@
 - **Unopinionated comparison of Glimmer and React**  
   https://wyeworks.com/blog/2017/12/20/unopinionated-comparison-of-glimmer-and-react  
   A well-written comparison of small React and Glimmer components that implement the same functionality.
+  
+- **The Ultimate Guide to JavaScript Frameworks**  
+  https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/  
+  A high-level overview of both major and minor JS frameworks in 2018, Groups them into "the big three", "historically significant", "notable", and "the rest of the pack".  Provides short descriptions and  links to additional resources for each, as well as pros and cons for the better-known frameworks.
 
 
 #### React and Flux vs Backbone
@@ -76,3 +80,11 @@
 - **A Chip off the Monolith**  
   https://medium.com/onfido-tech/a-chip-off-the-monolith-ec71e06a3015  
   The Onfido team describes how they extracted a portion of their monolithic Rails+Ember app into a separate React+Redux app.
+  
+- **7 Tips for migration from Backbone to React & Redux**  
+  https://medium.com/@denisraslov/7-tips-for-migration-from-backbone-to-react-redux-a006a927c39e  
+  Excellent practical advice for adding React and Redux into a Backbone app, including rendering React components inside Backbone views, syncing Backbone and Redux, and planning the migration timing.
+  
+- **Transitioning Your Marionette App to React**  
+  https://medium.com/@michaelsholty/transitioning-your-marionette-app-to-react-4b94ddefafd1  
+  Examples of interop between React components and Marionette views

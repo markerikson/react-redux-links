@@ -168,3 +168,9 @@
 - **A blockchain-backed Redux clone in 105 lines of code**  
   https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980  
   An interesting experiment that plays with the idea of implementing Redux's store API around a simple blockchain.
+  
+- **How to use Redux with Polymer**  
+  https://medium.com/@jalalio/step-1-how-to-use-redux-with-polymer-2-7bcfaee6fdb3  
+  https://medium.com/@jalalio/step-2-how-to-structure-larger-polymer-2-apps-with-redux-reselect-f588e64a191a  
+  https://medium.com/@jalalio/step-3-how-to-make-async-api-calls-in-a-polymer-2-app-using-redux-thunk-middleware-c71d596c2005  
+  A 3-part series that shows how to use the polymer-redux bindings, including basic setup, use of Reselect, and async API calls.

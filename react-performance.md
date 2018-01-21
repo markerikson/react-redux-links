@@ -199,6 +199,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   http://lucybain.com/blog/2017/react-js-when-to-rerender/  
   An easy-to-read overview of when and why a component will re-render.
   
+- **Dragging React performance forward**  
+  https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33  
+  A detailed look at how the react-beautiful-dnd library implemented performance improvements with drastically better results, including avoiding unnecessary renders and DOM reads, applying style updates, virtualizing movement, and using lookup tables. 
+  
   
 #### Code Splitting and Progressive Apps
 

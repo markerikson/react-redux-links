@@ -250,6 +250,10 @@
   https://decembersoft.com/posts/error-ts2532-optional-react-component-props-in-typescript/  
   Describes a specific TS error message that can result from trying to use default props, and and shows how to solve it.
   
+- **3 Tricks for Using Redux and Immutable.js with TypeScript**  
+  http://blog.mgechev.com/2018/01/18/react-typescript-redux-immutable/  
+  Examples of statically typing Immutable.js Records, action creators, and class-based actions
+  
 
 
 #### Advancing Typing Techniques
@@ -277,6 +281,10 @@
 - **Stronger JavaScript with Opaque Types**  
   https://codemix.com/opaque-types-in-javascript/  
   Describes how to use Flow's "opaque types" feature to make otherwise compatible types separate, such as an account number and a balance.
+  
+- **Flavoring: Flexible Nominal Typing for TypeScript**  
+  https://spin.atomicobject.com/2018/01/15/typescript-flexible-nominal-typing/#.Wly5RmUfXDk.hackernews  
+  Looks at an approach for "branding" similar types to make them distinct, some of the problems with branding, and a second approach called "flavoring" that works better with implicit conversions.
   
 
 #### Tool Comparisons
@@ -336,3 +344,15 @@
 - **Strict Types :Typescript, Flow, Javascript**  
   https://codeburst.io/strict-types-typescript-flow-javascript-to-be-or-not-to-be-959d2d20c007  
   Looks at the rise of static typing in dynamic languages, gives some thoughts on the tradeoffs and benefits of TS and Flow, and tradeoffs for static typing usage as a whole.
+  
+- **Inference engines: 5 examples with TypeScript, Flow, and Reason**  
+  https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3  
+  Compares the behavior of three type systems with several specific examples to show how they differ.
+  
+- **Type checking in JavaScript: is it worth it?**  
+  https://ropig.com/blog/type-checking-javascript-worth/  
+  Some short, high-level thoughts on the pros and cons of using static typing with JS, and tips for leveraging static typing in your project
+  
+- **"Convert React JavaScript Code to TypeScript with Proper Typing"**  
+  https://news.ycombinator.com/item?id=16159389  
+  A Hacker News thread with a lot of good discussion on the current strengths and weaknesses of TypeScript and Flow

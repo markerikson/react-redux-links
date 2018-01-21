@@ -162,3 +162,7 @@
 - **You're missing out on ImmutableJS Records**  
   https://medium.com/@ahmadbamieh/immutablejs-records-bd369137da06  
   An introduction to the Immutable.js Record type, and how it can be used to define data types
+  
+- **Immutability through Mutability - Immer & Redux**  
+  https://medium.com/@Tetheta/immutability-through-mutability-immer-redux-3e14246c6506  
+  A look at Michel Weststrate's Immer library, which uses ES6 proxies to produce immutable updates using normal mutative code. Shows how this can simplify nested state updates in Redux reducers.

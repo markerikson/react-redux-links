@@ -112,3 +112,7 @@
 - **"Server-Side Rendering - Not Worth It?"**  
   https://www.reddit.com/r/reactjs/comments/7o6oj6/serverside_rendering_not_worth_it/  
   An extended Reddit discussion on the pros, cons, and techniques for SSR with React
+  
+- **Upgrading a create-react-app project to a SSR + code splitting setup**  
+  https://medium.com/bucharestjs/upgrading-a-create-react-app-project-to-a-ssr-code-splitting-setup-9da57df2040a  
+  Walks through the process of setting up server-side rendering with Express, adding code splitting with the react-loadable library, and naming chunks with Webpack.

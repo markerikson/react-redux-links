@@ -83,6 +83,14 @@
   https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70  
   Technical discussion of the problems involved in code-splitting server rendered apps, and how Airbnb has implemented solutions using React-Router v4 and Babel.
   
+- **URL Parameters with React Router**  
+  https://tylermcginnis.com/react-router-url-parameters/  
+  Tyler McGinnis gives a short example of  how to use parameters from the current URL in a component with React-Router v4
+  
+- **Using React Router v4 with create-react-app**  
+  https://codingblast.com/react-router-create-react-app/  
+  Explains key concepts of React-Router v4, and gives examples of using it in a CRA project
+  
   
 #### Routing with Redux
   

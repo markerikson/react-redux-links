@@ -154,6 +154,10 @@
   https://blog.tratif.com/2018/01/04/undoing-in-git/  
   A summary of the most common ways for undoing things in Git, including bringing back removed commits.
   
+- **Beginner's Guide to Interactive Rebasing**  
+  https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d  
+  An excellent walkthrough of how to use interactive rebasing for rewriting commit history by editing, deleting, and combining commits
+  
 
 #### E-Books
 

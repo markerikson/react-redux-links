@@ -301,6 +301,10 @@
   https://medium.com/@joeltbond/learning-redux-saga-event-channels-29dee438fd7b  
   Demonstrates using sagas to interact with the Web MIDI API
   
+- **May Cause Side Effects: How to Implement Redux Sagas as Middlewares**  
+  https://www.javascriptjanuary.com/blog/may-cause-side-effects-how-to-implement-redux-sagas-as-middleware  
+  An extensive article that first implements async functionality with thunks, then walks through how sagas work and refactors the logic to use sagas instead.
+  
 
 #### Observables
 
@@ -332,7 +336,17 @@
   https://medium.com/@eric.hulburd.af/creating-and-testing-a-d3-react-game-with-redux-observable-d97f2155421c  
   A detailed look at the concepts and usage of redux-observable.  Implements an example game that's built to demonstrate usage in a more meaningful application, and shows how to test epics.
   
+- **Timing of reducing Actions with Redux-Observable**  
+  https://www.bleathem.ca/blog/timing-of-reducing-actions-with-redux-observable/  
+  Breaks down the sequence of behavior when actions are dispatched, how Redux-Observable interacts with that sequence, and gives examples of epics dispatching actions synchronously and asynchronously.
+  
+- **Streaming Redux state as an Observable with RxJS**  
+  https://dev.to/fahad19/streaming-redux-state-as-an-observable-with-rxjs-5f48  
+  Examples of how to construct an Observable stream that subscribes to the Redux store state
 
+- **You Aren't Using Redux with Observables Enough**  
+  https://medium.com/@jacobp100/you-arent-using-redux-with-observables-enough-b59329c5a3af  
+  Shows how to use the Redux store as the source for an observable stream, and gives examples of RxJS observable streams that toggle music player behavior and handle async requests that need to be canceled.
   
   
 #### Other Side Effect Approaches

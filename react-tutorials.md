@@ -12,6 +12,10 @@
   http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/  
   An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
   
+- **The Beginner's Guide to ReactJS**  
+  https://egghead.io/courses/the-beginner-s-guide-to-reactjs  
+  A free video course with short lessons that explain key React concepts, including using `React.createElement` and JSX, conditional rendering, forms, styling, lists, HTTP requests, and deploying a React app.
+  
 - **30 Days of React**  
   https://www.fullstackreact.com/30-days-of-react/  
   A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
@@ -115,25 +119,10 @@
   
 - **React by Example**  
   https://medium.com/front-end-hacking/react-by-example-part-1-76d3e2137cf4  
-  https://medium.com/front-end-hacking/react-by-example-part-2-340582c6f552  
-  https://medium.com/@johntucker_48673/react-by-example-part-3-f825444bc1d8  
-  https://medium.com/@johntucker_48673/react-by-example-part-4-5d32168db362  
-  https://medium.com/@johntucker_48673/react-by-example-part-5-e1716e69dacc  
-  https://medium.com/@johntucker_48673/react-by-example-part-6-8c71dda057ac  
-  https://medium.com/@johntucker_48673/react-by-example-part-7-8dc97b57f668  
   A multi-part series that illustrates core React concepts via a series of small example repos, with explanations of the source and concepts in the articles.
   
 - **React.js for the Visual Learner**  
   https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-1-what-is-this-all-about-a0d28cfd33c6  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-2-what-is-react-and-why-is-it-cool-d1f9bac69a63  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-3-building-our-houses-295c43304b18  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-4-our-first-village-8b44427d4762  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-5-additions-to-our-houses-7e67ed97b62b  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-6-building-our-first-project-5429f1afde98  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-7-building-our-first-user-interface-c61e9a22be2f  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-8-implementing-react-router-6109671db576  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-9-chat-bot-demo-using-firebase-637445703c74  
-  https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-10-reacting-to-what-weve-learned-633ac18469ba  
   A 10-part series that explains React (and many web dev concepts) from the ground up, with simple terms and lots of metaphors.  Aimed at absolute beginners.
 
 - **Intro to React**  
@@ -202,6 +191,14 @@
 - **A React Christmas**  
   https://react.christmas/  
   A series of short posts that look at specific aspects of using React, including using Create-React-App, testing code, using Fragments, component composition, and much more.
+  
+- **6 React Development Tips for Beginners**  
+  https://www.codementor.io/canberkmorelli/i-wish-i-knew-these-before-diving-into-react-fvionauhk  Several useful tips for understanding how React works, including behavior of `setState` and component lifecycle methods.
+  
+- **React - Common Questions**  
+  https://academind.com/learn/react/react-q-a/  
+  An article and accompanying video that explain answers to common questions about React, including whether a complex project setup is necessary, different ways to define components, ways to style React apps, immutability, using React with various backends, and more.
+  
   
 
 #### Project-Based Tutorials
@@ -410,6 +407,10 @@
 - **Getting Started with React: Build a Cryptocurrency Ticker**  
   https://sabe.io/tutorials/getting-started-with-react  
   A tutorial that demonstrates how to build a simple real-time display of cryptocurrency prices.
+  
+- **Creating your first MERN stack application**  
+  https://blog.cloudboost.io/creating-your-first-mern-stack-application-b6604d12e4d3  
+  Shows how to build an expense manager application, using create-react-app as the basis for the front end.
   
   
 #### Paid Courses and Books

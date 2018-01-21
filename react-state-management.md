@@ -74,6 +74,10 @@
 - **State management in Javascript**  
   https://codeburst.io/state-management-in-javascript-15d0d98837e1  
   Not React-specific, but some excellent general principles for dealing with state overall: represent data uniquely, derive values, define dependencies, and localise state as much as possible.
+  
+- **Three approaches to distribute the state across components in React**  
+  https://engineering.hexacta.com/three-approaches-to-distribute-the-state-across-components-in-react-da4db5a389e0  
+  Looks at three ways to handle state that needs to apply to sibling components: controlling the state in the parent, synchronizing the states, and forcing a different component instance via the `key` prop
 
 
 #### Using `setState`

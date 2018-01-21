@@ -86,6 +86,10 @@
   https://github.com/nitin42/Making-a-custom-React-renderer  
   A 4-part that teaches how to build a React reconciler for React 16 that renders to a Word document
   
+- **Extending React**  
+  https://www.javascriptjanuary.com/blog/extending-react  
+  Walks through building a very simplified mini React clone, including `createElement`, rendering to the DOM, and `setState` updates
+  
   
 #### Implementation and Internals
 
@@ -184,7 +188,10 @@
   https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-i-80263fe46cf1  
   https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-ii-79e7e8bed56c  
   https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-iii-69c2711c5f33  
-  Walks through the critical path of React's source code, tracing how a simple component gets rendered.
+  https://hackernoon.com/understanding-the-react-source-code-iv-e3c4b66da12c  
+  https://hackernoon.com/understanding-the-react-source-code-v-812d69a79fb9  
+  Walks through the critical path of React 15's source code, tracing how a simple component gets rendered.
+  
 
 #### React Fiber
   
@@ -219,6 +226,10 @@
 - **What's new in React 16?**
   https://www.robinwieruch.de/what-is-new-in-react-16/  
   A very useful look at the new user-facing features in React 16, with code examples.
+  
+- **Rethinking with React 16**  
+  https://www.javascriptjanuary.com/blog/rethinking-with-react-16  
+  An informative overview of the major changes in React 16, including the goals of the "React Fiber" rewrite, Fragments, Error Boundaries, server-side rendering improvements, and more.
   
 - **React Fiber Architecture**  
   https://github.com/acdlite/react-fiber-architecture  

@@ -337,6 +337,15 @@
   https://www.codesai.com/2017/06/testing-hacks-react-redux  
   A series of posts describing several strategies for testing Redux apps, including larger integration tests with mock APIs, handling of async logic, routing, and scroll events.
   
+- **Evaluating Redux Saga Test Libraries**  
+  http://blog.scottlogic.com/2018/01/16/evaluating-redux-saga-test-libraries.html  
+  Looks at several ways to approach testing sagas, and how specific saga test helper libraries use those approaches.  Includes a helpful table listing which approaches each helper library supports.
+  
+- **Testing mapState, mapDispatch, and connected components**  
+  http://jsramblings.com/2018/01/15/3-ways-to-test-mapStateToProps-and-mapDispatchToProps.html  
+  http://jsramblings.com/2018/01/21/stuck-testing-your-connected-component.html  
+  A pair of articles that discuss ways to handle testing the various pieces of connected components.
+  
   
 #### General Testing, Tools, and Setup
 

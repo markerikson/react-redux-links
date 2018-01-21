@@ -153,7 +153,7 @@
 - **Redux Dead Drop**  
   https://medium.com/@erikras/redux-dead-drop-1b9573705bec  
   Describes a possible technique for passing messages between widely separated components, such as triggering focus on a particular DOM node
-  
+
   
   
 #### Reducing Boilerplate

@@ -149,6 +149,15 @@
   https://medium.com/@tkh44/writing-a-css-in-js-library-from-scratch-96cd23a017b4  
   The author of the Emotion library shows how to build a simple CSS-in-JS library, to help illustrate how they work.
   
+- **CSS-in-JS**  
+  https://gist.github.com/threepointone/9f87907a91ec6cbcd376dded7811eb31  
+  First in a series of posts from Sunil Pai, author of the Glamor library.  Explains the basic concepts of handling CSS values as JS objects and arrays.
+  
+  
+- **Things to consider when choosing a React styling framework**  
+  http://jsramblings.com/2017/10/17/things-to-consider-when-choosing-a-react-styling-framework.html  
+  Helpful suggestions for things to compare between different styling libraries, such as how the styles are applied, syntax used, and feature support
+  
   
 #### Style Libraries
 
@@ -211,6 +220,10 @@
 - **CSS-in-JS Roundup: Styling React Components**  
   https://alligator.io/react/css-in-js-roundup-styling-react-components/  
   A high-level comparison of 15 different CSS-in-JS libraries
+  
+- **Migrating to styled-components cheatsheet**  
+  http://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html  
+  Some helpful tips for moving a project from vanilla CSS to the styled-components library
   
   
 #### Techniques and Examples

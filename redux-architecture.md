@@ -34,6 +34,10 @@
   https://medium.com/@fastphrase/when-to-use-redux-f0aa70b5b1e2  
   Some helpful thoughts on when you should use Redux: same app state needed in multiple components, global components that need to be accessed anywhere, too much prop passing, and more.
   
+- **When (and when not) to use Redux**  
+  https://blog.logrocket.com/when-and-when-not-to-use-redux-41807f29a7fb  
+  A useful summary of the problems Redux can help solve in React apps, the major benefits of using Redux, reasons why you might not need Redux, and the basic concepts of Redux.
+  
   
 #### Redux Architecture
 

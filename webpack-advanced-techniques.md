@@ -110,6 +110,10 @@
   https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/  
   Tips for speeding up builds by using Babel caching, not exporting arrays of configs, and doing work in parallel.
   
+- **Keep Webpack Fast: A Field Guide for Better Build Performance**  
+  https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1  
+  An excellent article from Slack's frontend team, listing ways to improve Webpack build speed.  Gives overviews of profiling, parallelization tools, reducing workloads, and caching, with plenty of mentions for specific tools and techniques.
+  
   
   
 #### Code Splitting and Chunking

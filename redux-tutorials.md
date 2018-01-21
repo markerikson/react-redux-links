@@ -31,6 +31,10 @@
 - **Redux and React: An Introduction**  
   http://jakesidsmith.com/blog/post/2017-11-18-redux-and-react-an-introduction/  
   A great introduction to Redux's core concepts, with explanations of how to use the React-Redux package to use Redux with React.
+  
+- **React Redux Tutorial for Beginners: Learning Redux in 2018**  
+  https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj  
+  An excellent tutorial that covers a variety of Redux fundamentals, including a look at the problems Redux helps solve, when you should learn and use Redux, actions and reducers, the Redux store, and how to connect React components to Redux.
 
 - **Single State Tree + Flux**  
   http://merrickchristensen.com/articles/single-state-tree.html  
@@ -424,6 +428,10 @@
 - **Finally understand Redux by building your own Store**  
   https://toddmotto.com/redux-typescript-store  
   Teaches Redux concepts by going under the hood and building a Redux-equivalent Store class from scratch
+  
+- **redux-class**  
+  https://github.com/GKhalsa/redux-class  
+  A miniature Redux and React-Redux implementation built for learning purposes
 
 
 #### Paid Courses and Books
