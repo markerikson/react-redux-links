@@ -172,6 +172,11 @@
 - **Lessons learned testing React & Redux apps with Jest and Enzyme**  
   https://medium.com/@Tetheta/lessons-learned-testing-react-redux-apps-with-jest-and-enzyme-eb581d6d167b  
   Thoughts on best practices based on experience, including complexities of setting up a testing environment, optimal setup for snapshot tests, simplifying test setup, and what aspects of Redux code should be tested.
+  
+- **Integration Testing React and Redux with Mocha and Enzyme**  
+  https://engineering.classdojo.com/blog/2017/01/12/integration-testing-react-redux/  
+  Tips on dealing with larger-scale integration tests of React apps under Mocha.  Discusses handling async API calls, using `mocha-steps` for multi-step tests, and working with React-Router.
+  
 
   
 #### Redux
@@ -346,12 +351,13 @@
   http://jsramblings.com/2018/01/21/stuck-testing-your-connected-component.html  
   A pair of articles that discuss ways to handle testing the various pieces of connected components.
   
+
   
 #### General Testing, Tools, and Setup
 
 
-- **An Overview of JavaScript Testing in 2017**  
-  https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a  
+- **An Overview of JavaScript Testing in 2018**  
+  https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3  
   A detailed guide to the terms, tools, and concepts used in testing Javascript.
 
 - **Javascript Testing: Unit vs Functional vs Integration**  

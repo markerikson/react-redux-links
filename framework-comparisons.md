@@ -38,6 +38,10 @@
 - **The Ultimate Guide to JavaScript Frameworks**  
   https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/  
   A high-level overview of both major and minor JS frameworks in 2018, Groups them into "the big three", "historically significant", "notable", and "the rest of the pack".  Provides short descriptions and  links to additional resources for each, as well as pros and cons for the better-known frameworks.
+  
+- **Why I'm switching from Angular to React and Redux**  
+  https://hackernoon.com/why-im-switching-from-angular-to-react-and-redux-in-2018-cb48be00fda7  
+  One person's opinions on why they decided to work with React and Redux instead of Angular, including flexibility of libraries over the "one way" of a framework, simpler state management with Redux vs services and injected event emitters, and more.
 
 
 #### React and Flux vs Backbone

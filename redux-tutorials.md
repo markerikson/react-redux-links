@@ -285,18 +285,9 @@
   https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2  
   A two-part tutorial that builds an image and video display and preview app
   
-- **Practical Redux**  
-  http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/  
-  http://blog.isquaredsoftware.com/series/practical-redux/  
-  An ongoing series of posts intended to demonstrate a number of specific Redux techniques by building a sample application, based on the MekHQ application for managing Battletech campaigns.  Written by Redux co-maintainer Mark Erikson.
-  
 - **A Practical Guide to Redux**  
   http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/  
   A tutorial that introduces the key concepts and usage of Redux through the code in a small sample app.
-  
-- **Building a Simple CRUD App with React + Redux**  
-  http://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/  
-  A nifty 8-part series that demonstrates building a CRUD app, including routing, AJAX calls, and the various CRUD aspects.  Very well written, with some useful diagrams as well.
 
 - **A comprehensive React-Redux tutorial**  
   https://spapas.github.io/2016/03/02/react-redux-tutorial/  
@@ -349,6 +340,12 @@
 - **CRUD with Redux**  
   https://www.youtube.com/playlist?list=PLuNEz8XtB51KfnHc99GwscPy1UbLJyXHW  
   A video screencast tutorial series that demonstrates how to build a CRUD app with React, Redux, React-Router, and MongoDB.
+  
+- **Developing Games with React, Redux, and SVG**  
+  https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/  
+  https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-2/  
+  https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-2/  
+  A 3-part series that shows how to build a Space Invaders-style action game using React for the UI layer, SVG for the display, and Redux for the data flow, as well as socket.io for a real-time leaderboard and Auth0 for authentication.
 
 
 #### Redux Implementation Walkthroughs

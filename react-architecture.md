@@ -268,6 +268,10 @@
   http://americanexpress.io/clean-code-dirty-code/  
   Some very opinionated thoughts on what qualifes as "clean" React code.  Your experience may vary, but some interesting food for thought.
   
+- **React Architecture Confessions**  
+  https://benmccormick.org/2018/02/07/react-confessions/  
+  A great article by Ben McCormick, looking back at mistakes he's made in structuring React applications, why he made those choices, and what he should have done instead.  
+  
   
 #### React Architecture
 

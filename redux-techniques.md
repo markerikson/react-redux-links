@@ -227,6 +227,11 @@
   https://blog.cloudboost.io/the-elegance-of-decorated-redux-b0bd7e2de16a  
   Looks at using `connect` as a decorator, extracting `connect` definitions for reuse with multiple components, and combining multiple connections together to apply to a single component.
   
+- **Redux: Let's Code a Higher-Order "Duck"**  
+  https://medium.com/@yazeedb/redux-lets-code-a-higher-order-duck-a045415bef0f  
+  https://medium.com/@yazeedb/redux-lets-refactor-our-higher-order-duck-e44b0110befc  
+  A neat example of how to write reusable logic in Redux.  Walks through writing generic CRUD logic for managing the contents of a list, and shows how to organize it using the "ducks" structure and make it reusable for different types of data.  The second article shows how to refactor some of the logic using the `createReducer` approach from the Redux docs.
+  
   
 #### Network Management
 

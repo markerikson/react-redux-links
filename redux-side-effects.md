@@ -382,3 +382,7 @@
 - **Reacting to ProgressEvents with Redux**  
   https://medium.com/@andersonmcook/reacting-to-progressevents-with-redux-355ba021d336  
   Demonstrates using the Redux-Logic library and RxJS to handle browser ProgressEvents
+  
+- **Redux-loop: A better solution for managing asynchronous operations in Redux**  
+  https://lorefnon.tech/2018/02/04/redux-loop-a-better-solution-for-managing-asynchronous-operations-in-redux/  
+  Gives an overview of how Redux-Loop works for handling side effects, and argues that it provides a better approach than sagas or thunks.

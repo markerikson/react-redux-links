@@ -81,6 +81,10 @@
   https://medium.com/@sandropadin/handling-keyboard-commands-with-redux-67584decb3ff  
   Discussion of an approach for managing keybard interaction in a React+Redux app, with an interactive embedded example app on CodeSandbox
   
+- **Modular, fast, small: how we built a server-rendered IDE**  
+  https://repl.it/site/blog/ide  
+  The repl.it team describes how they built a Redux-based plugin architecture that handles window management and layout, with plugins able to interact via Redux actions. 
+  
   
 #### Redux and Forms
 

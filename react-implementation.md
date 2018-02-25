@@ -185,12 +185,8 @@
   Traces through the source code for React 16 / React Fiber, starting with the main `render()` function and diving down from there through the system.
   
 - **Understanding the React Source Code**  
-  https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-i-80263fe46cf1  
-  https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-ii-79e7e8bed56c  
-  https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-iii-69c2711c5f33  
-  https://hackernoon.com/understanding-the-react-source-code-iv-e3c4b66da12c  
-  https://hackernoon.com/understanding-the-react-source-code-v-812d69a79fb9  
-  Walks through the critical path of React 15's source code, tracing how a simple component gets rendered.
+  https://holmeshe.me/categories/Understanding-The-React-Source-Code/  
+  A multi-part series of posts that walks through the critical path of React 15's source code, tracing how a simple component gets rendered.
   
 
 #### React Fiber

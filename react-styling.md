@@ -158,6 +158,10 @@
   http://jsramblings.com/2017/10/17/things-to-consider-when-choosing-a-react-styling-framework.html  
   Helpful suggestions for things to compare between different styling libraries, such as how the styles are applied, syntax used, and feature support
   
+- **Substyle: Build Styling Agnostic Components for React**  
+  https://survivejs.com/blog/substyle-interview/  
+  An interview with the author of Substyle, a utility that allows component library authors to enable customization of components via several different style-related props.
+  
   
 #### Style Libraries
 

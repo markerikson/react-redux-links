@@ -138,6 +138,10 @@
   https://www.reddit.com/r/reactjs/comments/5dxasp/any_deepdiveadvanced_tutorials_on_reselect/  
   Discussion on passing arguments to Reselect selectors, and how to use "factory functions" to define per-component selectors for Redux `mapState` functions
   
+- **Selectors in Redux are a MUST**  
+  https://hackernoon.com/selectors-in-redux-are-a-must-d6b0637c79b7  
+  Examples of how nested Redux state can be difficult to work with, how to separate and structure domain data and UI data, and how and why to write selectors that extract and reshape the data as needed for different parts of the application.
+  
 
 #### Normalization
 

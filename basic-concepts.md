@@ -187,3 +187,30 @@
 - **Keeping Up With the JavaScript World**  
   https://daveceddia.com/keeping-up-with-javascript/  
   Dave Ceddia offers some great advice on how to manage learning about what's new and changing in the JS community, including sources to follow for keeping up with what's new, choosing what to learn, and how to tackle actually learning things.
+  
+  
+#### Learning Project Ideas
+
+- **5 Projects to Help You Learn React**  
+  https://daveceddia.com/react-practice-projects/  
+  A list of 5 sample project ideas that aren't todo lists, ranging from basic card components to a Github issues page.
+  
+- **The secret to being a top developer is building things! Here's a list of fun apps to build**  
+  https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c  
+  A list of 8 good-sized project ideas, including a Trello clone, cryptocurrency tracker, and a native messenger clone
+  
+- **10 React Start Project Ideas to Get You Coding**  
+  https://medium.com/@dtkatz/10-react-starter-project-ideas-to-get-you-coding-5b35782e1831  
+  A list of 10 options besides todo lists, including a quiz builder, a music player, and a forum app.
+  
+- **Every time you build a todo list, a puppy dies**  
+  https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d  
+  A list of 28 app ideas that aren't todo lists.  Suggests using a Ruby on Rails backend, but the ideas are sufficiently generic.  Ideas include a calendar, a book reading club, a Twitter client, and more.
+  
+- **What to do after the React/Redux tutorials**  
+  http://blog.jakoblind.no/react-redux-tutorials/  
+  Suggests 8 APIs you could use to help build an application after working your way through basic tutorials.
+  
+- **7 GUIs**  
+  http://eugenkiss.github.io/7guis/tasks/  
+  A list of 7 generic example apps that can be built in any language or UI framework.  Intended as a basic usability benchmark for different UI frameworks, but also a decent list of ideas for learning projects.  Includes a counter, a temperature converter, a flight booker, a timer, a CRUD app, and more.

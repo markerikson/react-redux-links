@@ -174,3 +174,7 @@
   https://medium.com/@jalalio/step-2-how-to-structure-larger-polymer-2-apps-with-redux-reselect-f588e64a191a  
   https://medium.com/@jalalio/step-3-how-to-make-async-api-calls-in-a-polymer-2-app-using-redux-thunk-middleware-c71d596c2005  
   A 3-part series that shows how to use the polymer-redux bindings, including basic setup, use of Reselect, and async API calls.
+  
+- **Building an F# Redux Store for C# Xamarin Apps**  
+  https://thomasbandt.com/fsharp-redux-store-for-xamarin-apps  
+  Discusses why Redux's predictability is beneficial for applications in general, desired behavior for a .NET implementation of Redux, why C# is a poor choice for an implementation, and how to implement Redux using F#.

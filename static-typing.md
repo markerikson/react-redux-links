@@ -254,6 +254,10 @@
   http://blog.mgechev.com/2018/01/18/react-typescript-redux-immutable/  
   Examples of statically typing Immutable.js Records, action creators, and class-based actions
   
+- **Improved Redux type safety with TypeScript 2.8**  
+  https://medium.com/@martin_hotell/improved-redux-type-safety-with-typescript-2-8-2c11a8062575  
+  Looks at the new "conditional types" feature in TS2.8, and how that can be used to simplify adding types to Redux logic.
+  
 
 
 #### Advancing Typing Techniques
@@ -356,3 +360,7 @@
 - **"Convert React JavaScript Code to TypeScript with Proper Typing"**  
   https://news.ycombinator.com/item?id=16159389  
   A Hacker News thread with a lot of good discussion on the current strengths and weaknesses of TypeScript and Flow
+  
+- **"Why isn't Typescript used more in the React community?"**  
+  https://www.reddit.com/r/reactjs/comments/7yxecm/why_isnt_typescript_used_more_in_the_react/  
+  An excellent discussion thread on the history and merits of TS and Flow, and their suitability for use with React.  In particular, read the comments by Francois Ward of Hubspot (/u/phoenixmatrix), who offers extensive thoughts on why they're switching to TS in the near future.

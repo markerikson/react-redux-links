@@ -260,6 +260,10 @@
   http://reactboston.surge.sh/#/  
   Slides from Ken Wheeler's ReactBoston talk on React's `context` feature. Covers what context is, why you might want to use it, and when/ how to use it/
   
+- **React's new Context API**  
+  https://dev.to/kentcdodds/reacts--new-context-api-dpi  
+  Kent C Dodds digs into the new `context` API that's coming with React 16.3, looking at why context matters, how to use the new API, and utilities to abstract the process of using `context`.
+  
 
 #### Component Categories
 
@@ -427,6 +431,10 @@
 - **Integrating Imperative APIs into a React application**  
   https://medium.com/netflix-techblog/integrating-imperative-apis-into-a-react-application-1257e1b45ac6  
   A higher-level discussion of how to design declarative React components that encapsulate imperative APIs.
+  
+- **Bringing Together React, D3, and Their Ecosystem**  
+  https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/  
+  An extensive article that looks at common D3 wrapper patterns and libraries, approaches for using D3 inside of React, and React-specific D3 libraries, and  gives some suggestions for how to decide which approach and library to use for your project.
   
 
 #### Modal Dialogs
