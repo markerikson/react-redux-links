@@ -33,7 +33,7 @@
   A great introduction to Redux's core concepts, with explanations of how to use the React-Redux package to use Redux with React.
   
 - **React Redux Tutorial for Beginners: Learning Redux in 2018**  
-  https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj  
+  https://www.valentinog.com/blog/react-redux-tutorial-beginners/  
   An excellent tutorial that covers a variety of Redux fundamentals, including a look at the problems Redux helps solve, when you should learn and use Redux, actions and reducers, the Redux store, and how to connect React components to Redux.
 
 - **Single State Tree + Flux**  

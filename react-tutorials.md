@@ -385,7 +385,7 @@
   An easy-to-follow, step-by-step tutorial that demonstrates key concepts like loading data, initializing state, and handling input changes.
   
 - **Microservices with Docker, Flask, and React**  
-  https://testdriven.io/part-one-intro/  
+  https://testdriven.io/part-one-intro  
   A large multi-part tutorial covers setting up a dev environment using Docker containers, building a REST API server with the Python Flask framework, building a UI with React, and deploying it all to Amazon EC2.
   
 - **Create a Spreadsheet using React**  
