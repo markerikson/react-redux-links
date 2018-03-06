@@ -3,7 +3,7 @@
 
 #### Basic Introductions
 - **Redux Docs**  
-  http://redux.js.org/index.html  
+  https://redux.js.org/  
   The official Redux documentation.  FANTASTIC writing - not just "here's the API", but "here's what you want to do and how we came up with this"
 
 - **Getting Started with Redux - Video Series**  

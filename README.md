@@ -207,7 +207,7 @@ If you are new to React, try reading these articles in order.
     Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of managing data immutably. While the title refers to React, most of the writing just deals with plain Javascript concepts.
   - [Javascript and Immutability](http://t4d.io/javascript-and-immutability/)  
     A description of how to properly immutably update objects and arrays using functions like assign and slice
-  - [Redux Docs: Structuring Reducers - Immutable Update Patterns](http://redux.js.org/docs/recipes/reducers/ImmutableUpdatePatterns.html)  
+  - [Redux Docs: Structuring Reducers - Immutable Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns)  
     Useful examples for doing proper immutable updates, including common mistakes, proper updates of nested data, updates for arrays, and more.  (Helpful for Redux, but not Redux-specific.)
     
 ### Functional Programming
@@ -234,7 +234,7 @@ If you are new to React, try reading these articles in order.
 ## Redux
 
 ### Getting Started
-  - [Redux Docs](http://redux.js.org/index.html)  
+  - [Redux Docs](https://redux.js.org/)  
     The official Redux documentation.  Contains an excellent tutorial that walks you through “here’s what you want to do, and how we came up with this”, as well as recipes for more advanced topics.  Be sure to read through the FAQ for answers to common questions and links to further information.
   - [Getting Started with Redux - Video Series](https://egghead.io/series/getting-started-with-redux)  
     [Getting Started with Redux - Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes)  
@@ -271,7 +271,7 @@ If you are new to React, try reading these articles in order.
     Examples of configuring a Redux store to use the DevTools enhancers, and using both the DevTools components and the browser extension for debugging.
     
 ### Writing Reducers
-  - [Redux Docs: Structuring Reducers](http://redux.js.org/docs/recipes/StructuringReducers.html)  
+  - [Redux Docs: Structuring Reducers](https://redux.js.org/recipes/structuring-reducers)  
     Comprehensive information on writing reducers and structuring data, covering reducer composition, use of `combineReducers`, normalizing data, proper immutable updating, and more.
   - [Taking Advantage of `combineReducers`](http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/)  
     Examples of using `combineReducers` multiple times to produce a state tree, and some thoughts on tradeoffs in various approaches to reducer logic.
