@@ -29,7 +29,7 @@
   
 - **Embracing Functions in React**  
   https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30  
-  A look at stateless functional components in React, and why they might be useful or should be considered in the first placee.
+  A look at stateless functional components in React, and why they might be useful or should be considered in the first place.
   
 - **Building User Interfaces with Pure Functions and Function Composition in React**  
   https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/  
