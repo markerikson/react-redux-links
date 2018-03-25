@@ -24,11 +24,6 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   http://kelle.co/react-perf-slides/  
   A slideshow that walks through the core concepts of managing good React performance.
   
-- **Optimizing React Performance using keys, component lifecycle, and performance tools**  
-  http://jaero.space/blog/react-performance-1  
-  http://jaero.space/blog/react-performance-2  
-  Another pretty good in-depth look at performance, with a number of useful illustrations.  Only downside is that some of the examples follow bad practice by directly mutating state, but the performance information is solid.
-  
 - **shouldComponentUpdate Will Short-Circuit an Entire Subtree of Components in React**  
   http://www.bennadel.com/blog/2904-shouldcomponentupdate-will-short-circuit-an-entire-subtree-of-components-in-reactjs.htm  
   A reminder that SCU skips a component's children as well as that component, with a demo.
