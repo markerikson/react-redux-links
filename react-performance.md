@@ -148,11 +148,7 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   
 - **Infinite List and React**  
   http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html  
-  A Twitter developer describes some of the challenges they faced in building a performant infinite scrolling list component
-  
-- **React at Light Speed**  
-  https://blog.vixlet.com/react-at-light-speed-78cd172a6411  
-  The Vixlet team discusses perf optimizations they've applied to their app.  Includes a lot of the common advice like use of `shouldComponentUpdate`, but also has advice on use of literal values and issues with performance traps with JS timer functions.
+  A Twitter developer describes some of the challenges they faced in building a performant infinite scrolling list component  
   
 - **React Performance Anti-Pattern: Creating Functions in `render()`**  
   https://medium.com/@erikras/react-performance-anti-pattern-creating-functions-in-render-ddeb5ebd2933  
