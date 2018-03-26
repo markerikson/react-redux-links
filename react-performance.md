@@ -116,10 +116,6 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://hackernoon.com/react-at-60fps-4e36b8189a4c  
   A look at several useful techniques for benchmarking and improving React application performance
   
-- **React is Slow, React is Fast: Optimizing React Apps in Practice**  
-  https://medium.com/@francoisz/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba  
-  Some excellent advice on improving React performance.  Covers using React's new Component Profiling capabilities, ways to optimize re-renders, use of Recompose and Reselect, gotchas with JSX and object literals, and more.
-  
 - **Optimizing the Performance of Your React Application**  
   https://auth0.com/blog/optimizing-react/  
   Covers several ways to improve perf, including profiling with the React Perf Addons, using correct keys for lists, and use of `shouldComponentUpdate` and `PureComponent`.
