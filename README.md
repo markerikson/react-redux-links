@@ -44,7 +44,7 @@ You might also want to check out my categorized list of Redux-related addons, li
   - [Redux Architecture and Best Practices](./redux-architecture.md)
   - [React/Redux Performance](./react-performance.md)
   - [React Deployment](./react-deployment.md)
-- **React**:
+- **React**
   - [React Implementation and Concepts](./react-implementation.md)
   - [React and Forms](./react-forms.md)
   - [React and AJAX](./react-ajax.md)
@@ -80,15 +80,15 @@ All of the links in this collection are worth reading, but there's obviously a L
   - [State of the Javascript Landscape in 2016](http://www.infoq.com/articles/state-of-javascript-2016)  
     A very high-level summary of the important terms and technologies that are used in modern Javascript development.
   - [The \(R\)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/)  
-    A slideshow giving an overview of web dev history and modern web dev tools, technologies, and trends.
+    A slideshow that gives an overview of web dev history and modern web dev tools, technologies, and trends.
   - [Javascript Package Managers 101](https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a)  
     An overview of what packages and package managers are, some related terms, and how these tools work.
     
 ### Suggested Learning Approaches
   - [A Study Plan to Cure Javascript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)  
-    The author of the "State of JS 2016" survey gives an excellent step-by-step study plan to use when learning the Javascript ecosystem.
+    The author of the "State of JS 2016" survey gives an excellent step-by-step study plan for people to learn the Javascript ecosystem.
   - [Grab Front-End Study Guide](https://github.com/grab/front-end-guide)  
-    An excellent guide to learning front-end technologies, based on "A Study Plan to Cure Javascript Fatigue".  Includes descriptions of each topic, links to learning resources, and estimates for how much time to spend on each topic.
+    An excellent guide for learning front-end technologies, based on "A Study Plan to Cure Javascript Fatigue".  Includes descriptions of each topic, links for learning resources, and estimates for how much time to spend on each topic.
   - [React How-To](https://github.com/petehunt/react-howto)  
     Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
   - [Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)  
@@ -181,7 +181,7 @@ If you are new to React, try reading these articles in order.
   - [Components, React, and Flux](http://slides.com/danabramov/components-react-flux-wip#/)  
     A fantastic HTML slideshow that discusses how to organize code as reusable components, and the basic concepts and benefits of a Flux unidirectional architecture
   - [Reactive, Component-Based UIs](http://banderson.github.io/reactive-component-ui-presentation/#/)  
-    Another fantastic HTML slideshow describing the three principles of React: "functional over OOP", "stateless over stateful", "clarity over brevity" (use arrow keys to advance slides)
+    Another fantastic HTML slideshow describes the three principles of React: "functional over OOP", "stateless over stateful", and "clarity over brevity" (use arrow keys to advance slides)
     
 ### Function Binding and `this`
   - [Gentle Explanation of `this` keyword in Javascript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)  
@@ -310,7 +310,7 @@ If you are new to React, try reading these articles in order.
   - [Advanced Frontend Optimization with Webpack](http://sokra.github.io/slides/frontend-optimize)  
     Slides by Webpack’s original author, describing ways to improve Webpack builds.
   - [Formidable Playbook](https://formidable.com/open-source/playbook/)  
-    Formidable Labs describes their preferred approaches for configuring Webpack, including optimization approaches.
+    Formidable Labs describe their preferred approaches for configuring Webpack, including optimization approaches.
     
 ### Hot Module Reloading
   - [HMR Tutorial: Why Use HMR?](http://andrewhfarmer.com/why-use-hmr/)  
