@@ -82,7 +82,7 @@
   Covers the basics of implementing form rendering, updates, and validation, in plain JS
   
 - **Forms in React and Redux**  
-  http://x-team.com/2016/02/tutorial-forms-in-react-and-redux/  
+  https://x-team.com/blog/tutorial-forms-in-react-and-redux/  
   Demonstrates building a simple set of wrapper components to manage forms using React and Redux
   
 - **Not-so-simple Forms with React**  
