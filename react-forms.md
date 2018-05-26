@@ -97,10 +97,6 @@
   https://blog.risingstack.com/handling-react-forms-with-mobx-observables/  
   Some examples of working with forms in React, using MobX for the data management.
   
-- **Forms in React and Redux**  
-  http://x-team.com/2016/02/tutorial-forms-in-react-and-redux/  
-  A good example of how to set up form handling in conjunction with a Redux store.
-  
 - **Radio Buttons and Checkboxes in React**  
   http://react.tips/radio-buttons-in-reactjs/  
   http://react.tips/checkboxes-in-react/  
