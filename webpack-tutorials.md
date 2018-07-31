@@ -17,10 +17,9 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   https://www.youtube.com/watch?v=WQue1AN93YU  
   A screencast video explaining what Webpack is and why you would want to use it
   
-- **"Having a hard time understanding Webpack"**  
-  https://www.reddit.com/r/javascript/comments/7qdksl/having_a_hard_time_understanding_webpack/dsoq9p3/  
-  https://www.reddit.com/r/javascript/comments/7qdksl/having_a_hard_time_understanding_webpack/dsphcmb/  
-  A fantastic, friendly, detailed explanation of why you would want to use Webpack and what problems it solves.  Written as a walkthrough from "I have a bunch of scripts in my index.html and I have to keep them all in the right order", up to "I have a lot of individual files and they need to be bundled together".
+- **Why Would I Use a Webpack?**  
+  http://tinselcity.net/whys/packers  
+  A fantastic, friendly, detailed explanation of why you would want to use Webpack and what problems it solves.  Written as a walkthrough from "I have a bunch of scripts in my index.html and I have to keep them all in the right order", up to "I have a lot of individual files and they need to be bundled together".  (Originally written as a Reddit comment that was removed - [see the resulting comments](https://www.reddit.com/r/javascript/comments/7qdksl/having_a_hard_time_understanding_webpack/dsoq9p3/).)
 
 - **Egghead.io - Intro to Webpack (Playlist)**  
   https://egghead.io/playlists/intro-to-webpack-4ca2d994  
@@ -170,7 +169,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 
 - **Webpack - From Apprentice to Journeyman**  
   http://presentations.survivejs.com/webpack-from-apprentice-to-journeyman/#/  
-  A presentation from Juho Vepsäläinen of the core Webpack team, explaining the basics of Webpack.
+  A presentation from Juho VepsÃ¤lÃ¤inen of the core Webpack team, explaining the basics of Webpack.
   
 - **Webpack - From Journeyman to Master**  
   https://presentations.survivejs.com/webpack-from-journeyman-to-master/#/  
@@ -303,7 +302,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   
 - **webpack-blocks**  
   https://github.com/andywer/webpack-blocks  
-  Functional building blocks for the webpack config. Compose it using feature middlewares like Babel, PostCSS, HMR (Hot Module Replacement), …
+  Functional building blocks for the webpack config. Compose it using feature middlewares like Babel, PostCSS, HMR (Hot Module Replacement), Â…
   
 - **webpack-flow**  
   https://github.com/webpack-flow/webpack-flow  
