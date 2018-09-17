@@ -264,6 +264,11 @@
   https://dev.to/kentcdodds/reacts--new-context-api-dpi  
   Kent C Dodds digs into the new `context` API that's coming with React 16.3, looking at why context matters, how to use the new API, and utilities to abstract the process of using `context`.
   
+- **Understanding the React Context API**  
+  http://joecortopassi.com/articles/react-context-api/  
+  Simple breakdown of how to use the React Context API, with code samples and diagrams.  
+  
+  
 
 #### Component Categories
 
