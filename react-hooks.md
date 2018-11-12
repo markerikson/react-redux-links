@@ -32,6 +32,9 @@
   https://dev.to/vcarl/everything-you-need-to-know-about-react-hooks-doh  
   A thorough post from Carl Vitullo that digs into the potential use cases of all of the built-in hooks.  Definitely worth reading once you've gotten your head around the basic ideas.
 
+- **An Introduction to Hooks in React**  
+  https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react/#community-reaction-to-hooks  
+  An extensive article with numerous examples of `useState`, `useEffect`, and `useContext`.  Also covers `useRef`, custom hooks, writing tests for hooks, and some community reactions.
 
 
 #### Understanding Hooks Internals
