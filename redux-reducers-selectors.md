@@ -4,7 +4,7 @@
 #### Reducers
 
 - **Redux Docs: Structuring Reducers**  
-  http://redux.js.org/docs/recipes/StructuringReducers.html  
+  https://redux.js.org/recipes/structuring-reducers  
   Comprehensive information on writing reducers and structuring data, covering reducer composition, use of `combineReducers`, normalizing data, proper immutable updating, and more.
 
 - **"Reducer composition without slicing state"**  

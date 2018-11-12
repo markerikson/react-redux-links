@@ -24,11 +24,6 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   http://kelle.co/react-perf-slides/  
   A slideshow that walks through the core concepts of managing good React performance.
   
-- **Optimizing React Performance using keys, component lifecycle, and performance tools**  
-  http://jaero.space/blog/react-performance-1  
-  http://jaero.space/blog/react-performance-2  
-  Another pretty good in-depth look at performance, with a number of useful illustrations.  Only downside is that some of the examples follow bad practice by directly mutating state, but the performance information is solid.
-  
 - **shouldComponentUpdate Will Short-Circuit an Entire Subtree of Components in React**  
   http://www.bennadel.com/blog/2904-shouldcomponentupdate-will-short-circuit-an-entire-subtree-of-components-in-reactjs.htm  
   A reminder that SCU skips a component's children as well as that component, with a demo.
@@ -121,10 +116,6 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://hackernoon.com/react-at-60fps-4e36b8189a4c  
   A look at several useful techniques for benchmarking and improving React application performance
   
-- **React is Slow, React is Fast: Optimizing React Apps in Practice**  
-  https://medium.com/@francoisz/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba  
-  Some excellent advice on improving React performance.  Covers using React's new Component Profiling capabilities, ways to optimize re-renders, use of Recompose and Reselect, gotchas with JSX and object literals, and more.
-  
 - **Optimizing the Performance of Your React Application**  
   https://auth0.com/blog/optimizing-react/  
   Covers several ways to improve perf, including profiling with the React Perf Addons, using correct keys for lists, and use of `shouldComponentUpdate` and `PureComponent`.
@@ -157,11 +148,7 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   
 - **Infinite List and React**  
   http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html  
-  A Twitter developer describes some of the challenges they faced in building a performant infinite scrolling list component
-  
-- **React at Light Speed**  
-  https://blog.vixlet.com/react-at-light-speed-78cd172a6411  
-  The Vixlet team discusses perf optimizations they've applied to their app.  Includes a lot of the common advice like use of `shouldComponentUpdate`, but also has advice on use of literal values and issues with performance traps with JS timer functions.
+  A Twitter developer describes some of the challenges they faced in building a performant infinite scrolling list component  
   
 - **React Performance Anti-Pattern: Creating Functions in `render()`**  
   https://medium.com/@erikras/react-performance-anti-pattern-creating-functions-in-render-ddeb5ebd2933  

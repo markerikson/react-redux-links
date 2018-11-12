@@ -133,7 +133,7 @@ While this list is primarily focused on learning React and Redux, and generally 
   MDN's usual excellent documentation, explaining how `this` works in Javascript
   
 - **Gentle Explanation of `this` keyword in Javascript**  
-  http://rainsoft.io/gentle-explanation-of-this-in-javascript/  
+  https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/  
   https://www.reddit.com/r/javascript/comments/4o1546/gentle_explanation_of_this_keyword_in_javascript/  
   Another long and in-depth explanation, plus some good discussion in the Reddit comments.
   
@@ -151,7 +151,7 @@ While this list is primarily focused on learning React and Redux, and generally 
   An excellent explanation of how function calls and the `this` keyword work
   
 - **When 'not' to use arrow functions**  
-  http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/  
+ https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/  
   An in-depth look at when you should stick with standard JS functions instead of arrow functions
   
 - **Do ES6 Arrow Functions Really Solve "this" in Javascript?**  

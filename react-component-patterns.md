@@ -29,7 +29,7 @@
   
 - **Embracing Functions in React**  
   https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30  
-  A look at stateless functional components in React, and why they might be useful or should be considered in the first placee.
+  A look at stateless functional components in React, and why they might be useful or should be considered in the first place.
   
 - **Building User Interfaces with Pure Functions and Function Composition in React**  
   https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/  
@@ -284,6 +284,11 @@
 - **React's new Context API and Actions**  
   https://dev.to/washingtonsteven/reacts-new-context-api-and-actions-446o  
   Shows how to update values being passed through context, and particularly how to pass down functions that can be used to update the values.
+  
+- **Understanding the React Context API**  
+  http://joecortopassi.com/articles/react-context-api/  
+  Simple breakdown of how to use the React Context API, with code samples and diagrams.  
+  
   
 
 #### Component Categories

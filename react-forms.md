@@ -82,7 +82,7 @@
   Covers the basics of implementing form rendering, updates, and validation, in plain JS
   
 - **Forms in React and Redux**  
-  http://x-team.com/2016/02/tutorial-forms-in-react-and-redux/  
+  https://x-team.com/blog/tutorial-forms-in-react-and-redux/  
   Demonstrates building a simple set of wrapper components to manage forms using React and Redux
   
 - **Not-so-simple Forms with React**  
@@ -96,10 +96,6 @@
 - **Handling React Forms with Mobx Observables**  
   https://blog.risingstack.com/handling-react-forms-with-mobx-observables/  
   Some examples of working with forms in React, using MobX for the data management.
-  
-- **Forms in React and Redux**  
-  http://x-team.com/2016/02/tutorial-forms-in-react-and-redux/  
-  A good example of how to set up form handling in conjunction with a Redux store.
   
 - **Radio Buttons and Checkboxes in React**  
   http://react.tips/radio-buttons-in-reactjs/  

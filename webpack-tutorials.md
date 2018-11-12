@@ -169,7 +169,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 
 - **Webpack - From Apprentice to Journeyman**  
   http://presentations.survivejs.com/webpack-from-apprentice-to-journeyman/#/  
-  A presentation from Juho Vepsäläinen of the core Webpack team, explaining the basics of Webpack.
+  A presentation from Juho VepsÃ¤lÃ¤inen of the core Webpack team, explaining the basics of Webpack.
   
 - **Webpack - From Journeyman to Master**  
   https://presentations.survivejs.com/webpack-from-journeyman-to-master/#/  
@@ -306,7 +306,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   
 - **webpack-blocks**  
   https://github.com/andywer/webpack-blocks  
-  Functional building blocks for the webpack config. Compose it using feature middlewares like Babel, PostCSS, HMR (Hot Module Replacement), …
+  Functional building blocks for the webpack config. Compose it using feature middlewares like Babel, PostCSS, HMR (Hot Module Replacement), Â…
   
 - **webpack-flow**  
   https://github.com/webpack-flow/webpack-flow  
