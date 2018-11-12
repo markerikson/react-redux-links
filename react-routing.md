@@ -185,3 +185,7 @@
 - **Securing a React Web App with Authorization Rules**  
   https://medium.appbase.io/securing-a-react-web-app-with-authorization-rules-2e43bf5592ca  
   A tutorial that shows how to add authorization and authentication to a Todo app
+  
+- **Composing authorizing into React apps**  
+  https://medium.com/@sarat1669/composing-authorization-into-react-apps-180fa3c18d1  
+  Examples of generic auth management at the component level, using a package called react-identity.

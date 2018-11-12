@@ -51,6 +51,10 @@
   https://codebrahma.com/deploy-react-application-depth-overview-various-options-deploy/  
   A detailed look at what deployment for production means, what files are involved, how to properly build an app for production, and places to host a react app.
   
+- **So you want to host your Single Page React App on Github Pages?**  
+  https://itnext.io/so-you-want-to-host-your-single-age-react-app-on-github-pages-a826ab01e48  
+  Solutions for common problems encountered when trying to deploy a React app on Github Pages, especially around routing.
+  
 
 #### Libraries
 

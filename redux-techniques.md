@@ -153,6 +153,10 @@
 - **Redux Dead Drop**  
   https://medium.com/@erikras/redux-dead-drop-1b9573705bec  
   Describes a possible technique for passing messages between widely separated components, such as triggering focus on a particular DOM node
+  
+- **The Definitive Guide to Redux-Persist v5**  
+  https://blog.reactnativecoach.com/the-definitive-guide-to-redux-persist-84738167975  
+  An informative guide that covers setting up Redux-Persist, customizing what's persisted, and merging persisted data into the store.
 
   
   
@@ -232,6 +236,14 @@
   https://medium.com/@yazeedb/redux-lets-refactor-our-higher-order-duck-e44b0110befc  
   A neat example of how to write reusable logic in Redux.  Walks through writing generic CRUD logic for managing the contents of a list, and shows how to organize it using the "ducks" structure and make it reusable for different types of data.  The second article shows how to refactor some of the logic using the `createReducer` approach from the Redux docs.
   
+- **DRY Redux at Scale: The Basics**  
+  https://medium.com/@gaforres/dry-redux-at-scale-the-basics-d1dac63f5a53  
+  Walks through a series of approaches for reducing boilerplate and abstracting generation of action creators and reducers, and discusses the pros and cons of adding additional abstraction layers.
+  
+- **Reducing boilerplate in Redux Apps with Arc**  
+  https://hackernoon.com/reducing-boilerplate-in-redux-apps-with-arc-d9550434470e  
+  The author of the redux-arc library describes how it can help simplify your Redux code by generating action creators and reducers for CRUD logic.
+  
   
 #### Network Management
 
@@ -273,3 +285,7 @@
 - **Remote Reducers and Predictive Reduction**  
   https://medium.com/@seveibar/remote-reducers-and-predictive-reduction-572ab5054211  
   Discusses potential techniques for synchronizing server-side state via Redux actions, and how to reconcile actions that are dispatched out of order.
+  
+- **React/Redux Tips: Better Way to Handle Loading Flags in Your Reducers**  
+  https://medium.com/stashaway-engineering/react-redux-tips-better-way-to-handle-loading-flags-in-your-reducers-afda42a804c6  
+  A quick suggestion to store loading state in its own slice reducer, rather than spread across the app state.

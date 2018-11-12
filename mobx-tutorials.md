@@ -86,6 +86,10 @@
   https://www.robinwieruch.de/create-react-app-mobx-decorators/  
   Covers how to use MobX in a CRA project, with and without decorators.
   
+- **React Performance and MobX**  
+  https://medium.com/workday-engineering/react-performance-and-mobx-b038085ecb72  
+  An informative look at how React's rendering process normally occurs, and how use of MobX-React affects React performance.
+  
 
 #### MobX and Redux Comparisons
 

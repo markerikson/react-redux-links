@@ -111,6 +111,10 @@
   http://arianv.com/post/use-default-hocs-for-component-logic/  
   Demonstrates how default behavior and logic can be put into a HOC to simplify code and enable reuse.
   
+- **Higher-Order Components: The Ultimate Guide**  
+  https://medium.freecodecamp.org/higher-order-components-the-ultimate-guide-b453a68bb851  
+  An extensive look at how HOCs can be used to create composable single-purpose components that encapsulate logic like filtering and sorting.
+  
 
   
 
@@ -152,6 +156,10 @@
 - **Rendering a function with React**  
   https://blog.kentcdodds.com/rendering-a-function-with-react-ca3eaf0751e2  
   Kent C Dodds looks at some unusual use cases for reusing React components, and a possible solution that uses a somewhat hacky approach of marking a function as an iterable.
+  
+- **Achieving modifiability with your React Components**  
+  https://medium.com/@josclovisramrezdelarosa/achieving-modifiability-with-your-react-components-2d99373fae74  
+  Looks at a use case for a customizable reporting component, and how render props can be used to enable disabling or overriding parts of the standard report UI.
   
 
   

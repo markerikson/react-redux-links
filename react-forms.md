@@ -8,7 +8,7 @@
 - [Redux Techniques: Redux and Forms](redux-techniques.md#redux-and-forms)
 
 
-#### "Controlled" and "Uncontrolled Inputs
+#### "Controlled" and "Uncontrolled" Inputs
 
 - **React Docs: Forms**  
   https://facebook.github.io/react/docs/forms.html  
@@ -141,6 +141,10 @@
 - **How to Work with Forms, Inputs, and Events in React**  
   https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b  
   An excerpt from the book "React Quickly", which gives an overview of the recommended way to use forms in a React app.
+  
+- **An imperative guide to forms in React**  
+  https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a  
+  A useful overview of how to work with forms.  Includes several runnable examples, and also looks at how the Formik library can simplify form handling.
   
   
 #### Form Validation

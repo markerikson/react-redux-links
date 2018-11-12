@@ -118,6 +118,10 @@
 - **Making website building fun**  
   https://www.gatsbyjs.org/blog/2017-10-16-making-website-building-fun/  
   The author of the Gatsby static site generator discusses how creating the right building blocks can make development simpler and more fun, and gives examples of how specific React components can be those kinds of building blocks.
+  
+- **React, Redux, and JavaScript Architecture**  
+  https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/  
+  An excellent article that walks you through a progression of refactors for implementing a slide toggle component from jQuery to React + Redux, and explains along the way why you would want to use them and how to "think in React and Redux" in the process.
 
 
 #### React Best Practices

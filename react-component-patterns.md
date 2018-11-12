@@ -152,12 +152,21 @@
   http://www.albertgao.xyz/2017/10/28/how-to-auto-bind-props-by-using-react-element/  
   Examples of using the `React.Children` API to add additional props to child components
   
+- **React sub-components**  
+  https://itnext.io/react-sub-components-513f6679abed  
+  Demonstrates defining "sub-components" like `Article.Title`, and using `React.Children` to ensure they're composed correctly.
+  
 
 #### React Component Lifecycle
 
 - **React Docs: Component Specs and Lifecycle**  
-  https://facebook.github.io/react/docs/component-specs.html  
+  https://reactjs.org/docs/react-component.html  
   The official React docs page on component lifecycle
+  
+- **React 16.3+ Interactive Lifecycle Methods Diagram**  
+  http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/  
+  https://twitter.com/dan_abramov/status/981712092611989509  
+  An excellent interactive diagram that shows the sequence of lifecycle methods in React 16.3+, and how they relate to React's "render" and "commit" update phases.  Based on a diagram by Dan Abramov.
   
 - **Understanding the React Component Lifecycle**  
   http://busypeoples.github.io/post/react-component-lifecycle/  
@@ -262,7 +271,19 @@
   
 - **React's new Context API**  
   https://dev.to/kentcdodds/reacts--new-context-api-dpi  
-  Kent C Dodds digs into the new `context` API that's coming with React 16.3, looking at why context matters, how to use the new API, and utilities to abstract the process of using `context`.
+  Kent C Dodds digs into the new context API that's coming with React 16.3, looking at why context matters, how to use the new API, and utilities to abstract the process of using context.
+  
+- **Bitmasks and the new React Context API**  
+  https://hph.is/coding/bitmasks-react-context  
+  An explanation of how the new version of context works, and how change updates can be optimized using a bitmasking approach.
+  
+- **Exploring the React Context API with Provider and Consumer**  
+  https://www.robinwieruch.de/react-context-api/  
+  Explains the use cases for the new context API, and demonstrates how to use it both by itself and wrapped in a higher-order component.
+  
+- **React's new Context API and Actions**  
+  https://dev.to/washingtonsteven/reacts-new-context-api-and-actions-446o  
+  Shows how to update values being passed through context, and particularly how to pass down functions that can be used to update the values.
   
 
 #### Component Categories

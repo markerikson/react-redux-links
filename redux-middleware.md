@@ -109,3 +109,7 @@
 - **How to use Redux middleware to decouple AJAX call?**  
   http://www.albertgao.xyz/2017/12/07/how-to-use-redux-middleware-to-decouple-ajax-call/  
   Demonstrates writing a middleware that accepts a plain object description of an HTTP request, and executes the request
+  
+- **Custom Form Validation in React with Redux Middleware**  
+  http://tech.tunecore.com/redux-form-validation-middleware  
+  A detailed example of how middleware can be used to implement some complex form validation logic in a centralized way.

@@ -258,6 +258,14 @@
   https://medium.com/@martin_hotell/improved-redux-type-safety-with-typescript-2-8-2c11a8062575  
   Looks at the new "conditional types" feature in TS2.8, and how that can be used to simplify adding types to Redux logic.
   
+- **The Redux Type Flow**  
+  https://medium.com/@zhirzh/the-redux-type-flow-93aada6964e5  
+  Looks at some advanced approaches for automatically extracting types for Redux actions with Flow and applying them to reducers.
+  
+- **Ultimate React Component Patterns with Typescript**  
+  https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935  
+  An extensive set of examples for using TypeScript with common React component patterns, including functional / class components, default props, render callbacks, and much more.
+  
 
 
 #### Advancing Typing Techniques

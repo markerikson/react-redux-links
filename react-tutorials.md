@@ -16,6 +16,10 @@
   https://egghead.io/courses/the-beginner-s-guide-to-reactjs  
   A free video course with short lessons that explain key React concepts, including using `React.createElement` and JSX, conditional rendering, forms, styling, lists, HTTP requests, and deploying a React app.
   
+- **A Comprehensive Guide to Building Apps with React**  
+  https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/  
+  An excellent introduction to the core concepts, terms, syntax, and usage of React.  Includes several interactive examples, and has been updated to cover React 16.3.
+  
 - **30 Days of React**  
   https://www.fullstackreact.com/30-days-of-react/  
   A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
@@ -199,13 +203,14 @@
   https://academind.com/learn/react/react-q-a/  
   An article and accompanying video that explain answers to common questions about React, including whether a complex project setup is necessary, different ways to define components, ways to style React apps, immutability, using React with various backends, and more.
   
+- **React Cheatsheet**  
+  https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js  
+  A useful single-file summary of React's APIs and concepts
   
 
 #### Project-Based Tutorials
 
-- **A Comprehensive Guide to Building Apps with React**  
-  http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/  
-  Walks through the major concepts and API functions in React
+
 
 - **Hacking with React**  
   http://www.hackingwithreact.com/  

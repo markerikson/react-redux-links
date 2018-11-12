@@ -142,6 +142,14 @@
   https://hackernoon.com/selectors-in-redux-are-a-must-d6b0637c79b7  
   Examples of how nested Redux state can be difficult to work with, how to separate and structure domain data and UI data, and how and why to write selectors that extract and reshape the data as needed for different parts of the application.
   
+- **Be Selective With Your State**  
+  https://medium.com/riipen-engineering/be-selective-with-your-state-8f1be76cb9f4  
+  A helpful overview of when and why to use selectors and Reselect with Redux, some issues with using selectors in multiple components, and using `re-reselect` to create "cached" selectors.
+  
+- **Scaling data selection on the client**  
+  https://medium.com/@skovy/scaling-data-selection-on-the-client-5e4411de6984  
+  Describes several reasons to use selector functions, and gives examples of writing selectors to handle normalized state.
+  
 
 #### Normalization
 

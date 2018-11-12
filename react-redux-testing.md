@@ -177,6 +177,18 @@
   https://engineering.classdojo.com/blog/2017/01/12/integration-testing-react-redux/  
   Tips on dealing with larger-scale integration tests of React apps under Mocha.  Discusses handling async API calls, using `mocha-steps` for multi-step tests, and working with React-Router.
   
+- **How to write clean React unit tests with Enzyme**  
+  http://www.bradleycbuchanan.com/b/clean-react-enzyme/  
+  Several tips for writing simpler React component tests with Enzyme, including focusing on the logic, testing as shallow as possible, and writing assertions using JSX.
+  
+- **Acceptance Test Driven Development with React/Redux**  
+  https://itnext.io/acceptance-test-driven-test-with-react-redux-part-1-7ae8cb4fab00  
+  A multi-part tutorial series that walks through creating and refactoring a React/Redux application using an Acceptance Test Driven Development approach.
+  
+- **React Testing Tutorial: Test Frameworks & Component Tests**  
+  https://www.robinwieruch.de/react-component-tests-tutorial/  
+  An excellent in-depth guide that walks through writing unit, integration, and end-to-end tests using common React test frameworks and tools like Mocha, Enzyme, Sinon, Jest, Coveralls, and Cypress.io.  
+  
 
   
 #### Redux
@@ -350,6 +362,8 @@
   http://jsramblings.com/2018/01/15/3-ways-to-test-mapStateToProps-and-mapDispatchToProps.html  
   http://jsramblings.com/2018/01/21/stuck-testing-your-connected-component.html  
   A pair of articles that discuss ways to handle testing the various pieces of connected components.
+  
+  
   
 
   
