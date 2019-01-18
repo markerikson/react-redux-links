@@ -384,7 +384,8 @@
   http://randycoulman.com/blog/2016/09/20/redux-reducer-selector-asymmetry/  
   http://randycoulman.com/blog/2016/09/27/modular-reducers-and-selectors/  
   http://randycoulman.com/blog/2016/11/29/globalizing-redux-selectors  
-  A blog series discussing approaches to encapsulating Redux data using selectors and other related approaches
+  http://randycoulman.com/blog/2018/06/12/solving-circular-dependencies-in-modular-redux/  
+  A blog series discussing approaches to encapsulating Redux data using selectors and other related approaches.  The last post is a follow-up to the earlier posts in the series, looking at a different approach that he feels works out better.
   
 - **Redux State Keys - A predictable yet dynamic substate**  
   http://www.robinwieruch.de/redux-state-keys/  
