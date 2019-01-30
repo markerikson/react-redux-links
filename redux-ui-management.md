@@ -61,7 +61,7 @@
   A short tutorial that shows how to build your own "toast" notifications in React+Redux, with a link to the resulting implementation.
   
 - **Toast notification system in a React/Redux application**  
-  https://atech.blog/natterly/toast-notification-system-in-a-react-redux-application  
+  https://www.deployhq.com/blog/toast-notification-system-in-a-react-redux-application  
   The Natterly team walks through how they built a Redux-connected toast notification implementation.
   
 - **A Functional Canvas Approach with Redux**  
