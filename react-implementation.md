@@ -93,6 +93,10 @@
   
 #### Implementation and Internals
 
+- **React as a UI Runtime by Dan Abramov**  
+  https://overreacted.io/react-as-a-ui-runtime  
+  A deep dive into the React programming model from first principles
+
 - **React.js Reconciliation**  
   https://www.infoq.com/presentations/react-reconciliation  
   A video presentation digging into how React's reconciliation algorithm determines how to properly update nodes based on render output.
