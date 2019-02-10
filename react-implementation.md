@@ -92,8 +92,9 @@
   
   
 #### Implementation and Internals
-- **React as a UI Runtime by Dan Abramov**
-  https://overreacted.io/react-as-a-ui-runtime
+
+- **React as a UI Runtime by Dan Abramov**  
+  https://overreacted.io/react-as-a-ui-runtime  
   A deep dive into the React programming model from first principles
 
 - **React.js Reconciliation**  
