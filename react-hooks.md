@@ -47,6 +47,10 @@
   https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e  
   Describes how the "rules of hooks" are all about React's use of arrays (or linked lists) internally, with diagrams to illustrate how the behavior is implemented.
   
+- **Under the Hood of React's hooks system**  
+  https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba  
+  A well-written explanation of how hooks work internally, with some useful diagrams and snippets of the relevant React implementation code.
+  
 - **React RFC #68: React Hooks**  
   https://github.com/reactjs/rfcs/pull/68  
   The official RFC announcing hooks.  There's hundreds of comments from the community debating various pros and cons of the API design.  Probably not worth reading the entire thread, but some interesting thoughts in there.
