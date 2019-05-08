@@ -5,7 +5,7 @@
 
 #### Official Resources
 
-- **React Docs: Hooks (Proposal)**  
+- **React Docs: Hook**  
   https://reactjs.org/docs/hooks-intro.html  
   The main resource for learning hooks.  Includes an intro with motivation, tutorials on `useState` and `useEffect`, discussion of custom hooks, the full hooks API reference, and an in-depth FAQ.  **Read the hooks docs first before looking at anything else!**
   
