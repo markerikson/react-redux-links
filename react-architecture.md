@@ -40,7 +40,7 @@
   Examples of how to think about and model data and UI state
 
 - **Understanding the Functional Revolution in Front-End Applications**  
-  http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/  
+  https://web.archive.org/web/20171020192305/http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/  
   Higher-level tutorial describing functional programming and how it relates to Javascript, UI, and client-side applications
 
 - **Functional UI and Components as Higher Order Functions**  

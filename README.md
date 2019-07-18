@@ -271,7 +271,7 @@ If you are new to React, try reading these articles in order.
     Examples of configuring a Redux store to use the DevTools enhancers, and using both the DevTools components and the browser extension for debugging.
     
 ### Writing Reducers
-  - [Redux Docs: Structuring Reducers](https://redux.js.org/recipes/structuring-reducers)  
+  - [Redux Docs: Structuring Reducers](https://redux.js.org/recipes/structuring-reducers/structuring-reducers)  
     Comprehensive information on writing reducers and structuring data, covering reducer composition, use of `combineReducers`, normalizing data, proper immutable updating, and more.
   - [Taking Advantage of `combineReducers`](http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/)  
     Examples of using `combineReducers` multiple times to produce a state tree, and some thoughts on tradeoffs in various approaches to reducer logic.

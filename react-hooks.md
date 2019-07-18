@@ -5,7 +5,7 @@
 
 #### Official Resources
 
-- **React Docs: Hooks (Proposal)**  
+- **React Docs: Hook**  
   https://reactjs.org/docs/hooks-intro.html  
   The main resource for learning hooks.  Includes an intro with motivation, tutorials on `useState` and `useEffect`, discussion of custom hooks, the full hooks API reference, and an in-depth FAQ.  **Read the hooks docs first before looking at anything else!**
   
@@ -56,6 +56,10 @@
   https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af  
   A look back at earlier common patterns for reusing React logic (mixins, higher-order components, and render props), some of their strengths and weaknesses, and how hooks improve on those patterns.
   
+- **Under the Hood of React's hooks system**  
+  https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba  
+  A well-written explanation of how hooks work internally, with some useful diagrams and snippets of the relevant React implementation code.
+
 - **React RFC #68: React Hooks**  
   https://github.com/reactjs/rfcs/pull/68  
   The official RFC announcing hooks.  There's hundreds of comments from the community debating various pros and cons of the API design.  Probably not worth reading the entire thread, but some interesting thoughts in there.
