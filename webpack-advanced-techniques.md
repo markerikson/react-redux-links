@@ -304,10 +304,10 @@
   Dan Abramov walks through the history of his React Hot Loader and React Transform tools, describes their implementation, flaws, and weaknesses, and looks at a potential solution (later implemented in React Hot Loader 3.0).
   
 - **HMR Tutorial Series**  
-  http://andrewhfarmer.com/why-use-hmr/  
-  http://andrewhfarmer.com/understanding-hmr/  
-  http://andrewhfarmer.com/3-ways-webpack-hmr/  
-  http://andrewhfarmer.com/webpack-hmr-tutorial/  
+  https://javascriptstuff.com/why-use-hmr/  
+  https://javascriptstuff.com/understanding-hmr/  
+  https://javascriptstuff.com/3-ways-webpack-hmr/  
+  https://www.javascriptstuff.com/webpack-hmr-tutorial/  
   A very readable and informative series of articles on using HMR.  
   
 - **Blogged Answers: Webpack HMR vs React-Hot-Loader**  

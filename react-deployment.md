@@ -32,7 +32,7 @@
   Walks through the basics of configuring a Create-React-App-based Electron app and building it for production.
   
 - **React with Any Backend**  
-  http://andrewhfarmer.com/react-with-any-backend/  
+  https://www.javascriptstuff.com/react-with-any-backend  
   Some short discussion and suggestions for project structure and deployment steps when building a React app that talks to a non-Javascript backend server.
   
 - **Building a Full-Stack App with Serverless and React**  

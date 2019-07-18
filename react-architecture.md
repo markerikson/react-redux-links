@@ -288,7 +288,7 @@
   
   
 - **Three Example React Stacks**  
-  http://andrewhfarmer.com/three-example-react-stacks/  
+  https://www.javascriptstuff.com/three-example-react-stacks  
   Descriptions of three different application/deployment scenarios, and example React library+tool stacks that would be appropriate for each.
   
 - **Reusable Web Application Strategies: three patterns for running the same app in multiple spots**  

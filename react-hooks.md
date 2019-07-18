@@ -22,11 +22,16 @@
 
 - **A Simple Intro to React Hooks**  
   https://daveceddia.com/intro-to-hooks/  
-  Dave Ceddia continues his excellent easy-to-read React tutorials with a friendly intro to the basics of the `useState` hook.  Also see [the other articles in his hooks intro series](https://daveceddia.com/archives/) as well.
+  https://daveceddia.com/usestate-hook-examples/  
+  https://daveceddia.com/usereducer-hook-examples/  
+  https://daveceddia.com/useeffect-hook-examples/  
+  https://daveceddia.com/usecontext-hook/  
+  Dave Ceddia continues his excellent easy-to-read React tutorials with a friendly intro to the basics of several hooks.
   
 - **What are React Hooks?**  
   https://www.robinwieruch.de/react-hooks/  
-  An excellent article by Robin Wieruch.  Includes examples of problems that hooks can help solve, discussion of how the changes affect React overall, and multiple examples for the `useState` and `useEffect` hooks.
+  https://www.robinwieruch.de/react-hooks-fetch-data/  
+  An excellent article by Robin Wieruch.  Includes examples of problems that hooks can help solve, discussion of how the changes affect React overall, and multiple examples for the `useState` and `useEffect` hooks.  A follow-up post discusses how to handle data fetching.
   
 - **Everything you need to know about React Hooks**  
   https://dev.to/vcarl/everything-you-need-to-know-about-react-hooks-doh  
@@ -37,7 +42,7 @@
   An extensive article with numerous examples of `useState`, `useEffect`, and `useContext`.  Also covers `useRef`, custom hooks, writing tests for hooks, and some community reactions.
 
 
-#### Understanding Hooks Internals
+#### Understanding Hooks Concepts
 
 - **React Hooks Demystified**  
   https://dev.to/kayis/react-hooks-demystified-2af6  
@@ -46,6 +51,10 @@
 - **React hooks: not magic, just arrays**  
   https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e  
   Describes how the "rules of hooks" are all about React's use of arrays (or linked lists) internally, with diagrams to illustrate how the behavior is implemented.
+  
+- **Why React Hooks, and how did we even get here?**  
+  https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af  
+  A look back at earlier common patterns for reusing React logic (mixins, higher-order components, and render props), some of their strengths and weaknesses, and how hooks improve on those patterns.
   
 - **React RFC #68: React Hooks**  
   https://github.com/reactjs/rfcs/pull/68  

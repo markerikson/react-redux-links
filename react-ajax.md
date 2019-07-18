@@ -23,11 +23,11 @@
   An excellent look at several key aspects of fetching in data in React apps, including what components should containg the fetching and display logic, what lifecycle methods to use for API calls, and how to abstract out the fetching process into its own component.
 
 - **React AJAX Best Practices**  
-  http://andrewhfarmer.com/react-ajax-best-practices/  
+  https://www.javascriptstuff.com/react-ajax-best-practices  
   Covers four ways to approach managing queries and data fetching.
 
 - **AJAX/HTTP Library Comparison**  
-  http://andrewhfarmer.com/ajax-libraries/  
+  https://www.javascriptstuff.com/ajax-libraries  
   A useful overview of the most popular AJAX libraries, including platform support and feature comparisons.
   
 - **Loading data from APIs in React**  

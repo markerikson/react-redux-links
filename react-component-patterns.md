@@ -208,7 +208,7 @@
 #### Component Communication
 
 - **8 no-Flux strategies for React component communication**  
-  http://andrewhfarmer.com/component-communication/  
+  https://www.javascriptstuff.com/component-communication  
   Very helpful list of ways to have React components communicate back and forth
 
 - **How to communicate between React components**  

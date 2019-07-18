@@ -140,7 +140,7 @@
 #### General Suggestions for Learning
 
 - **Learn the Javascript Ecosystem one package at a time**  
-  http://andrewhfarmer.com/npm-sandboxing/  
+  https://www.javascriptstuff.com/npm-sandboxing  
   Some tips for how to approach learning the JS ecosystem without being overwhelmed.
 
 - **On being overwhelmed with our fast paced industry**  

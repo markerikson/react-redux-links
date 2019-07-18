@@ -76,7 +76,7 @@
 #### Other
 
 - **React Starter Project Search Tool**  
-  http://andrewhfarmer.com/starter-project/  
+  https://www.javascriptstuff.com/react-starter-projects/  
   Search for starter kits with/without specific libraries and sort by GitHub stars, number of dependencies, or recently updated.
   
 - **Awesome React Boilerplates**  
