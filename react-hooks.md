@@ -1,7 +1,5 @@
 ### React Hooks
 
-> **Note**: Hooks are still an **experimental proposal, available in an alpha release**.  The API will likely change.  Keep that in mind as you try them out.
-
 
 #### Official Resources
 
