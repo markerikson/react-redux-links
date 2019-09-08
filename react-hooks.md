@@ -3,7 +3,7 @@
 
 #### Official Resources
 
-- **React Docs: Hook**  
+- **React Docs: Hooks**  
   https://reactjs.org/docs/hooks-intro.html  
   The main resource for learning hooks.  Includes an intro with motivation, tutorials on `useState` and `useEffect`, discussion of custom hooks, the full hooks API reference, and an in-depth FAQ.  **Read the hooks docs first before looking at anything else!**
   
@@ -17,6 +17,10 @@
   
   
 #### Hooks Tutorials
+
+- **Why React Hooks?**  
+  https://tylermcginnis.com/why-react-hooks/  
+  A great introduction to hooks by Tyler McGinnis, with a focus on "why do these exist, and what problems do they solve?". 
 
 - **A Simple Intro to React Hooks**  
   https://daveceddia.com/intro-to-hooks/  
