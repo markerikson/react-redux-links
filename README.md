@@ -98,7 +98,8 @@ All of the links in this collection are worth reading, but there's obviously a L
     A curated list of free resources to master React Development, in suggested learning order
   - [Tips to learn React + Redux](https://www.robinwieruch.de/tips-to-learn-react-redux/)  
     An extensive and excellent list of suggestions to follow when learning and using React and Redux.  Tips include when to use different component patterns, when to bring in a state management library, Redux state structuring, unit testing, and much more.
-
+  - [Developer Productivity Tips from the React Experts](https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/?utm_medium=referral&utm_source=github&utm_campaign=kendo-ui-react-blog-expert-productivity-tips-react-redux-links)  
+    The KendoReact team curated the top productivity tips of 20+ React experts, ranging from smart ways to get started to advanced productivity hacks. Includes ideas from Emma Wedekind, Kent C. Dodds, vjeux and many more.
 
 ## Learning Core Javascript (ES5)
 
