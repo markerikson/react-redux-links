@@ -137,7 +137,7 @@
   A large list of categorized resources for dozens of web development-related topics.
   
 - **Developer Productivity Tips from the React Experts**  
-  https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/?utm_medium=referral&utm_source=github&utm_campaign=kendo-ui-react-blog-expert-productivity-tips-react-redux-links  
+  https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/   
   The KendoReact team curated the top productivity tips of 20+ React experts, ranging from smart ways to get started to advanced productivity hacks. Includes ideas from Emma Wedekind, Kent C. Dodds, vjeux and many more.
   
 
