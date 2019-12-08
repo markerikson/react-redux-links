@@ -51,10 +51,6 @@
   https://github.com/tuchk4/awesome-create-react-app  
   A collection of articles, links, issues, and information on how to use and customize the Create-React-App tool.
   
-- **Planet React**  
-  https://www.planet-react.org/  
-  A blog aggregator that collects posts from dozens of blogs written by members of the React community.  An excellent resource.
-  
 - **Awesome CSS-in-JS**  
   https://github.com/tuchk4/awesome-css-in-js  
   A collection of awesome things regarding  CSS in JS approaches
