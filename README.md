@@ -158,6 +158,8 @@ If you are new to React, try reading these articles in order.
     A ground-up React tutorial that leaves out any other related "modern" technologies, Very recommended if you want to skip the buzzwords and acronyms.
   - [30 Days of React](https://www.fullstackreact.com/30-days-of-react/)  
     A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
+    - [Understand and implement your own Redux](https://buttercms.com/blog/understand-and-implement-your-own-redux)  
+    Discover the basic concepts of Redux and learn about Actions, Reducers, and Store in Redux.
     
 ### Data Flow: “State” and “Props”
   - [A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react/)  
