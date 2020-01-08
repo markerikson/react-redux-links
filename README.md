@@ -236,6 +236,8 @@ If you are new to React, try reading these articles in order.
 ### Getting Started
   - [Redux Docs](https://redux.js.org/)  
     The official Redux documentation.  Contains an excellent tutorial that walks you through “here’s what you want to do, and how we came up with this”, as well as recipes for more advanced topics.  Be sure to read through the FAQ for answers to common questions and links to further information.
+  - [React Redux Tutorial for Beginners: The Definitive Guide (2020)](https://www.valentinog.com/blog/redux/)
+    A simple, easy to read modern tutorial on how to use React Redux for beginners
   - [Getting Started with Redux - Video Series](https://egghead.io/series/getting-started-with-redux)  
     [Getting Started with Redux - Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes)  
     Dan Abramov, the creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos. The linked Github repo contains notes and transcriptions of the videos.
