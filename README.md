@@ -250,6 +250,8 @@ If you are new to React, try reading these articles in order.
     A very well-written introduction to Redux and its related concepts, with some useful cartoon-ish diagrams.
   - [Connect.js explained](https://gist.github.com/gaearon/1d19088790e70ac32ea636c025ba424e)  
     A very simplified version of React Redux's `connect()` function that illustrates the basic implementation
+  - [Understand and implement your own Redux](https://buttercms.com/blog/understand-and-implement-your-own-redux)  
+    Blog post that covers the basics of Redux, how to write your own Redux library, and how to implement that library into your own app.
     
 ### AJAX, Timeouts, and other “Side Effects”
   - [Dispatching Redux Actions with a Timeout / ](http://stackoverflow.com/a/35415559/62937)  
