@@ -54,6 +54,10 @@
   https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e  
   Describes how the "rules of hooks" are all about React's use of arrays (or linked lists) internally, with diagrams to illustrate how the behavior is implemented.
   
+- **Getting Closure on Hooks**  
+  https://www.swyx.io/speaking/react-hooks/  
+  Shawn Wang's excellent talk that shows how hooks work by building a mini-React with hooks in just a few lines of code
+  
 - **Why React Hooks, and how did we even get here?**  
   https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af  
   A look back at earlier common patterns for reusing React logic (mixins, higher-order components, and render props), some of their strengths and weaknesses, and how hooks improve on those patterns.
