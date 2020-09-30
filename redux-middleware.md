@@ -23,7 +23,7 @@
   A tutorial describing how Redux compares to typical "MVC", what a "middleware" is, what they can do, and how you can test them. 
   
 - **Redux Middleware Tutorial**  
-  http://www.pshrmn.com/tutorials/react/redux-middleware/  
+  https://github.com/pshrmn/notes/blob/master/redux/redux-middleware.md  
   An overview of what middleware is, how `applyMiddleware` works, and how to write middleware.
   
 - **Redux Middleware: Behind the Scenes**  
