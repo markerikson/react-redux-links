@@ -55,8 +55,9 @@
   Describes how the "rules of hooks" are all about React's use of arrays (or linked lists) internally, with diagrams to illustrate how the behavior is implemented.
   
 - **Getting Closure on Hooks**  
-  https://www.swyx.io/speaking/react-hooks/  
-  Shawn Wang's excellent talk that shows how hooks work by building a mini-React with hooks in just a few lines of code
+  https://www.youtube.com/watch?v=KJP1E-Y-xyo  
+  https://www.swyx.io/getting-closure-on-hooks/  
+  Shawn Wang's excellent talk and post that shows how hooks work by building a mini-React with hooks in just a few lines of code
   
 - **Why React Hooks, and how did we even get here?**  
   https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af  
