@@ -10,6 +10,10 @@
 - **ReactConf 2018: React Today and Tomorrow**  
   https://www.youtube.com/watch?v=dpw9EHDh2bM  
   Sophie Alpert and Dan Abramov's talk unveiling hooks, live at ReactConf 2018.
+
+- **A Complete Guide to `useEffect`**  
+  https://overreacted.io/a-complete-guide-to-useeffect/  
+  An incredibly detailed deep dive by Dan Abramov into the mindset of using hooks correctly.  Covers the relationship between class lifecycles and hooks, how to work with the dependencies array, dealing with closures and stale data, and much much more. This is required reading for anyone using hooks.
   
 - **Making Sense of React Hooks**  
   https://dev.to/dan_abramov/making-sense-of-react-hooks-2eib  
