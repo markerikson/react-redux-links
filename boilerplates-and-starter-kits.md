@@ -72,6 +72,10 @@
   https://github.com/webyak/react-static-plate  
   Build static sites with React to host on Amazon S3, Github Pages, Surge, etc.  An interesting alternative to other static page generation tools.
 
+- **React Firebase SSR Boilerplate**  
+  https://github.com/mike-diamond/react-firebase-ssr-boilerplate  
+  Boilerplate react app with server side rendering, multilanguage, code and styles splitting. The redux store is connected to Firebase Realtime Databse.
+
 
 #### Other
 
