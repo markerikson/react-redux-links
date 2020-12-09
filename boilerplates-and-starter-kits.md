@@ -72,6 +72,9 @@
   https://github.com/webyak/react-static-plate  
   Build static sites with React to host on Amazon S3, Github Pages, Surge, etc.  An interesting alternative to other static page generation tools.
 
+- **React NPM Component Starter**  
+  https://github.com/yogaboll/react-npm-component-starter  
+  A minimal boilerplate project for building a React component library for NPM.
 
 #### Other
 
