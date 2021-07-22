@@ -227,7 +227,7 @@ If you are new to React, try reading these articles in order.
 ### Styles
   - [Styling in React](https://www.kirupa.com/react/styling_in_react.htm)  
     An introduction to using React's built-in inline styling abilities
-  - [How To Style React](http://andrewhfarmer.com/how-to-style-react/)  
+  - [How To Style React](https://www.javascriptstuff.com/how-to-style-react/)  
     An excellent overview of the four major ways to deal with styles in React, and what the various tools are. Includes a decision tree to help you decide what to use.
 
 
