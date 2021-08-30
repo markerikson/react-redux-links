@@ -197,7 +197,7 @@ If you are new to React, try reading these articles in order.
     Dan Abramov from the React team gives his thoughts on how to handle method binding.
     
 ### AJAX requests and Data Fetching
-  - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)  
+  - [React AJAX Best Practices](https://www.javascriptstuff.com/react-ajax-best-practices/)
     Covers four ways to approach managing queries and data fetching.
   - [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)  
     An overview of where AJAX requests fit into React usage.
