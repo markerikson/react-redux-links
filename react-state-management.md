@@ -54,6 +54,10 @@
 - **How to Work with and Manipulate State in React**  
   https://www.sitepoint.com/work-with-and-manipulate-state-in-react/  
   Covers how to access and update state in components, the difference between state and props, and working with stateless components.
+
+- **React state management: What is it and why to use it?**
+  https://www.loginradius.com/blog/async/react-state-management/
+  Gives an introduction to state management in React and how to implement it using React hooks/Redux.   
   
 - **Lowest Common Ancestor**  
   https://blog.embermap.com/lowest-common-ancestor-fbf5d5313a1  
@@ -77,7 +81,7 @@
   
 - **Three approaches to distribute the state across components in React**  
   https://engineering.hexacta.com/three-approaches-to-distribute-the-state-across-components-in-react-da4db5a389e0  
-  Looks at three ways to handle state that needs to apply to sibling components: controlling the state in the parent, synchronizing the states, and forcing a different component instance via the `key` prop
+  Looks at three ways to handle state that needs to apply to sibling components: controlling the state in the parent, synchronizing the states, and forcing a different component instance via the `key` prop  
 
 
 #### Using `setState`
