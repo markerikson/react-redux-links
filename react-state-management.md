@@ -55,8 +55,8 @@
   https://www.sitepoint.com/work-with-and-manipulate-state-in-react/  
   Covers how to access and update state in components, the difference between state and props, and working with stateless components.
 
-- **React state management: What is it and why to use it?**
-  https://www.loginradius.com/blog/async/react-state-management/
+- **React state management: What is it and why to use it?**  
+  https://www.loginradius.com/blog/async/react-state-management/  
   Gives an introduction to state management in React and how to implement it using React hooks/Redux.   
   
 - **Lowest Common Ancestor**  

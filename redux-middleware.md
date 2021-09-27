@@ -10,8 +10,8 @@
   https://medium.com/@meagle/understanding-87566abcfb7a  
   Breaks down Redux's applyMiddleware function line-by-line, and explains the concepts involved
 
-- **Introduction to Redux Saga**
-  https://www.loginradius.com/blog/async/introduction-to-redux-saga/
+- **Introduction to Redux Saga**  
+  https://www.loginradius.com/blog/async/introduction-to-redux-saga/  
   An easy to understand high level introduction to Redux Saga.  
   
 - **Building Redux Middleware**  
