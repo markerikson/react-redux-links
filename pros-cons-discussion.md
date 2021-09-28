@@ -231,7 +231,6 @@ similar structures in ClojureScript.
   
 - **"Why is everying in Javascript changing so fast?**  
   https://news.ycombinator.com/item?id=11833301  
-  https://news.ycombinator.com/item?id=12758514  
   Yet another rant thread about Javascript churn, but with a couple very insightful comments about the unique complexities and challenges involved in writing applications for the web.
   
 - **"Youtube is being rebuilt on Web Components"**  

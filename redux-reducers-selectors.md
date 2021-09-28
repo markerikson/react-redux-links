@@ -231,7 +231,3 @@
 - **Redux Patterns: Rethinking `byId` and `byHash` Structures**  
   https://hackernoon.com/redux-patterns-rethinking-byid-and-byhash-structures-854e8a0fa32d  
   Thoughts on dropping the common list of "all IDs" in a normalized state structure, and just iterating over all items using `Object.keys()` to grab the IDs.
-
-- **Organising Redux State**  
-  https://medium.com/@onoufriosm/organising-redux-state-4b4c2b99eece  
-  Short examples of how Labstep defines state structure for their normalized entities
