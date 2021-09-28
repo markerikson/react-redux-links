@@ -274,10 +274,6 @@
 - **Webpack and Hot Module Replacement**  
   https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07  
   A great in-depth walkthrough of how HMR works
-  
-- **Webpack's HMR and React Hot-Loader - The Missing Manual**  
-  https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96  
-  Demonstrates three ways to enable HMR, and usage with three different React application scenarios
 
 - **Hot Reloading in React**  
   https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf  
