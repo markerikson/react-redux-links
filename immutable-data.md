@@ -1,15 +1,10 @@
 ### Immutable Data
 
-
 #### Basic Concepts
 
 - **Pros and Cons of Using Immutability With React**  
   http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/  
-  Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of managing data immutably.  While the title refers to React, most of the writing just deals with plain Javascript concepts.
-
-- **Javascript and Immutability**  
-  http://t4d.io/javascript-and-immutability/  
-  A description of how to properly immutably update objects and arrays using functions like assign and slice
+  Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of managing data immutably. While the title refers to React, most of the writing just deals with plain Javascript concepts.
 
 - **Immutable Javascript using ES6 and Beyond**  
   http://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/  
@@ -38,27 +33,22 @@
 - **Immutable Data Structures and Javascript**  
   http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript  
   In-depth article covering the value of immutable data, and two common JS libraries
-  
 - **Immutability is Not Enough**  
   https://codewords.recurse.com/issues/six/immutability-is-not-enough  
   A look at how using an immutable data approach doesn't magically prevent all bugs.
-  
 - **Javascript Array Methods: Mutating vs Non-Mutating**  
   http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/  
   An overview of how to accomplish add/remove/replace operations on JS arrays, comparing mutable vs immutable approaches to each.
-  
 - **Redux Docs: Immutable Update Patterns**  
   https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns
-  Some useful examples for correctly updating data immutably, including nested objects, inserting and removing items in arrays, and updating items in arrays, as well as some common mistakes that occur.  Important to know when using Redux, but the info is not Redux-specific.
+  Some useful examples for correctly updating data immutably, including nested objects, inserting and removing items in arrays, and updating items in arrays, as well as some common mistakes that occur. Important to know when using Redux, but the info is not Redux-specific.
 
 - **Immutably setting a value in a JS array (or how an array is also an object)**  
   https://medium.com/@giltayar/immutably-setting-a-value-in-a-js-array-or-how-an-array-is-also-an-object-55337f4d6702  
   An example of how `Object.assign` can be used to immutably update an array
-  
 - **ReactCasts #9: Immutability in Javascript**  
   https://www.youtube.com/watch?v=4LzcQyZ9JOU  
-  A screencast discussing why immutability is important and its benefits.  Compares Javascript's lack of built-in immutability with other languages, and shows how to do immutable operations in plain Javascript.
-  
+  A screencast discussing why immutability is important and its benefits. Compares Javascript's lack of built-in immutability with other languages, and shows how to do immutable operations in plain Javascript.
 - **Why Mutation Can Be Scary**  
   http://alistapart.com/article/why-mutation-can-be-scary  
   A detailed look at how JS objects and primitives behave in relation to mutability, how `Object.assign` works, and some alternative functions for merging objects.
@@ -68,7 +58,6 @@
 - **Immutability in React**  
   http://www.sitepoint.com/immutability-react/  
   Covers the reasons and basic concepts of using immutable data with React
-  
 - **Why Should I Care About Immutable Data In React?**  
   http://www.bennadel.com/blog/2903-why-should-i-care-about-immutable-data-in-reactjs.htm  
   Describes the major benefits of using immutable data in React, with a demo
@@ -80,14 +69,12 @@
 - **Comparing and Modifying Objects in React**  
   https://blog.komand.com/object-comparison-in-react-js-components  
   Some examples of comparing objects inside of React's lifecycle methods, and how to update them properly.
-  
 - **Handling State in React: Four Immutable Approaches to Consider**  
   https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5  
   A summary of four different ways to update state immutably
-  
 - **Immutability in React and Redux**  
   https://medium.com/@nitishkr88/immutability-in-react-and-redux-7137f7b3197  
-  A good introduction to immutability concepts and practical usage.  Covers how equality comparisons work in Javascript, reference comparisons vs deep quality checks, ways to avoid mutations, use of Immutable.js, and how to handle nested updates.
+  A good introduction to immutability concepts and practical usage. Covers how equality comparisons work in Javascript, reference comparisons vs deep quality checks, ways to avoid mutations, use of Immutable.js, and how to handle nested updates.
 
 #### Immutable Data Libraries
 
@@ -98,51 +85,39 @@
 - **List of immutable libraries**  
   https://gist.github.com/jlongster/bce43d9be633da55053f  
   A follow-up to James Longster's article, with pointers to numerous immutable data libraries
-  
 - **Redux Ecosystem Links: Immutable Data**  
   https://github.com/markerikson/redux-ecosystem-links/blob/master/immutable-data.md  
-  A large list of libraries for managing immutable data in Javascript.  Some of them are Redux-specific, but also includes many general-purpose immutable data libraries as well.
-  
+  A large list of libraries for managing immutable data in Javascript. Some of them are Redux-specific, but also includes many general-purpose immutable data libraries as well.
 - **Painless Immutability**  
   https://guigrpa.github.io/2016/06/16/painless-immutability/  
   A somewhat opinionated article from the author of a new immutable data library comparing different options, but still well-written and informative about the pros and cons of each.
-  
 - **Immutable.js**  
   http://seanamarasinghe.com/developer/immutable-js/  
   An introduction to the API and use cases for Immutable.js
-  
 - **How to use Immutable.js Records with React and Redux**  
   https://medium.com/azendoo-team/immutable-record-react-redux-99f389ed676  
   Examples for using Immutable.js records for clarity and consistency of data management
-  
 - **Immutable.js: An Introduction with examples written for humans**  
   http://untangled.io/immutable-js-an-introduction-with-examples-written-for-humans/  
   A detailed series of tutorials explaining how to use Immutable.js's API
-  
 - **Seamless-Immutable: An Alternative to Immutable.js**  
   https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577  
   Examples of how to use the Seamless-Immutable library, and how it compares to Immutable.js
-  
 - **Using Ramda's `evolve` in Redux reducers to create new state**  
   https://www.jernejsila.com/2017/02/25/using-ramda-evolve-redux-reducers-creating-new-state/  
   Some quick examples of how Ramda's API can be used for applying immutable data updates
-  
 - **How to Use Immutable.js in a React Redux Application**  
   https://codebrahma.com/how-to-use-immutable-js-in-a-react-redux-application/  
   Answers to six common questions about why and how to use Immutable.js in a React/Redux app, including whether to keep everything as Immutable.js objects, whether to use it inside of components, and potential benefits of using Immutable.js
-  
 - **Immutable Deep State Updates in React with Ramda.js**  
   https://vanslaars.io/post/setstate-lenses/  
   Some excellent examples of how to use Ramda's "lens" functions to define immutable state update logic
-  
 - **Why I Don't Use Immutable.js with Redux**  
   https://medium.com/front-end-hacking/why-i-dont-use-immutable-js-with-redux-db05004f436  
   Thoughts on the pros and cons of using Immutable.js in a Redux app
-  
 - **Using Immutable.js with Redux**  
   https://medium.com/front-end-hacking/using-immutable-js-with-redux-ba89025e45e2  
-  A follow-up to the previous article, with several examples of how to properly use Immutable.js with Redux 
-  
+  A follow-up to the previous article, with several examples of how to properly use Immutable.js with Redux
 - **Should I use Immutable.js with Redux?**  
   https://medium.com/@fastphrase/should-i-use-immutablejs-with-redux-58f88d6fd81e  
   A detailed list of pros and cons for using Immutable.js in a Redux app
@@ -150,19 +125,15 @@
 - **Practical Guide to using Immutable.js with Redux and React**  
   https://medium.com/@fastphrase/practical-guide-to-using-immutablejs-with-redux-and-react-c5fd9c99c6b2  
   A follow-up to the previous article, showing how to correctly set up and use Immutable.js with Redux
-  
 - **Qim: Select from your Immutable JavaScript Cake and Update It Symmetrically Too**  
   https://zapier.com/engineering/qim-immutable-javascript/  
   An in-depth look at a new lens-style immutable update utility called Qim, including what problems it helps solve and how to use it.
-  
 - **Lenses with Immutable.js**  
   https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780  
   Discusses how "lenses" can be used to dig into data structures and update them in an immutable way, and how to define lenses that work on Immutable.js objects.
-  
 - **You're missing out on ImmutableJS Records**  
   https://medium.com/@ahmadbamieh/immutablejs-records-bd369137da06  
   An introduction to the Immutable.js Record type, and how it can be used to define data types
-  
 - **Immutability through Mutability - Immer & Redux**  
   https://medium.com/@Tetheta/immutability-through-mutability-immer-redux-3e14246c6506  
   A look at Michel Weststrate's Immer library, which uses ES6 proxies to produce immutable updates using normal mutative code. Shows how this can simplify nested state updates in Redux reducers.

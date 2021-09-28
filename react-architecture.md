@@ -170,11 +170,7 @@
 - **You're Missing the Point of JSX**  
   http://blog.andrewray.me/youre-missing-the-point-of-jsx/  
   Some arguments in favor of using JSX to define React UIs
-  
-- **Helpful principles when starting with React**  
-  http://ignaciochavez.com/helpful-principles-starting-react/  
-  Several useful tips for structuring components, managing data flow, and updating data.  Has some excellent diagrams illustrating the concepts described.
-  
+
 - **React/Redux - Best Practices and Gotchas**  
   http://blog.getstream.io/react-redux-best-practices-gotchas  
   Several useful tips for avoiding common pitfalls, structuring an application, and using various React-related tools
@@ -182,11 +178,7 @@
 - **React Best Practices**  
   https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21  
   Suggestions and tips for effectively writing React and Redux
-  
-- **5 Simple Tips for Your First React + Redux Project**  
-  https://blog.preen.ly/5-simple-tips-for-your-first-react-redux-project-10cbb2727b9a  
-  Good suggestions for managing state and structure, including using local component state when necessary, use of selector functions, and more.
-  
+
 - **Writing a good React Component**  
   https://medium.com/thoughts-from-travelperk/writing-a-good-react-component-59624ed40b8e  
   Some very good best practices for writing components.
@@ -282,10 +274,7 @@
 - **State Architecture Patterns in React**  
   https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-a-review-df02c1e193c6  
   https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-2-the-top-heavy-architecture-flux-and-performance-a388b928ce89  
-  https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-3-articulation-points-zine-and-an-overall-strategy-cf076f906391  
-  https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-4-purity-flux-duality-and-dataflow-d06016b3379a  
-  A multi-part series that discusses several variations on component and state architecture in detail, with thoughts on the pros and cons of each.
-  
+  https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-3-articulation-points-zine-and-an-overall-strategy-cf076f906391
   
 - **Three Example React Stacks**  
   https://www.javascriptstuff.com/three-example-react-stacks  

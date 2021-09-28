@@ -6,19 +6,12 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 #### React Components
 
 - **React Docs: Performance**  
-  https://facebook.github.io/react/docs/advanced-performance.html  
   https://facebook.github.io/react/docs/perf.html  
   The React doc pages on performance.  Describes the core concepts, including shouldComponentUpdate, using immutable data, and the Performance API for benchmarking.
     
 - **React, Inline Functions, and Performance**  
   https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578  
   An excellent article Ryan Florence that pushes back against the "creating functions in render is slow" conventional wisdom in the React community.  This article is a must-read discussion on React performance.
-  
-- **Performance Engineering with React**  
-  http://benchling.engineering/performance-engineering-with-react/  
-  http://benchling.engineering/deep-dive-react-perf-debugging/  
-  https://news.ycombinator.com/item?id=11036007  
-  A 2-part series on React performance.  Excellent information.  Goes in-depth on use of the Perf API, shouldComponentUpdate, shallow equality, and how to properly profile components.  Highly recommended.  Further useful discussion in the HN comment thread.
   
 - **Respectable React Components**  
   http://kelle.co/react-perf-slides/  
@@ -95,11 +88,7 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://bvaughn.github.io/forward-js-2017/#/  
   https://youtu.be/t4tuhg7b50I  
   An excellent talk on performance topics from Brian Vaughn, a React core team member and author of the React-Virtualized library.  Covers sources of slowness, ways to avoid re-renders, and a deep look at "windowing/virtualization" for high-performance lists.
-  
-- **React Component Profiling**  
-  https://blog.yld.io/2016/11/25/react-component-profiling/  
-  Tips on using the new browser devtools integration capability in React 15.4 to track component performance.
-  
+
 - **React Snippets: Debug Component performance with ES7 Annotations**  
   https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html  
   Demonstrates using a custom decorator to wrap components and log information on when and why components re-rendered
@@ -142,18 +131,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://flexport.engineering/ending-the-debate-on-inline-functions-in-react-8c03fabd144  
   Discusses several aspects of improving React rendering performance, including tips for ensuring your codebase is ready to use `PureComponent`.  Has a link to further discussion on HN.  Part 2 describes how they built a library called `mutation-sentinel` to detect accidental mutations, and Part 3 covers a Babel plugin for optimizing inline functions in render methods.
   
-- **Introducing react-wastage-monitor**  
-  https://blog.listium.com/introducing-react-wastage-monitor-404565d679b2  
-  Describes a number of common perf issues in React apps, and how the react-wastage-monitor library can be used to detect them
-  
 - **Infinite List and React**  
   http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html  
   A Twitter developer describes some of the challenges they faced in building a performant infinite scrolling list component  
-  
-- **React Performance Anti-Pattern: Creating Functions in `render()`**  
-  https://medium.com/@erikras/react-performance-anti-pattern-creating-functions-in-render-ddeb5ebd2933  
-  Describes why creating functions inside of `render()` is bad for perf, specifically in relation to optimization and prop reference comparisons, and offers several alternate patterns as solutions.
-  
+
 - **Memoize React components**  
   https://medium.com/@planttheidea/memoize-react-components-33377d7ebb6c  
   Discusses the basic ideas of memoization, and shows how they can be applied to wrapping React components using the `moize` library (or other memoization libraries).

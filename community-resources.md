@@ -23,10 +23,6 @@
   https://github.com/d3viant0ne/awesome-webpack  
   A curated list of awesome Webpack resources, libraries and tools
 
-- **React Roadmap**  
-  https://github.com/ericdouglas/react-roadmap  
-  A curated list of free resources to master React Development
-  
 - **React FAQ**  
   https://github.com/timarney/react-faq  
   A collection of links to help answer your questions about React.js
@@ -116,10 +112,6 @@
 
 #### Newsletters
 
-- **Full Stack React**  
-  http://newsletter.fullstackreact.com/  
-  Fullstack React is a weekly newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. Subscribe to read the best articles each week on React, Flux, GraphQL, Relay, and friends.
-  
 - **React.js Newsletter**  
   http://reactjsnewsletter.com/  
   The free, weekly newsletter of the best React.js news, articles, projects, and more - brought to you by React.js Program
@@ -127,11 +119,7 @@
 - **React Digest**  
   http://reactdigest.net/  
   A free, weekly newsletter about the latest news in React Javascript community.  The only news source you need targeted on (but not limited to) React, Javascript, Flux and functional programming.
-  
-- **Curated React**  
-  http://curatedreact.com/  
-  Curated React is a weekly curated publication full of interesting, relevant links geared towards ReactJS and React Native. 
-  
+
 - **React Statuscode**  
   http://react.statuscode.com/  
   A free, once-weekly e-mail newsletter on React from the authors of JavaScript Weekly.
@@ -143,10 +131,6 @@
 - **PonyFoo Weekly**  
   https://ponyfoo.com/weekly  
   A single email every thursday, discussing front-end web development and related technologies.
-  
-- **Deterministic**  
-  https://deterministic.curated.co  
-  A weekly digest of interesting news and articles covering functional programming for the web, especially on the front end.
   
 - **ES.next News**  
   http://esnextnews.com/  

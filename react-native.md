@@ -26,11 +26,7 @@
 - **Build a Coffee Finder App with React Native and the Yelp API**  
   https://appendto.com/2016/11/build-a-coffee-finder-app-with-react-native-and-the-yelp-api/  
   A tutorial that covers building an IOS app that fetches data, organizes views, and displays the data on a map.
-  
-- **How to distribute React Native components backed by native code**  
-  https://www.benwixen.com/articles/distributing-react-native-components-with-native-code/  
-  A project layout for redistributable components with native code, that includes unit tests and supports automatic linking.
-  
+
 - **Build an Imgur Client with React Native and MobX**  
   https://medium.com/react-native-development/build-an-imgur-client-with-react-native-and-mobx-react-native-school-53146d648250  
   A tutorial that demonstrates build an RN app with MobX for state management, use of RESTful APIs, full-screen images in a ListView, and detection of device orientation

@@ -82,11 +82,7 @@
   https://medium.com/@royisch/moving-to-react-redux-in-baby-steps-aea0402624bf  
   https://medium.com/@royisch/6-lessons-learned-from-going-to-production-with-react-redux-19257f6724f6  
   A pair of articles describing one company's transition from a Backbone app to using React and Redux.
-  
-- **Black Pixel Redux Handbook**  
-  http://bpxl-labs.github.io/redux-handbook/  
-  Black Pixel's guidelines for project/app structure and usage
-  
+
 - **Tips for a Better Redux Architecture: Lessons for Enterprise Scale**  
   https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f  
   Thoughts on good patterns and approaches in a large Redux app, including use of action creators instead of `dispatch` in components, module/container file structure, using sagas for flow control, and more.
@@ -186,11 +182,7 @@
 - **Learning and scaling a React/Redux app with a distributed team**  
   https://devblog.xero.com/learning-and-scaling-a-react-redux-app-with-a-distributed-team-e4c397def187  
   Lessons learned from working with a large application with many features, including use of common components, sagas, project structure, and utility libraries
-  
-- **Redux at Knewton**  
-  https://tech.knewton.com/blog/2016/11/redux-at-knewton/  
-  Discussion of how Redux helped Knewton improve their app, including dev middleware to catch accidental mutations, normalization to help with caching, and other tradeoffs.
-  
+
 - **4 Things for Efficient Redux**  
   https://medium.com/@iJaniashvili/4-things-for-efficient-redux-17e87b4cd6cb  
   Suggestions for improved Redux apps based on experience, including using Immutable.js, use of `combineReducers`, listening for actions in multiple reducers, and "aliasing" actions.
@@ -232,11 +224,7 @@
 - **Dispatch Redux actions as events, not commands!**  
   https://hackernoon.com/dispatch-redux-actions-as-events-not-commands-4de8a92b1ea5  
   Some opinionated thoughts on naming and intent for Redux actions, and why actions should be treated similar to event sourcing
-  
-- **Don't Overcomplicate Javascript, #0: Redux Action Constants**  
-  https://bits.ristic.io/dont-overcomplicate-javascript-0  
-  Some thoughts on the pros and cons of defining action constants for reuse in Redux apps, and whether it's a good idea to use libraries to help define those constants.
-  
+
 - **Is using a mix of Redux state and React local component state ok?**  
   http://blog.jakoblind.no/2017/02/08/is-using-a-mix-of-redux-state-and-react-local-component-state-ok/  
   A short article expanding on the rules of thumb for when to use Redux state given in the Redux FAQ, with some examples for each rule of thumb.
@@ -359,10 +347,6 @@
   https://medium.com/@MattiaManzati/how-to-reuse-redux-components-8acd5b4d376a  
   Discussion of an Elm-inspired approach to wrapping up reusable components and logic
 
-- **Redux and the Elm Architecture**  
-  http://salsita.github.io/redux-elm/  
-  Redux lacks built-in abstractions for real-world, maintainable, scalable applications. In particular, it is difficult to create and distributed encapsulated, reusable components.  The Elm Architecture clearly addresses some important areas where Redux alone is lacking.
-  
 - **Scaleable FE with Redux and Elm Architecture**  
   https://medium.com/@hunterbmt/scaleable-fe-with-redux-and-elm-architecture-c6812ed0125e  
   Examples of using Elm-style approaches to writing Redux code
@@ -523,10 +507,6 @@
   https://medium.com/dailyjs/mvc-implemented-by-react-and-causality-redux-c4125a01e95c  
   https://medium.com/@causality_redux/react-redux-how-to-write-significantly-less-code-c0562ff06d5a  
   A pair of posts discussing how to use the "causality-redux" library to implement an MVC-type architecture on top of React and Redux.
-  
-- **Connecting React components to a Redux store with render callbacks**  
-  https://medium.com/@gott/connecting-react-component-to-redux-store-with-render-callback-53fd044bb42b  
-  Demonstrates using the React "render props" pattern to pass down data from a Redux store, rather than using `connect`.
   
 - **"Anyone using Redux with a render prop?"**  
   https://twitter.com/threepointone/status/913701233394900992  

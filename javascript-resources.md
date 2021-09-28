@@ -35,11 +35,7 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Roadmap for Learning the Javascript Language**   
   http://bytearcher.com/articles/roadmap-for-learning-javascript-language/  
   A suggested approach for how to learn Javascript.
-  
-- **What Do I Need to Know to Ace a JavaScript Interview?**  
-  https://github.com/adam-s/js-interview-review  
-  Collected resources for studying Javascript and preparing for an interview
-  
+
 - **Zero to One: How I Mastered Javascript and You Can Too**  
   https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7  
   An article describing how one person approached learning Javascript, with suggestions and advice to follow.
@@ -54,12 +50,7 @@ While this list is primarily focused on learning React and Redux, and generally 
   
 - **Array iteration methods summarized**  
   https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff  
-  An explanation of all the different Array methods that loop over the array, what they do, and when they should be used
-  
-- **Front End Interview Preparation Guide**  
-  https://github.com/Jobeir/front-end-interview-preparation-guide  
-  A list of useful books, courses, and resources for learning JS, and links to interview questions and quizzes that would be beneficial in helping test out knowledge.
-  
+  An explanation of all the different Array methods that loop over the array, what they do, and when they should be used 
 
 #### Tutorials, Books, and Courses
 
@@ -78,11 +69,7 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **The Modern Javascript Tutorial**  
   http://javascript.info/  
   A large tutorial series that covers all aspects of the modern Javascript language (basic syntax, data types, objects, and advanced function usage), as well as a section on using Javascript to interact with the DOM in web pages.
-  
-- **23 Free Javascript Books**  
-  https://hackerlists.com/free-javascript-books/  
-  A list of many Javascript books available for free online.
-  
+
 - **Rithm School Free Javascript Course**  
   https://www.rithmschool.com/courses  
   
@@ -93,11 +80,7 @@ While this list is primarily focused on learning React and Redux, and generally 
 - **Javascript Path**  
   https://github.com/javascript-society/javascript-path  
   A list of books to master JavaScript Development
-  
-- **DevFreeBooks: Javascript**  
-  https://devfreebooks.org/javascript/  
-  A list of free online books for Javascript
-  
+
 - **DOM Enlightenment**  
   http://domenlightenment.com/  
   A deep look at how to interact with the DOM from Javascript, without using a library or a framework.

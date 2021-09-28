@@ -39,11 +39,7 @@
 - **Testing React components with Jest and Enzyme**  
   https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f  
   Examples of how to use Jest's snapshot testing and Enzyme's component API to write component tests
-  
-- **Best practices for testing React components using Mocha, Chai, and Enzyme**  
-  https://reflect.io/blog/js-testing-mocha-chai-enzyme/  
-  A number of useful tips for improving component tests, including use of shallow rendering, avoiding errors while testing, and making test code consistent
-  
+
 - **The Right Way to Test React Components**  
   https://medium.com/@suchipi/the-right-way-to-test-react-components-548a4736ab22  
   Excellent advice on how to determine a component's "contract", what aspects of that are worth testing, and how to approach testing that contract.
@@ -128,11 +124,7 @@
 - **React and Redux Testing with Jest: How Some Jokers Learned to Take Snapshots**  
   https://dev.bleacherreport.com/react-and-redux-testing-with-jest-how-some-jokers-learned-to-take-snapshots-c186c7e419e6  
   Discussion of how Jest snapshot tests can be used to replace some manually-written tests for both React components and Redux logic.
-  
-- **A Practical Guide to Testing React Apps**  
-  http://acco.io/a-practical-guide-to-testing-react-apps/  
-  An excellent, comprehensive guide to React testing, covering some of the major tools, types of tests, how to write good React tests, and more. 
-  
+
 - **Testing React Components** 
   https://nerdblog.pl/post/166842840969/testing-react-components  
   An extensive look at different ways to test React components using the Enzyme library.  Discusses Enzyme's shallow and full rendering methods, methods to inspect the contents of a component, and different forms of tests like snapshots, rendering tests, and behavior tests.
@@ -140,19 +132,11 @@
 - **Creating a React Component using TDD**  
   http://www.alayor.com/2017/Creating-a-React-Component-using-TDD  
   Demonstrates writing a simple React component using the TDD "red-green" testing approach.
-  
-- **Unit Testing with Semantic-UI-React and Enzyme**  
-  https://medium.com/bluepick-dev/testing-with-semantic-ui-react-and-enzyme-7cb39228a5ea  
-  Specific tips and advice for testing components that use the Semantic-UI-React library, including advice on focusing your tests on your own components' behavior.  The tips are also applicable to React component testing in general.
-  
+
 - **Implementing basic Component tests using Jest and Enzyme**  
   https://hackernoon.com/implementing-basic-component-tests-using-jest-and-enzyme-d1d8788d627a  
   Describes the Jest and Enzyme tools, how they're used for testing React components, and gives examples of some simple tests.
-  
-- **Snapshot testing React Components with Jest**  
-  https://medium.com/@lukepierotti/snapshot-testing-react-components-with-jest-744a1e980366  
-  Covers the basics of snapshot testing, and how it can be used to test React components to ensure the rendering is consistent.
-  
+
 - **Testing React Components**  
   https://medium.com/@skidding/testing-react-components-30516bc6a1b3  
   Thoughts on good practices for testing React components, based on writing thousands of tests. Describes complexities in testing real-world components that make use of multiple HOCs or that glue different units together, and how the Cosmos tool can help simplify those tests using mocking.
@@ -164,11 +148,7 @@
 - **Unit test code that uses CSS Modules**  
   https://medium.com/@a_eife/unit-test-code-that-uses-css-modules-ef5b49efc707  
   Provides several solutions for handling imports of CSS Modules when running unit tests
-  
-- **Testing React components using render props**  
-  https://dev.to/kentcdodds/testing--components-using-render-props-1f00  
-  Kent C Dodds gives several examples and suggestions of approaches for testing components that make use of render props.
-  
+
 - **Lessons learned testing React & Redux apps with Jest and Enzyme**  
   https://medium.com/@Tetheta/lessons-learned-testing-react-redux-apps-with-jest-and-enzyme-eb581d6d167b  
   Thoughts on best practices based on experience, including complexities of setting up a testing environment, optimal setup for snapshot tests, simplifying test setup, and what aspects of Redux code should be tested.
@@ -184,12 +164,6 @@
 - **Acceptance Test Driven Development with React/Redux**  
   https://itnext.io/acceptance-test-driven-test-with-react-redux-part-1-7ae8cb4fab00  
   A multi-part tutorial series that walks through creating and refactoring a React/Redux application using an Acceptance Test Driven Development approach.
-  
-- **React Testing Tutorial: Test Frameworks & Component Tests**  
-  https://www.robinwieruch.de/react-component-tests-tutorial/  
-  An excellent in-depth guide that walks through writing unit, integration, and end-to-end tests using common React test frameworks and tools like Mocha, Enzyme, Sinon, Jest, Coveralls, and Cypress.io.  
-  
-
   
 #### Redux
 
@@ -214,11 +188,7 @@
 - **Unit Testing Redux Container Components**  
   https://web.archive.org/web/20161105110913/http://pebblecode.com/blog/testing-redux-containers/  
   Demonstrates techniques for properly testing Redux-connected React components using a mock store
-  
-- **Testing React and Redux**  
-  http://silvenon.com/testing-react-and-redux/  
-  A three-part article that shows how to set up Ava and Babel, then walks through testing Redux code (action creators, reducers, selectors, thunks, and sagas), and React components.
-  
+
 - **Unit Testing React Components that use Redux**  
   http://www.thereformedprogrammer.net/unit-testing-react-components-that-use-redux/  
   Tips on unit testing components that render more Redux-connected components
@@ -255,15 +225,7 @@
   https://medium.com/@kilkelly/simplify-your-redux-unit-tests-using-tape-ad391aecf446  
   https://github.com/kilkelly/tape-redux-unit-testing  
   Some quick examples of using the Tape library to test Redux reducers, with an accompanying example repo
-  
-- **Unit Testing Redux Container Components, Part 1**  
-  http://www.wsbrunson.com/react/redux/test/2016/05/08/testing-redux-containers.html  
-  Some useful tips for setting up tests for Redux-connected components
-  
-- **Code Review: SPA testing with React and Redux**  
-  https://b3ntly.github.io/blog/code-review-spa-testing-with-react-and-redux-long/  
-  A variety of useful observations and suggestions for testing React+Redux code, including good practices for structuring test setup
-  
+
 - **Test Your Redux Container with Enzyme**  
   https://medium.com/@visualskyrim/test-your-redux-container-with-enzyme-a0e10c0574ec  
   Examples for using Enzyme to test Redux-connected components, including passing in a mock store, use of shallow rendering, and testing `mapDispatch`.
@@ -312,10 +274,6 @@
   https://hackernoon.com/how-to-snapshot-test-everything-in-your-redux-app-with-jest-fde305ebedea  
   Detailed examples of how to test React components, Redux reducers, connected components, and selectors using Jest snapshot tests.
   
-- **Unit Testing React, Redux, Selectors, and Epics**  
-  https://codeburst.io/unit-testing-react-redux-selectors-and-epics-664e7b4798a8  
-  Quick examples of ways to different parts of a React+Redux app.
-  
 - **Jest Testing Patterns for React-Redux Applications**  
   https://ranjithnair.github.io/2017/11/17/Jest-Testing-basics.html  
   Includes info on basic Jest test setup, as well as examples of using Jest to test React components, Redux-connected components, actions and reducers, API calls, and React event behavior.
@@ -328,10 +286,6 @@
   https://medium.com/@lukepierotti/unit-testing-redux-connected-components-692fa3c4441c  
   Discusses testing connected components with a mock store vs testing `mapState` functions and plain components separately.
 
-- **How to Test Your Redux App**  
-  https://www.wix.engineering/single-post/2017/12/27/How-to-Test-Your-Redux-App  
-  Discusses tradeoffs and examples of writing tests for "simple" functions, and how to approach writing integration tests for connected components.
-  
 - **Interview: redux-saga-test-plan**  
   https://survivejs.com/blog/redux-saga-test-plan-interview/  
   An interview with the author of the redux-saga-test-plan library, discussing how it works and how it can simplify the process of testing sagas.
@@ -394,11 +348,7 @@
   http://randycoulman.com/blog/2016/03/22/testing-with-mocha-and-webpack/  
   http://randycoulman.com/blog/2016/04/05/more-on-testing-with-mocha-and-webpack/  
   Some excellent information on setting up a good test environment, including use of the mocha-webpack tool.
-  
-- **Testing with Webpack 2, inject-loader, Karma, Mocha, Chai, and More**  
-  https://cafedev.org/article/2016/12/testing-with-wepack-2-inject-loader-karma-mocha-chai-and-sinon/  
-  Examples of using these tools to test some complex code, including mocking out dependencies
-  
+
 - **ESLint Part 1: Exploration**  
   https://blog.scottnonnenberg.com/eslint-part-1-exploration/  
   A solid look at what ESLint is, how you can use it to help keep your code clean, and a number of useful linting plugins that are available.
@@ -411,11 +361,7 @@
 - **UI Testing at Urban Airship**  
   https://github.com/urbanairship/technical-blog/blob/master/AirshipUITesting.md  
   In-depth discussion of complexities and approaches for testing real-world UI code, including test runners, mocking, and more.
-  
-- **Migrating to Jest**  
-  https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e  
-  Kent C. Dodds describes why and how his team at Paypal switched their test setup to use Jest instead of Ava.
-  
+
 - **Testing with Jest Snapshots: First Impressions**  
   http://benmccormick.org/2016/09/19/testing-with-jest-snapshots-first-impressions/  
   Description of the pros and cons of using Jest's new Snapshot Testing feature

@@ -185,11 +185,7 @@
 - **React & Redux in TypeScript - Static Typing Guide**  
   https://github.com/piotrwitek/react-redux-typescript-guide  
   A comprehensive guide to static typing "React & Redux" apps using TypeScript
-  
-- **Porting a React and Redux Application to TypeScript**  
-  https://bytesized.xyz/react-redux-typescript/  
-  Demonstrates porting an existing React+Redux sample app to use TypeScript
-  
+
 - **React Higher Order Components in TypeScript made simple**  
   https://dev.to/danhomola/react-higher-order-components-in-typescript-made-simple  
   Demonstrates how to extract an HOC and properly define types for various groups of props
@@ -225,10 +221,6 @@
 - **Redux and Flow-type - getting the maximum benefit from the fewest key strokes**  https://hackernoon.com/redux-flow-type-getting-the-maximum-benefit-from-the-fewest-key-strokes-5c006c54ec87  
   Discussion of how Flow's type inference can be used to reduce duplication of type declarations for actions.
   
-- **How to Reduce Action Boilerplate**  
-  https://blog.angularindepth.com/how-to-reduce-action-boilerplate-90dc3d389e2b  
-  Looks at how TypeScript is normally used with Redux, including "narrowing" actions with type guards and discriminated unions, and looks at ways different libraries use narrowing to help generate actions in a type-safe way.
-  
 - **Using TypeScript Generics for writing React Components**  
   https://blog.mojotech.com/typescript-generic-react-components/  
   Useful techniques for writing typed higher-order-components, with specific examples focusing on typing form field components.
@@ -241,11 +233,7 @@
 - **Using TypeScript with Redux**  
   https://dzone.com/articles/using-typescript-with-redux  
   Examples of basic TS usage with Redux, and setting up your own type declarations for better type safety.
-  
-- **Todo app with Typescript/Redux**  
-  https://medium.com/@nem121/todo-app-with-typescript-redux-e6a4c2f02079  
-  An introduction to the principles of using Typescript with Redux, as applied to a simple todo app.
-  
+
 - **Error TS2532 and Optional React Component Props in TypeScript**  
   https://decembersoft.com/posts/error-ts2532-optional-react-component-props-in-typescript/  
   Describes a specific TS error message that can result from trying to use default props, and and shows how to solve it.

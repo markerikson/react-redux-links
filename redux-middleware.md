@@ -53,11 +53,6 @@
 - **Build your own Redux middleware**  
   https://blog.campvanilla.com/redux-middleware-basics-getting-started-17dc31c6435c  
   A good explanation of how middleware fit into the Redux data flow, how middleware are defined, and how to write a simple logging middleware.
-  
-- **Learning Redux Middlewares by Reading Their Source**  
-  https://www.ynonperek.com/2017/08/21/learning-redux-middlewares-by-reading-their-source/  
-  Explores the source code for redux-thunk, redux-promise, and redux-batch-middleware to help understand how middleware work.
-  
 
 #### Middleware Techniques
 
@@ -65,10 +60,6 @@
   http://jlongster.com/Two-Weird-Tricks-with-Redux  
   https://news.ycombinator.com/item?id=11488633  
   James Longster describes a couple useful approaches he found while writing the Firefox Developer Tools: checking for specific actions using a middleware, and managing multiple async requests.  The HN comments include some useful discussion.
-  
-- **Redux Hack: Custom Thunk APIs**  
-  http://chrispearce.co/redux-quick-hack-custom-thunk-apis/  
-  Demonstrates writing a custom thunk middleware that injects additional dependencies into thunks.
 
 - **Connecting Redux to your API**  
   https://blog.boldlisting.com/connecting-redux-to-your-api-eac51ad9ff89  
