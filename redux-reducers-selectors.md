@@ -58,11 +58,7 @@
 - **Functional Redux Reducers with Ramda**  
   https://alligator.io/react/functional-redux-reducers-with-ramda/  
   Shows how to write a somewhat complex Redux reducer using only composition of functions from the Ramda library
-  
-- **Combine Redux reducers like a Tetris ninja**  
-  https://engineering.legalstart.fr/combine-redux-reducers-like-a-tetris-ninja-6f4eb690aed5  
-  Discusses the intended use case and limitations of `combineReducers`, and presents a custom utility called `combineMultiKeyReducers` that will pass along specified slices of state to a reducer.
-  
+
 - **A small trick to write clean reducers**  
   https://hackernoon.com/a-small-trick-to-write-clean-reducers-a0b1b1eff3d2  
   Shows a contrived example of updating deeply nested state, and discusses use of `lodash/fp` to simplify the update logic instead.
@@ -239,7 +235,3 @@
 - **Organising Redux State**  
   https://medium.com/@onoufriosm/organising-redux-state-4b4c2b99eece  
   Short examples of how Labstep defines state structure for their normalized entities
-  
-- **Normalizing Data into Relational Redux State with Normalizr**  
-  https://medium.com/@onoufriosm/organising-redux-state-4b4c2b99eece  
-  Tips on using Normalizr to normalize data, including defining schemas and overriding Normalizr's default processing and merging strategies.

@@ -22,10 +22,6 @@
   https://twitter.com/dan_abramov/status/773912160896421889  
   Max Stoiber, creator of the popular "React-Boilerplate" starter kit, describes the approaches they use to lay out projects based on features.  The Twitter thread has discussion on some tradeoffs, including understand that Redux actions are "global", not scoped.
 
-- **Organizing Large React Applications**  
-  http://engineering.kapost.com/2016/01/organizing-large-react-applications/  
-  Describes "File-Type First", "Feature First / Pods" approaches, as well as other related structure issues.
-  
 - **Four Strategies for Organizing Code**  
   https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33  
   Describes "by component", "by toolbox", "by layer", and "by kind" approaches.
@@ -75,11 +71,6 @@
 - **Structuring and Organizing the React Components Directory**  
   http://noah-prince-tech-blog.ghost.io/structuring-and-organizing-the-react-components-directory/  
   Some useful suggestions for folder layout, folder naming, and import handling.
-  
-- **How OkCupid organizes its multi-page React App**  
-  https://tech.okcupid.com/how-okcupid-organizes-its-multi-page-react-app/  
-  https://www.reddit.com/r/reactjs/comments/5widfg/how_okcupid_organizes_its_multipage_react_app/  
-  The OkCupid team discusses their approach for a multi-page app, including bundles, use of the Ducks pattern, and folder structures.  Some good follow-up discussion in the Reddit comments.
   
 - **React Project Structure**  
   https://daveceddia.com/react-project-structure/  

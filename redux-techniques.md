@@ -7,10 +7,6 @@
 
 #### Debugging
 
-- **Hot reloading and time travel debugging: what are they?**  
-  https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35  
-  A short but informative article describing these concepts and why they're useful.
-
 - **Debugging is in Flux**  
   https://vimeo.com/166342150  
   A fantastic talk that demonstrates use cases and examples for time-travel debugging in a Flux-style architecture, including crash reporting.  The demo is built in Alt, but obviously completely applies to Redux as well.
@@ -51,11 +47,7 @@
 - **How to treat Errors as first-class citizen in Flux (and Redux)**  
   https://medium.com/@jamiedixon/how-to-treat-errors-as-first-class-citizens-in-flux-and-redux-fca7f3d5c02d  
   Discusses how the FSA structure expects actions to have an optional `error` field, and how to write code that deals with that.
-  
-- **Redux in Action: Using the Redux DevTools**  
-  https://www.slideshare.net/ManningBooks/redux-in-action-learn-to-manage-and-consolidate-state  
-  Some slides from the authors of the book "Redux in Action", explaining what the Redux DevTools are, how to set them up, and how to use them to view dispatched actions and debug state changes
-  
+
 - **A user encounters a JavaScript error. You'll never guess what happens next!**  
   https://hackernoon.com/a-user-encounters-a-javascript-error-youll-never-guess-what-happens-next-dc1a6f725490  
   A walkthrough for how to capture user page interactions and dispatched Redux actions into a "journey" object that can be sent to the server if an error is detected, allowing a developer to play back the user's behavior for debugging.
@@ -67,11 +59,6 @@
   
 #### Other  
 
-  
-- **Connecting the Linode API to Redux with Higher-Order Functions**  
-  https://engineering.linode.com/2016/08/17/Using-metaprogramming-in-the-manager.html  
-  Linode explains how they generate customized action creators and reducers to talk to different parts of their API
-  
 - **A Finite State Machine Helper for Redux**  
   https://hackernoon.com/a-finite-state-machine-helper-for-redux-c18519643719  
   Describes a small but useful library for managing state machines using Redux reducers.
@@ -83,7 +70,6 @@
 - **Redux runtime reconfiguration techniques**  
   https://www.youtube.com/watch?v=ZvbZTXs3Y3E  
   http://redux-reconfig.surge.sh/  
-  http://codepen.io/vnovick/pen/pEgKww/?editors=0010#0  
   Discussion and demonstration of some ways to load reducers and components at runtime.
   
 - **Secure file uploads with redux-plupload**  
@@ -96,7 +82,6 @@
   
 - **Immuto: Strongly Typed Redux Composition**  
   http://danielearwicker.github.io/Immuto_Strongly_Typed_Redux_Composition.html  
-  http://danielearwicker.github.io/Immuto_Working_with_React_An_Example_.html  
   http://danielearwicker.github.io/Immuto_Radical_Unification.html  
   http://danielearwicker.github.io/Immuto_Epilogue.html  
   An interesting series of experiments in adding typed cursor-like behavior to Redux.  The author appears to give up on the idea in the end, but the writing and thought process are informative.
@@ -123,12 +108,7 @@
   
 - **Things I learned about Redux: Don't Dispatch from React Lifecycle Methods**  
   https://github.com/carlsverre/talk-react-redux-learnings  
-  https://docs.google.com/presentation/d/1J82fXkgUKL6-k17ADVtozXMRfMGXnx5R6r5UnOm8z8g/edit?usp=sharing  
   Resources from an excellent presentation on potential timing issues that result from dispatching Redux actions in React lifecycle methods.  Repo includes sample code demonstrating the issues, and a link to the video of the meetup talk.
-  
-- **Let the Buyer Beware: React Redux Rerender Gotcha**  
-  https://www.nathanl.in/posts/let-the-buyer-beware-react-redux-rerender-gotcha  
-  An article describing some similar concerns regarding timing of Redux actions and React lifecycle methods, especially in regards to tracking loading state.
 
 - **Manage analytics actions in React**  
   https://medium.com/trainline-engineering/manage-analytics-actions-in-react-67fae61495de  
@@ -166,10 +146,6 @@
   http://blog.bloomca.me/2017/06/02/why-i-created-redux-tiles-library.html  
   https://news.ycombinator.com/item?id=14482215  
   Describes several concerns with increasing verbosity and complexity in Redux apps, and how the author's library can help simplify those.
-  
-- **Reducing Redux Boilerplate with redux-actions**  
-  http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html  
-  A short look at how the `redux-actions` lib can simplify the process of defining action type, action creators. and reducers.
 
 - **Reducing Redux: avoiding boilerplate with redux-scc**  
   https://medium.com/onfido-tech/reducing-redux-avoiding-boilerplate-with-redux-scc-b72c80c338e5  
@@ -218,11 +194,7 @@
   https://hackernoon.com/automate-writing-redux-reducers-with-5-lines-of-javascript-cecb79fb9a35  
   https://www.reddit.com/r/javascript/comments/7i4t14/keducer_automate_writing_redux_reducers_with_5/  
   Describes a small lib to generate reducers that handle merging in updated state.  Some good discussion in both the article comments and Reddit comments about the tradeoffs between having reducers "own" state, vs state being defined by action creators.
-  
-- **API Requests in Redux**  
-  https://tech.decisiv.com/api-requests-in-redux-part-1-9ce587628a90  
-  A series looking at a pattern for simplifying boilerplate around request pending/success/failure status.
-  
+
 - **Introducing redux-recompose**  
   https://medium.com/wolox-driving-innovation/932e746b0198  
   Introduces a reducer utility library to help simplify handling of async actions
@@ -253,11 +225,6 @@
   http://jimpurbrick.com/2017/11/10/replaying-replicated-redux/  
   A set of posts that discuss using ReactVR and Redux to implement a networked VR application, including using a Redux middleware to synchronize actions between the clients, and approaches to managing consistency and optimistic updates.
 
-- **Ajax Polling in React with Redux and Sagas**  
-  http://notjoshmiller.com/ajax-polling-in-react-with-redux/  
-  http://notjoshmiller.com/ajax-polling-part-2-sagas/  
-  Covers a couple different ways to manage the logic for AJAX polling.
-
 - **Firebase with Redux**  
   https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9  
   Examples for combining Firebase into a Redux application
@@ -278,10 +245,6 @@
   https://medium.com/@ianovenden/redux-websocket-integration-c1a0d22d3189  
   A summary of one possible approach for integrating Websocket functionality into a React/Redux application architecture.
 
-- **What's the best way to store tokens in Redux?**  
-  https://michaelwashburnjr.com/whats-the-best-way-to-store-tokens-in-redux/  
-  Discusses pros and cons of storing auth tokens in app state vs localStorage, and what code should be responsible for handling the tokens.*
-  
 - **Remote Reducers and Predictive Reduction**  
   https://medium.com/@seveibar/remote-reducers-and-predictive-reduction-572ab5054211  
   Discusses potential techniques for synchronizing server-side state via Redux actions, and how to reconcile actions that are dispatched out of order.

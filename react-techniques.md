@@ -8,12 +8,6 @@
 - **Adding Drag and Drop to React**  
   https://www.dailydrip.com/blog/adding-drag-and-drop-to-react.html  
   An example of using react-dnd to add drag-and-drop behavior, in conjunction with Redux.
-    
-- **Climbing Up the React Component Tree**  
-  https://www.ynonperek.com/2017/08/05/react-parent-hirearchy/  
-  https://www.reddit.com/r/reactjs/comments/6s4czp/traversing_react_tree_in_the_opposite_direction/  
-  Gives examples for calculating an array describing a component's parents, including using a HOC and using context.  Not a recommended thing to try, but the exploration of the idea is interesting.
-  The Reddit comments have a bit more useful discussion.
   
 - **SVG Patterns in React - Build a Twitter Wall**  
   https://www.robinwieruch.de/react-svg-patterns/  
@@ -26,10 +20,6 @@
 - **Lessons from migrating a large codebase to React 16**  
   https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6  
   An excellent post from the Discord team recapping how they migrated an older React codebase to work with React 16, including use of codemods, replacing private API usage, upgrading dependencies, and other issues they ran into.
-  
-- **React UI Frameworks, Compared**  
-  https://gather.engineering/react-ui-frameworks-compared-dd631eb5c982  
-  A list of available React UI frameworks, with reviews and comparisons on breadth of components, quality, project health, and more.  Includes Ant Design, PrimeReact, Office UI Fabric, Blueprint, React UI, Semantic UI React, ExtReact, and Kendo React UI.
   
 - **Robust React User Interfaces with Finite State Machines**  
   https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/  
@@ -104,10 +94,6 @@
 - **React events in depth**  
   https://www.youtube.com/watch?v=dRo_egw7tBc  
   A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
-  
-- **Using React Fragments for the first time**  
-  https://javascriptplayground.com/blog/2017/12/react-fragments/  
-  Describes the Fragment "component" and syntax introduced in React 16.2, the problems Fragments solve, and how to use them.
   
   
 #### Debugging and Error Handling

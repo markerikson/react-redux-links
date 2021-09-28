@@ -21,14 +21,6 @@
   https://github.com/MIJOTHY/FOR_FLUX_SAKE  
   A Flux tutorial and description, with a sample project
 
-- **Thinking in Flux**   
-  http://www.actioniq.co/blog/thinking-in-flux/  
-  An example of writing a component that works in a Flux data flow
-
-- **A Cartoon Guide to Flux**   
-  https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207  
-  A high-level description of Flux concepts, with cartoons
-
 - **React/Flux Tutorial Part 2: Flux**   
   http://spapas.github.io/2015/07/02/comprehensive-react-flux-tutorial-2/  
   Reworks the app from part 1 to use Flux

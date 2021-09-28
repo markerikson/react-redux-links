@@ -100,19 +100,11 @@
 - **React.js Reconciliation**  
   https://www.infoq.com/presentations/react-reconciliation  
   A video presentation digging into how React's reconciliation algorithm determines how to properly update nodes based on render output.
- 
-- **React Source Code Annotations**  
-  https://annot.io/github.com/facebook/react  
-  Crowdsourced annotations and descriptions for files in the React codebase
 
 - **ReactJS: Under the Hood**  
   https://www.youtube.com/watch?v=xsKYAa1ZXpQ  
   A talk digging into React's internal concepts and implementation, including the split between the core library and the renderers.
-  
-- **React Implementation Notes**  
-  https://facebook.github.io/react/contributing/implementation-notes.html  
-  An in-depth explanation of how React's current internal algorithms work
-  
+
 - **Dive Into React Codebase: Transactions**  
   http://reactkungfu.com/2015/12/dive-into-react-codebase-transactions/  
   A deep dive into the implementation of React's internal "transactions" concept

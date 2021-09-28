@@ -83,12 +83,6 @@
   http://habd.as/awesome-react-boilerplates/  
   Another good curated list of boilerplates for both React and React Native
   
-- **React Community: Starter Kit**  
-  https://reactjs.org/community/starter-kits.html  
-  A list of starter kits that are officially recommended by the React team, as well as other kits from the community.
-  
-  
-  
 #### React Project Setup
 
 - **Simple React Development in 2018**  
@@ -130,18 +124,7 @@
 - **Setup a React Environment using Webpack and Babel**  
   https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel  
   A tutorial that teaches how to set up a basic Webpack 2 + Babel config from scratch.
-  
-- **Setting up a Front-End Project**  
-  https://medium.com/@Torwori/setting-up-a-front-end-project-part-1-d7fbaaaa5e14  
-  https://medium.com/@Torwori/setting-up-a-front-end-project-part-2-cbbae56ffd15  
-  https://medium.com/@Torwori/setting-up-a-front-end-project-part-3-38f1681d310b  
-  https://medium.com/@Torwori/setting-up-a-front-end-project-part-4-b6fe32e58e5  
-  An in-depth tutorial series covering setup and configuration of many tools, including Git, Webpack, Babel, ESLint, and Typescript.
-  
+
 - **Setting up Webpack, Babel, and React from scratch in 2017**  
   https://stanko.github.io/webpack-babel-react-revisited/  
   A step-by-step tutorial that demonstrates each piece of the process needed to set up a build system from scratch.
-  
-- **How to set up React, Webpack 3, and Babel, in 2017**  
-  https://www.valentinog.com/blog/react-webpack-babel/  
-  A clear explanation of how to create a basic Webpack+Babel setup for a React app, with descriptions of why each step is necessary.

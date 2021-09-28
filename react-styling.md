@@ -62,11 +62,7 @@
 - **Component Based Style Reuse**  
   https://www.youtube.com/watch?v=_70Yp8KPXH8  
   Pete Hunt talks about various approaches to defining styles for components in plain CSS and in React
-  
-- **Patterns for Style Composition in React**  
-  http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/  
-  Some great suggestions for defining reusable React components that can have variations in styling
-  
+
 - **Functional CSS From A Pure UI Perspective**  
   https://medium.com/@sharifsbeat/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc  
   Thoughts on various ways to compose classes and styles together.
@@ -89,10 +85,6 @@
 - **CSS Modules by Example**  
   https://www.javascriptstuff.com/css-modules-by-example/  
   A set of 7 examples demonstrating ways to use CSS modules.
-  
-- **Elephants, The Three Code Ilities, & Two Months With CSS Modules**  
-  http://chrispearce.co/elephants-the-three-code-ilities-two-months-with-css-modules/  
-  A look at how Lystable used CSS Modules to scale their codebase.
   
 - **Functional CSS - The Good, The Bad, and Some Protips for React.js Users**  
   https://github.com/chibicode/react-functional-css-protips  
@@ -208,15 +200,7 @@
 - **The performance of styled React components**  
   http://blog.primehammer.com/2017/09/27/the-performance-of-styled-react-components/  
   Benchmarks comparing size, build speed, and other aspects of different CSS-in-JS libraries.
-  
-- **Structuring our Styled Components**  
-  https://tech.decisiv.com/structuring-our-styled-components-part-i-2bf21fa64b28  
-  Discusses applying the Block-Element-Modifier styling structure approach to use of the styled-components library, with examples.
-  
-- **Styled-Components Nitty-Gritty**  
-  https://blog.elpassion.com/styled-components-nitty-gritty-2d74b8690ef8  
-  An introduction to how to use the styled-components library, the problems that it solves, and how it works internally
-  
+
 - **A Field Guide to CSS-in-JS**  
   https://medium.com/@wonderboymusic/a-field-guide-to-css-in-js-f7cbd9ed79a7  
   Looks at how to use the styled-components and emotion libraries, including syntax, theming, variables, classname generation, and more.

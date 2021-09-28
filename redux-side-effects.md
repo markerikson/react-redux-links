@@ -11,10 +11,6 @@
   http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux/34599594#34599594  
   Dan Abramov gives reasons for using thunks and async middleware, and some useful patterns for using thunks.
 
-- **Pure Functionality and Side Effects with Redux**  
-  https://blog.hivejs.org/building-the-ui-2/  
-  An overview of what side effects are, how they fit into Redux, and several approaches for managing them.
-  
 - **"Async Redux workflow: calling actions outside Redux?"**  
   https://www.reddit.com/r/reactjs/comments/4upe9t/async_redux_workflow_calling_actions_outside_redux/d5sgy5s?context=3  
   A comment explaining why using action creator functions is a good practice
@@ -62,11 +58,6 @@
   https://www.youtube.com/watch?v=xihoZZU0gao  
   An excellent screencast that covers three useful tips for use of redux-thunk: thunk return values, multi-dispatch, and when to use `getState`
   
-- **Softly, Softly, Catch-ee Thunk-y**  
-  https://reergymerej.github.io/blog/redux/2017/12/16/thunk-promises.html  
-  Thoughts on how to handle errors inside of thunks, and why you shouldn't end a thunk by catching thrown errors.
-  
-  
 #### Side Effect Approach Comparisons
   
 - **Redux side effects and you**  
@@ -89,11 +80,7 @@
 - **Keeping Redux in check**  
   https://medium.com/@georgeleeme/keeping-redux-in-check-78534504b215  
   Some tips on use of the Flux Standard Actions convention, and comparison of using redux-thunk vs redux-promise.
-  
-- **"Argument: We should switch from thunks to sagas"**  
-  http://en.arguman.org/we-should-switch-from-redux-thunk-to-redux-saga  
-  An debate flowchart with arguments for and against using thunks and sagas
-  
+
 - **The Evolution of Redux Action Creators**  
   https://medium.com/@northerneyes/the-evolution-of-redux-action-creators-2973018bf2ae  
   A comparison of ways to make action creation testable, looking at redux-thunk, a custom thunk-like middleware, and redux-saga 
@@ -109,11 +96,7 @@
 - **3 Common Approaches to Side-Effects in Redux**  
   https://goshakkk.name/redux-side-effect-approaches/  
   An overview of what "side effects" are, how they relate to Redux, and the most common ways to handle side effects in a Redux app
-  
-- **Redux: Thunk vs Saga**  
-  http://blog.jakegardner.me/redux-thunk-vs-saga/  
-  A couple quick examples showing how to use thunks and sagas for the same task
-  
+
 - **Redux Thunks Dispatching Other Thunks - Discussion and Best Practices**  
   https://medium.com/@talkol/redux-thunks-dispatching-other-thunks-discussion-and-best-practices-dd6c2b695ecf  
   Some excellent thoughts on when it's okay to have a thunk dispatch another thunk, and other possible approaches.
@@ -260,10 +243,6 @@
   https://medium.com/@chanakyabhardwaj/modelling-common-patterns-with-redux-saga-464a380a37ce  
   Examples of saga logic patterns for behaviors like "first-amongst-these", "keep-doing-until", and "step-by-step".
   
-- **Building an event system using Redux and Sagas**  
-  http://blog.servicebot.io/building-our-event-and-user-notification-system-in-express-using-redux-and-sagas/  
-  Some quick examples of using Redux-Saga in a Node Express app to handle processing for things like sending emails.
-  
 - **Redux Saga Retry Patterns**  
   https://medium.com/@bryanfillmer/keep-trying-redux-saga-style-b273882b9ec  
   https://codeburst.io/try-again-more-redux-saga-patterns-bfbc3ffcdc  
@@ -358,15 +337,7 @@
 - **A simplified approach to calling APIs with Redux**  
   http://www.sohamkamani.com/blog/2016/06/05/redux-apis/  
   A well-written example of creating a "data service" middleware that handles API requests, as well as examples of handling some request status state.
-  
-- **Elm Architecture with Redux**  
-  https://smallbusinessforum.co/elm-architecture-with-react-redux-redux-loop-645a67070b1a  
-  A short look at how Elm handles side effects, and how Redux-Loop can help implement a similar approach in Redux
-  
-- **Redux-cycles**  
-  http://nick.balestra.ch/talk/redux-cycles/#/0  
-  A slideshow that describes the basics of Cycle.js, and how the redux-cycles library can be used to handle side effects in Redux
-  
+
 - **How to make your React app fully functional, fully reactive, and able to handle all those crazy side effects**  
   https://medium.freecodecamp.org/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10  
   A lengthy look at Cycle.js and the redux-cycles library, with plenty of diagrams to illustrate how it handles data flow.
