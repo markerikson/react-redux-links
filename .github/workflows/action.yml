@@ -1,8 +1,14 @@
 name: Check URLs for dead links
-on: push
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 11 * * 1" # Runs weekly at 7:00 AM EST on Monday
+  push:
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+        use-quiet-mode: 'yes'
