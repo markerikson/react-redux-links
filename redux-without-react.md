@@ -100,15 +100,8 @@
   https://www.sitepoint.com/managing-state-aurelia-with-redux/  
   Covers setting up a standard Aurelia app, adding Redux, and use of redux-undo with the example.
   
-- **Why Aurelia and Redux is a natural and powerful combination**  
-  https://www.softvision.com/blog/aurelia-redux/  
-  Thoughts on the benefits of Aurelia compared to other frameworks, and examples of how to use Redux in an Aurelia app.
-  
-  
 #### Other
 
-
-  
 - **Explorations in Adapting Redux to C#**  
   https://spin.atomicobject.com/2017/03/13/adapting-redux-c-sharp-xamarin/  
   An informative look at how AtomicObject has a Redux variant in C#

@@ -140,11 +140,7 @@
 - **Testing React Components**  
   https://medium.com/@skidding/testing-react-components-30516bc6a1b3  
   Thoughts on good practices for testing React components, based on writing thousands of tests. Describes complexities in testing real-world components that make use of multiple HOCs or that glue different units together, and how the Cosmos tool can help simplify those tests using mocking.
-  
-- **An introduction to testing React components with Enzyme 3**  
-  https://javascriptplayground.com/blog/2017/12/introduction-to-react-tests-enzyme/  
-  Introduces the Enzyme library for testing components, and shows a short TDD approach for writing a component
-  
+ 
 - **Unit test code that uses CSS Modules**  
   https://medium.com/@a_eife/unit-test-code-that-uses-css-modules-ef5b49efc707  
   Provides several solutions for handling imports of CSS Modules when running unit tests
