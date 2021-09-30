@@ -191,11 +191,7 @@
   https://blog.shakacode.com/a-year-of-development-with-redux-part-i-a5791e124a7d  
   https://blog.shakacode.com/a-year-of-development-with-redux-part-ii-3035ff0b1781  
   Some quick tips for working with Redux, structuring data, and encapsulation of components
-  
-- **Avoiding False Cause**  
-  http://duplo.tech/avoiding-false-cause/  
-  Some high-level general thoughts on cargo-culting, dogma, and best practices, followed by some specific examples of problematic Redux code (unclear reducer state shape, managing "editing" mode data, applying arbitrary value updates)
-  
+
 - **Isn't our code just the BEST**  
   https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9  
   A quirkily-written look at how a dev team rewrote their project using React and Redux, including examples of project structure, component usage, and data normalization
