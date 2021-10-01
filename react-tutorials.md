@@ -37,6 +37,10 @@
   http://www.react.express/  
   An all-in-one beginner's guide to modern React application development.  Gives an opinionated walkthrough through create-react-app, npm, webpack, babel, ES2015, ES2016, JSX, React, Redux, CSS-in-JS, and more.
 
+- **React to the Future**  
+  https://elijahmanor.com/blog/react-to-the-future
+  A well-written HTML slideshow describing what React is, what makes it special, and how to work with it
+
 - **React: Getting Started and Concepts**  
   https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
   Walks through the basics of components, JSX, props/lifecycle, and data flow
@@ -271,6 +275,7 @@
   Demonstrates building a small app that displays info on a Google map
   
 - **React Daily UI**  
+  http://codepen.io/collection/DoLZRm/  
   https://www.fullstackreact.com/react-daily-ui/001-sign-up-form/  
   https://www.fullstackreact.com/react-daily-ui/002-checkout/  
   https://www.fullstackreact.com/react-daily-ui/003-landing-page/  
@@ -322,6 +327,10 @@
 - **Let's Learn: Higher Order Components and Websockets**  
   https://medium.com/let-s-learn/lets-learn-higher-order-components-and-websockets-83a18d36c0d1   
   Examples that show how to create reusable components that manage a websocket connection and subscriptions to specific events.
+
+- **Make Your Own Charts in React Without a Charting Library**  
+  https://kyleshevlin.com/make-your-own-charts-in-react-without-a-charting-library
+  A series that demonstrates building your own chart rendering components.
 
 - **Intro to React Workshop**  
   https://github.com/ericvicenti/intro-to-react  

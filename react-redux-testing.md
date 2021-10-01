@@ -125,10 +125,18 @@
   https://dev.bleacherreport.com/react-and-redux-testing-with-jest-how-some-jokers-learned-to-take-snapshots-c186c7e419e6  
   Discussion of how Jest snapshot tests can be used to replace some manually-written tests for both React components and Redux logic.
 
+- **Snapshot testing React Components with Jest**  
+  https://medium.com/hackernoon/snapshot-testing-react-components-with-jest-744a1e980366
+  Covers the basics of snapshot testing, and how it can be used to test React components to ensure the rendering is consistent.
+
 - **Testing React Components** 
   https://nerdblog.pl/post/166842840969/testing-react-components  
   An extensive look at different ways to test React components using the Enzyme library.  Discusses Enzyme's shallow and full rendering methods, methods to inspect the contents of a component, and different forms of tests like snapshots, rendering tests, and behavior tests.
-  
+
+- **An introduction to testing React components with Enzyme 3**  
+  https://www.jackfranklin.co.uk/blog/introduction-to-react-tests-enzyme/
+  Introduces the Enzyme library for testing components, and shows a short TDD approach for writing a component
+
 - **Creating a React Component using TDD**  
   http://www.alayor.com/2017/Creating-a-React-Component-using-TDD  
   Demonstrates writing a simple React component using the TDD "red-green" testing approach.
@@ -144,6 +152,10 @@
 - **Unit test code that uses CSS Modules**  
   https://medium.com/@a_eife/unit-test-code-that-uses-css-modules-ef5b49efc707  
   Provides several solutions for handling imports of CSS Modules when running unit tests
+
+- **Testing React components using render props**  
+  https://kentcdodds.com/blog/testing-components-using-render-props
+  Kent C Dodds gives several examples and suggestions of approaches for testing components that make use of render props.
 
 - **Lessons learned testing React & Redux apps with Jest and Enzyme**  
   https://medium.com/@Tetheta/lessons-learned-testing-react-redux-apps-with-jest-and-enzyme-eb581d6d167b  
@@ -221,6 +233,10 @@
   https://medium.com/@kilkelly/simplify-your-redux-unit-tests-using-tape-ad391aecf446  
   https://github.com/kilkelly/tape-redux-unit-testing  
   Some quick examples of using the Tape library to test Redux reducers, with an accompanying example repo
+
+- **Unit Testing Redux Container Components, Part 1**  
+  https://www.wsbrunson.com/testing-redux-containers/
+  Some useful tips for setting up tests for Redux-connected components
 
 - **Test Your Redux Container with Enzyme**  
   https://medium.com/@visualskyrim/test-your-redux-container-with-enzyme-a0e10c0574ec  

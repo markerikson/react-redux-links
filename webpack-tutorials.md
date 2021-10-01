@@ -101,6 +101,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   http://jilles.me/webpack-is-not-as-complicated-as-you-think/  
   A simple overview of a basic Webpack config looks like.
 
+- **Creating a React and Webpack Project (screencast)**  
+  https://www.jackfranklin.co.uk/blog/react-webpack-workflow-screencast/
+  A video walkthrough of the basic setup for a Webpack-based project.
+
 - **Webpack Deep Dive**  
   http://slides.com/kentcdodds/webpack-deep-dive#/  
   https://github.com/kentcdodds/es6-todomvc  
@@ -126,6 +130,10 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783  
   An introduction to Webpack's concepts and configuration, and how to use the latest version to handle various build goals.
 
+- **Migrating to Webpack 2**  
+  https://www.jackfranklin.co.uk/blog/moving-to-webpack-2/
+  Tips for migration an existing Webpack config to work properly with Webpack 2
+
 - **Webpack 101**  
   https://github.com/brunoscopelliti/webpack-101  
   A tutorial that builds up a Webpack config step-by-step, explaining why and how each change is made.
@@ -138,10 +146,13 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/  
   An extended tutorial that covers many Webpack concepts, including basic setup, loaders, plugin, code splitting, and the Webpack Dev Server
   
+- **From zero to Webpack, one error at a time**  
+  https://www.jumoel.com/posts/zero-to-webpack
+  A tutorial that builds a working Webpack config step-by-step, with explanations of how and why each piece is added.
+
 - **A Detailed Introduction to Webpack**  
   https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/  
   A solid introduction to Webpack's basic concepts and usage, including CLI usage, config file setup, use of loaders and plugins, and chunking for lazy-loading
-
 
 - **Webpack - From Apprentice to Journeyman**  
   http://presentations.survivejs.com/webpack-from-apprentice-to-journeyman/#/  

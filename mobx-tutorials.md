@@ -49,6 +49,9 @@
   
 
 #### Other
+- **One awkward thing about MobX: Complex Models**  
+  https://swizec.com/blog/one-awkward-thing-about-mobx-complex-models/
+  Discussion of potential issues when handling complex models, and some possible workarounds.
 
 - **MobX - Like React, but for Data**  
   http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html  
@@ -66,6 +69,10 @@
   https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc  
   Some helpful tips for using MobX, including using the right reactions, using reactions with names, using strict mode, and more.
   
+- **The Curious Case of Mobx State Tree**  
+  https://medium.com/@mweststrate/the-curious-case-of-mobx-state-tree-7b4e22d461f  
+  Michel Weststrate, author of MobX, introduces the MobX-State-Tree library, which builds on MobX to add additional useful capabilities.
+
 - **MobX (with Decorators) in create-react-app**  
   https://www.robinwieruch.de/create-react-app-mobx-decorators/  
   Covers how to use MobX in a CRA project, with and without decorators.
@@ -94,9 +101,17 @@
   https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mobx-and-conclusion-citpp2tbu003za853ua1tx228  
   Implementation of the same app using both Redux and MobX, and a final comparison of the approaches
 
+- **"How does MobX compare with Redux, and which is better for React app development?"**  
+  https://hashnode.com/post/how-does-mobx-compare-with-redux-and-which-one-is-better-for-react-app-development-cisrch8eh0030g5532qeds1ja/answer/citq8rptk010cus530wdzdg69  
+  An excellent answer comparing the two libraries and their philosophies
+
 - **Comparing MobX and Redux - Video**  
   https://www.youtube.com/watch?v=83v8cdvGfeA  
   A great video to understand the differences between MobX and Redux.
+
+- **Redux vs MobX**  
+  https://medium.com/@himrc/redux-vs-mobx-a42c8950f3  
+  Some quick pros and cons of each, links to other discussions, and thoughts on when to use them.
 
 - **Redux or MobX: What I learned after refactoring a medium-sized React app**  
   https://dannyherran.com/2017/03/react-redux-mobx-takeaways/  

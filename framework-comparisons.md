@@ -69,6 +69,10 @@
   https://hashnode.com/post/angularjs-migration-to-reactredux-cj7t0m67x012ehowugcvjn1xj  
   Examples of how to approach migrating an Angular 1 app by first switching some components to use React, then adding state management to use Redux.
 
+- **Migrating complex Javascript applications**  
+  https://www.jackfranklin.co.uk/blog/migrating-complex-javascript-angular-react/
+  Jack Franklin describes the lessons learned when his team migrated from Angular to React, including why they migrated, how they approached the architecture changes, how they prioritized what to change, and more.  Includes some examples of the Angular->React change, but also good advice in general.
+
 - **A Chip off the Monolith**  
   https://medium.com/onfido-tech/a-chip-off-the-monolith-ec71e06a3015  
   The Onfido team describes how they extracted a portion of their monolithic Rails+Ember app into a separate React+Redux app.

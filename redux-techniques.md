@@ -70,6 +70,7 @@
 - **Redux runtime reconfiguration techniques**  
   https://www.youtube.com/watch?v=ZvbZTXs3Y3E  
   http://redux-reconfig.surge.sh/  
+  http://codepen.io/vnovick/pen/pEgKww/?editors=0010#0  
   Discussion and demonstration of some ways to load reducers and components at runtime.
   
 - **Secure file uploads with redux-plupload**  
@@ -244,6 +245,10 @@
 - **Redux Websocket Integration**  
   https://medium.com/@ianovenden/redux-websocket-integration-c1a0d22d3189  
   A summary of one possible approach for integrating Websocket functionality into a React/Redux application architecture.
+
+- **What's the best way to store tokens in Redux?**  
+  https://michaelwashburnjr.com/blog/best-way-to-store-tokens-redux
+  Discusses pros and cons of storing auth tokens in app state vs localStorage, and what code should be responsible for handling the tokens.*
 
 - **Remote Reducers and Predictive Reduction**  
   https://medium.com/@seveibar/remote-reducers-and-predictive-reduction-572ab5054211  

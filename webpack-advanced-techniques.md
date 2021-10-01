@@ -102,6 +102,10 @@
   https://redfin.engineering/tech-talk-recap-how-to-improve-webpack-performance-in-large-projects-5435bb18dd18  
   Slides, audio, and summary of a talk on various ways to improve Webpack build performance, including disabling sourcemaps for dev builds, parallelizing work, and using DllPlugin.
   
+- **How we improved Webpack build performance by 95%**  
+  https://blog.box.com/how-we-improved-webpack-build-performance-95
+  Tips for speeding up builds by using Babel caching, not exporting arrays of configs, and doing work in parallel.
+
 - **Keep Webpack Fast: A Field Guide for Better Build Performance**  
   https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1  
   An excellent article from Slack's frontend team, listing ways to improve Webpack build speed.  Gives overviews of profiling, parallelization tools, reducing workloads, and caching, with plenty of mentions for specific tools and techniques.
@@ -275,6 +279,10 @@
   https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07  
   A great in-depth walkthrough of how HMR works
 
+- **Webpack's HMR and React Hot-Loader - The Missing Manual**  
+  https://rajaraodv.medium.com/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96
+  Demonstrates three ways to enable HMR, and usage with three different React application scenarios
+
 - **Hot Reloading in React**  
   https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf  
   Dan Abramov walks through the history of his React Hot Loader and React Transform tools, describes their implementation, flaws, and weaknesses, and looks at a potential solution (later implemented in React Hot Loader 3.0).
@@ -331,6 +339,7 @@
   A tutorial that shows how to use Webpack and HMR to hot-reload both front-end and back-end code for faster development.
   
 - **How to Hot-Load React Components in 7 Days**  
+  https://medium.com/netscape/how-to-hot-load-react-component-in-7-days-part-1-webpack-d8b77eea61eb
   https://codeburst.io/how-to-hot-load-react-component-in-7-days-part-2-react-28ce2b61d0c7  
   A 2-part article that discusses how to set up plain HMR and add React-Hot-Loader, as well as many of the complexities of using RHL.
   
@@ -360,6 +369,14 @@
 - **Long-term caching of static assets with Webpack**  
   https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95  
   Gathers documentation on proper use of asset caching into one article to act as a complete guide.
+
+- **Using the HTML Webpack Plugin for generating HTML files**  
+  https://www.jackfranklin.co.uk/blog/webpack-html-plugin/
+  Basic instructions for setting up the HTML Webpack plugin
+
+- **Setting up CSS Modules with React and Webpack**  
+  https://www.jackfranklin.co.uk/blog/css-modules-webpack-react/
+  Covers setting up and configuring Webpack to use CSS Modules for styling
 
 - **Webpack Tricks**  
   https://github.com/rstacruz/webpack-tricks  

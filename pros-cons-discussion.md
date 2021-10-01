@@ -7,6 +7,10 @@
 
 #### High-Level Comparisons and Business Cases
 
+- **Using React is a Business Decision, Not a Technology Choice**  
+  https://formidable.com/blog/2015/12/04/using-react-is-a-business-decision-not-a-technology-choice/  
+  A higher-level, more business-case look at the pros of React
+
 - **React: A Competitive Edge and a Business Decision**  
   https://reactjs-tampabay-b63e2.firebaseapp.com/#/  
   A slideshow laying out a number of arguments for using React
@@ -231,6 +235,8 @@ similar structures in ClojureScript.
   
 - **"Why is everying in Javascript changing so fast?**  
   https://news.ycombinator.com/item?id=11833301  
+  https://news.ycombinator.com/item?id=12760268  
+  https://news.ycombinator.com/item?id=12758514  
   Yet another rant thread about Javascript churn, but with a couple very insightful comments about the unique complexities and challenges involved in writing applications for the web.
   
 - **"Youtube is being rebuilt on Web Components"**  

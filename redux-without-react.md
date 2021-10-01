@@ -40,6 +40,10 @@
   https://medium.com/@akaztp/case-study-pt-2-implementing-redux-on-angular-9e79cd4faa37  
   A series of posts describing a modular / layered architecture built around Redux, including a data layer for managing fetching, a business layer using RxJS Epics, and folder structure for Angular components.
 
+- **NgRx Antipatterns**  
+  https://brianflove.com/2017-11-01/ngrx-anti-patterns/
+  Examples of some ways to improve poor NgRx usage patterns.
+
 - **Getting started with Angular and Redux**  
   https://damienbod.com/2017/09/07/getting-started-with-angular-and-redux/  
   A tutorial that covers setting up an Angular app that uses NgRx for state management.  Recently updated to work with Angular 5.
@@ -100,6 +104,10 @@
   https://www.sitepoint.com/managing-state-aurelia-with-redux/  
   Covers setting up a standard Aurelia app, adding Redux, and use of redux-undo with the example.
   
+- **Why Aurelia and Redux is a natural and powerful combination**  
+  https://www.cognizantsoftvision.com/blog/aurelia-redux/
+  Thoughts on the benefits of Aurelia compared to other frameworks, and examples of how to use Redux in an Aurelia app.
+
 #### Other
 
 - **Explorations in Adapting Redux to C#**  

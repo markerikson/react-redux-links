@@ -63,6 +63,10 @@
   https://www.youtube.com/watch?v=_70Yp8KPXH8  
   Pete Hunt talks about various approaches to defining styles for components in plain CSS and in React
 
+- **Patterns for Style Composition in React**  
+  https://jxnblk.com/blog/patterns-for-style-composition-in-react/
+  Some great suggestions for defining reusable React components that can have variations in styling
+
 - **Functional CSS From A Pure UI Perspective**  
   https://medium.com/@sharifsbeat/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc  
   Thoughts on various ways to compose classes and styles together.
@@ -200,6 +204,10 @@
 - **The performance of styled React components**  
   http://blog.primehammer.com/2017/09/27/the-performance-of-styled-react-components/  
   Benchmarks comparing size, build speed, and other aspects of different CSS-in-JS libraries.
+
+- **Styled-Components Nitty-Gritty**  
+  https://www.elpassion.com/blog/styled-components-nitty-gritty
+  An introduction to how to use the styled-components library, the problems that it solves, and how it works internally
 
 - **A Field Guide to CSS-in-JS**  
   https://medium.com/@wonderboymusic/a-field-guide-to-css-in-js-f7cbd9ed79a7  

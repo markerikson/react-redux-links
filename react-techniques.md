@@ -94,7 +94,11 @@
 - **React events in depth**  
   https://www.youtube.com/watch?v=dRo_egw7tBc  
   A video chat between Kent C Dodds, Dan Abramov, and Ben Alpert, discussing how events work in React
-  
+
+- **Using React Fragments for the first time**  
+  https://www.jackfranklin.co.uk/blog/react-fragments/
+  Describes the Fragment "component" and syntax introduced in React 16.2, the problems Fragments solve, and how to use them.
+
   
 #### Debugging and Error Handling
 

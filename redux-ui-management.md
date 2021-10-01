@@ -11,6 +11,10 @@
   https://www.reddit.com/r/reactjs/comments/4wjmme/implement_a_confirm_modal_using_react_redux/d68ajcw?context=3  
   Describes an extension to Dan's technique that allows generic "picker" dialogs such as a ColorPicker to be reused by different parts of an application while keeping the Redux state serializable. (Blog post is based on my original comment on Reddit.)
 
+- **Implement a confirm modal using React & Redux**  
+  https://blog.jslancer.com/blog/2016/08/07/implement-a-confirm-modal-using-react-redux/
+  Demonstrates wrapping up an existing modal library to be controlled by Redux actions
+
 - **Implementing Search/Filter on a list in React and Redux**  
   https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad  
   Some quick examples of using Redux to supply a list of items as a prop, and using React local component state to store a filtered version based on inputs.

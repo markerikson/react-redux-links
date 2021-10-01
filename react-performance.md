@@ -89,6 +89,10 @@ My [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   https://youtu.be/t4tuhg7b50I  
   An excellent talk on performance topics from Brian Vaughn, a React core team member and author of the React-Virtualized library.  Covers sources of slowness, ways to avoid re-renders, and a deep look at "windowing/virtualization" for high-performance lists.
 
+- **React Component Profiling**  
+  https://www.yld.io/blog/react-component-profiling/
+  Tips on using the new browser devtools integration capability in React 15.4 to track component performance.
+
 - **React Snippets: Debug Component performance with ES7 Annotations**  
   https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html  
   Demonstrates using a custom decorator to wrap components and log information on when and why components re-rendered

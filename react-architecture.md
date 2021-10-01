@@ -273,9 +273,10 @@
 
 - **State Architecture Patterns in React**  
   https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-a-review-df02c1e193c6  
-  https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-2-the-top-heavy-architecture-flux-and-performance-a388b928ce89  
+  https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-2-the-top-heavy-architecture-flux-and-performance-a388b928ce89 
   https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-part-3-articulation-points-zine-and-an-overall-strategy-cf076f906391
-  
+  A multi-part series that discusses several variations on component and state architecture in detail, with thoughts on the pros and cons of each.
+
 - **Three Example React Stacks**  
   https://www.javascriptstuff.com/three-example-react-stacks  
   Descriptions of three different application/deployment scenarios, and example React library+tool stacks that would be appropriate for each.
