@@ -52,11 +52,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **4 Key Concepts of Webpack**  
   https://www.netlify.com/blog/2017/01/03/4-key-concepts-of-webpack/  
   A recorded presentation by Webpack core team member Sean Larkin, explaining Webpack's core concepts and future goals.
-  
-- **Module Bundling and Webpack in Simple Terms**  
-  http://arianv.com/post/Module-Bundling-and-Webpack-in-Simple-Terms/  
-  An informative high level overview that explains what Webpack does and how it works.
-  
+
 - **Webpack: It's Not Magic**  
   https://naomiajacobs.github.io/WebpackTalk/    
   An excellent HTML slideshow that explains how Webpack allows you to use code that is nice to write, and transforms it into code that the browser fully understands.  Also looks at how Webpack works conceptually.
@@ -79,10 +75,6 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack Your Bags**  
   http://blog.madewithlove.be/post/webpack-your-bags/  
   In-depth article describing what Webpack is, why you would want to use it, and how to set it up
-
-- **Webpack + React is Awesome**  
-  http://www.christianalfoni.com/articles/2014_12_13_Webpack-and-react-is-awesome  
-  Another tutorial explaining how to use and set up Webpack
 
 - **Beginner Webpack Tutorial**  
   https://github.com/AriaFallah/WebpackTutorial/tree/master/part1  
@@ -108,11 +100,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack is not as complicated as you think**  
   http://jilles.me/webpack-is-not-as-complicated-as-you-think/  
   A simple overview of a basic Webpack config looks like.
-  
+
 - **Creating a React and Webpack Project (screencast)**  
-  http://javascriptplayground.com/blog/2016/06/react-webpack-workflow-screencast/  
+  https://www.jackfranklin.co.uk/blog/react-webpack-workflow-screencast/
   A video walkthrough of the basic setup for a Webpack-based project.
-  
+
 - **Webpack Deep Dive**  
   http://slides.com/kentcdodds/webpack-deep-dive#/  
   https://github.com/kentcdodds/es6-todomvc  
@@ -121,11 +113,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack: When To Use and Why**  
   http://blog.andrewray.me/webpack-when-to-use-and-why/  
   TL;DR It took me a long time to understand Webpack and how it fits in the build process. This is what I wish someone had told me.
-  
-- **Pro React Appendix: Webpack for React**  
-  http://www.pro-react.com/materials/appendixA/  
-  A free online chapter of the Pro React book, covering Webpack concepts and usage.
-  
+
 - **A Comprehensive Introduction to Webpack, the Module Bundler**  
   http://www.theodo.fr/blog/2016/07/a-comprehensive-introduction-to-webpack-the-module-bundler/  
   A solid article covering basic Webpack configuration and setup.
@@ -141,11 +129,11 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Getting Started with Webpack 2**  
   https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783  
   An introduction to Webpack's concepts and configuration, and how to use the latest version to handle various build goals.
-  
+
 - **Migrating to Webpack 2**  
-  http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/  
+  https://www.jackfranklin.co.uk/blog/moving-to-webpack-2/
   Tips for migration an existing Webpack config to work properly with Webpack 2
-  
+
 - **Webpack 101**  
   https://github.com/brunoscopelliti/webpack-101  
   A tutorial that builds up a Webpack config step-by-step, explaining why and how each change is made.
@@ -159,13 +147,12 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   An extended tutorial that covers many Webpack concepts, including basic setup, loaders, plugin, code splitting, and the Webpack Dev Server
   
 - **From zero to Webpack, one error at a time**  
-  http://www.jumoel.com/2017/zero-to-webpack.html  
+  https://www.jumoel.com/posts/zero-to-webpack
   A tutorial that builds a working Webpack config step-by-step, with explanations of how and why each piece is added.
-  
+
 - **A Detailed Introduction to Webpack**  
   https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/  
   A solid introduction to Webpack's basic concepts and usage, including CLI usage, config file setup, use of loaders and plugins, and chunking for lazy-loading
-
 
 - **Webpack - From Apprentice to Journeyman**  
   http://presentations.survivejs.com/webpack-from-apprentice-to-journeyman/#/  
@@ -236,11 +223,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Webpack Loader Variations**  
   https://javascriptstuff.com/webpack-loader-variations/  
   Examples of the different ways to define a loader in a Webpack config
-  
-- **Remix's Software Stack: Webpack**  
-  https://blog.getremix.com/remixs-software-stack-webpack-34990de9d803  
-  An explanation of the configuration settings and options inside one company's Webpack config
-  
+
 - **Webpack devtool source map options**  
   http://cheng.logdown.com/posts/2016/03/25/679045  
   A list of the available values for the `devtool` option in a Webpack config
@@ -256,15 +239,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **Conditional Build with Webpack**  
   https://medium.com/tech-angels-publications/conditional-build-with-webpack-72c36b51abbc  
   Suggestions for creating shared configs that can be used across multiple apps, with certain values replaced at build time.
-  
-- **The Fine Art of the Webpack 2 Config**  
-  https://blog.flennik.com/the-fine-art-of-the-webpack-2-config-dc4d19d7f172  
-  Explains some of the changes in Webpack 2 configuration, and discusses some approaches for handling dev/prod configuration environments.
-  
-- **Webpack 2 Loader Variations**  
-  http://andrewhfarmer.com/webpack-2-loader-variations/  
-  A clear and informative overview of the various equivalent ways to write the loader-related parts of a Webpack 2 config file.
-  
+
 - **Stages of Learning Webpack, Part 2 - The Config**  
   https://dev.to/nitishdayal/stages-of-learning-webpack-pt-2---the-config  
   Explains what Webpack is by explaining some of the problems it attempts to solve, and looks at the basics of a Webpack configuration.

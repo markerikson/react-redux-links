@@ -66,18 +66,10 @@
 - **Introduction to React Router**  
   https://dev.to/aurelkurtula/introduction-to-react-router-ha  
   A quick look at the basics of React-Router v4.
-  
-- **React Router DOM, plain and simple**  
-  http://coding4real.com/2017/12/19/using-react-router-dom/  
-  An introduction that shows how to add React-Router to a basic React app, and describes the basic API.
-  
+    
 - **React Router v4: The Complete Guide**  
   https://www.sitepoint.com/react-router-v4-complete-guide/  
   A detailed tutorial that covers the React Router v4 API and concepts, with many examples
-  
-- **React Router v4: Philosophy and Introduction**  
-  https://tylermcginnis.com/react-router-philosophy-introduction/  
-  A deep look at the history of React Router, and how v4 works as "just components".
   
 - **Server Rendering, Code Splitting, and Lazy Loading with React Router v4**  
   https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70  
@@ -152,10 +144,6 @@
 - **JWT Authentication with React + Redux**  
   http://www.thegreatcodeadventure.com/jwt-authentication-with-react-redux/  
   Demonstrates handling sign-in flow, including a dynamic login/logout link, and implementing routes that can only be seen by logged-in users.
-  
-- **Role-based authorization using React-Router**  
-  http://frontendinsights.com/role-based-authorization-using-react-router/  
-  A look at some ways to control component routes based on user roles
   
 - **Role based authorization in React**  
   https://hackernoon.com/role-based-authorization-in-react-c70bb7641db4  

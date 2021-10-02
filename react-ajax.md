@@ -29,11 +29,7 @@
 - **AJAX/HTTP Library Comparison**  
   https://www.javascriptstuff.com/ajax-libraries  
   A useful overview of the most popular AJAX libraries, including platform support and feature comparisons.
-  
-- **Loading data from APIs in React**  
-  http://javascriptplayground.com/blog/2017/01/http-requests-reactjs/  
-  A 10-minute screencast that demonstrates how to create a component that fetches data from an API and renders it in a page.  Covers how to use the React lifecycle to make requests, using the `fetch` API, and dealing with response successes and failures.
-  
+
 - **3 Libraries and 3 Ways to handle AJAX in React Apps**  
   https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps/  
   Demonstrates three approaches to structuring AJAX calls (root component, containers, and via Redux middleware), and lists three of the most popular AJAX libraries.
@@ -44,11 +40,11 @@
   
 
 #### Request Implementation Examples
-  
+
 - **Implementing React Redux with GraphQL**  
-  https://marufsarker.github.io/blog/2016/05/09/react-redux-with-graphql/  
+  https://marufsarker.github.io/blog/posts/react-redux-with-graphql/
   Walks through the implementation of a server/client Todo app that uses GraphQL mutations for the async actions.
-  
+
 - **Rendering Backend Requests with React**  
   https://blog.boldlisting.com/rendering-backend-requests-with-react-7e493103c2b6  
   Describes a pattern for dealing with components that depend on loading data from a backend
@@ -58,9 +54,9 @@
   Builds a React app that calls a remote API and authenticates users.  Uses a specific auth provider and basic Flux implementation, but the concepts are widely applicable.
   
 - **Building Realtime Collaborative Offline-First Apps with React, Redux, PouchDB, and Websockets**  
-  http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/  
+  https://www.yld.io/blog/building-realtime-collaborative-offline-first-apps/
   A blog post and sample project demonstrating various layers of client-server syncing, eventually driving a Redux store and React UI.
-  
+
 - **Handling AJAX In Your React Application with Agility**  
   https://hackernoon.com/handling-ajax-in-your-react-application-with-agility-413f1f21fc70  
   Describes three approaches to fetching data in a React app: within a React component, using the Relay GraphQL library, and using Redux middleware
@@ -85,13 +81,9 @@
   Articles by different authors that demonstrate how to handle the common "loading/no data/data" issue with various static typing approaches and FP principles.
   
 - **Better data fetching with RemoteDataJS**  
-  http://javascriptplayground.com/blog/2016/06/remote-data-js/  
+  https://www.jackfranklin.co.uk/blog/remote-data-js/
   Examples of how to use the author's RemoteDataJS library to manage request state.  Helpful to see the list of states it tracks, even if you don't use the library.
-  
-- **Dealing with APIs in React with ReactRemoteData**  
-  http://javascriptplayground.com/blog/2017/03/remote-data-react-components/  
-  The author of the RemoteDataJS libraries shows a small React wrapper he created and how to use it
-  
+
 - **A Better Way To Handle Loading State In Redux**  
   http://nikolay.rocks/2017-06-18-better-redux-loading  
   Discusses several ways to store "loading/success/failure" state, and tradeoffs of the approaches.  Talks about Redux, but applies to React as well.

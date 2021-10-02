@@ -84,11 +84,7 @@
 - **Forms in React and Redux**  
   https://x-team.com/blog/tutorial-forms-in-react-and-redux/  
   Demonstrates building a simple set of wrapper components to manage forms using React and Redux
-  
-- **Not-so-simple Forms with React**  
-  http://www.randseay.com/articles/forms-with-react  
-  Explains how to set up more advanced form scenarios such as optional or repeatable sections.
-  
+
 - **Using React's state to manage data entry**  
   https://medium.com/@adamrackis/using-reacts-state-to-manage-data-entry-ed92e4fd1a42  
   Describes how to manage data for forms using React component state and some wrapper components.
@@ -152,11 +148,11 @@
 - **Elegant Form Validation in React**  
   https://spin.atomicobject.com/2016/10/05/form-validation-react/  
   Examples of adding validation to a form
-  
+
 - **Two-Way Data Binding and Form Validation in React**  
   https://medium.com/@thejenniekim/two-way-data-binding-and-form-validation-in-react-9d0b15123176  
   Another demonstration of building a form with some logic and validation.
-  
+
 - **Form Validation as a Higher Order Component**  
   https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-1-83ac8fd6c1f0  
   https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-2-1edb7881870d  
@@ -185,10 +181,6 @@
 
 #### Other
 
-- **Creating new fields and widgets for Mozilla's react-jsonschema-form**  
-  https://jeffersonheard.github.io/2016/11/creating-new-fields-and-widgets-for-mozillas-react-jsonschema-form/  
-  Examples of working with the react-jsonschema-form library, including defining form schemas, gotchas, and customization with specific widgets and types
-  
 - **List or Form, why not both? Making a list with a built in editor in React**  
   http://web.archive.org/web/20161214145219/http://thereactionary.net/list-or-form-why-not-both-making-a-list-with-a-built-in-editor-in-react/  
   Builds an example of a list with the ability to do inline editing of items.

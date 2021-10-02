@@ -94,8 +94,6 @@ All of the links in this collection are worth reading, but there's obviously a L
   - [Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)  
     [How to Learn React](https://daveceddia.com/how-to-learn-react/)  
     Another high-level suggested timeline for how to approach learning React and related technologies.
-  - [React Roadmap](https://github.com/ericdouglas/react-roadmap)  
-    A curated list of free resources to master React Development, in suggested learning order
   - [Tips to learn React + Redux](https://www.robinwieruch.de/tips-to-learn-react-redux/)  
     An extensive and excellent list of suggestions to follow when learning and using React and Redux.  Tips include when to use different component patterns, when to bring in a state management library, Redux state structuring, unit testing, and much more.
 
@@ -172,8 +170,6 @@ If you are new to React, try reading these articles in order.
     An excellent list of common patterns for structuring React components, with examples
   - [The React Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)  
     A useful description of the order and purpose of React’s component lifecycle methods.
-  - [8 no-Flux strategies for React component communication](http://andrewhfarmer.com/component-communication/)  
-    Very helpful list of ways to have React components communicate back and forth
   - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)  
     Dan Abramov's foundational article on classifying components based on intent and behavior. A must-read for anyone using React.
   - [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)  
@@ -197,16 +193,12 @@ If you are new to React, try reading these articles in order.
     Dan Abramov from the React team gives his thoughts on how to handle method binding.
     
 ### AJAX requests and Data Fetching
-  - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)  
-    Covers four ways to approach managing queries and data fetching.
   - [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)  
     An overview of where AJAX requests fit into React usage.
     
 ### Immutable Data
   - [Pros and Cons of Using Immutability With React](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)  
     Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of managing data immutably. While the title refers to React, most of the writing just deals with plain Javascript concepts.
-  - [Javascript and Immutability](http://t4d.io/javascript-and-immutability/)  
-    A description of how to properly immutably update objects and arrays using functions like assign and slice
   - [Redux Docs: Structuring Reducers - Immutable Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns)  
     Useful examples for doing proper immutable updates, including common mistakes, proper updates of nested data, updates for arrays, and more.  (Helpful for Redux, but not Redux-specific.)
     
@@ -236,14 +228,12 @@ If you are new to React, try reading these articles in order.
 ### Getting Started
   - [Redux Docs](https://redux.js.org/)  
     The official Redux documentation.  Contains an excellent tutorial that walks you through “here’s what you want to do, and how we came up with this”, as well as recipes for more advanced topics.  Be sure to read through the FAQ for answers to common questions and links to further information.
-  - [Getting Started with Redux - Video Series](https://egghead.io/series/getting-started-with-redux)  
+  - [Getting Started with Redux - Video Series](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)  
     [Getting Started with Redux - Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes)  
     Dan Abramov, the creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos. The linked Github repo contains notes and transcriptions of the videos.
-  - [Building React Applications with Idiomatic Redux - Video Series](https://egghead.io/series/building-react-applications-with-idiomatic-redux)  
+  - [Building React Applications with Idiomatic Redux - Video Series](https://app.egghead.io/series/building-react-applications-with-idiomatic-redux)  
     [Building React Applications with Idiomatic Redux - Course Notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes)  
     Dan Abramov's second video tutorial series, continuing directly after the first. Includes lessons on store initial state, using Redux with React Router, using "selector" functions, normalizing state, use of Redux middleware, async action creators, and more. The linked Github repo contains notes and transcriptions of the videos.
-  - [A Cartoon Guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)  
-    A nifty introduction to Redux’s concepts using cartoon explanations
   - [Redux: From Twitter Hype to Production](http://slides.com/jenyaterpil/redux-from-twitter-hype-to-production#/)  
     An extremely well-produced slideshow that visually steps through core Redux concepts, usage with React, project organization, and side effects with thunks and sagas. Has some absolutely fantastic animated diagrams demonstrating how data flows through a React+Redux architecture.
   - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)  
@@ -265,8 +255,6 @@ If you are new to React, try reading these articles in order.
     Understanding middlewares through a series of small experiments
     
 ### Debugging
-  - [Hot reloading and time travel debugging: what are they?](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35)  
-    A short but informative article describing these concepts and why they're useful, with cartoon illustrations
   - [Time Travel in React Redux apps using the Redux DevTools](https://onsen.io/blog/react-redux-devtools-with-time-travel/)  
     Examples of configuring a Redux store to use the DevTools enhancers, and using both the DevTools components and the browser extension for debugging.
     
@@ -313,10 +301,5 @@ If you are new to React, try reading these articles in order.
     Formidable Labs describes their preferred approaches for configuring Webpack, including optimization approaches.
     
 ### Hot Module Reloading
-  - [HMR Tutorial: Why Use HMR?](http://andrewhfarmer.com/why-use-hmr/)  
-    [HMR Tutorial: Understanding HMR](http://andrewhfarmer.com/understanding-hmr/)  
-    [HMR Tutorial: 3 Ways to use HMR with Webpack](http://andrewhfarmer.com/3-ways-webpack-hmr/)  
-    [HMR Tutorial: HMR Ideas and Setup](http://andrewhfarmer.com/webpack-hmr-tutorial/)  
-    A very readable and informative series of articles that explains what HMR is, what benefits it gives, and how to use it.
   - [Webpack Hot Reloading and React](https://ctheu.com/2015/12/29/webpack-hot-reloading-and-react-how/)  
     An explanation of how Hot Reloading works, and how the various pieces fit together.

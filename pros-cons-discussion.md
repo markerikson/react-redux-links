@@ -8,16 +8,12 @@
 #### High-Level Comparisons and Business Cases
 
 - **Using React is a Business Decision, Not a Technology Choice**  
-  https://blog.formidable.com/using-react-is-a-business-decision-not-a-technology-choice-63c4641c5f7#.jsqybujyx  
+  https://formidable.com/blog/2015/12/04/using-react-is-a-business-decision-not-a-technology-choice/  
   A higher-level, more business-case look at the pros of React
-  
+
 - **React: A Competitive Edge and a Business Decision**  
   https://reactjs-tampabay-b63e2.firebaseapp.com/#/  
   A slideshow laying out a number of arguments for using React
-  
-- **React.js: The Good and the Bad**  
-  http://techblog.trunkclub.com/javascript/2015/09/14/reactjs-the-good-and-the-bad.html  
-  Some very good pros and cons based on experiences
   
 - **One Year of React.js at Arkency**  
   http://blog.arkency.com/2015/05/one-year-of-react-dot-js-in-arkency/  
@@ -54,10 +50,6 @@
 - **Why We Chose React To Help Serve Millions of Educators**  
   http://engineering.teacherspayteachers.com/2017/08/02/why-we-chose-react-to-help-serve-millions-of-educators.html  
   The Teachers Pay Teachers team describes why they chose React to rebuild their UI, including the small API size, size of the community, battle-tested capabilities, and more.
-  
-- **Why Redux is the Future of Angular 2 and React**  
-  https://rangle.io/resources/why-redux-future-of-angular-react/  
-  A webinar video from Rangle.io, discussing the benefits of functional components and Redux for state management, and how Redux can be used with both React and Angular.
   
 - **Justifying React to the Business**  
   https://daveceddia.com/react-business-value/  
@@ -105,11 +97,7 @@
 - **Use Redux before it's too late**  
   https://medium.com/@ian.mundy/use-redux-before-its-too-late-a73d837a06aa  
   A response to the "you may not need Redux" discussions, suggesting that it's worth using Redux because it changes how you think about your data.
-  
-- **The Post-MVC Age**  
-  https://news.realm.io/news/the-post-mvc-age/  
-  A conference talk (video and transcription) that discusses how building apps with components works, how to communicate between them, and how Flux/Redux and Reactive Programming differ from traditional MVC, 
-  
+
 - **Redux is the Pivotal Frontend Innovation**  
   https://medium.com/@maxlynch/redux-is-the-pivotal-frontend-innovation-a406736552cb  
   An opinionated article that says state management is even more important than components.
@@ -128,7 +116,6 @@
   
 - **What's So Great About Redux?**  
   https://medium.freecodecamp.org/whats-so-great-about-redux-ac16f1cc0f8b  
-  https://storify.com/acemarke/redux-pros-cons-and-limitations  
   https://twitter.com/modernserf/status/886426115874717697  
   Deep and fascinating analysis of how Redux compares to OOP and message-passing, how typical Redux usage can devolve towards Java-like "setter" functions with more boilerplate, and something of a plea for a higher-level "blessed" abstraction on top of Redux to make it easier to work with and learn for newbies.  Very worth reading.  The author originally wrote a tweetstorm, which I captured in the Storify link, and wrote the blog post to expand on those thoughts.  Finally, he followed up with a few more thoughts on abstract vs concrete examples in another shorter tweet thread.
   
@@ -141,10 +128,6 @@
   https://news.ycombinator.com/item?id=15157527  
   https://news.ycombinator.com/item?id=15158334  
   Comparisons between common React/Redux patterns, and how ClojureScript developers using the Reframe toolkit might solve the problems instead.  Some decent discussion in the HN comments, including one comment that directly responds to the points in the original article, and discusses how React+Redux give you the power to solve the specific problems you're dealing with.
-  
-- **Why is React More Popular than Angular?**  
-  https://javascriptreport.com/why-is-react-more-popular-than-angular/  
-  A look back at the announcements of React and Angular 2, thoughts on the respective paradigms, and how their popularity might change in the future.
   
 - **Me on React: an old dog with new tricks**  
   https://remysharp.com/2017/08/14/me-on-react-an-old-dog  
@@ -319,10 +302,6 @@ similar structures in ClojureScript.
 
 
 ##### Prior Patents Discussion
-
-- **Facebook Open Source License FAQ**  
-  https://code.facebook.com/pages/850928938376556  
-  Official answers to questions about the meanings of license phrasing
 
 - **Dan Abramov Twitter threads addressing patent concerns**  
   https://twitter.com/dan_abramov/status/754992075087745024  

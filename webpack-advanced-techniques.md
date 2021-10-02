@@ -57,10 +57,6 @@
 - **A React + Webpack Optimization Case**  
   https://medium.com/@kudochien/a-react-webpack-optimization-case-27da392fb3ec  
   Several useful examples of how to profile and optimize a Webpack-based project, including checking bundle contents, specific imports from libraries, ignoring Moment locales, and more.
-  
-- **Optimizing Wepback build times and improving caching with DLL bundles**  
-  https://robertknight.github.io/posts/webpack-dll-plugins/  
-  Explains the benefits of using DllPlugin for generating library bundles, shows how to configure it, and compares with other chunking methods.
 
 - **Tree-shaking ES6 Modules in Webpack 2**  
   https://medium.freecodecamp.com/tree-shaking-es6-modules-in-webpack-2-1add6672f31b  
@@ -107,9 +103,9 @@
   Slides, audio, and summary of a talk on various ways to improve Webpack build performance, including disabling sourcemaps for dev builds, parallelizing work, and using DllPlugin.
   
 - **How we improved Webpack build performance by 95%**  
-  https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/  
+  https://blog.box.com/how-we-improved-webpack-build-performance-95
   Tips for speeding up builds by using Babel caching, not exporting arrays of configs, and doing work in parallel.
-  
+
 - **Keep Webpack Fast: A Field Guide for Better Build Performance**  
   https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1  
   An excellent article from Slack's frontend team, listing ways to improve Webpack build speed.  Gives overviews of profiling, parallelization tools, reducing workloads, and caching, with plenty of mentions for specific tools and techniques.
@@ -173,11 +169,7 @@
 - **React Universal Component 2.0 & babel-plugin-universal-import**  
   https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4  
   Introduces some new Webpack addons and changes that enable dynamic import expressions, including use with SSR.
-  
-- **Using Redux Saga and code splitting to async load React components**  
-  https://gist.github.com/jballands/accc2ff19a3702685d469c612d6f0776  
-  A gist that demonstrates using sagas to drive the loading of React components as needed, with some discussion in the comments of the best way to handle those components once they're received by the app.
-  
+
 - **Impress Your Friends with Code Splitting in React**  
   https://hackernoon.com/impress-your-friends-with-code-splitting-in-react-9f9a3ca2ae6e  
   Examples of using `async/await` and dynamic `import()` to lazy-load React components and display them after they're loaded.
@@ -185,11 +177,7 @@
 - **ECMAScript Asychronicity - dynamic import**  
   https://blog.eleven-labs.com/en/ecmascript-asynchronicity-dynamic-import/  
   Recaps ES6 module behavior and use of Webpack's CommonsChunkPlugin, and describes how to lazy load code using `require.ensure` and the new dynamic `import()` capability.
-  
-- **Component Level Isomorphic Webpack Code-Splitting**  
-  https://medium.com/discovery-engineering/component-level-isomorphic-webpack-code-splitting-b98922382cc1  
-  Looks at the use cases for code splitting, the different ways Webpack can be used to do code splitting, problems with synchronous loading on the server vs async loading on the client, and how the React Universal Component toolkit can help  solve those issues.
-  
+
 - **Lazy Loading with React, Redux, and Webpack 2+**  
   https://medium.com/front-end-hacking/lazy-loading-with-react-and-webpack-2-8e9e586cf442  
   https://medium.com/front-end-hacking/lazy-loading-with-react-redux-and-webpack-2-35ad6fc1b640  
@@ -237,11 +225,7 @@
 - **How to use source-map-explorer with Webpack**  
   https://www.sivadass.in/using-source-map-explorer-with-webpack/  
   Examples of using the source-map-explorer tool to visualize the contents of a bundle
-  
-- **Analyzing and optimizing your Webpack bundle**  
-  https://medium.com/@ahmedelgabri/analyzing-optimizing-your-webpack-bundle-8590818af4df  
-  Some quick suggestions for using CLI flags to show sizes of bundled chunks, and using webpack-bundle-analyzer and IgnorePlugin to exclude unneeded files.
-  
+
 - **Avoid Webpack bloat: Optimize your dependencies**  
   https://www.zillow.com/engineering/webpack-optimize-dependencies/  
   Tips for tracking bundle sizes and managing dependency handling
@@ -294,9 +278,9 @@
 - **Webpack and Hot Module Replacement**  
   https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07  
   A great in-depth walkthrough of how HMR works
-  
+
 - **Webpack's HMR and React Hot-Loader - The Missing Manual**  
-  https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96  
+  https://rajaraodv.medium.com/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96
   Demonstrates three ways to enable HMR, and usage with three different React application scenarios
 
 - **Hot Reloading in React**  
@@ -355,7 +339,7 @@
   A tutorial that shows how to use Webpack and HMR to hot-reload both front-end and back-end code for faster development.
   
 - **How to Hot-Load React Components in 7 Days**  
-  https://medium.com/@antonkorzunov/how-to-hot-load-react-component-in-7-days-part-1-webpack-d8b77eea61eb  
+  https://medium.com/netscape/how-to-hot-load-react-component-in-7-days-part-1-webpack-d8b77eea61eb
   https://codeburst.io/how-to-hot-load-react-component-in-7-days-part-2-react-28ce2b61d0c7  
   A 2-part article that discusses how to set up plain HMR and add React-Hot-Loader, as well as many of the complexities of using RHL.
   
@@ -385,23 +369,15 @@
 - **Long-term caching of static assets with Webpack**  
   https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95  
   Gathers documentation on proper use of asset caching into one article to act as a complete guide.
-  
-- **Goodbye "../../../"**  
-  http://davidboyne.co.uk/2016/04/29/react-webpack-gem.html  
-  Tips and discussion on removing relative paths when importing
-  
+
 - **Using the HTML Webpack Plugin for generating HTML files**  
-  http://javascriptplayground.com/blog/2016/07/webpack-html-plugin/  
+  https://www.jackfranklin.co.uk/blog/webpack-html-plugin/
   Basic instructions for setting up the HTML Webpack plugin
-  
+
 - **Setting up CSS Modules with React and Webpack**  
-  http://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/  
+  https://www.jackfranklin.co.uk/blog/css-modules-webpack-react/
   Covers setting up and configuring Webpack to use CSS Modules for styling
-  
-- **Webpack Map Entity Loader**  
-  http://drhayes.io/secret-game/map-entity-loader.html  
-  A small example of writing a custom Webpack loader for game data
-  
+
 - **Webpack Tricks**  
   https://github.com/rstacruz/webpack-tricks  
   A useful list of tips for improving Webpack usage
@@ -421,14 +397,6 @@
 - **Easy Offline First Apps with Webpack's Offline Plugin**  
   https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin  
   A look at how to use the OfflinePlugin to cache Webpack-generated assets for offline use.
-  
-- **Working with Fonts with Webpack**  
-  https://shellmonger.com/2016/01/22/working-with-fonts-with-webpack/  
-  Explains how to configure Webpack to use external font files.
-  
-- **Working on OkCupid "in production" with Webpack and localhost**  
-  https://tech.okcupid.com/working-on-okcupid-in-production-with-webpack-and-localhost/  
-  Describes setting up Webpack-Dev-Server to serve local files during development in a distributed build system.
   
 - **Predictable long term caching with Webpack**  
   https://medium.com/@schnibl/predictable-long-term-caching-with-webpack-d3eee1d3fa31  

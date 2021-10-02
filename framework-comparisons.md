@@ -26,19 +26,11 @@
 - **React vs Angular 2+: Developer Ergonomics**  
   https://medium.com/@stelly_ryan/react-vs-angular-2-developer-ergonomics-b6d5103e8699  
   Specific opinion-based comparisons on the developer experience for React and Angular in areas like components, testing, and framework-specific syntax, based on writing equivalent example apps using both frameworks.
-  
-- **How is React different from Vue?**  
-  https://javascriptreport.com/how-is-react-different-from-vue/  
-  A higher-level overview of some of the similarities and differences between React and Vue, including quotes from Dan Abramov and Evan You.
-  
+
 - **Unopinionated comparison of Glimmer and React**  
   https://wyeworks.com/blog/2017/12/20/unopinionated-comparison-of-glimmer-and-react  
   A well-written comparison of small React and Glimmer components that implement the same functionality.
-  
-- **The Ultimate Guide to JavaScript Frameworks**  
-  https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/  
-  A high-level overview of both major and minor JS frameworks in 2018, Groups them into "the big three", "historically significant", "notable", and "the rest of the pack".  Provides short descriptions and  links to additional resources for each, as well as pros and cons for the better-known frameworks.
-  
+
 - **Why I'm switching from Angular to React and Redux**  
   https://hackernoon.com/why-im-switching-from-angular-to-react-and-redux-in-2018-cb48be00fda7  
   One person's opinions on why they decided to work with React and Redux instead of Angular, including flexibility of libraries over the "one way" of a framework, simpler state management with Redux vs services and injected event emitters, and more.
@@ -76,11 +68,11 @@
 - **AngularJS migration to React/Redux**  
   https://hashnode.com/post/angularjs-migration-to-reactredux-cj7t0m67x012ehowugcvjn1xj  
   Examples of how to approach migrating an Angular 1 app by first switching some components to use React, then adding state management to use Redux.
-  
+
 - **Migrating complex Javascript applications**  
-  https://javascriptplayground.com/blog/2017/08/migrating-complex-javascript-angular-react/  
+  https://www.jackfranklin.co.uk/blog/migrating-complex-javascript-angular-react/
   Jack Franklin describes the lessons learned when his team migrated from Angular to React, including why they migrated, how they approached the architecture changes, how they prioritized what to change, and more.  Includes some examples of the Angular->React change, but also good advice in general.
-  
+
 - **A Chip off the Monolith**  
   https://medium.com/onfido-tech/a-chip-off-the-monolith-ec71e06a3015  
   The Onfido team describes how they extracted a portion of their monolithic Rails+Ember app into a separate React+Redux app.

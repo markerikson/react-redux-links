@@ -6,11 +6,7 @@
 - **Redux without React - State Management in Vanilla Javascript**  
   https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/  
   A tutorial teaching Redux usage with a plain JS UI layer on top
-  
-- **The Easiest Way to Start Using Redux Today**  
-  https://viktorfonic.com/start-using-redux/  
-  A useful tutorial that introduces Redux and demonstrates using it with a jQuery-based UI
-   
+
 
 #### Angular
 
@@ -25,11 +21,6 @@
 - **Scalable Single-Page Application Architecture with Redux and Angular 2**  
   http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/  
   An in-depth article covering how to architect an application using Redux, Angular 2, and RxJS.  
-
-- **Building a Redux Application with Angular 2**  
-  https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-1  
-  https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-2  
-  A tutorial that teaches how to use Redux and Angular 2 together, by building a small finance app
   
 - **Build a Better Angular 2 Application with Redux and ngrx**  
   http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/  
@@ -39,28 +30,20 @@
   https://blog.realworldfullstack.io/real-world-angular-part-4-state-of-my-spa-10bf90c5a15  
   https://blog.realworldfullstack.io/real-world-angular-part-5-light-my-fire-34b0bcb351a8  
   An Angular 2 tutorial that builds an app using Redux and Firebase
-  
-- **UI State management with Redux in Angular 2**  
-  https://www.pluralsight.com/guides/front-end-javascript/ui-state-management-with-redux-in-angular-2  
-  An extended article that discusses the benefits of using Redux to manage state, and build an example app that uses Redux to control modals and sidebars.
-  
+
 - **Managing State in Angular with ngrx/store**  
   https://auth0.com/blog/managing-state-in-angular-with-ngrx-store/  
   A tutorial that demonstrates use of the ngrx/store variation of Redux as part of an Angular app.
-  
-- **Angular Form Validations With Redux for Multiple Routes**  
-  https://dzone.com/articles/angular-form-validations-with-redux-for-multiple-r  
-  Examples of setting up Redux-based form validation in an Angular app.
-  
+
 - **Web app architecture based on Redux**  
   http://devblog.ztp.pt/web-app-architecture-based-on-redux/  
   https://medium.com/@akaztp/case-study-pt-2-implementing-redux-on-angular-9e79cd4faa37  
   A series of posts describing a modular / layered architecture built around Redux, including a data layer for managing fetching, a business layer using RxJS Epics, and folder structure for Angular components.
-  
+
 - **NgRx Antipatterns**  
-  http://brianflove.com/2017/11/01/ngrx-anti-patterns/  
+  https://brianflove.com/2017-11-01/ngrx-anti-patterns/
   Examples of some ways to improve poor NgRx usage patterns.
-  
+
 - **Getting started with Angular and Redux**  
   https://damienbod.com/2017/09/07/getting-started-with-angular-and-redux/  
   A tutorial that covers setting up an Angular app that uses NgRx for state management.  Recently updated to work with Angular 5.
@@ -122,14 +105,11 @@
   Covers setting up a standard Aurelia app, adding Redux, and use of redux-undo with the example.
   
 - **Why Aurelia and Redux is a natural and powerful combination**  
-  https://www.softvision.com/blog/aurelia-redux/  
+  https://www.cognizantsoftvision.com/blog/aurelia-redux/
   Thoughts on the benefits of Aurelia compared to other frameworks, and examples of how to use Redux in an Aurelia app.
-  
-  
+
 #### Other
 
-
-  
 - **Explorations in Adapting Redux to C#**  
   https://spin.atomicobject.com/2017/03/13/adapting-redux-c-sharp-xamarin/  
   An informative look at how AtomicObject has a Redux variant in C#
@@ -144,11 +124,7 @@
   https://medium.com/pageup-tech/advanced-redux-in-xamarin-part-3-database-middleware-5dac7b5ee6ba  
   
   Discusses how to use a C# implementation of Reedux, including the concepts of action creators and thunks, implementing persistence via middleware, and interacting with a database.
-  
-- **Android.apply(Redux)**  
-  https://blog.shazam.com/android-apply-redux-2ad0f7355e0  
-  Discusses a Redux-inspired pattern for use with Android as an alternative to the MVP approach.
-  
+
 - **Coupling a Stencil TODO app with Redux**  
   https://www.javascripttuts.com/coupling-a-stencil-todo-app-with-redux/  
   A tutorial that updates an existing Stencil Todo app to use Redux
@@ -164,11 +140,7 @@
 - **Lessons learned implementing Redux on Android**  
   https://blog.pusher.com/lessons-learned-implementing-redux-on-android/  
   Recaps experiences from using a Redux-based approach in Android apps using Kotlin
-  
-- **A blockchain-backed Redux clone in 105 lines of code**  
-  https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980  
-  An interesting experiment that plays with the idea of implementing Redux's store API around a simple blockchain.
-  
+
 - **How to use Redux with Polymer**  
   https://medium.com/@jalalio/step-1-how-to-use-redux-with-polymer-2-7bcfaee6fdb3  
   https://medium.com/@jalalio/step-2-how-to-structure-larger-polymer-2-apps-with-redux-reselect-f588e64a191a  

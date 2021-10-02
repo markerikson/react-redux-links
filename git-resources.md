@@ -40,11 +40,7 @@
 - **Git from the Inside Out**  
   https://codewords.recurse.com/issues/two/git-from-the-inside-out  
   An explanation of how Git works, by describing the internal data structures and the graph that they form.
-  
-- **Ry's Git Tutorial**  
-  http://rypress.com/tutorials/git/index  
-  An excellent introduction to Git's key concepts and command.  Very well written and explained.
-  
+
 - **Git for Humans**  
   https://speakerdeck.com/alicebartlett/git-for-humans  
   A slideshow introducing Git concepts without complex terminology
@@ -75,11 +71,7 @@
 - **Advance Git**  
   https://medium.com/@jstats/advance-git-dfe557bdbe59  
   Gives advice for good commit messages, and describes the options and usage for several advanced Git commands (`add --patch`, `rebase`, `reflog`, and more).
-  
-- **Git Useful Tips**  
-  http://ericdouglas.github.io/2016/04/01/Git-Useful-Tips/  
-  A useful reference to commands and concepts.
-  
+
 - **19 Tips for Everyday Git Use**  
   http://www.alexkras.com/19-git-tips-for-everyday-use  
   A variety of practical commands for different scenarios.
@@ -107,11 +99,7 @@
 - **Life-Saving Git Tips**  
   https://www.cuttlesoft.com/life-saving-git-tips/  
   A variety of useful tips, including use of cherry-picking, local pulling and testing, and use of aliases to simplify tasks
-  
-- **Git Cheat Sheet: Useful Commands, Tips and Tricks**  
-  https://sentheon.com/blog/git-cheat-sheet.html  
-  A large cheat sheet / reference for a variety of Git usage topics, including workflow, configuration, .gitignore syntax, different categories of commands, and more.
-  
+
 - **Git Flight Rules**  
   https://github.com/k88hudson/git-flight-rules  
   A guide for Git users about what to do when things go wrong.  Covers topics like editing commits, staging and unstaging files, fixing branches, rebasing/merging, and much more.
@@ -165,10 +153,6 @@
   https://git-scm.com/book/en/v2  
   An in-depth online reference to all aspects of Git
 
-- **Git Succinctly**  
-  https://www.syncfusion.com/resources/techportal/details/ebooks/git  
-  A free PDF that covers Git concepts and usage
-
 - **Git Internals**  
   https://github.com/pluralsight/git-internals-pdf  
   A free PDF that digs deep into Git's data structures and behavior
@@ -191,10 +175,6 @@
   
 #### Cheat Sheets
 
-- **Git CLI Cheat Sheet**  
-  http://cheat.errtheblog.com/s/git  
-  A list of many useful Git commands, with explanations
-  
 - **A Visual Git Reference**  
   http://marklodato.github.io/visual-git-guide/index-en.html  
   Describes several common Git commands, with diagrams to explain what each one does

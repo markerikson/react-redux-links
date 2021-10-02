@@ -50,11 +50,7 @@
 - **Annotations about React Higher-Order Components**  
   https://blog.codeminer42.com/annotations-about-react-higher-order-components-e3561bc7c27a  
   An explanation of what HOCs are, what they can be used for, and when to use them.
-  
-- **Single-Prop HOCs - Better Composition in React**  
-  https://www.okgrow.com/posts/compose-react-sphoc  
-  Thoughts and examples of composing multiple small focused HOCs together into a final combined HOC
-  
+
 - **What are Higher Order Components?**  
   https://benmccormick.org/2016/12/14/what-are-higher-order-components/  
   A short, simple explanation of what an HOC is, and how they can be used
@@ -99,10 +95,6 @@
   https://codeburst.io/save-the-zombies-how-to-add-state-and-lifecycle-methods-to-stateless-react-components-1a996513866d  
   A humorously-written look at how to extract state management logic into HOCs.
   
-- **HOC in a nutshell**  
-  http://coding4real.com/2017/12/23/hoc-nutshell-bonus-example/  
-  Describes how HOCs can be used to encapsulate reusable code, and demonstrates HOcs that help with route authentication and work with Redux.
-  
 - **Composing Higher-Order Components**  
   https://medium.com/@caseymorrisus/react-composing-higher-order-components-hocs-3a5288e78f55  
   Gives examples of common use cases for HOCs, shows some example implementations, and  demonstrates how to compose HOcs together.
@@ -131,10 +123,6 @@
 - **React Patterns - Render Callback**  
   http://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback  
   An explanation of the "render callback" or "function as child" pattern, including concepts and example uses
-  
-- **Sharing stateful UI logic in React apps using Render Callback components**  
-  https://trevordmiller.com/blog/react-render-callback-components  
-  Examples of how to use the "render callback" / "function as a child" pattern to extract common logic for reuse.
   
 - **Declarative Components in React**  
   https://blog.echobind.com/declarative-components-in-react-b21ced9895b5  
