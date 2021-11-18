@@ -31,6 +31,7 @@
 - **Testing React Applications**  
   https://www.youtube.com/watch?v=59Ndb3YkLKA  
   A presentation by Max Stoiber, looking at what types of things to test in a React/Redux application, and ways to use tools like Jest to speed up the testing process.
+ 
   
 - **Good Practices for Testing React Apps**  
   https://medium.com/@TuckerConnelly/good-practices-for-testing-react-apps-3a64154fa3b1  
@@ -422,3 +423,7 @@
 - **Testing UI**  
   https://charlespeters.net/writing/testing-ui/  
   Thoughts on the benefits of different types of testing, including code coverage, unit tests for React components, snapshot tests, and integration tests.
+
+- **OAuth Vulnerabilities**
+  https://www.loginradius.com/blog/start-with-identity/OAuth-authentication-vulnerabilities/  
+  A blog post on preventing OAuth authentication vulnerabilities
