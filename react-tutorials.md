@@ -8,6 +8,9 @@
   https://facebook.github.io/react/tutorial/tutorial.html  
   The official React documentation, recently rewritten with an excellent set of tutorials, explanations, and API information.
   
+  React beta Documentation
+  https://beta.reactjs.org/
+  
 - **Modern Web Development with React and Redux**  
   http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/  
   An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
