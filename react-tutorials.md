@@ -5,7 +5,7 @@
 
 - **React Documentation** 
   https://reactjs.org/docs/getting-started.html
-  The official React documentation, rewritten with an excellent set of tutorials, explanations, and API information.
+  The official React documentation, including tutorials, explanations, and API information.
   
   https://beta.reactjs.org/
   A full rewrite of the React documentation, with a completely redesigned set of tutorials that teach modern React with function components and hooks as the standard approach. (This will become the main docs site once it's completed.)
