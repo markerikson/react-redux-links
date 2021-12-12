@@ -3,10 +3,12 @@
 
 #### Basic Introductions
 
-- **React Documentation**  
-  https://facebook.github.io/react/docs/hello-world.html  
-  https://facebook.github.io/react/tutorial/tutorial.html  
-  The official React documentation, recently rewritten with an excellent set of tutorials, explanations, and API information.
+- **React Documentation** 
+  https://reactjs.org/docs/getting-started.html
+  The official React documentation, including tutorials, explanations, and API information.
+  
+  https://beta.reactjs.org/
+  A full rewrite of the React documentation, with a completely redesigned set of tutorials that teach modern React with function components and hooks as the standard approach. (This will become the main docs site once it's completed.)
   
 - **Modern Web Development with React and Redux**  
   http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/  
