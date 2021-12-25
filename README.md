@@ -158,6 +158,8 @@ If you are new to React, try reading these articles in order.
     A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
     
 ### Data Flow: “State” and “Props”
+  - [Where to Hold React Component Data: state, store, static, and this](https://medium.freecodecamp.org/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00)  
+    A comprehensive article on maintaining react component data and usecases of each techniques.
   - [A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react/)  
     Describes what "state" is, what kinds of data should be included into React state, and how state flow relates to component updates.
   - [ReactJS: Props vs State](http://lucybain.com/blog/2016/react-state-vs-pros/)  
