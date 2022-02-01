@@ -69,237 +69,299 @@ You might also want to check out my categorized list of Redux-related addons, li
 
 
 
+## Recommended Learning Path
 
-## Best of the Best / Suggested Reading List
+**You should usually learn these technologies in the following order:**
 
-All of the links in this collection are worth reading, but there's obviously a LOT of them.  Here's a "best-of" list to get you started:
+1.  **"How Web Apps Work":** a series of posts that lays out the big picture of the core technologies, terms, and concepts used in client/server web apps
+2.  **JavaScript:** If you don't know JavaScript, nothing else will make sense
+3.  **React:** You can use React by itself, or with Redux and/or TypeScript. Learning it separately will minimize the number of new concepts and syntax you have to learn at once.
+4.  **Redux:** Redux can be used separately, but it's most commonly used with React.
+5.  **TypeScript:** Because it adds static types on top of JS, you need to understand JS first. Also, it's easiest to understand React and Redux first, _then_ learn how to use them with static types.
 
-## Basic Concepts and Learning Approaches
+The resources in this page are listed in that order.
 
-### Overviews of Javascript Tools and Concepts
-  - [State of the Javascript Landscape in 2016](http://www.infoq.com/articles/state-of-javascript-2016)  
-    A very high-level summary of the important terms and technologies that are used in modern Javascript development.
-  - [The \(R\)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/)  
-    A slideshow giving an overview of web dev history and modern web dev tools, technologies, and trends.
-  - [Javascript Package Managers 101](https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a)  
-    An overview of what packages and package managers are, some related terms, and how these tools work.
-    
-### Suggested Learning Approaches
-  - [A Study Plan to Cure Javascript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)  
-    The author of the "State of JS 2016" survey gives an excellent step-by-step study plan to use when learning the Javascript ecosystem.
-  - [Grab Front-End Study Guide](https://github.com/grab/front-end-guide)  
-    An excellent guide to learning front-end technologies, based on "A Study Plan to Cure Javascript Fatigue".  Includes descriptions of each topic, links to learning resources, and estimates for how much time to spend on each topic.
-  - [React How-To](https://github.com/petehunt/react-howto)  
-    Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
-  - [Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)  
-    [How to Learn React](https://daveceddia.com/how-to-learn-react/)  
-    Another high-level suggested timeline for how to approach learning React and related technologies.
-  - [Tips to learn React + Redux](https://www.robinwieruch.de/tips-to-learn-react-redux/)  
-    An extensive and excellent list of suggestions to follow when learning and using React and Redux.  Tips include when to use different component patterns, when to bring in a state management library, Redux state structuring, unit testing, and much more.
+**You are not required to read every single link and article listed in this page.** However, you should try to read through as many of the articles linked in the "Recommended Primary Resources" sections as possible, especially for topics you are not already familiar with. Many of the recommended tutorials do cover the same topics, so feel free to skip past concepts you've already learned.
 
+Links in the "Additional Resources" sections are available as references and reading as needed.
 
-## Learning Core Javascript (ES5)
+### How Web Apps Work
 
-### General Resources
-  - [Mozilla Developer Network: Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-    [Mozilla Developer Network: A Re-Introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)  
-    Mozilla maintains a fantastic set of developer resources for Web technologies, including a comprehensive reference to the Javascript language and a number of associated tutorials. Their "reintroduction to Javascript" article is a great overview of what the language looks like.
-  - [Eric Elliott's Javascript Resource Lists](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)  
-    [Eric Elliott's Essential Javascript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)  
-    Eric Elliott is a strong proponent of Javascript, has written numerous articles about learning and understanding Javascript, and assembled some very useful lists of numerous Javascript resources. (Strong opinions, but has useful info.)
-  - [Wes Bos's Javascript Resource List](http://wesbos.com/learn-javascript)  
-    Speaker and teacher Wes Bos gives links to a number of resources for learning Javascript
-    
-### Books
-  - [Eloquent Javascript](http://eloquentjavascript.net/)  
-    A full online book teaching Javascript from the ground up. Very recommended.
-  - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)  
-    An online book series intended to teach all aspects of Javascript, including the "tougher" parts.
-  - [Exploring Javascript](http://exploringjs.com/)  
-    Multiple free online books from Dr. Axel Rauschmayer. "Speaking Javascript" covers all of Javascript through ES5; "Exploring ES6" covers ES6 in depth; and other books look at versions of Javascript after ES6 and how to set up an ES6+ development environment.
+Mark's post series that describes the key terms, concepts, technologies, syntax, and data flow used in web apps.
 
+#### Recommended Primary Resources (should read)
 
-## Learning Current Javascript (ES6+)
+- [How Web Apps Work: HTTP and Servers](https://blog.isquaredsoftware.com/2020/11/how-web-apps-work-http-server/)
+- [How Web Apps Work: Client Development and Deployment](https://blog.isquaredsoftware.com/2020/11/how-web-apps-work-client-dev-deployment/)
+- [How Web Apps Work: Browsers, HTML, and CSS](https://blog.isquaredsoftware.com/2020/11/how-web-apps-work-html-css/)
+- [How Web Apps Work: JavaScript and the DOM](https://blog.isquaredsoftware.com/2020/11/how-web-apps-work-javascript-dom/)
+- [How Web Apps Work: AJAX, APIs, and Data Transfer](https://blog.isquaredsoftware.com/2020/11/how-web-apps-work-ajax-apis-data/)
 
-### ES6 Feature Overviews
-  - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)  
-    Quick samples and descriptions of all the various ES6 capabilities
-  - [ES6 Features Comparison](http://es6-features.org/)  
-    Code snippets comparing ES6 features with their ES5 equivalents
-  - [ES6 - The Bits You'll Actually Use](http://jamesknelson.com/es6-the-bits-youll-actually-use/)  
-    A quick tour through some of the more useful features in ES6
-  - [A Rundown of Javascript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)  
-    An overview of the features in ES6 and how they can be used.
-    
-### In-Depth Details
-  - [ES6 In Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)  
-    Many articles covering each feature in greater detail
-  - [Exploring ES6](http://exploringjs.com/es6/index.html)  
-    A full online book covering every aspect of ES6 in fine detail
+### Javascript
 
+#### Recommended Primary Resources (should read)
 
-## React Walkthrough
+##### General JS
 
-If you are new to React, try reading these articles in order. 
+- **Slides:** [Mark's "JavaScript for Java Developers" slides](https://blog.isquaredsoftware.com/2019/05/presentation-js-for-java-devs/)
+- **Read:** [MDN: A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- **Read:** [The Modern JavaScript Tutorial](https://javascript.info/)
+- **Read:** [Javascript Cheatsheet](https://javascript.pythoncheatsheet.org/)
+- **Exercises:** [CodeCademy - Introduction to JavaScript Tutorial](https://www.codecademy.com/learn/introduction-to-javascript)
 
-### Getting Started
-  - [React Documentation: Hello World](https://facebook.github.io/react/docs/hello-world.html)  
-    [React Documentation: Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)  
-    The official React documentation, recently rewritten with an excellent set of tutorials, explanations, and API information.
-  - [Create-React-App](https://github.com/facebookincubator/create-react-app)  
-    The official project creation tool from the React team.  Allows you to set up a new React project, with no configuration work required.
-  - [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)  
-    An excellent set of instructions for setting up a React project with minimal fuss and effort needed.  Includes links to some useful resources, and info on deploying the app to production.
-  - [Modern Web Development with React and Redux](http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/)    
-    An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
-  - [Learn Raw React](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)  
-    A ground-up React tutorial that leaves out any other related "modern" technologies, Very recommended if you want to skip the buzzwords and acronyms.
-  - [30 Days of React](https://www.fullstackreact.com/30-days-of-react/)  
-    A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
-    
-### Data Flow: “State” and “Props”
-  - [A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react/)  
-    Describes what "state" is, what kinds of data should be included into React state, and how state flow relates to component updates.
-  - [ReactJS: Props vs State](http://lucybain.com/blog/2016/react-state-vs-pros/)  
-    Explains that "props" are data passed in to a component, while "state" is data managed inside a component.
-  - [Best Practices for Component State in React](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)  
-    Some excellent suggestions and approaches for state handling and component structure.
-    
-### Component Patterns
-  - [React Patterns](http://reactpatterns.com/)  
-    An excellent list of common patterns for structuring React components, with examples
-  - [The React Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)  
-    A useful description of the order and purpose of React’s component lifecycle methods.
-  - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)  
-    Dan Abramov's foundational article on classifying components based on intent and behavior. A must-read for anyone using React.
-  - [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)  
-    Dan Abramov explains why the React team discourages use of mixins, and prefers a pattern called “Higher Order Components” instead
-  - [Components, React, and Flux](http://slides.com/danabramov/components-react-flux-wip#/)  
-    A fantastic HTML slideshow that discusses how to organize code as reusable components, and the basic concepts and benefits of a Flux unidirectional architecture
-  - [Reactive, Component-Based UIs](http://banderson.github.io/reactive-component-ui-presentation/#/)  
-    Another fantastic HTML slideshow describing the three principles of React: "functional over OOP", "stateless over stateful", "clarity over brevity" (use arrow keys to advance slides)
-    
-### Function Binding and `this`
-  - [Gentle Explanation of `this` keyword in Javascript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)  
-    A long and in-depth explanation of the various ways that the `this`  keyword can be defined
-  - [The Inner Workings of Javascript's `this` keyword](https://www.sitepoint.com/inner-workings-javascripts-this-keyword/)  
-    [Mastering Javascript's `this` keyword](https://www.sitepoint.com/mastering-javascripts-this-keyword/)  
-    A two-part article on the ins and outs of `this`.
-  - [Why and How to Bind Methods in your React Component Classes](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)  
-    A good look at function binding in JS, and how it works with React
-  - [React Binding Patterns: 5 Approaches for Handling `this`](https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56)  
-    Describes five different ways you can handle binding methods to handle the `this` keyword correctly
-  - ["Fat arrow vs autobind vs bindbindbind?”](https://www.reddit.com/r/reactjs/comments/54xnao/fat_arrow_vs_autobind_vs_bindbindbindbindbind/d85wj0l)  
-    Dan Abramov from the React team gives his thoughts on how to handle method binding.
-    
-### AJAX requests and Data Fetching
-  - [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)  
-    An overview of where AJAX requests fit into React usage.
-    
-### Immutable Data
-  - [Pros and Cons of Using Immutability With React](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)  
-    Excellent description of what immutability is, how to use use these concepts with React, and pros and cons of managing data immutably. While the title refers to React, most of the writing just deals with plain Javascript concepts.
-  - [Redux Docs: Structuring Reducers - Immutable Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns)  
-    Useful examples for doing proper immutable updates, including common mistakes, proper updates of nested data, updates for arrays, and more.  (Helpful for Redux, but not Redux-specific.)
-    
-### Functional Programming
-  - [The Little Idea of Functional Programming](http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/)  
-    Describes the three basic principles of FP: "data in/data out", "code as data", and "function composition" all the way down, and demonstrates transforming some data. Has some very helpful graphics and illustrations.
-  - [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)  
-    Describes how side effects and "hidden inputs" add complexity to code, in very clear terms.
-    
-### Forms and Inputs
-  - [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)  
-    A great summary of what controlled and uncontrolled inputs are, what each approach looks like, and how to handle values from different types of inputs.
-  - [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)  
-    An excellent article that describes the concept of controlled components, and demonstrates examples of how to interact with different types of form inputs
-  - [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)  
-    Covers the basics of implementing form rendering, updates, and validation, in plain JS
-    
-### Styles
-  - [Styling in React](https://www.kirupa.com/react/styling_in_react.htm)  
-    An introduction to using React's built-in inline styling abilities
-  - [How To Style React](https://www.javascriptstuff.com/how-to-style-react/)  
-    An excellent overview of the four major ways to deal with styles in React, and what the various tools are. Includes a decision tree to help you decide what to use.
+##### Specific Topics
 
+- Array methods:
+  - [Modern JS Tutorial - Array Methods](https://javascript.info/array-methods)
+  - [Which Array Function When?](https://dev.to/andrew565/which-array-function-when)
+- Equality and Comparisons
+  - [MDN - Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+  - [JS Equality Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/)
+- Closures
+  - [MDN - Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+  - [Modern JS Tutorial - Closures](https://javascript.info/closure)
+- `this` keyword and scopes
+  - [A gentle explanation of `this` keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+  - [`this` in JavaScript](https://zellwk.com/blog/this/)
+  - [Everything you wanted to know about JavaScript scope](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
+- The JS event loop
+  - [Watch: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en)
+  - [The JavaScript Event Loop](https://flaviocopes.com/javascript-event-loop/)
+- CSS and layout
+  - [CSS: From Zero to Hero](https://dev.to/aspittel/css-from-zero-to-hero-3o16)
+  - [MDN - Visual Formatting Model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model)
+  - [MDN - Introduction to the CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+  - [HTML and CSS is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/)
+  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- Node / NPM
+  - [How to install Node.js](https://nodejs.dev/learn/how-to-install-nodejs)
+  - [An introduction to the npm package manager](https://nodejs.dev/learn/an-introduction-to-the-npm-package-manager)
+- Build Tools
+  - [The Many Jobs of JS Build Tools](https://www.swyx.io/jobs-of-js-build-tools/)
+- Debugging
+  - [The definitive guide to debugging JavaScript](https://flaviocopes.com/javascript-debugging/)
+  - [Intro to debugging React Applications](https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd)
 
-## Redux
+#### Additional Resources (read as needed)
 
-### Getting Started
-  - [Redux Docs](https://redux.js.org/)  
-    The official Redux documentation.  Contains an excellent tutorial that walks you through “here’s what you want to do, and how we came up with this”, as well as recipes for more advanced topics.  Be sure to read through the FAQ for answers to common questions and links to further information.
-  - [Getting Started with Redux - Video Series](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)  
-    [Getting Started with Redux - Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes)  
-    Dan Abramov, the creator of Redux demonstrates various concepts in 30 short (2-5 minute) videos. The linked Github repo contains notes and transcriptions of the videos.
-  - [Building React Applications with Idiomatic Redux - Video Series](https://app.egghead.io/series/building-react-applications-with-idiomatic-redux)  
-    [Building React Applications with Idiomatic Redux - Course Notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes)  
-    Dan Abramov's second video tutorial series, continuing directly after the first. Includes lessons on store initial state, using Redux with React Router, using "selector" functions, normalizing state, use of Redux middleware, async action creators, and more. The linked Github repo contains notes and transcriptions of the videos.
-  - [Redux: From Twitter Hype to Production](http://slides.com/jenyaterpil/redux-from-twitter-hype-to-production#/)  
-    An extremely well-produced slideshow that visually steps through core Redux concepts, usage with React, project organization, and side effects with thunks and sagas. Has some absolutely fantastic animated diagrams demonstrating how data flows through a React+Redux architecture.
-  - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)  
-    A very well-written introduction to Redux and its related concepts, with some useful cartoon-ish diagrams.
-  - [Connect.js explained](https://gist.github.com/gaearon/1d19088790e70ac32ea636c025ba424e)  
-    A very simplified version of React Redux's `connect()` function that illustrates the basic implementation
-    
-### AJAX, Timeouts, and other “Side Effects”
-  - [Dispatching Redux Actions with a Timeout / ](http://stackoverflow.com/a/35415559/62937)  
-    [Why do we need middleware for async flow in Redux?](http://stackoverflow.com/a/34599594/62937)  
-    A pair of answers from Dan Abramov, explaining how “side effects” like AJAX calls and asynchronous behavior fit into Redux
-  - [What the heck is a "thunk"?](https://daveceddia.com/what-is-a-thunk/)  
-    An explanation of the word “thunk”, and how thunks can be used to do things like AJAX calls.
-    
-### Middleware
-  - [Redux Middleware](http://jonnyreeves.co.uk/2016/redux-middleware/)  
-    A tutorial describing how Redux compares to typical "MVC", what a "middleware" is, what they can do, and how you can test them.
-  - [Exploring Redux Middlewares](http://blog.krawaller.se/posts/exploring-redux-middleware/)  
-    Understanding middlewares through a series of small experiments
-    
-### Debugging
-  - [Time Travel in React Redux apps using the Redux DevTools](https://onsen.io/blog/react-redux-devtools-with-time-travel/)  
-    Examples of configuring a Redux store to use the DevTools enhancers, and using both the DevTools components and the browser extension for debugging.
-    
-### Writing Reducers
-  - [Redux Docs: Structuring Reducers](https://redux.js.org/recipes/structuring-reducers/structuring-reducers)  
-    Comprehensive information on writing reducers and structuring data, covering reducer composition, use of `combineReducers`, normalizing data, proper immutable updating, and more.
-  - [Taking Advantage of `combineReducers`](http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/)  
-    Examples of using `combineReducers` multiple times to produce a state tree, and some thoughts on tradeoffs in various approaches to reducer logic.
-    
-### Selectors and Normalization
-  - [Querying a Redux Store](https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f)  
-    A look at best practices for organizing and storing data in Redux, including normalizing data and use of selector functions.
-  - [Normalizing Redux Stores for Maximum Code Reuse](https://medium.com/@adamrackis/normalizing-redux-stores-for-maximum-code-reuse-ae6e3844ae95)  
-    Thoughts on how normalized Redux stores enable some useful data handling approaches, with examples of using selector functions to denormalize hierarchical data.
-  - [Practical Redux: Redux-ORM Basics](http://blog.isquaredsoftware.com/2016/10/practical-redux-part-1-redux-orm-basics/)  
-    [Practical Redux: Redux-ORM Concepts and Techniques](http://blog.isquaredsoftware.com/2016/10/practical-redux-part-2-redux-orm-concepts-and-techniques/)  
-    A look at how Redux-ORM can help manage normalized data in a Redux store, including use cases, basic usage, key concepts, and advanced techniques.
+##### General JS
 
+- **Core References:**
+  - [MDN: JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  - [The Modern JavaScript Tutorial](https://javascript.info/)
+  - [Online book: JavaScript for Impatient Programmers](http://exploringjs.com/impatient-js/toc.html)
+- **Syntax Overviews:**
+  - [Javascript Cheatsheet](https://javascript.pythoncheatsheet.org/)
+  - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
+  - [ES6 Feature Examples](http://es6-features.org)
+- **Additional Books / References:**
+  - [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+  - [Eloquent JavaScript](https://eloquentjavascript.net/)
+  - [Exploring JS books](http://exploringjs.com/) (cover what's new in each yearly revision of the language)
+  - [Links: ES6+ Features and Syntax](https://github.com/markerikson/react-redux-links/blob/master/es6-features.md) (links to additional articles on new features in ES6+)
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (advanced concepts and understanding of JS behavior)
 
-## Webpack
+##### Specific Topics
 
-### Getting Started
-  - [Webpack Documentation](https://webpack.js.org/)  
-    Webpack's new documentation site, explaining concepts, configuration, and recipes
-  - [Webpack from First Principles](https://youtu.be/WQue1AN93YU)  
-    A screencast video explaining what Webpack is and why you would want to use it
-  - [What is Webpack and what can it do for you?](http://x-team.com/2016/09/webpack-can-absolute-beginners/)  
-    A plain-English explanation of what Webpack is and what problems it can help solve.
-  - [SurviveJS - Webpack](http://survivejs.com/webpack/introduction)  
-    A full book online book that covers setting up Webpack for both development and production. Also touches topics such as ESLint and npm.
-    
-### Configuration and Concepts
-  - [Webpack: The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)  
-    A great simplification and breakdown of the different pieces that make up a Webpack configuration: dev vs prod, CLI vs dev-server, the "entry" option, the "output" option / "path" vs "publicPath", loaders and configuration, Babel, plugins, and path resolving.
-  - [Angular + Webpack < 3](https://docs.google.com/presentation/d/10mIapWjv1pyUQaMv6G8MCdoe9OK2Ey8zz-CLkHuFdRI)  
-    A long presentation that describes Webpack and its core concepts in depth. A few parts are Angular-centric, but still an extremely clear and informative set of slides. Covers topics like the "entry" and "output" options, "loaders", and "plugins".
-  - [Advanced Webpack](http://presentations.survivejs.com/advanced-webpack/)  
-    An in-depth presentation that walks through Webpack concepts, terms, configuration, and usage. Covers a number of advanced topics, and very worth reading.
-    
-### Build Optimization
-  - [Advanced Frontend Optimization with Webpack](http://sokra.github.io/slides/frontend-optimize)  
-    Slides by Webpack’s original author, describing ways to improve Webpack builds.
-  - [Formidable Playbook](https://formidable.com/open-source/playbook/)  
-    Formidable Labs describes their preferred approaches for configuring Webpack, including optimization approaches.
-    
-### Hot Module Reloading
-  - [Webpack Hot Reloading and React](https://ctheu.com/2015/12/29/webpack-hot-reloading-and-react-how/)  
-    An explanation of how Hot Reloading works, and how the various pieces fit together.
+- Array/object methods / immutability
+  - [Does It Mutate?](https://doesitmutate.xyz/)
+  - [Array Explorer](https://sdras.github.io/array-explorer/) and [Object Explorer](https://sdras.github.io/object-explorer/)
+- JS Event Loop
+  - [The JavaScript Event Loop](https://flaviocopes.com/javascript-event-loop/)
+- Regular Expressions
+  - [A Guide to JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
+  - [A Beginner's Guide to Regular Expressions in JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
+- CSS
+  - [Online Interactive CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+  - [A Practical CSS Cheat Sheet](https://www.toptal.com/css/css-cheat-sheet)
+  - [GRID: A simple visual cheatsheet for CSS Grid Layout](http://grid.malven.co/)
+- Node / NPM
+  - [Introduction to Node.js](https://nodejs.dev/learn)
+  - [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)
+- Lodash
+  - [Lodash documentation](https://lodash.com/docs/)
+- Build Tools
+  - Babel
+    - [Babel Docs](https://babeljs.io/)
+    - [Babel Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/babeljs/index.htm)
+    - [A Beginner's Guide to Babel](https://www.sitepoint.com/babel-beginners-guide/)
+    - [A Short and Simple Guide to Babel](https://flaviocopes.com/babel/)
+  - Webpack
+    - [Webpack docs](https://webpack.js.org/)
+    - [Webpack Academy](https://webpack.academy/)
+    - [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+
+### React
+
+#### Recommended Primary Resources (should read)
+
+##### General React
+
+Start with reading the official docs first. The React team is in the process of starting a major rewrite of the React docs site to focus on teaching function components and hooks first, which is now available in beta. We've linked to that rather than the existing "main" documentation.
+
+These other listed tutorials are also excellent and may explain things in a different way.
+
+- **Read: [official React docs](https://beta.reactjs.org/)**
+  - [Getting Started](https://reactjs.org/docs/getting-started.html) (docs overview and related resources)
+  - [Main Concepts](https://reactjs.org/docs/hello-world.html) (read the whole series, but especially these two):
+    - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+    - [Thinking In React](https://reactjs.org/docs/thinking-in-react.html)
+  - [React Hooks guide](https://reactjs.org/docs/hooks-intro.html) (lays out the motivation, teaches hooks, API reference, in-depth FAQ)
+- **Read: [React docs (converted to show hooks)](https://reactwithhooks.netlify.app/)**
+
+  - [Tutorial](https://reactwithhooks.netlify.app/tutorial/tutorial.html)
+
+- **Watch:** [React Tutorial for Beginners](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- **Read:** [Intro to React, Redux, and TypeScript for 2020](https://blog.isquaredsoftware.com/2020/12/presentations-react-redux-ts-intro/) (Mark's presentation slides)
+- **Read:** [Build a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+- **Read:** [A Comprehensive Guide to React in 2020](https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597)
+- **Exercises:** [Learn React - Interactive Tutorials](https://scrimba.com/g/glearnreact)
+
+##### Project Setup
+
+- **Read: [Simple React Development in 2019](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)** (a guide to setting up an app, development environment, and deployment)
+- **Use: [CodeSandbox.io](https://codesandbox.io)** (an online IDE that uses VS Code's editor, and can let you develop and run your apps completely in the browser)
+- **Use: [Create-React-App](https://facebook.github.io/create-react-app/)** (the official CLI tool for creating a React app with one command. Sets up a project with good default build settings out of the box.)
+
+##### Specific Topics
+
+- Understanding how React works conceptually / internally
+  - [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/) (deep dive - not _required_ reading, but will definitely help you understand React better)
+  - [Mark Erikson: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+  - [Build your own React](https://pomb.us/build-your-own-react/)
+- State and props
+  - [A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react/)
+- Component lifecycles
+  - [React component lifecycle interactive diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+- AJAX requests
+  - [AJAX Request in React - How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
+- Immutability
+  - [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide/)
+  - [Redux docs: Immutable Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns)
+- Functional Programming basics
+  - [The Little Idea of Functional Programming](https://jaysoo.ca/2016/01/13/functional-programming-little-ideas/)
+  - [What is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
+- Forms and "controlled inputs"
+  - [React docs - Forms](https://reactjs.org/docs/forms.html)
+  - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+  - [Transitioning from uncontrolled inputs to controlled](https://goshakkk.name/turn-uncontrolled-into-controlled/)
+- React's new "hooks" API
+  - [React docs - Hooks](https://reactjs.org/docs/hooks-intro.html) (lays out the motivation, teaches hooks, API reference, in-depth FAQ)
+  - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) (very long article, but a must-read. Teaches how hooks use closures, defining when effects run, and much more.)
+  - [What are React Hooks?](https://www.robinwieruch.de/react-hooks/)
+  - [React Hooks: Not Magic, Just Arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e) (looks under the hood to explain how hooks are implemented)
+
+#### Additional Resources (read as needed)
+
+##### General React
+
+- **Resource Collections**
+  - [Mark Erikson's React-Redux links collection (many categories of links to articles)](https://github.com/markerikson/react-redux-links)
+  - [Mark's suggested resources for learning React](https://blog.isquaredsoftware.com/2017/12/blogged-answers-learn-react/)
+  - [Dave Ceddia's blog](https://daveceddia.com/archives/) (everything he's written)
+  - [Robin Wieruch's blog](https://www.robinwieruch.de/categories/react/) (also everything he's written)
+- **Additional Books / References**
+  - [The Road to React](https://roadtoreact.com/)
+  - [Learn Pure React](https://daveceddia.com/pure-react/)
+
+### Redux
+
+#### Recommended Primary Resources (should read)
+
+##### General Redux
+
+Start with reading the official docs first.
+
+The other tutorials are also excellent and may explain things in a different way.
+
+- **Read: [Redux core docs](https://redux.js.org/)**
+  - **["Redux Essentials" tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts):** explains "how to use Redux, the right way", using the latest recommended techniques and practices like Redux Toolkit and the React-Redux API, while building a real-world-ish example app.
+  - **["Redux Fundamentals" tutorial](https://redux.js.org/tutorials/fundamentals/part-1-overview):** teaches "how Redux works, from the ground up". including core Redux data flow and why standard Redux patterns exist.
+  - ["Typescript quick start"](https://redux-toolkit.js.org/tutorials/typescript): explains how to configure Redux Toolkit with type safety from action creators through to selectors.
+- **Use: [Redux Toolkit](https://redux-toolkit.js.org/)** (an official Redux package to simplify common tasks, including store setup and writing reducers)
+  - Example project: [https://github.com/reduxjs/redux-essentials-example-app/tree/tutorial-steps](https://github.com/reduxjs/redux-essentials-example-app/tree/tutorial-steps)
+- **Read: [React-Redux docs](https://react-redux.js.org/)**
+  - **[React-Redux hooks API reference](https://react-redux.js.org/api/hooks)**
+  - These APIs are now considered outdated, but are widely used in existing Redux codebases
+    - [`connect()`: Extracting Data with `mapStateToProps`](https://react-redux.js.org/using-react-redux/connect-mapstate)
+    - [`connect()`: Dispatching Actions with `mapDispatchToProps`](https://react-redux.js.org/using-react-redux/connect-mapdispatch)
+- **Watch:** Dan Abramov's tutorial videos on Egghead
+  - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+  - [Building React Apps with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- **Read:** [A Complete React-Redux Tutorial](https://daveceddia.com/redux-tutorial/)
+- **Read:** [React Redux Tutorial for Beginners: The Definitive Guide](https://www.valentinog.com/blog/redux/)
+- **Read:** [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
+
+##### Mark Erikson's Redux Resources
+
+- **Read: ["Idiomatic Redux" concepts and opinion series](https://blog.isquaredsoftware.com/series/idiomatic-redux/)**. A series of blog posts that describes standard Redux development best practices, why they exist, and how Redux is meant to be used. (These are not required reading to get started, but highly recommended once you understand the basics.)
+- Legacy resources (do not cover "Modern Redux", but still informative)
+  - **Read: [Redux Fundamentals Workshop slices](https://blog.isquaredsoftware.com/2018/06/redux-fundamentals-workshop-slides/)**: a 2-day internal workshop that covers Redux from the ground up. Includes complete recordings of each section, slides, and an exercises repo. (Does not cover "Modern Redux", but
+  - **Read: ["Practical Redux" blog tutorial series](https://blog.isquaredsoftware.com/series/practical-redux/)**. Covers multiple React and Redux concepts through building a larger example application
+
+##### Specific Topics
+
+- Tradeoffs of using Redux:
+  - [Mark Erikson: When (and when not) to Reach for Redux](https://changelog.com/posts/when-and-when-not-to-reach-for-redux)
+  - [Dan Abramov: the Case for Flux](https://medium.com/swlh/the-case-for-flux-379b7d1982c6)
+  - [Dan Abramov: You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+- Reducer functions
+  - [Redux docs - Structuring Reducers](https://redux.js.org/recipes/structuring-reducers/structuring-reducers)
+- Selector functions
+  - [Idiomatic Redux: Using Reselect Selectors for Encapsulation and Performance](https://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/)
+- Side effects
+  - [Stack Overflow: How do we dispatch an action with a timeout?](https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
+  - [Stack Overflow: Why do we need middleware for async flow?](https://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux/34599594#34599594)
+  - [What the heck is a "thunk"?](https://daveceddia.com/what-is-a-thunk/)
+  - [What is the right way to do asynchronous operations in Redux?](https://decembersoft.com/posts/what-is-the-right-way-to-do-asynchronous-operations-in-redux/) (side-by-side comparison of multiple side effects approaches)
+  - [Redux Power Tools: Redux-Saga](https://formidable.com/blog/category/redux-saga/)
+- Normalizing data
+  - [Redux docs - Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape)
+  - [Normalizing Redux Stores for Maximum Code Reuse](https://medium.com/@adamrackis/normalizing-redux-stores-for-maximum-code-reuse-ae6e3844ae95)
+
+#### Additional Resources (read as needed)
+
+- **Resource Collections**
+  - [**Redux Style Guide**](https://redux.js.org/style-guide/style-guide): best practices and recommendations for using Redux the right way
+  - [**Redux FAQ**](https://redux.js.org/faq) (answers to many common questions about Redux)
+  - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) (a curated list of Redux-related addons and utilities)
+- **Books and Courses**
+  - [Pure Redux course](https://daveceddia.com/pure-redux/) by Dave Ceddia
+  - [Redux course](https://tylermcginnis.com/courses/redux/) by Tyler McGinnis
+  - [Learn Redux course](https://learnredux.com/) by Wes Bos (free)
+  - [Redux in Action](https://www.manning.com/books/redux-in-action)
+  - [The Complete Redux Book](https://leanpub.com/redux-book) (free)
+  - [Taming the State in React](https://www.robinwieruch.de/learn-react-redux-mobx-state-management/)
+
+##### Specific Topics
+
+- How does Redux work?
+  - [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
+  - [Idiomatic Redux: The History and Implementation of React-Redux](https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/)
+
+### TypeScript
+
+#### Recommended Primary Resources (should read)
+
+- **Read: [official TypeScript docs](https://www.typescriptlang.org/docs/home.html)**
+- [Typescript Playground](https://www.typescriptlang.org/play) - an interactive playground for testing typescript behavior and reproducing issues - includes some built-in examples
+- **Read: [Get Started with TypeScript in 2019](https://www.robertcooper.me/get-started-with-typescript-in-2019)**
+- **Read: [The Definitive TypeScript Guide](https://www.sitepen.com/blog/update-the-definitive-typescript-guide/)**
+  - [TypeScript Cheat Sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
+- **Read: [The TypeScript Guide](https://flaviocopes.com/typescript/)**
+
+##### Specific Topics
+
+- `interface` vs `type`
+  - [TypeScript Interface vs Type](https://pawelgrzybek.com/typescript-interface-vs-type/)
+    - [Interface vs Type sandbox example](https://www.typescriptlang.org/play?q=287#example/types-vs-interfaces)
+- ["Typescript quick start"](https://redux-toolkit.js.org/tutorials/typescript): explains how to configure Redux Toolkit with type safety from action creators through to selectors.
+
+#### Additional Resources (read as needed)
+
+- **Resource Collections**
+  - **[React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)** (a definitive set of information on how to use TypeScript with React)
+  - [React + Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide) (a comprehensive set of info on using React, Redux, and TS together, with a focus on getting complete / "correct" type coverage of an app)
+- **Techniques**
+  - [Redux with Code-Splitting and Type Checking](https://www.matthewgerstman.com/tech/redux-code-split-typecheck/)
