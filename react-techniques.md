@@ -1,6 +1,9 @@
 ### React Tips and Techniques
 
-  
+- **React and Accessibility Tips and Best Practices**  
+  https://www.aditus.io/talks/react-and-accessibility/  
+  A transcript of a talk with accessibility tips in general and with some React best practices. Includes tips in React Router, and Formik.
+    
 - **Get your React.js application translated with style**  
   https://medium.com/@jamuhl/get-your-react-js-application-translated-with-style-4ad090aefc2c  
   A short opinionated intro to several aspects of handling translation in a React app, by the author of a React internationalization library.
