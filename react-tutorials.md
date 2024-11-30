@@ -419,3 +419,7 @@ Also see the course sites listed in the [Community Resources](community-resource
 - **Best ReactJS Books in 2017**  
   https://reactdom.com/blog/reactjs-books  
   A list of available React-related books, with some quick reviews.
+  
+ - **Most Basic React Redux**  
+ https://github.com/gpavanb1/Most-Basic-React-Redux
+ A simple tutorial demonstrating an increment and decrement counters in react and redux
