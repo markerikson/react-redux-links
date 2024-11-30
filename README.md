@@ -114,6 +114,7 @@ Mark's post series that describes the key terms, concepts, technologies, syntax,
 - Array methods:
   - [Modern JS Tutorial - Array Methods](https://javascript.info/array-methods)
   - [Which Array Function When?](https://dev.to/andrew565/which-array-function-when)
+  - [Learn about JS Array Methods](https://www.scaler.com/topics/array-methods-in-javascript/)
 - Equality and Comparisons
   - [MDN - Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
   - [JS Equality Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/)
